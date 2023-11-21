@@ -1,0 +1,54 @@
+Epitopoietic Research Corporation (ERC) is a Belgian Pharmaceutical company that specializes in the development of ERC1671 (brand names: Gliovac, Sitoiganap (EU)), a treatment for Glioblastoma multiforme which is the most aggressive form of brain cancer. In 2019, ERC became the first pharmaceutical company In 2019, ERC provided treatment under the US Federal Right-to-try law.
+
+
+== History ==
+Over the years, the company achieved various milestones, including obtaining Advanced Medical Therapy Product status, Orphan Drug status, and initiating Phase II trials.
+
+
+=== 2006 ===
+Stathopoulos conducts a proof-of-concept study on rats. The study finds that the combination of Syngeneic and allogeneic glioma cells injected into rats with growing tumors reduces the size, eradicates the existing tumors, and prevents the formation of new tumors. Stathopoulos patents the technique and founds ERC to develop the treatment for humans.
+
+
+=== 2009 ===
+ERC obtains Advanced Medical Therapy Product status for Gliovac/ERC1671 from the European Medicines Agency. It creates a tissue bank for proliferative tumors and a Good Manufacturing Practice-compliant production facility in Schaijk, Netherlands.
+
+
+=== 2011 ===
+Gliovac obtains Orphan Drug status from the US FDA. Glioblastoma multiforme is the most common and deadly brain tumor in adults, but only affects 10,000-17,000 people in the US. By definition, an orphan disease affects under 200,000 people in the USA.
+
+
+=== 2012 ===
+First patients are treated with Gliovac/ERC1671 under a doctrine of compassionate use. In September, the first patient reached total remission.
+
+
+=== 2013 ===
+Phase II trials of Gliovac/ERC1671 begins in partnership with the University of California, Irvine.
+
+
+=== 2018 ===
+Interim phase II trial results show that patients treated with Gliovac/ERC1671 and the commonly prescribed anti-cancer drug bevacizumab(Atavan) survived almost five months longer on average than those treated with bevacizumab alone.
+
+
+=== 2019 ===
+At the request of a patient, Gliovac/ERC1671 is the first medication prescribed under the US Federal Right-to-try law passed by the Trump Administration. Despite being prescribed under Federal law, the treatment follows the protocols of California’s state Right-To-Try laws. ERC makes Gliovac available at free or reduced cost for Right-To-Try patients.
+
+
+=== 2020 ===
+ERC submits a European Medicines Agency marketing application authorization for ERC1671 under the brand name Sitoiganap. A second trial site opens at Harvard’s Dana Farber Center For Immuno-Oncology. ERC begins development of a COVID-19 vaccine called COVIDVAC based on Gliovac technology.
+
+
+== Leadership ==
+The leadership team includes Apostolos Stathopoulos, Thomas Chen, Virgil Schijns, and Joseph Elliot.
+Thomas Chen (Co-Founder, CMO) is a neurosurgeon and professor at the University of Southern California. He is one of the few fellowship trained spinal surgeons focused on spine cancer. Virgil Schijns (Chief Scientific Officer) is the Registered Qualified Person for Gliovac/ERC1671 in the EU. Joseph Elliot is the Managing Director of ERC-USA, ERC's US Subsidiary.
+
+
+== Products ==
+Sitoiganap (EU)/Gliovac/ERC1671 is an immunotherapy vaccine that trains the body’s immune system to attack a Glioblastoma (brain tumor) using cells taken from the patient’s own tumor, along with tumor cells from three other donors.ERC1671 is an immunotherapy vaccine designed to train the body’s immune system to attack a Glioblastoma using cells from the patient’s own tumor and cells from three other donors. The vaccine has undergone trials to assess its potential, or proteins, minimizing the chance that tumor cells might escape from the body’s defenses. It also is believed this approach will trigger a stronger cytotoxic T-lymphocyte (CTL, or a “cell-killing” T-cell) response against the TAA on the patient’s tumor. In the first group of nine patients treated under the compassionate use doctrine, 100% survived for six months compared to only 33% in the control group. At ten months, 77% survived, compared to 10% in the control group. ERC1671 is currently in Phase II trials in the US, as well as being available under compassionate use protocols and right-to-try laws. According to the Innovation Observatory of the UK’s National Health Service: The key principle underlying this particular vaccination approach is the use of a broad set of tumour antigens, derived from freshly resected whole tumour tissue – not only from the patient under treatment, but expanded to include the same from three independent GBM tissue donors. This multivalent array of autologous and allogeneic antigens is expected to reduce the chance of immune escape, which can emerge from antigenic loss or active major histocompatibility complex (MHC) downregulation and is more likely to occur when using a single- or limited-antigen targeted immunotherapy. The future promise of this treatment might also rest in the ability to combine it with bevacizumab, and potentially with immune checkpoint inhibitors – an option that will allow more powerful immune activation in the periphery as well as more aggressive local tumour immunological targeting and destruction.
+In April 2020, ERC began development on COVIDVAC, a vaccine for COVID-19 based on ERC1671’s underlying technology.
+
+
+== Recent Developments ==
+n 2020, ERC began the development of a COVID-19 vaccine called COVIDVAC, based on the technology underlying ERC1671.
+
+
+== References ==

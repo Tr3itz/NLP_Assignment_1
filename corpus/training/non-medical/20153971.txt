@@ -1,0 +1,10 @@
+Correlated double sampling (CDS) is a method to measure electrical values such as voltages or currents that allows removing an undesired offset. It is often used when measuring sensor outputs. The output of the sensor is measured twice: once in a known condition and once in an unknown condition. The value measured from the known condition is then subtracted from the unknown condition to generate a value with a known relation to the physical quantity being measured.
+This is commonly used in switched-capacitor operational amplifiers to effectively double the gain of the charge sharing opamp, while adding an extra phase.
+When used in imagers, correlated double sampling is a noise reduction technique in which the reference voltage of the pixel (i.e., the pixel’s voltage after it is reset) is subtracted from the signal voltage of the pixel (i.e., the pixel’s voltage at the end of integration) at the end of each integration period, to cancel kTC noise (the thermal noise associated with the sensor's capacitance).  An analysis of the bandwidth in an RC circuit explains how correlated double sampling overcomes this feature of Johnson Noise.
+
+
+== See also ==
+Dark-frame subtraction
+
+
+== References ==

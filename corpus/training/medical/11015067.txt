@@ -1,0 +1,23 @@
+Behavioral neurology is a subspecialty of neurology that studies the impact of neurological damage and disease upon behavior, memory, and cognition, and the treatment thereof.  Two fields associated with behavioral neurology are neuropsychiatry and neuropsychology. In the United States, 'Behavioral Neurology & Neuropsychiatry' has been recognized as a single subspecialty by the United Council for Neurologic Subspecialties (UCNS) since 2004.
+Syndromes and diseases commonly studied by behavioral neurology include:
+
+
+== History ==
+While descriptions of behavioral syndromes go back to the ancient Greeks and Egyptians, it was during the 19th century that behavioral neurology began to arise, first with the primitive localization theories of Franz Gall, followed in the mid 19th century by the first localizations in aphasias by Paul Broca and then Carl Wernicke.  Localizationist neurology and clinical descriptions reached a peak in the late 19th and early 20th century, with work extending into the clinical descriptions of dementias by Alois Alzheimer and Arnold Pick.  The work of Karl Lashley in rats for a time in the early to mid 20th century put a damper on localization theory and lesion models of behavioral function.
+In the United States, the work of Norman Geschwind led to a renaissance of behavioral neurology. He is famous for his work on disconnection syndromes, aphasia, and behavioral syndromes of limbic epilepsy, also called Geschwind syndrome. Having trained generations of behavioral neurologists (e.g., Antonio Damasio), Geschwind is considered the father of behavioral neurology.
+The advent of in vivo neuroimaging starting in the 1980s led to a further strengthening of interest in the cognitive neurosciences and provided a tool that allowed for lesion, structural, and functional correlations with behavioral dysfunction in living people.
+
+
+== See also ==
+Behavioral neuroscience
+
+
+== References ==
+Benson DF (1993). "The history of behavioral neurology". Neurol Clin. 11 (1): 1–8. doi:10.1016/S0733-8619(18)30167-1. PMID 8441365.
+Martha J. Farah, Todd E. Feinberg; Behavioral Neurology and Neuropsychology; McGraw-Hill Professional Publishing; 1st edition (August 1, 1996)
+Valenstein, Edward; Heilman, Kenneth M. (2003). Clinical neuropsychology (4th ed.). Oxford [Oxfordshire]: Oxford University Press. ISBN 0-19-513367-6.
+
+
+== External links ==
+Society for Behavioral and Cognitive Neurology
+United Council for Neurologic Subspecialties

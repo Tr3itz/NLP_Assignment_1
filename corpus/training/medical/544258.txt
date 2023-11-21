@@ -1,0 +1,27 @@
+The Heart Protection Study was a randomized controlled trial run by the Clinical Trial Service Unit, and funded by the Medical Research Council (MRC) and the British Heart Foundation (BHF) in the United Kingdom. It studied the use of the cholesterol lowering drug, simvastatin 40 mg and vitamin supplementation (vitamin E, vitamin C and beta carotene) in people who were at risk of cardiovascular disease. It was led by Jane Armitage, an epidemiologist at the Clinical Trial Service Unit.
+
+
+== Results ==
+An outline of the study protocol was published in 1999. Initial results were published in 2002, which indicated that vitamins made little difference in modifying cardiovascular risk, but that simvastatin could significantly reduce the risk of cardiovascular events. Further publications, from 2003 and 2004, were concerned with the efficacy of simvastatin in diabetes patients and preventing stroke. A 2005 paper analyses the cost-effectiveness of a prescribing strategy similar to the one employed in the study.
+
+
+== Interpretation ==
+The HPS is to date the largest study to investigate the use of statins in the prevention of cardiovascular disease. While there have been concerns about side-effects associated with statins (myopathy and rhabdomyolysis), these were rare in this study.The number needed to treat in the study was 57 to postpone one death and 19 to prevent one cardiovascular "event" (in those taking the drug simvastatin for 5 years). There was no mortality benefit in women with a statistical "p-value" that did not reach significance (0.08) while the Kaplan-Meier mortality curves, for men and women separately, have not been published as of 2016. Cancer risk was not significantly lower in the treatment group; in fact, there was no difference except for non-melanoma skin cancers, wherein the placebo group had a barely-significant lower risk of diagnosis. No worsening of lung disease was found, an initial concern with statin drugs, and simvastatin did not decrease osteoporosis.
+
+
+== Pharmaceutical funding ==
+£5.5M plus drug supply was received from Merck and £5.5M plus drug supply from Roche.
+
+
+== See also ==
+HDL-Atherosclerosis Treatment Study
+West of Scotland Coronary Prevention Study
+Scandinavian Simvastatin Survival Study
+
+
+== References ==
+
+
+== Further reading ==
+Study homepage at the Clinical Trial Service Unit
+Bandolier condensation of the HPS results

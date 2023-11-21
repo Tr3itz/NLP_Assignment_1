@@ -1,0 +1,21 @@
+Amyotrophic Lateral Sclerosis (ALS), is a neurodegenerative disease that typically affects adults around 54-67 years of age, although anyone can be diagnosed with the disease.  People diagnosed with ALS live on average 2–4 years after diagnosis due to the quick progression of the disease.  The progression and severity of ALS is rated by doctors on the ALS Functional Rating Scale, which has been revised and is referred to as ALSFRS-R.
+
+
+== Criteria ==
+ALSFRS-R includes 12 questions that can have a score of 0 to 4.  A score of 0 on a question would indicate no function while a score of 4 would indicate full function.  This scale has been useful for doctors in diagnosing patients, measuring disease progression and also for researchers when selecting patients for a study and measuring the potential effects of a clinical trial.The ALSFRS-R scale has some limitations though since it is not useful to compare scores of people who present with different onset.  In ALS the main type of onset is bulbar followed by limb-onset ALS which describes the region of motor neurons first affected.  Individuals may also present with respiratory-onset ALS, but this occurs very rarely.  Since there are three different types of ALS, ALSFRS-R scores are often grouped in categories depending on type of onset.Since there are three main pathways of progression, the questions are also divided in relation to the types of onset.  Questions 1 to 3 are related to bulbar onset, questions 4 to 9 are related to limb onset and questions 10-12 are related to respiratory onset. Further developments of the ALSFRS-R include an extended version (ALSFRS-EX) to mitigate the floor effect and a version with explanatory notes, which is particularly suitable for self-assessment (ALSFRS-R-SE, self-explanatory).
+
+
+== Progression ==
+ALSFRS-R scores calculated at diagnosis can be compared to scores throughout time to determine the speed of progression.  The rate of change, called the ALSFRS-R slope can be used as a prognostic indicator.Although the ALSFRS-R score is a recognized prognostic indicator, it is more useful to compare various indicators including vital capacity (FVC%) and the Sickness Impact Profile (SIP) to increase the accuracy of a given prognosis.
+Relating the ALSFRS-R score to staging criteria is also useful in determining prognosis.  King's system relies on the clinical spread of disease as a measure of progression while Milano-Torino Staging (MiToS) utilizes the subscores produced by the ALSFRS-R to define stages.
+
+
+== Questions ==
+The questions used to determine an individual's ALSFRS-R score are listed below.
+
+
+== References ==
+
+
+== External links ==
+Free online ALSFRS-R calculator

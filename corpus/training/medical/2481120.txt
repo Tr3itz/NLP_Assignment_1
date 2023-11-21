@@ -1,0 +1,32 @@
+Meniscal cyst is a well-defined cystic lesion located along the peripheral margin of the meniscus, a part of the knee, nearly always associated with horizontal meniscal tears.
+
+
+== Signs and symptoms ==
+Pain and swelling or focal mass at the level of the joint. The pain may be related to a meniscal tear or distension of the knee capsule or both. The mass varies in consistency from soft/fluctuant to hard. Size is variable, and meniscal cysts are known to change in size with knee flexion/extension.
+
+
+== Cause ==
+Various etiologies have been proposed, including trauma, hemorrhage, chronic infection, and mucoid degeneration. The most widely accepted theory describes meniscal cysts resulting from extrusion of synovial fluid through a peripherally extended horizontal meniscal tear, accumulating outside the joint capsule. They arise more commonly from the lateral joint margin, and occur most often in 20- to 40-year-old males.
+
+
+== Diagnosis ==
+Magnetic resonance imaging is the modality of choice for diagnosis of meniscal cysts. In their most subtle form, meniscal cysts present as focal areas of high signal intensity within a swollen meniscus. It is not uncommon for radiologists to miss this type of meniscal cyst because the signal intensity is not quite as great as fluid on T2 weighted sequences.2 When this fluid is extruded into the adjacent soft tissues, the swollen meniscus subsequently assumes a more normal shape, and the extruded fluid demonstrates a higher T2 signal typical of parameniscal cysts. 
+Medial meniscus horizontal tear extending into a meniscal cyst.
+Sagittal T2 images of a medial meniscus horizontal tear extending into a meniscal cyst.
+Large medial meniscus cyst.
+
+
+== Treatment ==
+Treatment of meniscal cysts consists of a combination of cyst decompression (intraarticular decompression versus open cystectomy) and arthroscopic repair of any meniscal abnormalities. Success rates are significantly higher when both the cyst and meniscal tear are treated compared to treating only one disease process.
+
+
+== See also ==
+Knee pain
+Knee osteoarthritis
+Discoid meniscus
+
+
+== References ==
+Meniscal Cysts by Rob Gutierrez, M.D.
+Campbell, SE, Sanders, TG, Morrison, WB. MR imaging of meniscal cysts: Incidence, location, and clinical significance. AJR 2001;177:409-413.
+Helms, CA. The meniscus: Recent advances in MR imaging of the knee. AJR 2002;179(5):1115-1112.

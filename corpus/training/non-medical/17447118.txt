@@ -1,0 +1,194 @@
+Electricity on Shabbat refers to the various rules and opinions regarding the use of electrical devices by Jews who observe Shabbat. Various rabbinical authorities have pronounced on what is permitted and what is not, but there are many disagreements in detailed interpretation, both between different individual authorities and between branches of Judaism. 
+In Orthodox Judaism, it is generally discouraged to use electrical devices on Shabbat, as some believe turning on an incandescent light bulb violates the Biblical prohibition against igniting a fire.  Conservative authorities, on the other hand, generally reject the argument that turning on incandescent lights is considered "igniting". The Conservative movement's Committee on Jewish Law and Standards has argued that "refraining from operating lights and other permitted electrical appliances is a pious behavior," but is not required, while also stating that the use of some electrical devices (such as computers, cameras, and smartphones which record data) is forbidden on Shabbat. There are disagreements among poskim (authorities of Jewish law) regarding the technical halachik reasons for prohibiting the operation of electrical appliances. At least six substantive reasons have been suggested, and a minority (including Rav Shlomo Zalman Auerbach) believe that turning on most electrical appliances is prohibited only because of common Jewish practice and tradition (minhag) and to maintain the spirit of Shabbat, but not for any substantive technical halachik reason.  
+Although directly operating electrical appliances is prohibited in Orthodoxy, several indirect methods are permitted according to some authorities. Actions that activate an electrical appliance but are not specifically intended to do so may be permitted if the activation is not certain to occur or if the person does not benefit from the appliance's automatic operation.  
+
+
+== Incidental prohibitions and leniencies ==
+
+Many electric devices may not be used on Shabbat for reasons unrelated to electricity. For example:
+
+An electric stove may not be used to cook food, since all cooking of food is forbidden (bishul).
+An electric lawn mower may not be used, since cutting grass by any means is forbidden (kotzer).
+Use of a computer may violate the prohibition of writing (kotev), either in displaying words on the screen, or saving information to the disk (see fuller discussion below).Conversely, even if use of an electric device would normally be forbidden on Shabbat, in certain circumstances it may be permitted due to leniencies which apply to all Shabbat prohibitions. For example:
+
+If violating Shabbat is the only way to save a human life (pikuach nefesh), one may and must do so.
+If one performs an activity which indirectly causes Shabbat to be violated (grama), the level of violation is considered lower. If other reasons for leniency are present, the activity may become permitted under certain conditions.
+If one performs an activity which has the unwanted consequence of violating Shabbat (melacha she'eina tzricha legufa), the level of violation is considered lower. If other reasons for leniency are present, the activity may become permitted.
+If one performs an activity which has the unwanted consequence of possibly (not definitely) violating Shabbat (davar she'eino mitkaven), the activity is permitted on Shabbat.
+
+
+== Incandescent lights ==
+Of the 39 categories of creative activities prohibited on Shabbat, rabbinic authorities have associated at least three with incandescent lights. The overwhelming majority of Orthodox halakhic authorities maintain that turning on an incandescent light on Shabbat violates a Biblical prohibition on "igniting" a fire (Hebrew: הבערה, hav'arah), because the filament becomes glowing hot like a coal. Some argue instead that it violates the prohibition on "cooking". Another approach is that of Raavad, who would classify incandescent light as a third creative activity: "completing a product" (Hebrew: מכה בפטיש, makkeh bapatish: literally, "striking the final hammer blow").The Mishnah, in the context of laws prohibiting cooking, states: "One who heats a metal pot may not pour cold water into it to heat [the water], but he may pour water into the pot or a cup to quench [the vessel]." In the Gemara, Rav says it is permitted to add water to cool it, but forbidden to add water to mold the metal.  Shmuel says it is also permitted to add enough water to mold the metal as long as that is not his intent, but if he intends to mold the metal it is forbidden.  In a different context, Rav Sheshet says that "cooking" a metal filament is forbidden by analogy to cooking spices.Rabbi Shlomo Zalman Auerbach prohibits raising (or lowering) the level of an electric heater with an adjustable dial, since numerous small heating elements are turned on (or off) in the process.Conservative Rabbi Daniel Nevins has argued that, according to traditional halakhic sources, heating a filament is not prohibited, because the heat does not cause any significant change in the metal and provides no benefit.
+
+
+=== Fluorescent and LED lights ===
+While the visible light produced by fluorescent lamps comes from a phosphor coating which luminesces at low temperature, such lamps also include metal electrodes which are heated to a very high temperature, seemingly causing the same halachic issues as incandescent lamps. However, LED lamps contain no hot metal filament and do not have the same halachic questions, though they may be halachically problematic for reasons discussed later in this article.
+
+
+== Shabbat laws potentially related to electricity ==
+Other prohibitions may apply to electric devices that do not involve heating metal to glowing temperatures.
+
+
+=== Molid ===
+The Talmud prohibits infusing a fragrant scent into one's clothing on Shabbat. According to Rashi, this is because a rabbinic prohibition exists to "create anything new" (molid). Rabbi Yitzchak Schmelkes suggested applying molid to the generating of electric current. Rabbi Shlomo Zalman Auerbach and many others disagree with this application.  Among other reasons, they state that molid is a limited category that cannot be expanded past the definitions the Talmudic Sages imposed. Rav Auerbach also stated that molid only applies when the new property is visible (which is not the case with an electric current in a circuit, but is the case when a computer screen is lit up, for example). Nevins has endorsed Rav Auerbach's reasoning.In any case, molid would seemingly apply only creating an electric circuit, not to extinguishing an existing current (or modifying its strength).
+
+
+=== Boneh ===
+The Chazon Ish wrote that closing an electrical circuit to create an electrical current is Biblically prohibited as "building" (boneh), and opening a closed circuit is prohibited as "destroying".R' Shlomo Zalman Auerbach disagreed vigorously with the Chazon Ish. Among other reasons, he claimed that building and destroying must be fundamentally permanent in nature, whereas most electrical devices are routinely turned on and off at will, and the person who turns it on usually intends that it will be turned off at some later point, and vice versa. Building an item that is fundamentally temporary in nature is at most a Rabbinic prohibition, and Rav Auerbach said that opening and closing a circuit is like opening and closing a door, which is not prohibited at all. Many other Orthodox authorities take this position as well, as does the Conservative Committee on Jewish Law and Standards.One contemporary authority states that even according to the Chazon Ish, the prohibition of "building" would not apply to changing the state of electric circuits in a computer which is already running.
+
+
+=== Makeh Bapatish ===
+The Chazon Ish argued, in addition, that closing a circuit to render a device operational might violate the Biblical prohibition of makeh bapatish (striking the final hammer blow, i.e.. completing a product). The argument would be that an electrical device is not complete because it does not function unless the electricity is turned on.
+Rabbis Shlomo Zalman Auerbach, Yaakov Breisch, and Nevins strongly disagree because makeh bapatish refers to a fundamentally permanent act that requires great effort, and turning on an electrical appliance is fundamentally temporary because it will be turned off, and requires a minimal amount of effort.Rabbi Osher Weiss argues that intentionally creating an electric circuit violates makeh bapatish because (in his opinion) any activity that is sufficiently significant and creative is prohibited on Shabbat, and if it does not fit into one of the 38 other forbidden activities, it is categorized as makeh bapatish. He also argues that unintentionally creating a circuit (as often occurs when electronic devices operate in a person's vicinity) is completely permitted, as it does not have the level of significance needed to qualify as makeh bapatish.
+
+
+=== Sparks ===
+Intentionally creating burning sparks, for example by rubbing stones together to make a fire, is prohibited on Shabbat as igniting a fire; it is possible that this prohibition includes the sparks momentarily generated when an electric appliance is turned on. However, R' Shlomo Zalman Auerbach rules leniently for several reasons: the lighting of sparks is undesired, and might not occur, and the sparks are very small so they might not be considered significant. With solid-state technology, the probability of generating sparks is greatly reduced.Nobel Prize-winning physicist Richard Feynman recounted that while staying at a Jewish seminary for a conference, he was approached by some young rabbis who asked him whether electricity was fire. He replied that it was not, then asked why they wanted to know. He was shocked to learn that they were not interested in science at all, but only wanted clarification to assist them in interpreting the Talmud. Feynman explained to them that electricity differed from fire in that it was not a chemical process, and pointed out the presence of electricity in atoms and thus every phenomenon occurring in the world. Since the rabbis were worried about creating sparks when a button was pushed to close a circuit, Feynman proposed the following solution: '"If that's what's bothering you, you can put a condenser across the switch, so the electricity will go on and off without any spark whatsoever—anywhere.' But for some reason, they didn't like that idea either."
+
+
+=== Additional fuel consumption ===
+Turning on an appliance may indirectly cause the power plant to consume more fuel, and as so violates mavir, the augmenting of a fire.   For various reasons most authorities permit this indirect causation if the power-plant is operated by non-Jews.  (If the power plant is operated by Jews, the issue is more complicated.  See the section below regarding Israeli power plants.)
+
+
+=== Heating a wire or filament ===
+Injecting current into a wire might cause that wire to heat to the temperature of yad soledet bo. According to the Chazon Ish, this would cause operation of such a device to be forbidden. However, R' Auerbach disagrees, saying that heating metal is only prohibited when the intent is to modify the metal (e.g. tempering). Some feel that the prevalence of solid-state technology has made the reality underlying this concern obsolete in many cases.
+
+
+=== Custom ===
+Rabbi Shlomo Zalman Auerbach rejected any technical prohibition on electricity: "In my opinion there is no prohibition [to use electricity] on Shabbat or Yom Tov... There is no prohibition of Fine-tuning or molid... (However, I [Rabbi Auerbach] am afraid that the masses will err and turn on incandescent lights on Sabbath, and thus I do not permit electricity absent great need...) ... This matter requires further analysis. ... However, the key point in my opinion is that there is no prohibition to use electricity on Sabbath unless the electricity causes a prohibited act like cooking or starting a flame."However, he considered the use of electricity forbidden by custom, and thus would only permit its use in situations of great need.
+
+
+== Practical applications ==
+In general, from an Orthodox perspective, it is permissible to benefit from most electrical objects during Shabbat, provided they are preset before the start of Shabbat, and the status of the appliance is not manually modified during Shabbat. These include lights, heating, and air conditioning.
+
+
+=== Cooking appliances ===
+
+Cooking, whether by electrical or other means, is generally prohibited on Shabbat. Food may be kept hot when it is cooked before the start of Shabbat. There are various laws governing how this food is kept hot and served. Often, a blech or crock pot is used for this purpose.
+
+
+=== Refrigerators ===
+Though most Shabbat observant Jews permit opening and closing a refrigerator during Shabbat, some authorities require that the door only be opened when the refrigerator motor is already running. Otherwise, the motor will be caused to go on sooner by the increase in temperature indirectly caused by the flow of heat from the outside.  Most refrigerators and freezers automatically turn the motor on to operate the cooling pump whenever the thermostat detects a temperature that is too high to keep the food cold.  However, Auerbach and most authorities permit opening the door because this result is indirect and because there are additional grounds to be lenient.Additionally, any incandescent light which is triggered upon opening the door must be disconnected before Shabbat.  It is not permitted to open the door if the light will turn on because, unlike with the motor running, the light turning on is a Biblical prohibition whereas the motor running may be a Rabbinic prohibition, and also, the light is turned on immediately as an effect of opening the refrigerator whereas the motor turning on is an indirect effect.Some appliance manufacturers have implemented subtle design aspects to accommodate Shabbat observant Jews. In 1998 Whirlpool's KitchenAid line patented a "Sabbath mode", and since then many manufacturers have followed by offering similar options. These modes typically turn off the electronic displays, disable oven and refrigerator lights that turn on automatically, and use delay timers that allow for permitted temperature controls. According to Jon Fasman, "about half of all ovens and refrigerators on the market (including those made by GE, Whirlpool, and KitchenAid) now have a Sabbath mode."
+
+
+=== Thermostats ===
+Some rabbinic authorities have questioned that if a thermostat for a heating or air conditioning system is set prior to the start of Shabbat, if changes made to the temperature of the room in which the thermostat is contained may impact the system's on/off status. Of particular concern is an action that intentionally triggers the thermostat; for example, if the thermostat is set to turn on the room's heat, and an occupant of the room wishes the heater would turn on, opening a window to allow cold air into the room, thereby triggering the heat to turn on.
+While most rabbis have ruled that the example of intentionally letting cold air into the room to operate the thermostat constitutes a violation of Shabbat, if the person opens the window for some other, legitimate, reason, and the cold air enters as a side effect, no violation has occurred. Additionally, most agree that if a person who has no intention to operate the thermostat does something which happens to operate it, no violation has occurred.
+A few rabbinical authorities have completely forbidden the use of heating or cooling systems controlled by a thermostat on Shabbat, declaring that human actions that trigger the system on or off constitute a violation, regardless of intention.
+While (in general) it is prohibited to adjust an electric device so that it turns on or off sooner, many authorities permit adjusting it so an expected change will be delayed and the current state preserved for longer. According to the permissive opinion if a heating system is currently off (because the temperature is currently higher than the thermostat setting), one would be permitted to lower the thermostat, as this causes the heating system to remain in its current "off" state for longer.
+
+
+=== Television and radio ===
+Most rabbinical authorities have prohibited watching television during Shabbat, even if the TV is turned on before the start of Shabbat, and its settings are not changed. However, most rabbis have permitted programming a device to record television programmes during Shabbat, the programming to be done before the start of Shabbat and the viewing after.
+Most authorities also prohibit either turning on or listening to a radio.  The reason is, although an electric current is not turned on, the radio makes a loud noise, falling under the Rabbinic prohibition of making noise with an instrument designed to make noise. However, it may be permitted to turn up the volume of a radio that is already on because many authorities permit adding to an electric current. Eliezer Waldenberg says that changing the station on a radio by using a dial is prohibited, but Shlomo Auerbach says that it is permitted.Regardless of permissibility, almost all authorities (including Conservative Nevins) consider that watching television, listening to a radio, or use of appliances for similar purposes on Shabbat violates the spirit of Shabbat and is not ideal.Jewish people also might not leave certain devices on according to maris ayin—the prohibition of doing something which another might view as prohibitory in Jewish law.
+
+
+=== Computers and similar appliances ===
+In addition to possible halachic issues with any use of electricity, some additional issues may apply when using electronic devices such as computers.
+
+
+==== Writing on the screen ====
+Opinions differ regarding causing text to appear on an electronic screen (such as a computer screen or cellphone). Many argue that since the text will only appear on the screen for a short period, the Biblical prohibition on writing and erasing permanent text is not violated, so the action is only forbidden by rabbinic law. Rabbi Shmuel Wosner was stricter, arguing that since text on the screen can last for a significant amount of time (i.e. an hour), it is considered "permanent" writing which is forbidden. However, other authorities say that even according to Wosner's approach, the Biblical prohibition would not apply if the device has a screensaver which automatically replaces the screen contents after a short period, or if the device is battery-powered (and not plugged in) and will inevitably run out of battery in not too long.This judgment may be affected by the type of display used. For example, when using a CRT display (but not later types of display), words which appear on a computer screen are actually flickering many times a second; according to some authorities this means that such writing is not considered writing at all. On the other hand, text on an E Ink display (such as an Amazon Kindle) remains permanently even if the device loses electric power (unless the user decides to change the text), which makes it Biblically forbidden.
+
+
+==== Writing to disk ====
+Another issue is recording information on a computer (e.g. saving a file, or sending a text message which will be stored on a server or on the recipient's phone). Conservative Rabbi Daniel Nevins wrote that such recording violates the Biblical prohibition of writing. Among Orthodox authorities, opinions are divided on whether magnetic recording violates the prohibition of writing. In addition, R' Shlomo Zalman Auerbach argued that recording may violate a separate Biblical prohibition of "building", since one is creating the capability for the computer to show you this information later on.
+
+
+==== Other considerations ====
+It is also questionable whether the use of a keyboard or other input device to change what is displayed is a direct effect, as it depends both on the keyboard and on the device's pre-programmed behavior. Regarding printing a document on paper, some authorities view it as grama and only rabbinically prohibited (since the printing only occurs after some time and after the computer has calculated how best to print), while others view it as straightforward writing and thus Biblically prohibited.The use of a computer might be considered "Uvdin d'Chol" (weekday/mundane activities), which are prohibited rabbinically to preserve the spirit of the sanctity of Shabbat, by preventing one from carrying out unrequired or grueling tasks and weekday-specific activities on Shabbat.
+Rabbi Nahum Rabinovitch ruled that soldiers (who need to write to save lives) should preferably use a pen with disappearing ink (which is rabbinically prohibited as the writing is temporary) rather than electronic writing on a computer, indicating what he saw as the seriousness of the prohibitions involved in using a computer.The Shabbos App was a proposed Android app claimed by its creators to enable Jews to permissibly use a smartphone to text on Shabbat. Developers stated that the application would be released in December 2014, but the app was delayed and eventually never released. When announced, the app caused an uproar among the public, and many rabbis spoke out against the development.
+
+
+=== Telephones ===
+Like other electrical appliances, telephones are bound by similar restrictions on Shabbat. Operating a telephone may involve separate prohibitions at each stage of the operation.  Thus, removing a telephone from the receiver to produce a dial tone closes a circuit and makes a noise.  Dialing closes more circuits and creates more noises.  Speaking on the phone increases an existing current, but Shlomo Auerbach and many other authorities permit this.  Hanging up the phone opens a circuit, which is a Biblical prohibition of "destroying" according to the Chazon Ish but a Rabbinic prohibition according to others.Dialing on many phones, including cell phones, also causes the numbers to be written on a display screen, thus violating the prohibition of writing (as described above).  If a phone call must be made on Shabbat, other factors being equal, it is preferable to use a phone without a display screen.It is questionable if it is permissible to use an answering machine or voicemail to receive messages left during Shabbat, since one is benefiting from a violation of Shabbat, particularly if the caller is a Jew.In an emergency case where a phone call must be made to save a life, making the phone call is permitted. In addition, a special phone has been invented to minimize the halachic issues regarding phone use on Shabbat; the inventors argue that its use by soldiers or other essential workers in less urgent situations is permitted. This phone is marketed as a "kosher phone" (unrelated to "kosher phones" in some other Jewish communities, which lack internet or media access to comply with bans on the internet in those communities).
+
+
+=== Microphones ===
+There are varying views on the use of a microphone during Shabbat. While most Orthodox rabbinic authorities prohibit the use of microphones, there has been some argument for allowing the use of a microphone in a synagogue that is turned on before the start of Shabbat on the basis that a microphone does not create a human voice, but rather amplifies it. Those in the majority, who forbid the microphone, have various concerns, including the conduction of electricity that is affected by the human voice, and the attention that is drawn from the sound coming from the speakers.A "Shabbat microphone" has been developed, which is intended to allow rabbis or hazzans to amplify and transmit their voice without affecting the electrical current of the microphone to hold congregations without violating Shabbat. It uses acousto-fluidic technology and constant electric current, so the sound source does not change the status of the electric current. It has not been approved by all Orthodox rabbinic authorities. Rabbis disagree about whether even a Shabbat microphone can be used when the sound is being recorded.
+
+
+=== Laundry ===
+Washing clothes is not permitted on Shabbat, whether by hand or machine. Most rabbinical authorities have prohibited allowing a washing machine or dryer to run on Shabbat, even if it is set before the start of Shabbat. If the machine is still running after Shabbat starts when this was not planned, no benefit may be derived from clothes or other objects in the appliance during that Shabbat.
+
+
+=== Automobiles ===
+
+According to Orthodox authorities, while driving on Shabbat is prohibited directly because of the combustion of fuel, modern automobiles also have numerous electrical components whose operation is prohibited during Shabbat. These include headlamps and other external and internal lights, turn signals, and gauges. Additionally, the operation of the vehicle involves many uses of electricity and electrical circuits.  According to many Conservative authorities, this use of electricity is not prohibited, and it may even be permitted to drive a car powered by an internal combustion engine in certain circumstances.
+
+
+=== Elevators ===
+
+Operating an elevator is generally prohibited by Orthodox authorities for multiple reasons.  However, Shabbat elevators have been designed automatically to travel from one floor to the next regardless of whether a human is riding the elevator or not, so many authorities permit the use of such elevators under certain circumstances. The environmental advantages of reducing energy consumption when the device is not in use are lost.
+
+
+=== Surveillance systems ===
+The use of automated surveillance systems has been reviewed.  Examples include closed-circuit television, video cameras, and motion detectors. A person who walks within view of an operating surveillance camera may permit photography if the camera must be passed to enter a building or location and the photograph is not of direct benefit to the passerby.  This is called a pesik reisha delo nicha leih (Aramaic: פסיק רישא דלא ניחא ליה, loose translation: "an inevitable resultant action that does not benefit the one who indirectly caused that action").  However, it is prohibited to knowingly walk past a motion sensor which switches on a light on Shabbat if the street or place is dark and because the turning on of the light substantively benefits the person, and it is a pesik reisha denicha leih (Aramaic: פסיק רישא דניחא ליה, loose translation: "an inevitable resultant action that does benefit the one who indirectly caused that action").  Observant Jews are advised to avoid walking past a motion sensor that they know is there and will switch on a light, or close their eyes when doing so.
+
+
+=== Static electricity ===
+Many authorities permit separating clothes or performing other actions that might generate sparks due to static electricity.
+
+
+=== Milking of cows ===
+Some review articles have been published on the permissibility of milking cows on Shabbat using automated machines. Milking cows is fundamentally prohibited on Shabbat, but is permitted to relieve the suffering of an engorged cow, as long as the milk is allowed to go to waste rather than being stored.Due to the desire that so much milk not go to waste, it was proposed to attach the pumping machine on Shabbat, to let the first few drops go to waste, then position a container to store the subsequent milk flow. While the Chazon Ish wrote that such a practice is forbidden, he is reported to have permitted it when asked orally, and some communities have used the practice accordingly. Using a device invented by the Zomet Institute in the 1980s, which allowed the switch from milking to waste to milking into containers to occur indirectly without human intervention, the act of milking cows became more indirect and thus more likely to be permitted. Yet another solution, whereby the cows are hooked up to the machine with electricity off, and the electricity is soon turned on automatically to milk the cows, was permitted in theory by the Chazon Ish and became practical in the late 20th century. It is currently practiced by the religious kibbutz at Sde Eliyahu.
+
+
+== Ways of circumventing the Shabbat prohibitions ==
+Several innovations have been developed to address the needs of the Shabbat-observant user while not violating Shabbat.
+
+
+=== Shabbat clocks ===
+In general, halacha permits a Jew to begin a Shabbat-violating action on Friday (before Shabbat) even though the action will be completed automatically on Shabbat. Therefore, the consensus of contemporary authorities permits a Jew to program a timer (referred to as a "Shabbat clock") before Shabbat to perform automatically a prohibited action on Shabbat. For example, it is permitted to attach a timer to a light switch on Friday afternoon so that the light will turn off late on Friday night when people wish to sleep, and will turn on again the next day when people are awake.
+However, an exception to this rule may be the production of a noise which disturbs the peaceful environment of Shabbat, as shown by a debate in the Talmud over whether a Jew may add wheat on Friday to a water mill that will run automatically on Shabbat, because the addition of wheat to the mill will cause a loud noise. Rishonim disagree as to which opinion is normative. Joseph Caro in the Shulchan Aruch permits this action, but Moses Isserles (the Ramo) prohibits it absent great need. Accordingly, Rabbis Moses Feinstein and Shlomo Auerbach prohibit programming a radio to turn on during Shabbat, or allowing it to run on Shabbat, not because of the violation of electricity as such, but rather because the noise of the radio violates a separate prohibition.
+Some authorities have raised other reasons to prohibit Shabbat clocks in general, but the consensus of many rabbis permits their use. Nowadays they are commonly used to manage lights in private homes, to operate dishwashers and milk cows in Shabbat-observant kibbutzim and moshavim, and for various purposes in public facilities such as hospitals and hotels.
+
+
+==== Adjusting a Shabbat clock on Shabbat ====
+Shabbat clocks are typically mechanical devices that are "programmed" by moving pegs that represent specific hours. One is permitted on Shabbat to move pegs on a mechanical device, but when the pegs are part of a Shabbat clock, the resulting activity (e.g. turning on a light) may be forbidden. Several different cases must be considered:
+
+Adjusting the shabbat clock so that a light turns on, sooner than it otherwise would have: This is forbidden, though some authorities are lenient in situations of need, since this can be considered turning on the light indirectly (grama).
+Adjusting the shabbat clock so that a light turns on, later than it otherwise would have: Nearly all authorities permit this, and  the common practice is to permit it. However, if the adjustment is done by removing and reinserting a peg, the reinsertion could cause the light to turn on earlier relative to the state of no peg, which would likely be forbidden as previously discussed.
+Adjusting the shabbat clock so that a light turns off, sooner than it otherwise would have: This is similar to the case of turning the light on sooner, and thus forbidden. However, the act of turning off a light is less halachically serious than turning it on (a rabbinic rather than Biblical prohibition), so R' Shlomo Zalman Auerbach permits if the light (or other device) is of a type whose operation is only rabbinically forbidden, as the multiple layers of rabbinic prohibition create more grounds for leniency.
+Adjusting the shabbat clock so that a light turns off, later than it otherwise would have: This is similar to the case of turning the light on later, and thus permitted. (A minority of authorities hold it is forbidden due to causing more electricity to be consumed than would have otherwise.)
+
+
+=== Other proposed bypasses ===
+The KosherLamp, sold since 2004, is a lamp in which the electricity runs continually, but which contains a sliding cover so that the light can be exposed or blocked as desired. Thus, the lamp can be "turned on" or "turned off" even though in reality the bulb is always on.
+In 2015, the KosherSwitch wall switch was introduced amid controversy, as a means of controlling electricity on-demand in a manner that is permissible according to several Orthodox authorities.
+
+
+== Use of electricity generated in Israeli power plants ==
+Several review articles have been written about the permissibility of using electricity generated in Israeli power plants. In principle, it should be prohibited because one may not benefit from an action performed in violation of Shabbat. Thus, for example, if a Jew lights a candle in violation of Shabbat, both he and other Jews are forbidden to read a book using that candlelight. Similarly, if a Jew generates electricity in a power plant in violation of Shabbat, other Jews may not benefit from that electricity. However, there are several considerations to permit Jews to generate electricity in Israeli power plants and to use electricity generated in this manner.
+
+
+=== Generating electricity ===
+The primary motive to permit generating electricity is pikuach nefesh (Hebrew: פיקוח נפש, "saving lives").  Electricity generated on Shabbat is needed for the day-to-day operations of hospitals, first aid centers, outpatients who require medical care in their homes, and climate control for people who need it, a refrigerator for a baby or the elderly who must eat refrigerated food, and possibly street lights which help prevent road accidents. Because it is impossible to distinguish between the electric current going to purposes recognised as pikuach nefesh and to other purposes, all electricity generation is classified as pikuach nefesh. The argument based on pikuach nefesh would allow a Jew to work at the power plant on Shabbat to generate electricity. Rabbis Shlomo Zalman Auerbach and Shlomo Goren permit this, but Auerbach and Moshe Feinstein question why non-Jews are not employed to do this work instead.
+
+
+=== Using electricity ===
+Assuming that a Jewish worker may generate electricity on Shabbat due to pikuach nefesh, opinions are divided on whether Jewish consumers may use this electricity for non-pikuach nefesh purposes. Rabbi Shlomo Goren prohibits using it in ordinary circumstances using a Talmudic precedent: if meat is cooked for a patient who needs it for pikuach nefesh, nobody else may eat that meat, as this possibility could encourage the cook to prepare more meat than necessary, violating Shabbat without justification. However, rabbi Shlomo Auerbach, who permits the generation of electricity on Shabbat with some hesitation (see citation below), also permits the use of electricity based on a different Talmudic precedent: if a sick patient requires meat, and no dead meat is available, a live animal may be slaughtered (otherwise in violation of Shabbat) and its excess meat may be consumed by others on Shabbat. Since in this case, there is no way to cook any meat without slaughtering a whole animal, the rationale that the violator might do more than necessary does not hold.Another possible reason for leniency is the fact that some Jewish power plant workers are unaware their work is considered Shabbat violation. Thus, it could be considered unintentional (Hebrew: שוגג, shogeg). When a person violates Shabbat unintentionally (as opposed to intentionally), some authorities permit other Jews to benefit from the violation. Thus, customers might be allowed to use electricity generated on Shabbat.Nowadays, it is generally accepted that consumers may use electricity from the power plant. However, part of the charedi community refuses to use the electric grid (instead of running
+electricity generators at home), following the opinion of the Chazon Ish who argued that even if a power plant could run permissibly, using its electricity would be forbidden, as the secular workers there do not respect Shabbat and using their electricity would show public approval of their actions.It is projected that in the future, when Israel's coal generating plants are shut down and replaced with natural gas power plants, it will be possible to run all-electric plants automatically without human intervention, removing the halachic questions about the use of this electricity on Shabbat.
+
+
+=== Alternatives to publicly generated electricity ===
+Tens of thousands of Israeli haredim, forming a significant fraction of the Haredi population, run private electric generators to avoid using the public electricity supply on Shabbat. Some even refuse to use a generator because the end-product of electricity is indistinguishable from what is provided to ordinary consumers, so using electricity in any manner constitutes the appearance of violating Halakhah. Some of these people use a kerosene lamp that provides them with a minimal amount of light, and some use only Shabbat candles for Friday night dinner.
+Some people who do not use electricity also do not use faucets or other mechanisms that provide water from public supplies, because the municipal water pumps are operated electrically. These people prepare containers of water on Friday sufficient to provide for their needs on Shabbat.
+
+
+== See also ==
+Activities prohibited on Shabbat
+
+
+== External links ==
+The New York Times – Entrepreneurs find ways to make technology work with Jewish Sabbath
+
+
+== Notes ==
+
+
+== References ==
+Michael Broyde and Howard Jachter (Pesach 1991). The Use of Electricity on Shabbat and Yom Tov. Journal of Halacha & Contemporary Society, No. XXI. Retrieved on 2008-05-16.
+Encyclopedia Talmudit, "Electricity" 18:155–190.
+Dovid Ribiat. The 39 Melochos: An Elucidation of the 39 Melochos from Concept to Practical Application.  Nanuet, N.Y. : Feldheim Publishers, 1999.  Volume 4, pages 1201ff.
+Rabbi Hayim Halevy Donin. To Be a Jew, A Guide to Jewish Observance in Contemporary Life, Basic Books, 1972, 1991, ISBN 0-465-08624-1, pages 89–93

@@ -1,0 +1,9 @@
+Circulating mitochondrial DNA, also called cell-free circulating mitochondrial DNA and circulating cell-free mitochondrial DNA (ccf mtDNA), are short sections of mitochondrial DNA (mtDNA) that are released by cells undergoing stress or other damaging or pathological events. Circulating mitochondrial DNA is recognized by the immune system and activates inflammatory reactions. It is also a biomarker that can be used to detect the degree of damage from myocardial infarctions, cancers and ordinary stress. In certain situations it acts as a hormone.Plasma or serum levels of ccf mtDNA have been seen to be of marked difference in people with cancer. These higher levels have shown to be a reliable non-invasive biomarker in the diagnosis and prognosis of many kinds of tumours.Specific analysis of tumor-derived circulating mitochondrial DNA is challenging in human samples as it requires to track in plasma defined mutations, or alterations from the mitochondrial genome. In animal models, separating tumor-derived DNA in plasma from non-tumor derived DNA is easier. A proof of principle demonstrated the sensitivity of detecting tumor-derived circulating mitochondrial DNA in the plasma, CSF and urine of xenografted animals. 
+
+
+== See also ==
+Circulating tumor DNA
+NucPosDB: a database of nucleosome positioning in vivo and nucleosomics of cell-free DNA
+
+
+== References ==

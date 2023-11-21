@@ -1,0 +1,65 @@
+An isochrone map in geography and urban planning is a map that depicts the area accessible from a point within a certain time threshold. An isochrone (iso = equal, chrone = time) is defined as "a line drawn on a map connecting points at which something occurs or arrives at the same time". In hydrology and transportation planning isochrone maps are commonly used to depict areas of equal travel time. The term is also used in cardiology as a tool to visually detect abnormalities using body surface distribution.
+
+
+== History ==
+Early examples of Isochrone maps include the Galton's Isochronic Postal Charts and Isochronic Passage Charts of 1881 and 1882, Bartholomew's Isochronic Distance Map and Chart first published 1889, and Albrecht Penck's Isochronenkarte first published 1887. Where as Galton and the Bartholomews published maps depicting the days or weeks it took to travel long distances, Albrecht further developed the idea to not only depict long distances and world travel but also smaller areas. Penck also created a series of maps that only depict the travel times of a certain transportation mode, for example Rail transport. Isochrone maps are commonly used in the UK in connection with development control. Isochrones are currently typically computed by via generating shortest-path trees on network graphs, and then generating a convex hull around the accessible nodes. Increases in computation, data storage, and improvements in algorithms have facilitated the rapid generation of isochrones. Recent techniques in visualization include linking travel times to network edges to show the paths accessible from a point rather than show the area accessible from a point.
+
+
+== Usage ==
+
+
+=== Hydrology ===
+Isochrone and related maps are used to show the time taken for runoff water within a drainage basin to reach a lake, reservoir or outlet, assuming constant and uniform effective rainfall. An early example of this method was demonstrated by Clark in 1945.
+
+
+=== Transport planning ===
+Isochrone maps have been used in transportation planning since at least 1887. Isochrone maps in the context of transport planning are essentially maps of accessibility where travel time is used as the cost metric. Isochrone maps can be created for different modes of transportation, e.g. foot, bicycle, motor vehicle. Put simply, the output of an isochrone map for transport will show how far (in distance) is reachable from a start point, including the parameter of time.
+Such maps for private motor transport were widely used in a 1972 study into airport accessibility in Hampshire, South East England. At that time, their use was disadvantaged by being time-consuming to create.
+The term isodapane map is used to refer to a map were the contour represent transportation cost instead of transportation time.
+
+
+=== General public ===
+Journey time websites have been built using mapping technologies and open data. Isochrones can be used by house hunters wishing to evaluate residential areas. An isochrone map of the London Underground network was made available in 2007.
+
+
+== Services and applications ==
+Several digital tools exist which can generate isochrone maps.
+openstreetmap-based solutions:
+CommuteTimeMap - lets to build and visualize isochrones worldwide
+Geoapify Isochrone API - API service to build isochrones for drive, truck, bicycle, walk and transit modes. Worldwide.
+GraphHopper [1][2] can be used to calculate a detailed time information for every point within a certain time or distance reach.
+GRASS v.net.iso module
+instaGISIso4App Public Transport Isochrone maps (Isochrones based on GTFS data)
+Mapbox Isochrone API (interactive Mapbox example)
+Mapumental
+OpenRouteService Isochrones Service - uses OSM data and map, shows isochrones worldwide (no source code available)
+OpenTripPlanner - a development branch has work on an Analytics Extension, which currently provides isochrones based on the OSM network and GTFS data (source code available)
+OSRM Isochrone Generate drivetime isochrones from OSM using OSRM.
+pgRouting The creation of journey time isochrones to airports in Finland has been explained using the GIS software QGIS and pgRouting (an extension of PostGIS).
+pysochrone is a Python script and simple web interface for computing and displaying isochrones from an OGR-supported data source (e.g. PostGIS)
+Reachability Analysis An application (built using WhereOS and OSM data) which calculates reachability (isochrone) from given set of addresses.
+Safe Routes to School Mapping Toolkit - working to create travel distance/time web app for pedestrians and bicyclists using OSM data (source code available)
+TargomoAPI - Travel times, Routing, Points of Interests, Isochrones - developer tools to build state-of-the-art geospatial analytics applications, enhance location search, and personalize user experience. (Interactive Demo)
+TravelTime API  Uses some OSM Data  and has a free isochrone generator tool using public transport, cycling, walking, driving and combined bike & train. Available as a plugin for QGIS and ArcGIS.
+Valhalla isochrone service
+Walkscore Travel Time API - uses GTFS and OSM data for maps of Seattle, San Francisco, and Washington DC. Built on the open source Graphserver library. (no source)
+WNYC Transit Time - public transit isochrones for NYCGTFS-based solutions:
+
+MapnificentProprietary data solutions:
+
+Google Maps API
+PedCatch
+
+
+== See also ==
+Daily urban system
+Public transport timetable
+Traffic congestion map
+Transit map
+Walking distance measure
+
+
+== References ==
+
+
+== External links ==

@@ -1,0 +1,57 @@
+A hybrid cardiac surgical procedure in a narrow sense is defined as a procedure that combines a conventional, more invasive surgical part (including a skin incision) with an interventional part, using some sort of catheter-based procedure guided by fluoroscopy (or other, e.g., CT or MRI) imaging in a hybrid operating room (OR) without interruption. The hybrid technique has a reduced risk of surgical complications and has shown decreased recovery time. It can be used to treat numerous heart diseases and conditions and with the increasing complexity of each case, the hybrid surgical technique is becoming more common.
+
+A hybrid cardiac surgery can be either a one-stage or two-stage procedure. The difference between the two is the extent of time elapsed between the two components of a hybrid surgery. A one-stage procedure is done in hybrid suite and requires a specialized operating room. In the two-stage procedure, there is a time gap between the catheter intervention and the surgical operation. The time between can vary by minutes or hours, and although unlikely, up to days and weeks. The two-stage procedure is typically done in different locations, beginning in a catheterization laboratory followed by a surgical operating room. 
+
+
+== Brief History ==
+The first uses of the technical hybrid cardiac surgical procedures were done in the 1990's. However, there have been descriptions of such procedures earlier in the 1970's.
+
+
+== Indications and contraindications ==
+There are no absolute contraindications to a hybrid cardiac surgery, and the precise circumstances which indicate a hybrid surgery would be most beneficial are uncertain.  However, several factors should be considered when devising a care plan.
+Regarding most cardiovascular diseases, high-risk and re-operative patients are ideal candidates for a hybrid surgery.  Crucial factors to acknowledge are the complexity of the disease and the possible comorbidities, such as advanced age, obesity and decreased pulmonary function. Cardiologists often use the SYNTAX score grading system to determine the complexity of the coronary artery disease and the possible surgical outcomes. Other deciding factors may include the patient's suitable vessels for grafting, body mass index, radiographic contrast allergies, and response to antiplatelet therapies.
+
+
+== Uses and risks associated ==
+Both components of a hybrid surgery have multiple uses and can be used independently to restore cardiac functions. Each component also has risks and complications associated.
+
+Cardiac catheterization is the insertion of a catheter into the heart through a blood vessel. The cardiac catheter can then be used to run tests and perform other procedures. Such procedures are stent placement, angioplasty, fractional flow reserve, intravascular ultrasound (IVUS) and cardiac biopsy. Conditions indicating the need for a cardiac catheter include the following: atherosclerosis, cardiomyopathy, congenital heart disease, heart failure, and heart valve disease. The risks associated with cardiac catheterization are bleeding, bruising, pain, blood clot, blood vessel damage, or infection where the catheter was inserted, heart arrhythmia, ischemia, sudden blockage of a coronary artery, a tear in the lining of an artery, kidney damage or stroke.  Many of the risks associated with catheterization are also risks when more invasive cardiac procedures are done. Hybrid surgeries involve many of the same risks applied and there is often concern about the success of antiplatelet therapy and bleeding postoperative.
+
+
+== Clinical applications ==
+
+
+=== Hybrid revascularization approach for coronary artery disease ===
+Surgical bypass grafting and percutaneous coronary artery revascularization are traditionally considered isolated options. A simultaneous hybrid approach may allow an opportunity to match the best strategy for a particular anatomic lesion. Thus hybrid coronary revascularization and MIDCAB (minimally invasive direct coronary artery bypass surgery) have been developed. Revascularization of the left anterior descending artery with the left internal mammary artery is by far the best treatment option in terms of long-term results. Integrating this therapy with percutaneous coronary angioplasty (hybrid procedure) offers multi-vessel revascularization through a mini-thoracotomy. Particularly in high risk patients, morbidity and mortality decreases in comparison to conventional surgery.
+
+
+==== Completion angiography ====
+For people who undergo coronary artery bypass grafting, coronary imaging (completion angiography) for the routine evaluation of the bypass grafts may be reasonable. During the hybrid procedure angiographs may be used to monitor and confirm anastomosis.
+
+
+=== Pediatric cardiac surgery ===
+For congenital cardiac malformations, even though surgery remains the treatment of choice, interventional cardiology approaches are increasingly being used. However, such percutaneous approaches can be challenging or even impossible because of difficult and complex anatomies (such as double-outlet right ventricle, or transposition of the great arteries, acute turns or kinks in the pulmonary arteries of tetralogy of Fallot patients) and patient characteristics/ complications (low weight, poor vascular access, induced rhythm disturbances, hemodynamic compromise). Nevertheless, surgery has its limitations, so that combining interventions and surgery into a single therapeutic procedure potentially leads to reduction of complexity, cardiopulmonary bypass time, risk, and to improved outcomes.
+Another important concept in hybrid procedures is completion angiography, as described above, which in the case of congenital heart disease surgery may detect residual structural lesions, thus reduce postoperative complications. Again, 3D imaging using rotational angiography should be the concept of choice. Completion angiography in a hybrid OR may even induce a reduction of contrast media and ionizing radiation dose applied to the patient, as it reduces the need for post-operative examination. Further dose reduction can be achieved with a combination of intraoperative rotational angiography and intraoperative MRI, when both a fixed C-arm and an MRI system are available in the surgical theatre, and MRI adds functional information.
+
+
+=== Transcatheter aortic valve implantations (TAVI) ===
+The conventional approach for treatment of aortic valve stenosis is surgical replacement of the aortic valve. This procedure has excellent outcomes particularly in younger patients at relatively low-risk and will remain the gold standard for aortic valve replacement in the upcoming years. However, TAVI (transcatheter aortic valve implantation) has emerged as a valid alternative for patients in whom conventional surgical techniques are considered too invasive and risky. To put this approach into practice, a hybrid operating room is strongly recommended by a number of professional associations, including the European Society of Cardiology, the European Association of Cardio-thoracic Surgery, the German Society of Cardiology, and the German Society of Cardiac, Thoracic and Vascular Surgery.
+
+
+=== Mitral valve repair ===
+The repair of a defected mitral valve is a potential future hybrid procedure, that is still dependent on approval of the necessary devices by the U.S. Food and Drug Administration. Some of these devices also will most likely be used for procedures performed in regular cath labs. Further prostheses for mitral und tricuspid valve replacement are under development and certainly will be available within the next years. Complex hybrid procedures may arise where the various parts of the mitral valve apparatus (e.g. chordae, leaflet and ring) are repaired on a beating heart in combination with purely interventional techniques (e.g. MitralClip). From an imaging modality perspective, fluoroscopy will most likely be combined with 2D and 3D ultrasound and a fusion of these modalities may become helpful. The reason is that the metal devices are optimally imaged without artifacts by fluoroscopy whereas the valve itself is better evaluated with ultrasound. As an alternative to transesophageal echocardiography, the use of intracardiac 2D and 3D echo may prove useful because it would allow avoiding general anesthesia in selected patients.
+
+
+=== Thoracic endovascular aortic repair (TEVAR) ===
+For aneurysms of the thoracic aorta, thoracic endovascular aortic repair (TEVAR) has become a valid alternative to open repair. This method may even be applied to pathologies of the aortic arch and the distal descending aorta. A common complication of EVAR are endoleaks. These may be missed by 2D angiographic evaluation. Rotational angiography, providing CT-like 3D imaging with the angiographic C-arm enables the surgeon to diagnose this complication intraoperatively and correct it right away.  An indication that a hybrid technique would be most beneficial and successful is that the patient has had a previous aortic repair. Patients with chronic dissecting aneurysms are not good candidates for the hybrid approach. In the hybrid one-stage procedure the graft can be check immediately after the placement of the stent.  In the hybrid two-stage procedure the total operation time is much shorter and decreases postoperative complications, however there is a risk that the aneurysm could rupture between the two stages. In cases where the hybrid technique was used to repair an aortic aneurysm complications that have been experiences are permanent paraplegia, stroke, spinal cord ischemia and other neurological complications.
+
+
+=== Surgery for rhythm disturbances ===
+With regards to rhythm disturbances, in particular atrial fibrillation (AF), a hybrid procedure involves the combination of the surgical epicardial approach with the interventional endocardial approach.
+
+
+== Outlook ==
+In many cases for differing heart diseases and conditions the morbidity rates greatly decreased when a hybrid approach was used. The hybrid cardiac procedures have also shown to decrease post-operative complications. Patients have also had shorter hospital stays post-operative and have had quicker recovery times.
+
+
+== References ==

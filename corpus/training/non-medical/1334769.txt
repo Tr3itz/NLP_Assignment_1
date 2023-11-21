@@ -1,0 +1,36 @@
+The word electricity derives from Neo-Latin and ultimately Greek.  It first appears in English in Francis Bacon's writings. Depending on context, the word may refer to "electric charge", "electric power" or "electric energy".
+
+
+== Historical drift ==
+
+
+=== Pre-English origins ===
+The Neo-Latin adjective electricus, originally meaning 'of amber', was first used to refer to amber's attractive properties by William Gilbert in his 1600 text De Magnete.  The term came from the classical Latin electrum, 'amber', from the Greek ἤλεκτρον (elektron), 'amber'.  The origin of the Greek word is unknown, but there is speculation that it might have come from a Phoenician word elēkrŏn, meaning 'shining light'.
+
+
+=== Entry into English ===
+The word electric was first used by Francis Bacon to describe materials like amber that attracted other objects. The first usage of the English word electricity is ascribed to Sir Thomas Browne in his 1646 work, Pseudodoxia Epidemica:
+
+Again, The concretion of Ice will not endure a dry attrition without liquation; for if it be rubbed long with a cloth, it melteth. But Crystal will calefie unto electricity; that is, a power to attract strawes and light bodies, and convert the needle freely placed
+In this context, an "Electrick" or "Electrick body" was a non-conductor, or an object capable of attracting "light bodies" (like bits of paper) when excited by friction; a piece of amber is "an Electrick", while a piece of iron is not.  "Electricity", then, was simply the property of behaving like an electric, in the same way that "elasticity" is the property of behaving like an elastic.  ("Electric" continued to be used as a noun until at least 1913 and is still used in this sense in the word "dielectric".)
+It was not until later that the definition shifted to refer to the cause of the attraction instead of the property of being attractive.Charge, in the electrical sense, was first used in 1748.
+
+
+== "Quantity of electricity" ==
+The term quantity of electricity was once common in scientific publications.  It appears frequently in the writings of Franklin, Faraday, Maxwell, Millikan, and J. J. Thomson, and was even occasionally used by Einstein.
+However, over the last hundred years the term electricity has been used by electric utility companies and the general public in a non-scientific way.  Today the vast majority of publications no longer refer to electricity as meaning electric charge.  Instead they speak of electricity as electromagnetic energy.  The definition has drifted even further, and many authors now use the word electricity to mean electric current (amperes), energy flow (watts), electrical potential (volts), or electric force.  Others refer to any electrical phenomena as kinds of electricity.
+These multiple definitions are probably the reason that quantity of electricity has fallen into disfavor among scientists.  Physics textbooks no longer define quantity of electricity or flow of electricity.  Quantity of electricity is now regarded as an archaic usage, and it has slowly been replaced by the terms charge of electricity, then quantity of electric charge, and today simply charge. Since the term electricity has increasingly become corrupted by contradictions and unscientific definitions, today's experts instead use the term charge to remove any possible confusion.
+
+
+== References ==
+
+
+== External links ==
+What is electricity?
+CRC Handbook: Definition of Scientific Terms
+Merriam-Webster: Electricity (incorrect, charge is energy?)
+Britannica: Coulomb
+Britannica: Electric Charge
+Physics Education Journal: 'The Electric Vocabulary'
+TED-Ed Lesson 'The Electric Vocabulary'
+Amber and electricity. From Thales to Gilbert.

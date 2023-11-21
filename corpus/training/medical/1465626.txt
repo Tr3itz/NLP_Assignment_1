@@ -1,0 +1,91 @@
+A dermatome is an area of skin that is mainly supplied by afferent nerve fibres from the dorsal root of any given spinal nerve.
+There are 8 cervical nerves (C1 being an exception with no dermatome),
+12 thoracic nerves,
+5 lumbar nerves and 5 sacral nerves.
+Each of these nerves relays sensation (including pain) from a particular region of skin to the brain.
+The term is also used to refer to a part of an embryonic somite.
+Along the thorax and abdomen the dermatomes are like a stack of discs forming a human, each supplied by a different spinal nerve. Along the arms and the legs, the pattern is different: the dermatomes run longitudinally along the limbs. Although the general pattern is similar in all people, the precise areas of innervation are as unique to an individual as fingerprints.
+An area of skin innervated by a single nerve is called a peripheral nerve field.
+The word dermatome is formed from Ancient Greek δέρμα 'skin, hide' and τέμνω 'cut'.
+
+
+== Clinical significance ==
+A dermatome is an area of skin supplied by sensory neurons that arise from a spinal nerve ganglion. Symptoms that follow a dermatome (e.g. like pain or a rash) may indicate a pathology that involves the related nerve root.  Examples include somatic dysfunction of the spine or viral infection. Certain skin problems tend to orient the lesions in the dermatomal direction.
+In referred pain, sensory nerve fibers such as that from dermatomes may come together at the same spinal cord level as the general visceral afferent fibers such as that from the heart.
+When the general visceral sensory fiber is stimulated, the central nervous system does not clearly discern whether the pain is coming from the body wall or from the viscera, so it perceives the pain as coming from somewhere on the body wall, e.g. left arm/hand pain, jaw pain.
+So the pain is "referred to" the related dermatomes of the same spinal segment.Viruses that lie dormant in nerve ganglia (e.g. varicella zoster virus, which causes both chickenpox and shingles), often cause either pain, rash or both in a pattern defined by a dermatome (a zosteriform pattern).  However, the symptoms may not appear across the entire dermatome.
+
+
+== Important dermatomes and anatomical landmarks ==
+Following is a list of spinal nerves and points that are characteristically belonging to the dermatome of each nerve:
+C2 – At least one cm lateral to the occipital protuberance at the base of the skull. Alternately, a point at least 3 cm (1.2 in) behind the ear.
+C3 – In the supraclavicular fossa, at the midclavicular line.
+C4 – Over the acromioclavicular joint.
+C5 – On the lateral (radial) side of the antecubital fossa, just proximally to the elbow.
+C6 – On the dorsal surface of the proximal phalanx of the thumb.
+C7 – On the dorsal surface of the proximal phalanx of the middle finger.
+C8 – On the dorsal surface of the proximal phalanx of the little finger.
+T1 – On the medial (ulnar) side of the antecubital fossa, just distal to the medial epicondyle of the humerus.
+T2 – At the apex of the axilla.
+T3 – Intersection of the midclavicular line and the third intercostal space
+T4 – Intersection of the midclavicular line and the fourth intercostal space, located at the level of the nipples.
+T5 – Intersection of the midclavicular line and the fifth intercostal space, horizontally located midway between the level of the nipples and the level of the xiphoid process.
+T6 – Intersection of the midclavicular line and the horizontal level of the xiphoid process.
+T7 – Intersection of the midclavicular line and the horizontal level at one quarter the distance between the level of the xiphoid process and the level of the umbilicus.
+T8 – Intersection of the midclavicular line and the horizontal level at one half the distance between the level of the xiphoid process and the level of the umbilicus.
+T9 – Intersection of the midclavicular line and the horizontal level at three quarters of the distance between the level of the xiphoid process and the level of the umbilicus.
+T10 – Intersection of the midclavicular line, at the horizontal level of the umbilicus.
+T11 – Intersection of the midclavicular line, at the horizontal level midway between the level of the umbilicus and the inguinal ligament.
+T12 – Intersection of the midclavicular line and the midpoint of the inguinal ligament.
+L1 – Midway between the key sensory points for T12 and L2.
+L2 – On the anterior medial thigh, at the midpoint of a line connecting the midpoint of the inguinal ligament and the medial epicondyle of the femur.
+L3 – At the medial epicondyle of the femur.
+L4 – Over the medial malleolus.
+L5 – On the dorsum of the foot at the third metatarsophalangeal joint.
+S1 – On the lateral aspect of the calcaneus.
+S2 – At the midpoint of the popliteal fossa.
+S3 – Over the tuberosity of the ischium or intragluteal fold
+S4 and S5 – In the perianal area, less than one cm lateral to the mucocutaneous zoneFollowing is a list of cranial nerves responsible for sensation from the face:
+
+V1 (1st division of the trigeminal nerve) - associated with herpes zoster ophthalmicus
+V2 (2nd division of the trigeminal nerve)
+V3 (3rd division of the trigeminal nerve)
+
+
+== Additional images ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Cutaneous innervation
+Dorsal root
+Peripheral nerve field
+
+
+== References ==
+
+
+== External links ==
+
+3D Dermatomes Web App, Instamedic
+Hand kinesiology at the University of Kansas Medical Center
+Diagram of "Adult Dermatome", The New York Times

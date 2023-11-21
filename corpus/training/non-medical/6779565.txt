@@ -1,0 +1,12 @@
+The conductivity factor (CF) of dissolved salts in a given solution is a measurement of conductivity. Using the electrical conductivity between two electrodes in a water solution, the level of dissolved solids in that solution can be measured. Measurements can then be used to dose the solution with the necessary nutrients in the case of hydroponics.  Conductivity measurements are also used in ecology and environmental sciences to assess the level of nutrients in lakes and rivers.  For a discussion of conductivity in this context, see Total dissolved solids.
+
+CF (conductivity factor) is basically EC multiplied by 10, and is used in some places because it eliminates the need for a decimal point, so an EC of 0.1 is equal to a CF of 1.
+Electrical conductivity can be expressed using a number of different units but the international standard is EC, and the unit of measurement is usually milliSiemens or microSiemens. The difference between these two units of measurement is the placement of the decimal point, so 1 milliSiemens is equal to 1000 microSiemens. 
+
+
+== References ==
+
+
+== See also ==
+EC meter
+TDS meter

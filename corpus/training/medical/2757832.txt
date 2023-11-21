@@ -1,0 +1,50 @@
+A myotome is the group of muscles that a single spinal nerve innervates. Similarly a dermatome is an area of skin that a single nerve innervates with sensory fibers. Myotomes are separated by myosepta (singular: myoseptum). In vertebrate embryonic development, a myotome is the part of a somite that develops into muscle.
+
+
+== Structure ==
+The anatomical term myotome  which describes the muscles served by a spinal nerve root, is also used in embryology to describe that part of the somite which develops into the muscles.   In anatomy the myotome is the motor equivalent of a dermatome.
+
+
+== Function ==
+Each muscle in the body is supplied by one or more levels or segments of the spinal cord and by their corresponding spinal nerves.  A group of muscles innervated by the motor fibres of a single nerve root is known as a myotome.
+
+
+=== List of myotomes ===
+Myotome distributions of the upper and lower extremity are as follows;
+C1/C2: neck flexion/extension
+C3: Lateral Neck Flexion
+C4: shoulder elevation
+C5: Shoulder abduction
+C6: Elbow flexion/Wrist Extension
+C7: Elbow extension/Wrist flexion
+C8: Thumb extension
+T1: Finger Abduction & Adduction
+L1/L2: Hip Flexion
+L3: Knee extension
+L4: Ankle dorsi-flexion
+L5: Great toe extension
+S1: Hip extension/Ankle plantar-flexion/ankle eversion
+S2: Knee flexion
+S3–S4: anal wink
+
+
+== Clinical significance ==
+In humans myotome testing can be an integral part of neurological examination as each nerve root coming from the spinal cord supplies a specific group of muscles. Testing of myotomes, in the form of isometric resisted muscle testing, provides the clinician with information about the level in the spine where a lesion may be present. During myotome testing, the clinician is looking for muscle  weakness of a particular group of muscles. Results may indicate lesion to the spinal cord nerve root, or intervertebral disc herniation pressing on the spinal nerve roots.
+
+
+== See also ==
+Dermatome (anatomy)
+Somite
+
+
+== References ==
+
+
+== Further reading ==
+Neurology Textbook, edited by Professor L. Sokolva, M.D., D.Sc. 2012, ISBN 9789663824260
+
+
+== External links ==
+Embryology at UNSW Notes/skmus7
+Embryology at UNSW Notes/week3_6
+mslimb-009—Embryo Images at University of North Carolina

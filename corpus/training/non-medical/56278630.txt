@@ -1,0 +1,112 @@
+Electrofusion welding is a form of resistive implant welding used to join pipes. A fitting with implanted metal coils is placed around two ends of pipes to be joined, and current is passed through the coils. Resistive heating of the coils melts small amounts of the pipe and fitting, and upon solidification, a joint is formed. It is most commonly used to join polyethylene (PE) and polypropylene (PP) pipes. Electrofusion welding is the most common welding technique for joining PE pipes. Because of the consistency of the electrofusion welding process in creating strong joints, it is commonly employed for the construction and repair of gas-carrying pipelines. The development of the joint strength is affected by several process parameters, and a consistent joining procedure is necessary for the creation of strong joints. 
+
+
+== Advantages and disadvantages ==
+Advantages of electrofusion welding:
+
+Simple process capable of producing consistent joints
+Process is entirely contained, reducing the risk of joint contamination
+Process allows repair without the need to remove pipesDisadvantages of electrofusion welding:
+
+A special sleeve is required, so it is more expensive than other pipe joining methods such as hot plate joining
+Implanted coils make recycling of parts more difficult
+
+
+== Equipment ==
+Electrofusion welds are performed by attaching a controlled power supply to the electrofusion fitting. There are typically two modes of operation.
+
+Constant voltage
+Constant currentConstant voltage is typically used for high pressure pipelines such as mains gas and water. Fittings are fitted with a barcode specified to an ISO standard.
+Typically fittings will be welded at 39.5v, but manufacturers can choose voltages in whole numbers from 8 to 48v. The welding time is specified on the label in seconds or minutes
+
+
+== Accessories ==
+Electrofusion welding employs fittings that are placed around the joint to be welded. Metal coils are implanted into the fittings, and electric current is run through the coils to generate heat and melt part of the pipes, forming a joint upon solidification. There are two possible fittings used in electrofusion welding: couplers and tapping tees (saddles). Coupler fittings contain two separate regions of coils, creating two distinct fusion zones during welding. The inner diameter of the coupler is typically slightly larger than the outer diameter of the pipes. This is to increase the ease of assembly in the field and allows for minor inconsistencies in pipe diameter. Proper insertion of the pipes in the coupler is critical for the creation of a strong joint. Incorrect placement of the coupler can cause the coils to move and lead to the extrusion of molten polymer material from the joint, reducing the joint's strength. Tapping tees, or saddles, are less common but operate under the same principles as a coupler. They require clamping to ensure a proper fit up with the pipes.
+
+
+== Fitting installation ==
+Installation of couplers and tapping tee fittings require slightly different procedures. Common installation steps for each are given below.
+
+
+=== Couplers ===
+Wash pipe ends to create clean surfaces for joining
+Square pipe ends to facilitate optimal fit-up
+Clean area where coupler will be placed with isopropyl alcohol
+Mark the pipes slightly beyond half the length of the coupler, to indicate where scraping will take place in later steps
+Mark the area to be scraped
+Scrape pipe in marked areas to remove surface layer, allowing clean pipe material to contact the coupler
+Examine scraped area thoroughly, making sure that fresh pipe material is exposed throughout area
+Insert pipe ends into coupling to appropriate depth
+Secure coupler using clamp
+Connect fitting to control box using electrical leads
+Apply fusion cycle
+Allow joint to be undisturbed for the entire prescribed cooling time
+Pressure test pipe
+Back fill pipe with appropriate contents
+Begin service
+
+
+=== Tapping tee ===
+Wash pipe area to be joined to create clean surfaces for joining
+Clean area where tapping tee will be placed with isopropyl alcohol
+Mark the pipes slightly beyond the edges of the tapping tee location
+Scrape pipe in marked areas to remove surface layer, allowing clean pipe material to contact the tapping tee
+Examine scraped area thoroughly, making sure that fresh pipe material is exposed throughout area
+Place tapping tee onto joint
+Secure tapping tee using clamp
+Connect fitting control box using electrical leads
+Apply fusion cycle
+Allow joint to be undisturbed for the entire prescribed cooling time
+Pressure test pipe
+Back fill pipe with appropriate contents
+Begin service
+
+
+== Power requirements ==
+Electrofusion welding requires electrical current to be passed through the coils implanted in the fittings. Since the electrical energy input is an excellent indicator of the joint strength that develops during fusion, it is necessary to have consistent electrical power input. Energy input during the joining process is typically measured by controlling the time it takes for the current to pass through the fitting. However, energy input can also be monitored by controlling overall temperature, molten polymer temperature, or molten polymer pressure.A control box takes electrical power from a generator and converts it into an appropriate voltage and current for electrofusion joining. This provides consistent energy input for each application. The most common input voltage for electrofusion welding fittings is 39.5V, as it provides the best results without risking operator safety. The current is input as an alternating current (AC) waveform.
+
+
+== Welding process ==
+
+
+=== Stages during welding ===
+Electrofusion welding is characterized by four distinct stages that occur during the welding process: 
+
+Incubation period
+Joint formation and consolidation
+Plateau region
+Cooling periodDuring the incubation period, heat is introduced into the joint as current is passed through the coil. Although there is no joint strength at this point, the polymer expands and the joint gap is filled. During joint formation and consolidation, melting begins. Melt pressure has begun to build, and the majority of the joint's strength is developed during this stage. The strength increase is due primarily to the constraint of the increasing molten material by the cold zones in the surrounding fitting. The plateau region signals the stabilization of the joint strength. Despite this, the heat of the joint is still increasing with time during this stage. The cooling period occurs after current is no longer applied to the coils. The molten polymer material solidifies and forms the joint.
+
+
+=== Current during welding ===
+Most electrofusion welding power supplies are constant voltage machines. Constant current machines would provide more consistent energy input due to the smaller fluctuations in current applied to the coils during welding. However, this additional consistency is generally not worth the higher cost of these machines. When a constant voltage machine is used, the value of the applied current slowly decreases throughout the welding process. This effect is due to the increasing resistance of the coils as energy is applied. As heat is generated in the coils, their temperature increases, leading to a higher electrical resistance in the coils. This increased electrical resistance causes a smaller current to be generated from the same voltage level as the process progresses. The extent of the current decrease is determined by the material used for the coil. The energy input per unit area can be calculated and used to monitor the process. Typical values for this range from 2–13 J/mm2, with a value of 3.9 J/mm2 having been found to produce the strongest joints.
+
+
+=== Temperature during welding ===
+Large temperature gradients exist in the electrofusion joint during the fusion cycle. The low thermal conductivity of polymers is the main cause of these large gradients. Recent efforts to model the thermal history at various locations using finite element modeling have been successful.
+
+
+=== Pressure during welding ===
+As the temperature in the joint increases, polymer begins to melt and a fusion zone is formed. The molten polymer in the fusion zone exerts an outward force on the surrounding solid polymer material, referred to as "cold zones". These cold zones cause a pressure to develop in the molten fusion zone. The pressure in the fusion zone takes some time to reach its maximum value, usually not reaching the peak until about a quarter of the way into the joining process. After the current is shut off and cooling begins, the pressure slowly decreases until the joint is uniform temperature.
+
+
+== Properties of joints ==
+The strength of an electrofusion joint is measured using tensile and peel tests on coupons taken from the fusion zone of the joint. Two methods have been developed to assess the effect of fusion time on joint strength: 
+
+Simulating an electrofusion joint solely for testing purposes
+Removing test coupons from standard electrofusion welded jointsThe strength of the joint develops throughout the welding process, and this development is affected by the fusion time, joint gap, and pipe material. These are detailed below.
+
+
+=== Effect of fusion time on joint strength ===
+As fusion time begins, there is an incubation period where no strength develops. Once enough time has passed for the molten material to begin solidifying, the joint strength begins to develop before plateauing at the maximum strength. If power is applied after full joint strength is achieved, the strength will start to decline slowly.
+
+
+=== Effect of joint gap on joint strength ===
+The joint gap is the distance between the electrofusion fitting and the pipe material. When no joint gap is present, the resulting joint strength is high but not maximum. As joint gap increases, the joint strength increases to a point, then begins to decline fairly sharply. At larger gaps sufficient pressure cannot build during the fusion time, and the joint strength is low. The effect of joint gap on strength is why the scraping of the pipes before welding is a critical step. Uneven or inconsistent scraping can result in areas where the joint gap is large, leading to low joint strength. 
+
+
+=== Effect of pipe material on joint strength ===
+Pipe materials with higher molecular weights (MW), or densities, will have slower material flow rates when in the molten state during fusion. Despite the differences in flow rates, the final joint strength is generally consistent over a fairly wide range of pipe molecular weights.
+
+
+== References ==

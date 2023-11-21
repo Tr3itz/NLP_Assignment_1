@@ -1,0 +1,63 @@
+Advanced cardiac life support,  advanced cardiovascular life support (ACLS) refers to a set of clinical guidelines for the urgent and emergent treatment of life-threatening cardiovascular conditions that will cause or have caused cardiac arrest, using advanced medical procedures, medications, and techniques. ACLS expands on Basic Life Support (BLS) by adding recommendations on additional medication and advanced procedure use to the CPR guidelines that are fundamental and efficacious in BLS. ACLS is practiced by advanced medical providers including physicians, some nurses and paramedics; these providers are usually required to hold certifications in ACLS care.
+While "ACLS" is almost always semantically interchangeable with the term "Advanced Life Support" (ALS), when used distinctly, ACLS tends to refer to the immediate cardiac care, while ALS tends to refer to more specialized resuscitation care such as ECMO and PCI. In the EMS community, "ALS" may refer to the advanced care provided by paramedics while "BLS" may refer to the fundamental care provided by EMTs and EMRs; without these terms referring to cardiovascular-specific care.
+
+
+== Overview ==
+Advanced cardiac life support refers to a set of guidelines used by medical providers to treat life-threatening cardiovascular conditions. These life-threatening conditions range from dangerous arrhythmias to cardiac arrest. ACLS algorithms frequently address at least five different aspects of peri-cardiac arrest care: Airway management, ventilation, CPR compressions (continued from BLS), defibrillation, and medications. Due to the seriousness of the diseases treated, the paucity of data known about most ACLS patients, and the need for multiple, rapid, simultaneous treatments, ACLS is executed as a standardized, algorithmic set of treatments. Successful ACLS treatment starts with diagnosis of the correct EKG rhythm causing the arrest. Common cardiac arrest rhythms covered by ACLS guidelines include: ventricular tachycardia, ventricular fibrillation, Pulseless Electrical Activity, and asystole. Dangerous, non-arrest rhythms typically covered includes: narrow- and wide-complex tachycardias, torsades de pointe, atrial fibrillation/flutter with rapid ventricular response, and bradycardia.Successful ACLS treatment generally requires a team of trained individuals. Common team roles include: Leader, back-up leader, 2 CPR performers, an airway/respiratory specialist, an IV access and medication administration specialist, a monitor/ defibrillator attendant, a pharmacist, a lab member to send samples, and a recorder to document the treatment. For in-hospital events, these members are frequently physicians, mid-level providers, nurses and allied health providers; while for out-of-hospital events, these teams are usually composed of a small number of EMTs and paramedics.
+
+
+== Scope ==
+ACLS algorithms include multiple, simultaneous treatment recommendations.  Some ACLS providers may be required to strictly adhere to these guidelines, however physicians may generally deviate to pursue different evidence-based treatment, especially if they are addressing an underlying cause of the arrest and/or unique aspects of a patient's care. ACLS algorithms are complex but the table, below, demonstrates common aspects of ACLS care.
+
+
+== ACLS Certification ==
+Due to the rapidity and complexity of ACLS care, as well as the recommendation that it be performed in a standardized fashion, providers must usually hold certifications in ACLS care. Certifications may be provided by a few different, generally national, organizations but their legitimacy is ultimately determined by hospital hiring and privileging boards; that is, ACLS certification is frequently a requirement for employment as a health care provider at most hospitals.  ACLS certifications usually provide education on the aforementioned aspects of ACLS care except for specialized resuscitation techniques. Specialized resuscitation techniques are not covered by ACLS certifications and their use is restricted to further specialized providers. ACLS education is based on ILCOR recommendations which are then adapted to local practices by authoritative medical organizations such as the American Red Cross, the European Resuscitation Council, or the Resuscitation Council of Asia.
+BLS proficiency is usually a prerequisite to ACLS training; however the initial portions of an ACLS class may cover CPR. Initial training usually takes around 15 hours and includes both classroom instruction and hands-on simulation experience; passing a test, with a practical component, at the end of the course is usually the final requirement to receive certification. After receiving initial certification, providers must usually recertify every two years in a class with similar content that lasts about seven hours.  Widely accepted providers of ACLS certification include, non-exclusively: American Heart Association, American Red cross,  European Resuscitation Council or the Australian Resuscitation Council.
+Holding ACLS certification is a testament to a provider's education on ACLS guidelines. The certification does not superseded a provider's scope of practice as determined by state law or employer protocols; and does not, itself, provide any license to practice.
+
+
+== Efficacy of ACLS ==
+Like a medical intervention, researchers have had to ask whether ACLS is effective. Data generally demonstrates that patients have better survival outcomes (increased ROSC, increased survival to hospital discharge and/or superior neurological outcomes) when they receive ACLS; however a large study of ROC patients showed that this effect may only be if ACLS is delivered in the first six minutes of arrest. This study also found that ACLS increases survival but does not produce superior neurological outcomes.
+Some studies have raised concerns that ACLS education can be inconstantly or inadequately taught which can result in poor retention, leading to poor ACLS performance. One study from 1998 looked at the ACLS use of epinephrine, atropine, bicarbonate, calcium, lidocaine, and bretylium in cardiac arrests and found that these medications were not associated with higher resuscitation rates.Research on ACLS can be challenging because ACLS is a bundle of care recommendations; with each individual treatment component being profoundly consequential. There is active debate within the resuscitation research community about the value of certain interventions. Active areas of research include determining the value of vasopressors in arrests, ideal airway use and different waveforms for defibrillation.
+
+
+== International guidelines ==
+Stemming from the need for standardized, evidence based ACLS guidelines, an international network of academic resuscitation organizations was created. The International Liaison Committee on Resuscitation (ILCOR) is the central, international institution that regional resuscitation committees strive to contribute to and disseminate information from. The centralization of resuscitation research around ILCOR reduces redundant work internationally, allows for collaboration between experts from many regional organizations, and produces higher quality, higher powered research.
+
+
+=== International Liaison Committee on Resuscitation ===
+ILCOR serves as a way for international resuscitation organizations to communicate and collaborate. ILCOR publishes scientific evidence reviews on resuscitation known as "Continuous Evidence Evaluation (CEE) and Consensus on Science with Treatment Recommendations (CoSTRs)". ILCOR uses 6 international task forces to review over 180 topics through a structured systematic-review process. ILCOR traditionally published updates and recommendations every five years but now conducts continuous review work. ILCOR produces international recommendations which are then adopted by regional resuscitation committees which publish guidelines. Regional guidelines can have more medicolegal bearing than ILCOR recommendations. ILCOR is composed of the following regional organizations:
+
+
+== History ==
+
+
+=== ILCOR ===
+The International Liaison Committee on Resuscitation (ILCOR) was established 1992 to serve as a way for international resuscitation organizations to communicate and collaborate.
+
+
+=== AHA Guidelines ===
+The ACLS guidelines were first published in 1974 by the American Heart Association and were updated in 1980, 1986, 1992, 2000, 2005, 2010, 2015. In the 2020 update the guidelines were restructured to align with ILCOR recommendations. These changes include the transition since 2015 away from the previous 5-year update cycle to an online format that can be updated as indicated by continuous evidence review.
+
+
+=== ERC Guidelines ===
+The first version of the European Resuscitation Council (ERC) guidelines were developed in 1992. The 2000 ERC guidelines were developed in collaboration with ILCOR. 5-year updates were published from 2000 to 2015 and annual updates have been published since 2017.
+
+
+== See also ==
+Cardiopulmonary resuscitation (CPR)
+Cardioversion
+Defibrillation
+British Heart Foundation
+Indian Heart Association
+Pediatric Advanced Life Support
+Resuscitation Council (UK)
+
+
+== References ==
+
+
+== External links ==
+2015 Guidelines from European Resuscitation Council
+2015 Guidelines from the AHA
+2020 Guidelines from the AHA

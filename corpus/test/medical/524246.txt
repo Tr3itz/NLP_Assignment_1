@@ -1,0 +1,15 @@
+In pathology, pathogenesis is the process by which a disease or disorder develops. It can include factors which contribute not only to the onset of the disease or disorder, but also to its progression and maintenance. The word comes from Ancient Greek  πάθος (pathos) 'suffering, disease', and  γένεσις (genesis) 'creation'.
+
+
+== Description ==
+Types of pathogenesis include microbial infection, inflammation, malignancy and tissue breakdown. For example, bacterial pathogenesis is the process by which bacteria cause infectious illness.Most diseases are caused by multiple processes.  For example, certain cancers arise from dysfunction of the immune system (skin tumors and lymphoma after a renal transplant, which requires immunosuppression), Streptococcus pneumoniae is spread through contact with respiratory secretions, such as saliva, mucus, or cough droplets from an infected person and colonizes the upper respiratory tract and begins to multiply.The pathogenic mechanisms of a disease (or condition) are set in motion by the underlying causes, which if controlled would allow the disease to be prevented. Often, a potential cause is identified by epidemiological observations before a pathological link can be drawn between the cause and the disease. The pathological perspective can be directly integrated into an epidemiological approach in the interdisciplinary field of molecular pathological epidemiology. Molecular pathological epidemiology can help to assess pathogenesis and causality by means of linking a potential risk factor to molecular pathologic signatures of a disease. Thus, the molecular pathological epidemiology paradigm can advance the area of causal inference.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Haugan S, Bjornson W (2009). Avian influenza: etiology, pathogenesis, and interventions. Hauppauge, NY: Nova Science Publishers. ISBN 978-1-60741-846-7.

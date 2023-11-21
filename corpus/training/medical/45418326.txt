@@ -1,0 +1,14 @@
+The Modified Ashworth scale (MAS) measures resistance during passive soft-tissue stretching and is used as a simple measure of spasticity.
+Scoring (taken from Bohannon and Smith, 1987):
+
+0: No increase in muscle tone
+1: Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension
+1+: Slight increase in muscle tone, manifested by a catch, followed by minimal resistance throughout the remainder (less than half) of the ROM
+2: More marked increase in muscle tone through most of the ROM, but affected part(s) easily moved
+3: Considerable increase in muscle tone, passive movement difficult
+4: Affected part(s) rigid in flexion or extension
+
+
+== References ==
+
+2 Bohannon RW and Smith MB; 1987:Physical Therapy, 67(2), 206–207

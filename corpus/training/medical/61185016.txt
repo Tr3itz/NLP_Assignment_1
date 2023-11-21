@@ -1,0 +1,24 @@
+Comparative oncology integrates the study of oncology in non-human animals into more general studies of cancer biology and therapy. The field encompasses naturally seen cancers in veterinary patients and the extremely low rates of cancers seen in large mammals such as elephants and whales.
+
+
+== Mammalian cancers ==
+Species that are treated in the veterinary clinic, including dogs, cats, horses and ferrets, present human-relevant cancers.
+
+
+=== Canines ===
+Of these, the dog has the greatest number of incidents. One in four dogs older than 2 dies of cancer, a rate that has increased, which may in part be explained by reductions in other causes of death. Canine cancer shares features with human cancer, including histology, tumor genetics, molecular targets, biological behavior and therapeutic response. Canine histologies include osteosarcoma, melanoma, non-Hodgkin’s lymphoma, leukemia, prostate, breast and lung cancer, head and neck cancer, soft tissue sarcomas and bladder cancer. Tumor initiation and progression are influenced by age, nutrition, sex, reproduction and environmental exposure. Canine models support the study of metastasis, disease recurrence and resistance patterns, with relevance to human cancers.Since 2009 some ten drugs have been developed in part based on studies with dogs. On July 3, 2019 FDA approved selinexor (Xpovio) for multiple myeloma patients who have failed five or more therapies. Verdinexor is the veterinary form of this drug. It is under study for canine lymphoma and as a human antiviral therapy.
+
+
+== Large mammals ==
+Since cancer typically begins as a mutation in a single cell, risks should increase with the number of cells in an organism. Elephants carry 100 times as many cells as humans, while whales have ten times more than elephants. Both should experience higher cancer rates than humans. However, these species instead have few cancers. This situation is known as Peto’s paradox.Around 50 MYA, mammals began living in the sea, later evolving into whales. They remained small until about 3 MYA when they reached sizes common to modern cetaceans. As whale sizes increased, tumour-suppressor genes increased in number and effect.33 tumour-suppressing genes have been identified in humpback whales. These include atr, which detects damage to DNA and halts cell division; amer1, which slows cell growth; and reck, which limits metastasis. Humpbacks have multiple copies of genes that promote apoptosis. Gigantism in cetacea is associated with selective pressure in favor of tumor-suppressing genes.Cancer biologists are familiar with the atr, amer1 and reck genes because they are found in humans. Whales may also harbour tumour-fighting genes unknown in humans.Elephants have a cancer-mortality rate of about 5% (humans face 11-25%). Elephant genomes include tp53, a gene that encodes apoptosis-inducing protein p53. Humans have two copies of tp53—one from each parent. If one copy is dysfunctional humans experience Li-Fraumeni syndrome, accompanied by cancer. By contrast, elephant chromosomes have 40 copies of tp53.Elephant p53 appears to be more powerful than its human counterpart. One experiment involves lipid spheres loaded with proteins, including a synthetic form of elephant p53.
+
+
+== Other species ==
+Researchers are investigating cancer rates in 13,000 animal species, including 170,000+ specimens, including sponges that have no reported cancer.Tumour-suppressing genes have been identified in 65 species of mammal. Naked mole rats experience low cancer rates even though they are smaller than humans. Crocodiles and birds also experience low cancer rates. Birds may have inherited their resistance from their much larger dinosaur ancestors.
+
+
+== References ==
+
+
+== External links ==
+Vail, David M (April 2013). "Comparative oncology – the North American experience". BMC Proceedings. 7 (S2): K5. doi:10.1186/1753-6561-7-S2-K5. ISSN 1753-6561. PMC 3624158. PMID 24764484.

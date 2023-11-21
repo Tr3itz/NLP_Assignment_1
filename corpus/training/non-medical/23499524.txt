@@ -1,0 +1,672 @@
+Hansen's problem is a problem in planar surveying, named after the astronomer Peter Andreas Hansen (1795–1874), who worked on the geodetic survey of Denmark. There are two known points A and B, and two unknown points P1 and P2. From P1 and P2 an observer measures the angles made by the lines of sight to each of the other three points.  The problem is to find the positions of P1 and P2. See figure; the angles measured are (α1, β1, α2, β2).
+Since it involves observations of angles made at unknown points, the problem is an example of resection (as opposed to intersection).
+
+
+== Solution method overview ==
+Define the following angles: 
+γ = P1AP2, δ = P1BP2, φ = P2AB, ψ = P1BA.
+As a first step we will solve for φ and ψ.
+The sum of these two unknown angles is equal to the sum of β1 and β2, yielding the equation
+
+  
+    
+      
+        ϕ
+        +
+        ψ
+        =
+        
+          β
+          
+            1
+          
+        
+        +
+        
+          β
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \phi +\psi =\beta _{1}+\beta _{2}.}
+  A second equation can be found more laboriously, as follows.  The law of sines yields
+
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            
+              
+                P
+                
+                  2
+                
+              
+              B
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                α
+                
+                  2
+                
+              
+            
+            
+              sin
+              ⁡
+              ϕ
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {AB}{P_{2}B}}={\frac {\sin \alpha _{2}}{\sin \phi }}}
+   and
+
+  
+    
+      
+        
+          
+            
+              
+                P
+                
+                  2
+                
+              
+              B
+            
+            
+              
+                P
+                
+                  1
+                
+              
+              
+                P
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                β
+                
+                  1
+                
+              
+            
+            
+              sin
+              ⁡
+              δ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {P_{2}B}{P_{1}P_{2}}}={\frac {\sin \beta _{1}}{\sin \delta }}.}
+  Combining these, we get
+
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            
+              
+                P
+                
+                  1
+                
+              
+              
+                P
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                α
+                
+                  2
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  1
+                
+              
+            
+            
+              sin
+              ⁡
+              ϕ
+              sin
+              ⁡
+              δ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {AB}{P_{1}P_{2}}}={\frac {\sin \alpha _{2}\sin \beta _{1}}{\sin \phi \sin \delta }}.}
+  Entirely analogous reasoning on the other side yields
+
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            
+              
+                P
+                
+                  1
+                
+              
+              
+                P
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                α
+                
+                  1
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  2
+                
+              
+            
+            
+              sin
+              ⁡
+              ψ
+              sin
+              ⁡
+              γ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {AB}{P_{1}P_{2}}}={\frac {\sin \alpha _{1}\sin \beta _{2}}{\sin \psi \sin \gamma }}.}
+  Setting these two equal gives
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              ϕ
+            
+            
+              sin
+              ⁡
+              ψ
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              γ
+              sin
+              ⁡
+              
+                α
+                
+                  2
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  1
+                
+              
+            
+            
+              sin
+              ⁡
+              δ
+              sin
+              ⁡
+              
+                α
+                
+                  1
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        k
+        .
+      
+    
+    {\displaystyle {\frac {\sin \phi }{\sin \psi }}={\frac {\sin \gamma \sin \alpha _{2}\sin \beta _{1}}{\sin \delta \sin \alpha _{1}\sin \beta _{2}}}=k.}
+  Using a known trigonometric identity this ratio of sines can be expressed as the tangent of an angle difference:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          
+            
+              ϕ
+              −
+              ψ
+            
+            2
+          
+        
+        =
+        
+          
+            
+              k
+              −
+              1
+            
+            
+              k
+              +
+              1
+            
+          
+        
+        tan
+        ⁡
+        
+          
+            
+              ϕ
+              +
+              ψ
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \tan {\frac {\phi -\psi }{2}}={\frac {k-1}{k+1}}\tan {\frac {\phi +\psi }{2}}.}
+  Where 
+  
+    
+      
+        
+          k
+          =
+        
+        
+          
+            
+              sin
+              ⁡
+              ϕ
+            
+            
+              sin
+              ⁡
+              ψ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {k=}{\frac {\sin \phi }{\sin \psi }}.}
+  
+This is the second equation we need. Once we solve the two equations for the two unknowns 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   and 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  , we can use either of the two expressions above for 
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            
+              
+                P
+                
+                  1
+                
+              
+              
+                P
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {AB}{P_{1}P_{2}}}}
+   to find P1P2 since AB is known.  We can then find all the other segments using the law of sines.
+
+
+== Solution algorithm ==
+We are given four angles (α1, β1, α2, β2) and the distance AB.  The calculation proceeds as follows:
+
+Calculate 
+  
+    
+      
+        γ
+        =
+        π
+        −
+        
+          α
+          
+            1
+          
+        
+        −
+        
+          β
+          
+            1
+          
+        
+        −
+        
+          β
+          
+            2
+          
+        
+        ,
+        
+        δ
+        =
+        π
+        −
+        
+          α
+          
+            2
+          
+        
+        −
+        
+          β
+          
+            1
+          
+        
+        −
+        
+          β
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \gamma =\pi -\alpha _{1}-\beta _{1}-\beta _{2},\quad \delta =\pi -\alpha _{2}-\beta _{1}-\beta _{2}.}
+  
+Calculate 
+  
+    
+      
+        k
+        =
+        
+          
+            
+              sin
+              ⁡
+              γ
+              sin
+              ⁡
+              
+                α
+                
+                  2
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  1
+                
+              
+            
+            
+              sin
+              ⁡
+              δ
+              sin
+              ⁡
+              
+                α
+                
+                  1
+                
+              
+              sin
+              ⁡
+              
+                β
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle k={\frac {\sin \gamma \sin \alpha _{2}\sin \beta _{1}}{\sin \delta \sin \alpha _{1}\sin \beta _{2}}}.}
+  
+Let 
+  
+    
+      
+        s
+        =
+        
+          β
+          
+            1
+          
+        
+        +
+        
+          β
+          
+            2
+          
+        
+        ,
+        
+        d
+        =
+        2
+        arctan
+        ⁡
+        
+          [
+          
+            
+              
+                
+                  k
+                  −
+                  1
+                
+                
+                  k
+                  +
+                  1
+                
+              
+            
+            tan
+            ⁡
+            (
+            s
+            
+              /
+            
+            2
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle s=\beta _{1}+\beta _{2},\quad d=2\arctan \left[{\frac {k-1}{k+1}}\tan(s/2)\right]}
+   and then 
+  
+    
+      
+        ϕ
+        =
+        (
+        s
+        +
+        d
+        )
+        
+          /
+        
+        2
+        ,
+        
+        ψ
+        =
+        (
+        s
+        −
+        d
+        )
+        
+          /
+        
+        2.
+      
+    
+    {\displaystyle \phi =(s+d)/2,\quad \psi =(s-d)/2.}
+  
+Calculate  or equivalently  If one of these fractions has a denominator close to zero, use the other one.
+
+
+== See also ==
+Solving triangles
+Snell's problem
+
+
+== References ==

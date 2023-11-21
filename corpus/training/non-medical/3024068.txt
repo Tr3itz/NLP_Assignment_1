@@ -1,0 +1,38 @@
+A line of force in Faraday's extended sense is synonymous with Maxwell's line of induction. According to J.J. Thomson, Faraday usually discusses lines of force as chains of polarized particles in a dielectric, yet sometimes Faraday discusses them as having an existence all their own as in stretching across a vacuum. In addition to lines of force, J.J. Thomson—similar to Maxwell—also calls them tubes of electrostatic inductance, or simply Faraday tubes.  From the 20th century perspective, lines of force are energy linkages embedded in a 19th-century unified field theory that led to more mathematically and experimentally sophisticated concepts and theories, including Maxwell's equations, electromagnetic waves, and Einstein's relativity.
+Lines of force originated with Michael Faraday, whose theory holds that all of reality is made up of force itself.  His theory predicts that electricity, light, and gravity have finite propagation delays.  The theories and experimental data of later scientific figures such as Maxwell, Hertz, Einstein, and others are in agreement with the ramifications of Faraday's theory.  Nevertheless, Faraday's theory remains distinct. Unlike Faraday, Maxwell and others (e.g., J.J. Thomson) thought that light and electricity must propagate through an ether.  In Einstein's relativity, there is no ether, yet the physical reality of force is much weaker than in the theories of Faraday.Historian Nancy J. Nersessian in her paper "Faraday's Field Concept" distinguishes between the ideas of Maxwell and Faraday:
+
+The specific features of Faraday's field concept, in its 'favourite' and most complete form, are that force is a substance, that it is the only substance and that all forces are interconvertible through various motions of the lines of force. These features of Faraday's 'favourite notion' were not carried on. Maxwell, in his approach to the problem of finding a mathematical representation for the continuous transmission of electric and magnetic forces, considered these to be states of stress and strain in a mechanical aether. This was part of the quite different network of beliefs and problems with which Maxwell was working.
+
+
+== Views of Faraday ==
+At first Faraday considered the physical reality of the lines of force as a possibility, yet several scholars agree that for Faraday their physical reality became a conviction. One scholar dates this change in the year 1838. Another scholar dates this final strengthening of his belief in 1852. Faraday experimentally studied lines of magnetic force and lines of electrostatic force, showing them not to fit action at a distance models. In 1852 Faraday wrote the paper "On the Physical Character of the Lines of Magnetic Force" which examined gravity, radiation, and electricity, and their possible relationships with the transmission medium, transmission propagation, and the receiving entity.
+
+
+== Views of Maxwell ==
+Initially, Maxwell took an agnostic approach in his mathematization of Faraday's theories.  This is seen in Maxwell's 1855 and 1856 papers:  "On Faraday's Lines of Force" and "On Faraday's Electrotontic State". In the 1864 paper "A Dynamical Theory of the Electromagnetic Field" Maxwell gives scientific priority of the electromagnetic theory of light to Faraday and his 1846 paper "Thoughts on Ray Vibrations". Maxwell wrote:
+
+Faraday discovered that when a plane polarized ray traverses a transparent diamagnetic medium in the direction of the lines of magnetic force produced by magnets or currents in the neighborhood, the plane of polarization is caused to rotate.
+
+The conception of the propagation of transverse magnetic disturbances to the exclusion of normal ones is distinctly set forth by Professor Faraday in his "Thoughts on Ray Vibrations." The electromagnetic theory of light, as proposed by him, is the same in substance as that which I have begun to develop in this paper, except that in 1846 there was no data to calculate the velocity of propagation.
+
+
+== Tube of force ==
+Maxwell changed Faraday's phrase lines of force to tubes of force, when expressing his fluidic assumptions involved in his mathematization of Faraday's theories.  A tube of force, also called a tube of electrostatic induction or field tube, are the lines of electric force which moves so that its beginning traces a closed curve on a positive surface, its end will trace a corresponding closed curve on the negative surface, and the line of force itself will generate an inductive tubular surface. Such a tube is called a "Solenoid". There is a pressure at right angles to a tube of force of one half the product of the dielectric and magnetic density. If through the growth of a field the tubes of force are spread sideways or in width there is a magnetic reaction to that growth in intensity of electric current. However, if a tube of force is caused to move endwise there is little or no drag to limit velocity. Tubes of force are absorbed by bodies imparting momentum and gravitational mass. Tubes of force are a group of electric lines of force.
+
+
+== Magnetic curves ==
+Early on in his research (circa 1831), Faraday calls the patterns of apparently continuous curves traced out in metallic filings near a magnet magnetic curves.  Later on he refers to them as just an instance of magnetic lines of force or simply lines of force. Eventually Faraday would also begin to use the phrase "magnetic field".
+
+
+== See also ==
+Field line
+Flux tube
+Flux
+
+
+== Other relevant papers ==
+Faraday, Michael, "Thoughts on Ray Vibrations", Philosophical Magazine, May 1846, or Experimental Researches, iii, p. 447
+Faraday, Michael, Experimental Researches, Series 19.
+
+
+== Notes ==

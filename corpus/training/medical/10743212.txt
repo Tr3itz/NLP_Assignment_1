@@ -1,0 +1,21 @@
+Gross processing, "grossing" or "gross pathology" is the process by which pathology specimens undergo examination with the bare eye to obtain diagnostic information, as well as cutting and tissue sampling in order to prepare material for subsequent microscopic examination.
+
+
+== Responsibility ==
+Gross examination of surgical specimens is typically performed by a pathologist, or by a pathologists' assistant working within a pathology practice. Individuals trained in these fields are often able to gather diagnostically critical information in this stage of processing, including the stage and margin status of surgically removed tumors.
+
+
+== Steps ==
+The initial step in any examination of a clinical specimen is confirmation of the identity of the patient and the anatomical site from which the specimen was obtained. Sufficient clinical data should be communicated by the clinical team to the pathology team in order to guide the appropriate diagnostic examination and interpretation of the specimen - if such information is not provided, it must be obtained by the examiner prior to processing the specimen.
+There are usually two end products of the gross processing of a surgical specimen. The first is the gross description, a document which serves as the written record of the examiner's findings, and is included in the final pathology report. The second product is a set of tissue blocks, typically postage stamp-sized portions of tissue sealed in plastic cassettes, which will be processed into slides for microscopic examination. Since only a minority of the tissue from a large specimen can reasonably be subject to microscopic examination, the success of the final histological diagnosis is highly dependent on the skill of the professional performing the gross examination. The gross examiner may sample portions of the specimen for other types of ancillary tests as diagnostically indicated; these include microbiological culture, flow cytometry, cytogenetics, or electron microscopy.
+
+
+== Perpendicular versus en face sections ==
+Two major types of sections in gross processing are perpendicular and en face sections:
+
+Perpendicular sections allow for measurement of the distance between a lesion and the surgical margin.
+En face means that the section is tangential to the region of interest (such as a lesion) of a specimen. It does not in itself specify whether subsequent microtomy of the slice should be performed on the peripheral or proximal surface of the slice (the peripheral surface of an en face section is closer to being the true margin, whereas the proximal surface generally displays more area and therefore generally has greater sensitivity in showing pathology, also compared to perpendicular sections).A shaved section is a superficial en face slice that contains the entire surface of the segment.
+
+
+== See also ==
+Timeline of myocardial infarction pathology, including gross examination findings

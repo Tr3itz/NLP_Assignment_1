@@ -1,0 +1,19 @@
+Accelerated idioventricular rhythm is a ventricular rhythm with a rate of between 40 and 120 beats per minute. Idioventricular means “relating to or affecting the cardiac ventricle alone” and refers to any ectopic ventricular arrhythmia.  Accelerated idioventricular arrhythmias are distinguished from ventricular rhythms with rates less than 40 (ventricular escape) and those faster than 120 (ventricular tachycardia). Though some other references limit to between 60 and 100 beats per minute.  It is also referred to as AIVR and "slow ventricular tachycardia."
+It can be present at birth. However, it is more commonly associated with reperfusion after myocardial injury. AIVR is generally considered to be a benign abnormal heart rhythm. It is typically temporary and does not require treatment.
+
+
+== Pathophysiology ==
+In the human heart, the sinoatrial node is located at the top of the right atrium. The sinoatrial node is the first area of the heart to depolarize and to generate the action potential that leads to the depolarization of the rest of the myocardium. Sinoatrial depolarization and subsequent propagation of the electrical impulse suppress the action of the lower natural pacemakers of the heart, which have slower intrinsic rates.The accelerated idioventricular rhythm occurs when depolarization rate of a normally suppressed focus increases to above that of the "higher order" focuses (the sinoatrial node and the atrioventricular node). This most commonly occurs in the setting of a sinus bradycardia.Accelerated idioventricular rhythm is the most common reperfusion arrhythmia in humans. However, ventricular tachycardia and ventricular fibrillation remain the most important causes of sudden death following spontaneous restoration of antegrade flow. Prior to the modern practice of percutaneous coronary intervention for acute coronary syndrome, pharmacologic thrombolysis was more common and accelerated idioventricular rhythms were used as a sign of successful reperfusion. It is considered a benign arrhythmia especially in the setting of STEMI(where it is conventionally thought to be an indicator of reperfusion) that does not require intervention, though atrioventricular dyssynchrony can cause hemodynamic instability, which can be treated through overdrive pacing or atropine.
+
+
+== Diagnosis ==
+
+
+=== Differential diagnosis ===
+AIVR appears similar to ventricular tachycardia with wide QRS complexes (QRS >0.12s) and a regular rhythm. It can most easily be distinguished from VT in that the rate is less than 120 and usually less than 100 bpm. There may or may not be AV dissociation depending on whether it is due to ventricular escape or AV block.
+
+
+== References ==
+
+
+== External links ==

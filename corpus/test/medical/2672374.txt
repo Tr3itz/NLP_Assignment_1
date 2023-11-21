@@ -1,0 +1,68 @@
+Homeobox protein NANOG (hNanog) is a transcriptional factor that helps embryonic stem cells (ESCs) maintain pluripotency by suppressing cell determination factors. hNanog is encoded in humans by the NANOG gene. Several types of cancer are associated with NANOG.
+
+
+== Etymology ==
+The name NANOG derives from Tír na nÓg (Irish for "Land of the Young"), a name given to the Celtic Otherworld in Irish and Scottish mythology.
+
+
+== Structure ==
+The human hNanog protein coded by the NANOG gene, consists of 305 amino acids and possesses 3 functional domains: the N-terminal domain, the C- terminal domain, and the conserved homeodomain motif. The homeodomain region facilitates DNA binding. The NANOG is located on chromosome 12, and the mRNA contains a 915 bp open reading frame (ORF) with 4 exons and 3 introns.The N-terminal region of hNanog is rich in serine, threonine and proline residues, and the C-terminus contains a tryptophan-rich domain. The homeodomain in hNANOG ranges from residues 95 to 155. There are also additional NANOG genes (NANOG2, NANOG p8) which potentially affect ESCs' differentiation. Scientists have shown that NANOG is fundamental for self-renewal and pluripotency, and NANOG p8 is highly expressed in cancer cells.
+
+
+== Function ==
+NANOG is a transcription factor in embryonic stem cells (ESCs) and is thought to be a key factor in maintaining pluripotency. NANOG is thought to function in concert with other factors such as POU5F1 (Oct-4) and SOX2 to establish ESC identity. These cells offer an important area of study because of their ability to maintain pluripotency. In other words, these cells have the ability to become virtually any cell of any of the three germ layers (endoderm, ectoderm, mesoderm).  It is for this reason that understanding the mechanisms that maintain a cell's pluripotency is critical for researchers to understand how stem cells work, and may lead to future advances in treating degenerative diseases.
+NANOG has been described to be expressed in the posterior side of the epiblast at the onset of gastrulation. There, NANOG has been implicated in inhibiting embryonic hematopoiesis by repressing the expression of the transcription factor Tal1. In this embryonic stage, NANOG represses Pou3f1, a transcription factor crucial for the anterior-posterior axis formation.Analysis of arrested embryos demonstrated that embryos express pluripotency marker genes such as POU5F1, NANOG and Rex1.  Derived human ESC lines also expressed specific pluripotency markers:
+
+TRA-1-60
+TRA-1-81
+SSEA4
+alkaline phosphatase
+TERT
+Rex1These markers allowed for the differentiation in vitro and in vivo conditions into derivatives of all three germ layers.POU5F1, TDGF1 (CRIPTO), SALL4, LECT1, and BUB1 are also related genes all responsible for self-renewal and pluripotent differentiation.The NANOG protein has been found to be a transcriptional activator for the Rex1 promoter, playing a key role in sustaining Rex1 expression. Knockdown of NANOG in embryonic stem cells results in a reduction of Rex1 expression, while forced expression of NANOG stimulates Rex1 expression.Besides the effects of NANOG in the embryonic stages of life, ectopic expression of NANOG in the adult stem cells can restore the proliferation and differentiation potential that is lost due to organismal aging or cellular senescence.
+
+
+== Clinical significance ==
+
+
+=== Cancer ===
+NANOG is highly expressed in cancer stem cells and may thus function as an oncogene to promote carcinogenesis. High expression of NANOG correlates with poor survival in cancer patients.Recent research has shown that the localization of NANOG and other transcription factors have potential consequences on cellular function. Experimental evidence has shown that the level of NANOG p8 expression is elevated specially in cancer cells, which mean that NANOG p8 gene is a critical member in (CSCs) Cancer stem cells, so knocking it down could reduce the cancer malignancy.
+
+
+=== Diagnostics ===
+NANOG p8 gene has been evaluated as a prognostic and predictive cancer biomarker.
+
+
+== Cancer stem cells ==
+Nanog is a transcription factor that controls both self-renewal and pluripotency of embryonic stem cells. Similarly, the expression of Nanog family proteins is increased in many types of cancer and correlates with a worse prognosis.
+
+
+== Evolution ==
+Humans and chimpanzees share ten NANOG pseudogenes (NanogP2-P11) during evaluation, two of them are located on the X chromosome and they characterized by the 5’ promoter sequences and the absence of introns as a result of mRNA retrotransposition all in the same places: one duplication pseudogene and nine retropseudogenes. Of the nine shared NANOG retropseudogenes, two lack the poly-(A) tails characteristic of most retropseudogenes, indicating that copying errors occurred during their creation. Due to the high improbability that the same pseudogenes (copying errors included) would exist in the same places in two unrelated genomes, evolutionary biologists point to NANOG and its pseudogenes as providing evidence of common descent between humans and chimpanzees.
+
+
+== See also ==
+Enhancer
+Histone
+Oct-4
+Pribnow box
+Promoter
+RNA polymerase
+Brachyury
+Transcription factors
+Gene regulatory network
+Bioinformatics
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+NANOG+protein,+human at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Nanog+protein,+mouse at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+FactorBook NANOG
+"Core Transcriptional Regulatory Circuitry in Human Embryonic Stem Cells". Young Lab. Whitehead Institute for Biomedical Research. Archived from the original on 2009-06-28. Retrieved 2009-02-28.
+"Jaenisch Lab Research Summary". Whitehead Institute. Archived from the original on 2012-06-26. Retrieved 2009-02-28.
+Discovery reveals more about stem cells' immortality

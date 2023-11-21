@@ -1,0 +1,25 @@
+An electrical junction is a point or area where (a) two or more conductors or (b) different semiconducting regions of differing electrical properties make physical contact. Electrical junctions types include thermoelectricity junctions, metal–semiconductor junctions and p–n junctions. Junctions are either rectifying or non-rectifying. Non-rectifying junctions comprise ohmic contacts, which are characterised by a linear current–voltage (
+  
+    
+      
+        I
+        −
+        V
+      
+    
+    {\displaystyle I-V}
+  ) relation. Electronic components employing rectifying junctions include p–n diodes, Schottky diodes and bipolar junction transistors.
+
+
+== See also ==
+Break junction
+Depletion region, also called junction region
+Junction voltage
+Heterojunction
+Homojunction
+Josephson junction
+Nodal analysis
+p–n junction isolation
+
+
+== References ==

@@ -1,0 +1,41 @@
+This is a list of forms of electricity named after scientists.  The terms in this list are mostly archaic usages but are found in many 19th and early 20th-century publications.
+
+
+== Adjectives ==
+faradic
+Of electricity that is alternating, especially when obtained from an induction coil.  Named after Michael Faraday who built the first electromagnetic generator.
+galvanic
+Of electricity that is not alternating.  Named after Luigi Galvani.
+voltaic
+Of electricity derived from an electrochemical cell or battery.  Named after Alessandro Volta who built the first battery, the voltaic pile.  In most contexts it can be considered a synonym of galvanic.
+
+
+== Nouns (applications) ==
+Faradization
+Electrotherapy treatment of a person with faradic electricity.  Coined by Duchenne de Boulogne and named after Michael Faraday.
+Franklinization
+Electrotherapy by charging a person to high voltage with static electricity.  Named after Benjamin Franklin.
+d'Arsonvalization
+Electrotherapy treatment of a person with high frequency electricity.  Named after Jacques-Arsène d'Arsonval.
+
+
+== Nouns (forms) ==
+Faradism
+Faradic electricity
+Franklinism
+High voltage static electricity as used in Franklinization
+Galvanism
+Originally, voltaic electricity, but can also be used to distinguish Galvani's animal electricity from Volta's chemical/metal contact electricity
+
+
+== References ==
+
+
+== Bibliography ==
+Borck, Cornelius, Brainwaves: A Cultural History of Electroencephalography, Routledge, 2018 ISBN 1472469445.
+Chalovich, Joseph M, Franklinization: Early Therapeutic Use of Static Electricity, ScholarShip, East Carolina University, 23 January 2012.
+Martellucci,  Jacopo (ed), Electrical Stimulation for Pelvic Floor Disorders, Springer, 2014 ISBN 3319069470.
+de la Peňa, Carolyn Thomas, The Body Electric: How Strange Machines Built the Modern American, New York University Press, 2005 ISBN 081471983X.
+Pinchuck, LS; Nikolaev, VI; Tsetkova, EA; Goldade, VA, Tribology and Biophysics of Artificial Joints, Elsevier, 2005 ISBN 0080458084.
+Tate, Thomas, On Magnetism, Voltaic Electricity, and Electrodynamics, London: Longman, Brown, Green, and Longmans, 1854 OCLC 316488126.
+de Young, Mary, Encyclopedia of Asylum Therapeutics, 1750-1950s, McFarland, 2015 ISBN 0786468971.

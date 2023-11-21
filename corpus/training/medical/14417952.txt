@@ -1,0 +1,44 @@
+Carcinosis, or carcinomatosis, is disseminated cancer, forms of metastasis, whether used generally or in specific patterns of spread.
+
+
+== Usage ==
+Carcinomatosis is often restricted to tumors of epithelial origin, adenocarcinomas, while sarcomatosis describes the dissemination of tumors of mesenchymal origin, sarcomas.
+
+
+== Lung ==
+
+
+=== Lymphangitic carcinomatosis ===
+When most tumors metastasize to the lung, they form distinct nodules, but about 7% spread through the lymph vessels of the lung. They may impair breathing in several ways; the lung becomes stiffer; blood vessels traveling alongside the distended lymph vessels become compressed.
+
+
+=== Miliary carcinosis ===
+A pattern of multiple small nodular metastases has been described as miliary carcinosis which has a radiographic appearance similar to miliary tuberculosis.
+
+
+== Body cavities ==
+Any potential space may be seeded with tumor cells that grow along surfaces, but which may not invade below the surfaces. In rare cases, the joint spaces are affected.
+
+
+=== Peritoneal carcinomatosis ===
+
+The lining of the abdominal cavity is a common site for surface dissemination. Ovarian carcinomas are common. Fluid produced by the cells can produce ascites which is typical in carcinomatosis, but less common in peritoneal sarcomatosis. Fluid can be serous as seen in primary peritoneal carcinoma or mucinous such as found in pseudomyxoma peritonei which is typically a tumor derived from the appendix.
+
+
+=== Pleural carcinosis ===
+Pleural carcinosis is associated with malignant pleural effusion and poor prognosis.
+
+
+=== Leptomeningeal carcinomatosis ===
+The meningeal covering of the central nervous system may be the site of tumor growth. Breast cancer, lung cancer and melanoma are the most common tumors.
+
+
+== Treatment ==
+Colorectal cancer patients with peritoneal involvement can be treated with oxaliplatin- or irinotecan-based chemotherapy.  Such treatment is not expected to be curative, but can extend the lives of patients.  Some patients may be cured through hyperthermic intraperitoneal chemotherapy, but the procedure entails a high degree of risk for morbidity or death.
+
+
+== References ==
+
+
+== External links ==
+Carcinosis entry in the public domain NCI Dictionary of Cancer Terms

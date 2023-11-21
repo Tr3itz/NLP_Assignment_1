@@ -1,0 +1,70 @@
+An extension cord (US), extension cable, power extender, drop cord, or extension lead (UK) is a length of flexible electrical power cable (flex) with a plug on one end and one or more sockets on the other end (usually of the same type as the plug). The term usually refers to mains (household AC) extensions but is also used to refer to extensions for other types of cabling. If the plug and power outlet are of different types, the term "adapter cord" may be used.  Most extension cords range from around 2 to 30 feet (0.61 to 9.14 m) in length although they are made up to 300 feet (91.44 m) in length.
+The term "extension cord" has been in use since at least 1925.Extension cords come in various colors, lengths, thicknesses and service duties. In general, the more power needed by the appliance, the thicker the cord needs to be (meaning larger wires inside). Cords which will be used outdoors, in wet areas, around oils, or exposed to sunlight for long periods of time should be selected for such specific conditions.
+An extension reel is an extension lead that rolls up, usually into the socket end, which in some cases has more than one socket on it (often 2 or 4). Another type of extension reel hangs near the plug end and permits the user to draw the cord out by grasping the socket end.
+Some extension cords also incorporate safety features such as a polarized plug and receptacle, grounded terminals, a "power-on" indicator, a fusible link, or even a residual-current device (also known as a ground-fault circuit interrupter or GFCI).
+Some cords contain multiple female connectors in close proximity of one another; others have female connectors spaced along the length of the cord. Cords generally contain either grounded or ungrounded connectors. While a grounded male connector can be forced into an ungrounded female socket, this is unsafe.
+
+
+== Variations ==
+A power strip is a block on the end of a power cable with a number of sockets (usually 3 or more), often arranged in a line. This term is also used to refer to the whole unit of a short extension cord terminating in a power strip.
+A removable power cord is similar but much shorter, and is designed to connect an appliance to a mains outlet. The female end mates with an appliance inlet.
+
+
+== Regulations ==
+
+
+=== National Electrical Code (US) ===
+In the United States the domestic voltage is 120 V, and the National Electrical Code (NEC) prohibits the use of extension cords in a 20 A circuit unless they are of 16 AWG or larger diameter (for example, 14 AWG or 12 AWG).
+As with other flexible cords, the NEC also prohibits their use where attached to building surfaces, concealed inside structures (walls, floors, ceilings), above suspended ceilings, or run through holes or other openings (windows, doors) in structures. The NEC does contain exceptions although they are very limited.
+
+Within the United States, Underwriters Laboratories certifies extension cords as complying with the NEC.  Key standards are UL 817 for the entire extension cord, and UL 62 for the electrical cabling itself.  The United States General Services Administration also maintains a standard for extension cords, J-C-1270, that references the UL standards and provides additional criteria.
+The NEC tries to reduce potential fire hazards by requiring that there be a receptacle within 6 feet (1.8 m) of every point along the wall in residences, reducing the need for extension cords.  However, even in houses with more receptacles than the code requires, there will sometimes be a need for extension cords.
+
+
+=== Europe ===
+In Europe and elsewhere where the normal domestic voltage is around 230 V there may be less risk of causing fire through overheating of cables for any given power due to the lower current.  However most European extension reel cables now include an automatic current cut-out to avoid misuse of the cable. This requires manual resetting if excess current is drawn through the cable. (American multi-plug cords also include such a device, but single- or triple-outlet cords do not.)
+
+
+== Hazards ==
+Fire incident history research has shown that a large proportion of structure fires are caused by extension cords that have been either damaged or overloaded.The insulation of extension cords, particularly light-duty two-wire cords, is easily damaged by being pinched, crushed, or abraded. The cords can also be damaged at the plug and socket connections by being pulled on excessively, which sometimes happens when people trip on them. Overloading can cause an extension cord to heat up to the point that its insulation either melts or carbonizes. Heating appliances may also cause heat damage to the insulation of a cord, melting or burning it away.
+If the internal metal wires are damaged, such as by the cord being crushed in a door, then where the unbroken part of the wires is narrower than the bulk of the wires, this can form a point of high resistance. A hot spot may develop as the resistance of the narrower part of the wire is higher than the rest of the wire, and thus tends to concentrate power dissipation there.
+Animals may chew on the wires and remove some of the insulation.  In any of these cases if the damage is not noticed and the cord is not repaired or taken out of service, the damage can lead to arcing or a short circuit between the wires, which can ignite nearby materials.  The exposed wires of an extension cord with damaged insulation can also present a shock hazard to people and animals.
+
+
+== Safety ==
+Cords running across the floor should be covered with a suitable device to protect them from physical damage. However, they should never be covered with a rug or carpet, as this can produce a serious fire hazard.To avoid the need for rolling-up excess length, using an extension reel or for cutting the cord to size, extension cords are sold in prefabricated lengths of 1 to 150 feet (0.30 to 45.72 m). Every foot of cord increases the electrical resistance, in turn decreasing the power the cord can deliver. Therefore, the longer the cord, the larger the diameter of the conductors need be to minimise voltage drop (wire gauge numbers are smaller for larger diameter wire). Because of this, it is best to use a cord that's exactly as long as needed and no more.
+An extension reel can only carry full rated current when completely extended. This is because the portion of cord on the reel is not exposed to air causing the loss power, (the result of its series resistance), not to dissipate. An extension cord that is in use while coiled up or coiled in a reel can be a serious shock and fire hazard. The heat produced from the resistance cannot dissipate and is instead trapped between the tightly coiled cable, leading to the a fire or shock. Additionally, the ESFI recommends to never use an extension cord that is covered by a rug or blanket, or that is run through a ceiling or wall, since the heat may not be able to dissipate appropriately.
+
+
+== Lead content ==
+Extension cords sold in the United States may contain lead in the PVC insulation sheathing. California Proposition 65 (1986) requires manufacturers to warn consumers when products contain toxic chemicals. Many extension cords carry warning labels that advise consumers to wash their hands after handling them.
+The European directive, RoHS, restricts the use of hazardous materials like lead in the manufacture of electrical products such as extension cords. Some  manufacturers have moved to RoHS compliance but there is currently no widespread movement in the US to stop the manufacture of products containing lead.
+
+
+== Maintenance ==
+The attention required to safely use an extension cord includes routing extension cords away from where they are likely to be damaged, using the shortest cord that will serve each intended purpose, and examining the cords periodically for damage or signs of overloading (melting deformation, darkening in color, or a “burnt” or “electrical” smell).
+Periodic inspection is especially important for cords that may be used in place for a long time, for instance behind furniture, where damage may go unnoticed and by chance conditions are right for a fire or electrical shock incident to occur (e.g. some dust or paper falls near the arcing wire, or a liquid spill occurs and flows to the exposed wire).
+Another dangerous modification to an extension cord is removing the third prong in order to fit sockets, which results in removing of the grounding prong, as well as loss of the hot/neutral prong distinction.
+
+
+== Signal cable extenders ==
+
+Extension cords sometimes refer to cables that add to the length of signal transmission cables or combined signal/electrical cables (for example, USB cables). They are more likely to be called "extenders" or "extender cables" or "cable extenders". Such extenders have one male and one female connector.
+Passive USB extender cables do not meet the USB standards and thus are forbidden to carry the USB logo.  The only cable structure recognized by the official USB standards is one with an A plug and a B plug (such as Micro USB, Lightning, and USB-C among others) at either end.  This restriction was intended to prevent cable lengths greater than the maximum allowed by the USB standard from being assembled and to avoid an accumulation of resistance in the connections exceeding the design limits of USB, in order to ensure consistent plug-and-play operation of the USB system without the need for users to calculate cable lengths or enforce technical rules.
+The intention of USB is to make sure any standard-compliant cable can be used to connect any two compatible devices, and the connection will work, without question.  To this end, the USB standard limits the maximum length of any compliant (and thus logo-bearing) USB cable (to about 15 feet). For a longer cable length, a USB hub is required. Despite being nonstandard, these extender cables are readily available from many sources.
+Another class of USB extenders are actually USB hubs with a length of cable permanently attached.  These do comply with the USB standard, if not more than a limited number of them are connected together.  However, they require power from the USB connection and so may reduce the power available for the device at the "B" end.
+
+
+== See also ==
+IEC 60320
+MCX connector (antenna)
+Portable cord
+
+
+== References ==
+
+
+== External links ==
+
+Extension Cords at Underwriters Laboratories Inc
+A solution to the socket shortage? BBC News article

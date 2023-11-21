@@ -1,0 +1,78 @@
+Neuroprotection refers to the relative preservation of neuronal structure and/or function. In the case of an ongoing insult (a neurodegenerative insult) the relative preservation of neuronal integrity implies a reduction in the rate of neuronal loss over time, which can be expressed as a differential equation.  It is a widely explored treatment option for many central nervous system (CNS) disorders including neurodegenerative diseases, stroke, traumatic brain injury, spinal cord injury, and acute management of neurotoxin consumption (i.e. methamphetamine overdoses). Neuroprotection aims to prevent or slow disease progression and secondary injuries by halting or at least slowing the loss of neurons.   Despite differences in symptoms or injuries associated with CNS disorders, many of the mechanisms behind neurodegeneration are the same.  Common mechanisms of neuronal injury include decreased delivery of oxygen and glucose to the brain, energy failure, increased levels in oxidative stress, mitochondrial dysfunction, excitotoxicity, inflammatory changes, iron accumulation, and protein aggregation.  Of these mechanisms, neuroprotective treatments often target oxidative stress and excitotoxicity—both of which are highly associated with CNS disorders.  Not only can oxidative stress and excitotoxicity trigger neuron cell death but when combined they have synergistic effects that cause even more degradation than on their own.  Thus limiting excitotoxicity and oxidative stress is a very important aspect of neuroprotection.  Common neuroprotective treatments are glutamate antagonists and antioxidants, which aim to limit excitotoxicity and oxidative stress respectively.
+
+
+== Excitotoxicity ==
+
+Glutamate excitotoxicity is one of the most important mechanisms known to trigger cell death in CNS disorders. Over-excitation of glutamate receptors, specifically NMDA receptors, allows for an increase in calcium ion (Ca2+) influx due to the lack of specificity in the ion channel opened upon glutamate binding.  As Ca2+ accumulates in the neuron, the buffering levels of mitochondrial Ca2+ sequestration are exceeded, which has major consequences for the neuron.  Because Ca2+ is a secondary messenger and regulates a large number of downstream processes, accumulation of Ca2+ causes improper regulation of these processes, eventually leading to cell death.  Ca2+ is also thought to trigger neuroinflammation, a key component in all CNS disorders.
+
+
+=== Glutamate antagonists ===
+Glutamate antagonists are the primary treatment used to prevent or help control excitotoxicity in CNS disorders.  The goal of these antagonists is to inhibit the binding of glutamate to NMDA receptors such that accumulation of Ca2+ and therefore excitotoxicity can be avoided.  Use of glutamate antagonists presents a huge obstacle in that the treatment must overcome selectivity such that binding is only inhibited when excitotoxicity is present.  A number of glutamate antagonists have been explored as options in CNS disorders, but many are found to lack efficacy or have intolerable side effects.  Glutamate antagonists are a hot topic of research.  Below are some of the treatments that have promising results for the future:
+
+Estrogen: 17β-Estradiol helps regulate excitotoxicity by inhibiting NMDA receptors as well as other glutamate receptors.
+Ginsenoside Rd:  Results from the study show ginsenoside rd attenuates glutamate excitotoxicity. Importantly, clinical trials for the drug in patients with ischemic stroke show it to be effective as well as noninvasive.
+Progesterone: Administration of progesterone is well known to aid in the prevention of secondary injuries in patients with traumatic brain injury and stroke.
+Simvastatin: Administration in models of Parkinson's disease have been shown to have pronounced neuroprotective effects including anti-inflammatory effects due to NMDA receptor modulation.
+Memantine: As a low-affinity NMDA antagonist that is uncompetitive, memantine inhibits NMDA induced excitotoxicity while still preserving a degree of NMDA signalling.
+Riluzole is an antiglutamatergic drug used to slow the progression of amyotrophic lateral sclerosis.
+
+
+== Oxidative stress ==
+
+Increased levels of oxidative stress can be caused in part by neuroinflammation, which is a highly recognized part of cerebral ischemia as well as many neurodegenerative diseases including Parkinson's disease, Alzheimer's disease, and amyotrophic lateral sclerosis.  The increased levels of oxidative stress are widely targeted in neuroprotective treatments because of their role in causing neuron apoptosis.  Oxidative stress can directly cause neuron cell death or it can trigger a cascade of events that leads to protein misfolding, proteasomal malfunction, mitochondrial dysfunction, or glial cell activation.  If one of these events is triggered, further neurodegradation is caused as each of these events causes neuron cell apoptosis.  By decreasing oxidative stress through neuroprotective treatments, further neurodegradation can be inhibited.
+
+
+=== Antioxidants ===
+
+Antioxidants are the primary treatment used to control oxidative stress levels.  Antioxidants work to eliminate reactive oxygen species, which are the prime cause of neurodegradation.  The effectiveness of antioxidants in preventing further neurodegradation is not only disease dependent but can also depend on gender, ethnicity, and age.  Listed below are common antioxidants shown to be effective in reducing oxidative stress in at least one neurodegenerative disease:
+
+Acetylcysteine: It targets a diverse array of factors germane to the pathophysiology of multiple neuropsychiatric disorders including glutamatergic transmission, the antioxidant glutathione, neurotrophins, apoptosis, mitochondrial function, and inflammatory pathways.
+Crocin: Derived from saffron, crocin has been shown to be a potent neuronal antioxidant.
+Estrogen: 17α-estradiol and 17β-estradiol have been shown to be effective as antioxidants.  The potential for these drugs is enormous.  17α-estradiol is the nonestrogenic stereoisomer of 17β-estradiol.  The effectiveness of 17α-estradiol is important because it shows that the mechanism is dependent on the presence of the specific hydroxyl group, but independent of the activation of estrogen receptors.  This means more antioxidants can be developed with bulky side chains so that they don't bind to the receptor but still possess the antioxidant properties.
+Fish oil: This contains n-3 polyunsaturated fatty acids that are known to offset oxidative stress and mitochondrial dysfunction.  It has high potential for being neuroprotective and many studies are being done looking at the effects in neurodegenerative diseases
+Minocycline: Minocycline is a semi-synthetic tetracycline compound that is capable of crossing the blood brain barrier.  It is known to be a strong antioxidant and has broad anti-inflammatory properties.  Minocyline has been shown to have neuroprotective activity in the CNS for Huntington's disease, Parkinson's disease, Alzheimer's disease, and ALS.
+PQQ: Pyrroloquinoline quinone (PQQ) as an antioxidant has multiple modes of neuroprotection.
+Resveratrol: Resveratrol prevents oxidative stress by attenuating hydrogen peroxide-induced cytotoxicity and intracellular accumulation of ROS.  It has been shown to exert protective effects in multiple neurological disorders including Alzheimer's disease, Parkinson's disease, multiple sclerosis, and ALS as well as in cerebral ischemia.
+Vinpocetine: Vinpocetine exerts neuroprotective effects in ischaemia of the brain through actions on cation channels, glutamate receptors and other pathways. The drop in dopamine produced by vinpocetine may contribute to its protective action from oxidative damage, particularly in dopamine-rich structures. Vinpocetine as a unique anti-inflammatory agent may be beneficial for the treatment of neuroinflammatory diseases. It increases cerebral blood flow and oxygenation.
+THC: Delta 9-tetrahydrocannabinol exerts neuroprotective and antioxidative effects by inhibiting NMDA neurotoxicity in neuronal cultures exposed to toxic levels of the neurotransmitter, glutamate.
+Vitamin E: Vitamin E has had varying responses as an antioxidant depending on the neurodegenerative disease that it is being treated.  It is most effective in Alzheimer's disease and has been shown to have questionable neuroprotection effects when treating ALS.  A meta-analysis involving 135,967 participants showed there is a significant relationship between vitamin E dosage and all-cause mortality, with dosages equal to or greater than 400 IU per day showing an increase in all-cause mortality. However, there is a decrease in all-cause mortality at lower doses, optimum being 150 IU per day. Vitamin E is ineffective for neuroprotection in Parkinson's disease.
+
+
+== Stimulants ==
+NMDA receptor stimulants can lead to glutamate and calcium excitotoxicity and neuroinflammation. Some other stimulants, in appropriate doses, can however be neuroprotective.
+
+Selegiline: It has been shown to slow early progression of Parkinson's disease and delayed the emergence of disability by an average of nine months.
+Nicotine: It has been shown to delay the onset of Parkinson's disease in studies involving monkeys and humans.
+Caffeine: It is protective against Parkinson's disease. Caffeine induces neuronal glutathione synthesis by promoting cysteine uptake, leading to neuroprotection.
+
+
+== Neuroprotectants (cerebroprotectants) for acute ischemic stroke ==
+When applied to protecting the brain from the effects of acute ischemic stroke, neuroprotectants are often called cerebroprotectants. Over 150 drugs have been tested in clinical trials, leading to the regulatory approval of tissue plasminogen activator in several countries, the and approval of edaravone in Japan.
+
+
+== Other neuroprotective treatments ==
+More neuroprotective treatment options exist that target different mechanisms of neurodegradation.  Continued research is being done in an effort to find any method effective in preventing the onset or progression of neurodegenerative diseases or secondary injuries.  These include:
+
+Caspase inhibitors: These are primarily used and studied for their anti apoptotic effects.
+Trophic factors: The use of trophic factors for neuroprotection in CNS disorders is being explored, specifically in ALS.  Potentially neuroprotective trophic factors include CNTF, IGF-1, VEGF, and BDNF
+Therapeutic hypothermia: This is being explored as a neuroprotection treatment option for patients with traumatic brain injury and is suspected to help reduce intracranial pressure.
+Erythropoietin has been reported to protect nerve cells from hypoxia-induced glutamate toxicity (see erythropoietin in neuroprotection).
+Lithium exerts neuroprotective effects and stimulates neurogenesis via multiple signaling pathways; it inhibits glycogen synthase kinase-3 (GSK-3), upregulates neurotrophins and growth factors (e.g., brain-derived neurotrophic factor (BDNF)), modulates inflammatory molecules, upregulates neuroprotective factors (e.g., B-cell lymphoma-2 (Bcl-2), heat shock protein 70 (HSP-70)), and concomitantly downregulates pro-apoptotic factors. Lithium has been shown to reduce neuronal death, microglial activation, cyclooxygenase-2 induction, amyloid-β (Aβ), and hyperphosphorylated tau levels, to preserve blood-brain barrier integrity, to mitigate neurological deficits and psychiatric disturbance, and to improve learning and memory outcome.
+Neuroprotectin D1 and other neuroprotectins (see specialized proresolving mediators#DHA-derived protectins/neuroprotectins) and certain resolvins of the D series (i.e. RvD1, RvD2, RvD3, RvD4, RvD5, and RvD6; see specialized proresolving mediators#DHA-derived Resolvins) are docosanoid metabolites of the omega 3 fatty acid, docosahexaenoic acid (DHA) while resolvins of the E series (RvD1, RvD2, and RvD3; see specialized proresolving mediators#EPA-derived resolvins (i.e. RvE)) are eicosanoid metabolites of the omega 3 fatty acid, eicosapentaenoic acid (EPA). These metabolites, which are made by the action of cellular lipoxygenase, cyclooxygenase, and/or cytochrome P450 enzymes on DHA or EPA, have been shown to have potent anti-inflammation activity and to be neuroprotective in various models of inflammation-involving neurological diseases such as various degenerative diseases including Alzheimer's disease. A metabolically resistant analog of RvE1 is in development for the treatment of retinal disease and neuroprotectin D1 mimetics are in development for treatment of neurodegenerative diseases and hearing loss.
+
+
+== See also ==
+Neurodegeneration
+Neuroregeneration
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Articles ===
+
+
+=== Books ===

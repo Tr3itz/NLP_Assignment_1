@@ -1,0 +1,14 @@
+Lighting Power Density (LPD) is a lighting power requirement defined in North America by the American National Standards Institute (ANSI), American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE), and the Illuminating Engineering Society of North America (IESNA) Lighting subcommittee. 
+Lighting Power Density technically represents the load of any lighting equipment in any defined area, or the watts per square foot of the lighting equipment.  However, in the lighting industry it is often associated with the lighting power allowance (LPA) permitted by the building energy code in question.  
+The Oregon Department of Energy defines lighting power density as "The maximum allowable lighting density permitted by the code. It is expressed in watts per square foot for a given occupancy/space type."
+
+
+== Primary Calculation Methods ==
+Space By Space Method
+A defined list of many possible space types within a building the associated watts per square foot allowance.  For example, ANSI/ASHRAE/IESNA Standard 90.1-2007 allows the Emergency Space of a hospital to be designed for 2.7 watts per square foot, but the Recovery areas of a hospital would be allowed 0.8 watts per square foot.Whole Building Area Method
+A defined list of many possible whole building types and the associated watts per square foot allowance.  For example, ANSI/ASHRAE/IESNA Standard 90.1-2007 allows manufacturing facilities 1.3 watts per square foot, while parking garages are only allowed 0.3 watts per square foot.
+Exceptions and Additional Allowances
+Specific exceptions and additional allowances are defined and categorized further in ANSI/ASHRAE/IESNA Standard 90.1-2007
+
+
+== References ==

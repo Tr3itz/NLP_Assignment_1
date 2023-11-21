@@ -1,0 +1,13 @@
+Differentiation therapy is a method to treating advanced cancers in which malignant cells are encouraged to differentiate into more mature forms using pharmacological agents. The basis of the therapy stems from the tendency of malignant tumor cells to assume a less specialized, stem cell-like dedifferentiated state.
+
+
+== Leukemia ==
+The approach was motivated by noticing that leukemia cells fail to differentiate and fully mature.By 2001 encouraging clinical results were seen.The first differentiation agent found to be successful was all-trans-retinoic acid (ATRA) in the treatment of acute promyelocytic leukemia (APL).
+
+
+== Other cancers ==
+The process of cancer spreading (metastasis) involves tumour cells undergoing an epithelial-to-mesenchymal transition (EMT) to invade and spread, followed by a mesenchymal-to-epithelial transition (MET) at remote sites.
+Other agents investigated (pre-clinically) to encourage MET include cholera toxin (CTx) and forskolin (Fsk).
+
+
+== References ==

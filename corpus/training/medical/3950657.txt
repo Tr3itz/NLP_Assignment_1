@@ -1,0 +1,32 @@
+Carney complex and its subsets LAMB syndrome and NAME syndrome are autosomal dominant conditions comprising myxomas of the heart and skin, hyperpigmentation of the skin (lentiginosis), and endocrine overactivity. It is distinct from Carney's triad. Approximately 7% of all cardiac myxomas are associated with Carney complex.
+
+
+== Presentation ==
+The spotty skin pigmentation and lentigines occur most commonly on the face, especially on the lips, eyelids, conjunctiva and oral mucosa. Cardiac myxomas may lead to embolic strokes and heart failure and may present with fever, joint pain, shortness of breath, diastolic rumble and tumor plop. Myxomas may also occur outside the heart, usually in the skin and breast. Endocrine tumors may manifest as disorders such as Cushing syndrome. The most common endocrine gland manifestation is an ACTH-independent Cushing's syndrome due to primary pigmented nodular adrenocortical disease (PPNAD).
+The LAMB acronym refers to lentigines, atrial myxomas, and blue nevi. NAME refers to nevi, atrial myxoma, myxoid neurofibromas, and ephelides.Testicular cancer, particularly Sertoli cell type, is associated with Carney syndrome. Thyroid and pancreas cancer may also occur.Although J Aidan Carney also described Carney's triad it is entirely different.
+
+
+== Pathophysiology ==
+Carney complex is most commonly caused by mutations in the PRKAR1A gene on chromosome 17 (17q23-q24)
+which may function as a tumor-suppressor gene. The encoded protein is a type 1A regulatory subunit of protein kinase A. Inactivating germline mutations of this gene are found in 70% of people with Carney complex.Less commonly, the molecular pathogenesis of Carney complex is a variety of genetic changes at chromosome 2 (2p16).Both types of Carney complex are autosomal dominant. Despite dissimilar genetics, there appears to be no phenotypic difference between PRKAR1A and chromosome 2p16 mutations.
+
+
+== Treatment ==
+Cardiac myxomas can be difficult to manage surgically because of recurrence within the heart, often far away from the site of the initial tumor.
+
+
+== History ==
+In 1914 an American neurosurgeon, Harvey Cushing, reported on a patient with a pituitary tumour on whom he had operated. The post mortem findings as reported were consistent with Carney complex, though at the time this condition had yet to be described. In 2017 archived tissue from the operation in Cushing's report was subjected to DNA sequencing, revealing an Arg74His (arginine to histidine: guanine (G)-> adenosine (A) transition in the second codon position of the 74th codon in the protein) mutation in the PRKAR1A gene, confirming a diagnosis of Carney complex. Therefore, Cushing's paper appears to be the first report of this complex.
+
+
+== See also ==
+Epithelioid blue nevus
+List of cutaneous neoplasms associated with systemic syndromes
+
+
+== References ==
+
+
+== External links ==
+
+GeneReview/UW/NIH entry on Carney complex

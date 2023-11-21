@@ -1,0 +1,30 @@
+Cancerous micronuclei is a type of micronucleus that is associated with cancerous cells.  
+
+
+== History ==
+Theodor Boveri originally observed the fact that abnormal nuclear morphologies commonly occur in cancer. Micronuclei are also referred to Howell-Jolly bodies; discovered by hematologists William Henry Howell and Justin Marie Jolly in erythrocytes. Micronucleus induction by a chemical was first reported in Ehrlich ascites tumor cells treated with colchicine. The effect of environmental stressors on the expression of micronuclei was first analyzed in root tip cells under ionizing radiation. It can be inferred that nuclear abnormalities are a result of various molecular mechanisms. These events can ultimately lead to cell death.
+
+
+== Description ==
+
+
+=== Characteristics ===
+Micronuclei are characterized in the cells that have some sort of DNA damage.  This includes damage caused by radiation, harmful chemicals, and random mutations that occur throughout the genome.  Micronuclei are small bodies that can be seen budding off of a newly divided daughter cell.  Micronuclei can contain a whole chromosome or part of a chromatid.  The increased formation of micronuclei is usually an indication of increased DNA damage or mutation.  It is characteristically found in cancer cells, or cells that have been exposed to increased risk factors.
+
+
+=== Formation ===
+Micronuclei are small, extranuclear bodies that are formed during mitosis from lagging chromosomes.  In anaphase, the microtubules are not attached properly to the chromosomes, which can cause pulling in a different direction.  This results in parts of the chromatids or chromosomes being broken off and enveloped as an extra nucleus in one of the daughter cells.  This is the main way that micronuclei are formed.  
+Micronuclei can also be spontaneously formed as a byproduct of cellular defense.  If the cell senses extra chromosomes, the cell can attempt to remove the extra chromosome in another cell membrane, separate from the other normal chromosome.  Another mechanism to micronuclei formation is by a double-strand break in the DNA, creating a separate linear fragment.  Furthermore, the breaking of an anaphase bridge could also lead to formation of a micronucleus. The formation of an abnormal nuclear structure called chromosome bridge also predisposes to micronucleation. Bridges arise from end-to-end chromosome fusions after DNA breakage or telomere crisis, incomplete DNA replication, or failed resolution of chromosome catenation.
+
+
+== Role in cancer ==
+Micronuclei are often overlooked in cancer diagnosis and treatment. If observed, they are viewable under a microscope and often located next to other larger nuclei. 
+Based on the structure of a Micronucleus, or the function of a cell, it seems to provide support in the central apparatus within the cell. Micronuclei are under investigation and research regarding whether or not they can be used to predict future cancer risks. It seems that they are easy to analyze compared to chromosome aberrations.
+
+
+== References ==
+
+Chang P, Li Y, Li D (2010) Micronuclei levels in peripheral blood lymphocytes as a potential biomarker for pancreatic cancer risk. doi:10.1093/carcin/bgq24
+Fenech M, Kirsch-Volders M, Natarajan AT, Surrales J, Croft J, Parry J, Norppa H (2011) Molecular mechanisms of micronucleus, nucleoplasmic bridge and nuclear bud formation in human cells.
+Iarmarcovai G, Ceppi M, Botta A, Orsie`re T, Bonassi S (2008) Micronuclei frequency in peripheral blood lymphocytes of cancer patients: a meta-analysis. Mutat Res 659:274–283
+Terradas M, Mart ́ın M, Tusell L, Genesca` A (2009) DNA lesions sequestered in micronuclei induce a local defective-damage response. DNA Repair 8:1225–1234

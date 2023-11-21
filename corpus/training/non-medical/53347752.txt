@@ -1,0 +1,25 @@
+Home idle load is the continuous residential electric energy consumption as measured by smart meters. It differs from standby power (loads) in that it includes energy consumption by devices that cycle on and off within the hourly period of standard smart meters (such as fridges, aquarium heaters, wine coolers, etc.). As such, home idle loads can be measured accurately by smart meters. According to Stanford Sustainable Systems Lab, home idle load constitutes an average of 32% of household electricity consumption in the U.S.
+
+
+== Type of devices ==
+The primary categories of devices that contribute to Home Idle Load include:
+
+Electronic devices that consume electricity while not being actively used (including televisions, game consoles, digital picture frames, etc.)
+Home infrastructure devices (including analog thermostats, doorbells, telephones, clocks, GFCI outlets, smoke alarms, continuous hot water recirculation pumps, etc.).
+Any type of device used to maintain a continuous temperature differential (including freezers, icemakers, refrigerators, wine coolers, terrarium heaters, heated floors, instant hot water dispensers, etc.). Although such devices may need to stay on continuously, more recent models have proven to be more efficient and can result in considerably lower home idle loads.
+
+
+== Reducing home idle load ==
+Approaches to reduce home idle loads include:
+
+Disabling electronic devices with standby power loads either manually (unplugging) or by managing power strips (including smart power socket types)
+Using a timer switch that stops electric consumption from devices when not in use
+Using a smart power strip with a master outlet that manages electricity for multiple devices
+Replacing older (or malfunctioning) devices with more efficient options
+
+
+== Measuring home idle load ==
+Home idle load may be measured differently depending on the electric meter and local utility used. A smart meter with a local utility that supports "green button" data is the most accurate option to measure home idle load. Another option involves using the user's utility website to access consumption charts showing hourly electric use.  If green button data is not available, the user may measure home idle load by analysing the home's electric meter while all home electronic devices are in inactive mode. This may involve using a timer to track the time for a single revolution of the spinning dial of an analog electric meter.
+
+
+== References ==

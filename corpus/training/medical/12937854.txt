@@ -1,0 +1,30 @@
+A coronary CT calcium scan is a computed tomography (CT) scan of the heart for the assessment of severity of coronary artery disease. Specifically, it looks for calcium deposits in atherosclerotic plaques in the coronary arteries that can narrow arteries and increase the risk of heart attack. These plaques are the cause of most heart attacks, and become calcified as they develop. 
+These calcifications can be detected by CT imaging because of their opacity to x-rays. This severity can be presented as an Agatston score or coronary artery calcium (CAC) score. The CAC score is an independent marker of risk for cardiac events, cardiac mortality, and all-cause mortality. In addition, it provides additional prognostic information to other cardiovascular risk markers.Obstructions may be present even with an Agatston score of zero, especially in younger patients. A typical coronary CT calcium scan is done without the use of radiocontrast agent but it can also be performed using contrast-enhanced images as well, such as in coronary CT angiography. The exam is best performed with cardiac gating to eliminate motion but can also be estimated in the presence of motion.
+
+
+== Indications ==
+The well-established indications for the use of the CAC score include stratification of global cardiovascular risk for asymptomatic patients: intermediate risk based on the Framingham risk score (class I); low risk based on a family history of early coronary artery disease (CAD) (class IIa); and low-risk patients with diabetes (class IIa).In symptomatic patients, the pre-test probability should always be given weight in the interpretation of the CAC score as a filter or tool to indicate the best method to facilitate the diagnosis. Therefore, the use of the CAC score alone is limited in symptomatic patients.In patients with diabetes, the CAC score helps identify the individuals most at risk, who could benefit from screening for silent ischemia and from more aggressive clinical treatment.However, coronary CT angiography (CTA) is superior to coronary CT calcium scanning in determining the risk of Major Adverse Cardiac Events (MACE).There is potential to measure CAC on chest radiographs taken for other indications, possibly allowing some primary screening for coronary artery disease without adding to radiation exposure and with minimal marginal cost.
+
+
+== Agatston score ==
+The Agatston score, named after its developer Arthur Agatston, is a measure of calcium on a coronary CT calcium scan. The original work, published in 1990, was based on electron beam computed tomography (also known as ultrafast CT or EBCT). The score is calculated using a weighted value assigned to the highest density of calcification in a given coronary artery. 
+The density is measured in Hounsfield units, and score of 1 for 130–199 HU, 2 for 200–299 HU, 3 for 300–399 HU, and 4 for 400 HU and greater. This weighted score is then multiplied by the area (in square millimeters) of the coronary calcification. For example, a "speck" of coronary calcification in the left anterior descending artery measures 4 square millimeters and has a peak density of 270 HU. The score is therefore 8 (4 square millimeters × weighted score of 2).  
+The tomographic slices of the heart are 3 millimeters thick and average about 50–60 slices from the coronary artery ostia to the inferior wall of the heart. The calcium score of every calcification in each coronary artery for all of the tomographic slices is then summed up to give the total coronary artery calcium score (CAC score).The Agatston score is frequently used today because of its long history of clinical validation. Several variations of the Agatston score have been described, including mass-based calcium scoring, volume-based calcium scoring, or lesion-specific calcium-scoring have been developed.
+
+
+== Lesion-specific calcium score ==
+A lesion-specific calcium score has been developed. Each individual calcified lesion is characterized and measured using parameters including the width, length, density, and distance from the entrance of the major coronary arteries. Research has shown that the lesion-specific calcium scoring method is superior to the traditional Agatston score for the prediction of significant blockages in the heart.
+
+
+== Radiation dosage ==
+On average, a single scan will expose a patient to about 2.3 millisieverts of radiation, equivalent to 23 chest x-rays (front and side views). That average covers a wide range of doses depending on equipment type and scanning protocol. Using modern equipment and protocols, a 1 millisievert exposure is possible. Because the exact radiation exposure for a specific patient depends on the equipment type in use, the patients build and a variety of scanning options (such as retrospective vs prospective gating) it is difficult for a patient to know what their radiation exposure will be.
+A 2009 study indicated that for every 100,000 people screened with CAC testing every 5 years between ages 45 to 75 years (men) or 55 to 75 years (women), there would be 42 (men) or 62 (women) additional radiation induced cancer cases.
+
+
+== References ==
+
+
+== External links ==
+Medline article on heart scans
+WebMD article on heart scans
+RadiologyInfo.org article on heart scans

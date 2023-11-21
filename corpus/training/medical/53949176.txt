@@ -1,0 +1,29 @@
+Combinatorial ablation and immunotherapy is an oncological treatment that combines various tumor-ablation techniques with immunotherapy treatment. Combining ablation therapy of tumors with immunotherapy enhances the immunostimulating response and has synergistic effects for curative metastatic cancer treatment. Various ablative techniques are utilized including cryoablation, radiofrequency ablation, laser ablation, photodynamic ablation, stereotactic radiation therapy, alpha-emitting radiation therapy, hyperthermia therapy, HIFU. Thus, combinatorial ablation of tumors and immunotherapy is a way of achieving an autologous, in-vivo tumor lysate vaccine and treating metastatic disease.
+
+
+== Mechanism of action ==
+Take magnetic hyperthermia for example. By applying magnetic nanoparticle-mediated hyperthermia with a threshold of 43 °C in order not to damage surrounding normal tissues, a significant quantity of heat-shock proteins (HSP) is expressed within and around the tumor tissues, inducing tumor-specific immune responses. In vivo experiments have indicated that magnetic nanoparticle-mediated hyperthermia can induce the regression of not only a local tumor tissue exposed to heat, but also distant metastatic tumors unexposed to heat. Partially or entirely ablating primary or secondary metastatic tumors induces necrosis of tumor cells, resulting in the release of antigens and presentation of antigens to the immune system. The released tumor antigens help activate anti-tumor T cells, which can destroy remaining malignant cells in local and distant tumors. Combining immunotherapy (ie: checkpoint inhibitors, CAR-T cell therapy) and vaccine adjuvants (ie: interferon, saponin) with ablation synergizes the immune reaction, and can treat metastatic disease with curative intent.
+
+
+== Ablation therapies ==
+Various local ablation therapies exist to induce necrosis of tumor cells and release tumor antigens to stimulate an immunological response. These ablation therapies can be combined with a systemic immunotherapy:
+
+Thermal ablation – local thermal ablation of tumor:
+Cryoablation
+Radiofrequency ablation
+High-intensity focused ultrasound ablation
+Laser ablation
+Photodynamic ablation
+Hyperthermia therapy
+Ablation with alpha radiation therapy
+A new type of ablation therapy that utilizes alpha radiation is now undergoing clinical trials for treatment of several types of solid tumors. Alpha particles are emitted from intratumorally-inserted seeds that have Ra-224 atoms fixed to their surface. When the radium decays, its short-lived daughter isotopes are released from the seeds by recoil energy, disperse in the tumor, and emit high energy alpha particles, which destroy the tumor. This therapy is called "Diffusing Alpha-emitting Radiation Therapy" or DaRT.
+Nanotechnology in thermal ablation and immunotherapy
+Currently nanotechnologies has been continuously developed for cancer immunotherapy for their versatility in integration of therapeutic and diagnostic (or termed 'theranostic') multimodalities. For example, iron oxide nanoparticles can generate heat under alternating magnetic field (100 kHz to 1 MHz); and they can also be utilized as imaging contrast agents for magnetic resonance imaging (MRI) for visualizing and monitoring the generation, distribution and biological activities of iron oxide nanoparticles. Magnetic nanoparticles can be concentrated to the tumor site via externally applied magnetic field, which is also advantageous in minimizing dose-related side effects. Localized heat can also trigger release of certain anti-cancer immuno-therapeutics loading from the nano-scale cargos if the nanomaterials are heat-responsive. From biological aspect, local heating can in addition significantly increase the extravasation of nanoscale drug carriers from tumor vessels, which enhances the performance of anti-cancer drug delivery to target cancers.
+
+
+== See also ==
+Cryoimmunology
+Photoimmunotherapy
+
+
+== References ==

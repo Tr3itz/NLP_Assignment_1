@@ -1,0 +1,19 @@
+Microstimulation is a technique that stimulates a small population of neurons by passing a small electrical current through a nearby microelectrode.
+
+
+== Applications ==
+Microstimulation is used in neuroanatomical research to identify the functional significance of a group of neurons.  For example, Vidal-Gonzalez et al. (2006) applied microstimulation to the rat prelimbic and infralimbic subregions of the medial prefrontal cortex while testing the subjects in a fear-inducing low-footshock condition for various behavioral indicators of fear (such as freezing).  This test allowed them to compare the relative fear behavior of rats under microstimulation in either subregion to normal rats in the same condition.  The researchers concluded that the prelimbic subregion excites fear behavior while the infralimbic subregion inhibits fear behavior.  In this instance, the correlation between stimulation and behavior helped identify the function of these two subregions in the process of fear.
+Microstimulation is being explored as a method to deliver sensory percepts to circumvent damaged sensory receptors or pathways. For example, stimulation of primary visual cortex create phosphenes (flashes of light) which can be used to restore some vision for a blind individual. Other applications include bladder prostheses; cochlear and brain-stem auditory prostheses and retinal and thalamic visual prostheses.
+
+
+== References ==
+
+
+== Further reading ==
+Salzman, C. Daniel; Britten, Kenneth H.; Newsome, William T. (July 1990). "Cortical microstimulation influences perceptual judgements of motion direction". Nature. 346 (6280): 174–177. Bibcode:1990Natur.346..174S. doi:10.1038/346174a0. PMID 2366872. S2CID 4255246.
+McIntyre, Cameron C.; Grill, Warren M. (1 March 2000). "Selective Microstimulation of Central Nervous System Neurons". Annals of Biomedical Engineering. 28 (3): 219–233. doi:10.1114/1.262. PMID 10784087. S2CID 26491663.
+Graziano, Michael S. A; Taylor, Charlotte S. R; Moore, Tirin (30 May 2002). "Complex Movements Evoked by Microstimulation of Precentral Cortex". Neuron. 34 (5): 841–851. doi:10.1016/S0896-6273(02)00698-0. PMID 12062029. S2CID 3069873.
+Moore, Tirin; Armstrong, Katherine M. (January 2003). "Selective gating of visual signals by microstimulation of frontal cortex". Nature. 421 (6921): 370–373. Bibcode:2003Natur.421..370M. doi:10.1038/nature01341. PMID 12540901. S2CID 4405385.
+Tehovnik, E. J.; Tolias, A. S.; Sultan, F.; Slocum, W. M.; Logothetis, N. K. (1 August 2006). "Direct and Indirect Activation of Cortical Neurons by Electrical Microstimulation". Journal of Neurophysiology. 96 (2): 512–521. doi:10.1152/jn.00126.2006. PMID 16835359.
+Logothetis, Nikos K.; Augath, Mark; Murayama, Yusuke; Rauch, Alexander; Sultan, Fahad; Goense, Jozien; Oeltermann, Axel; Merkle, Hellmut (October 2010). "The effects of electrical microstimulation on cortical signal propagation". Nature Neuroscience. 13 (10): 1283–1291. doi:10.1038/nn.2631. PMID 20818384. S2CID 16280316.
+Flesher, Sharlene N.; Collinger, Jennifer L.; Foldes, Stephen T.; Weiss, Jeffrey M.; Downey, John E.; Tyler-Kabara, Elizabeth C.; Bensmaia, Sliman J.; Schwartz, Andrew B.; Boninger, Michael L.; Gaunt, Robert A. (19 October 2016). "Intracortical microstimulation of human somatosensory cortex". Science Translational Medicine. 8 (361): 361ra141. doi:10.1126/scitranslmed.aaf8083. PMID 27738096. S2CID 4619069.

@@ -1,0 +1,656 @@
+In plasmas and electrolytes, the Debye length 
+  
+    
+      
+        
+          λ
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {D}}}
+   (Debye radius or Debye–Hückel screening length), is a measure of a charge carrier's net electrostatic effect in a solution and how far its electrostatic effect persists.  With each Debye length the charges are increasingly electrically screened and the electric potential decreases in magnitude by 1/e. A Debye sphere is a volume whose radius is the Debye length. Debye length is an important parameter in plasma physics, electrolytes, and colloids (DLVO theory). The corresponding Debye screening wave vector 
+  
+    
+      
+        
+          k
+          
+            
+              D
+            
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          λ
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle k_{\rm {D}}=1/\lambda _{\rm {D}}}
+   for particles of density 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , charge 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   at a temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is given by 
+  
+    
+      
+        
+          k
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        4
+        π
+        n
+        
+          q
+          
+            2
+          
+        
+        
+          /
+        
+        (
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+        )
+      
+    
+    {\displaystyle k_{\rm {D}}^{2}=4\pi nq^{2}/(k_{\rm {B}}T)}
+   in Gaussian units. Expressions in MKS units will be given below. The analogous quantities at very low temperatures (
+  
+    
+      
+        T
+        →
+        0
+      
+    
+    {\displaystyle T\to 0}
+  ) are known as the Thomas–Fermi length and the Thomas–Fermi wave vector. They are of interest in describing the behaviour of electrons in metals at room temperature.
+The Debye length is named after the Dutch-American physicist and chemist Peter Debye (1884-1966), a Nobel laureate in Chemistry.
+
+
+== Physical origin ==
+The Debye length arises naturally in the thermodynamic description of large systems of mobile charges. In a system of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   different species of charges, the 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  -th species carries charge 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    {\displaystyle q_{j}}
+   and has concentration 
+  
+    
+      
+        
+          n
+          
+            j
+          
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle n_{j}(\mathbf {r} )}
+   at position 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  .  According to the so-called "primitive model", these charges are distributed in a continuous medium that is characterized only by its relative static permittivity, 
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{r}}
+  .
+This distribution of charges within this medium gives rise to an electric potential 
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )}
+   that satisfies Poisson's equation:
+
+where 
+  
+    
+      
+        ε
+        ≡
+        
+          ε
+          
+            r
+          
+        
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon \equiv \varepsilon _{r}\varepsilon _{0}}
+  , 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   is the electric constant, and 
+  
+    
+      
+        
+          ρ
+          
+            
+              e
+              x
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\rm {ext}}}
+   is a charge density external (logically, not spatially) to the medium.
+The mobile charges not only contribute in establishing 
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )}
+   but also move in response to the associated Coulomb force, 
+  
+    
+      
+        −
+        
+          q
+          
+            j
+          
+        
+        
+        ∇
+        Φ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle -q_{j}\,\nabla \Phi (\mathbf {r} )}
+  .
+If we further assume the system to be in thermodynamic equilibrium with a heat bath at absolute temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  , then the concentrations of discrete charges, 
+  
+    
+      
+        
+          n
+          
+            j
+          
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle n_{j}(\mathbf {r} )}
+  , may be considered to be thermodynamic (ensemble) averages and the associated electric potential to be a thermodynamic mean field.
+With these assumptions, the concentration of the 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  -th charge species is described by the Boltzmann distribution,
+
+where 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\rm {B}}}
+   is the Boltzmann constant and where  
+  
+    
+      
+        
+          n
+          
+            j
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle n_{j}^{0}}
+   is the mean
+concentration of charges of species 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  .
+Identifying the instantaneous concentrations and potential in the Poisson equation with their mean-field counterparts in the Boltzmann distribution yields the Poisson–Boltzmann equation:
+
+Solutions to this nonlinear equation are known for some simple systems. Solutions for more general systems may be obtained in the high-temperature (weak coupling) limit, 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+        
+        Φ
+        (
+        
+          r
+        
+        )
+        ≪
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle q_{j}\,\Phi (\mathbf {r} )\ll k_{\rm {B}}T}
+  , by Taylor expanding the exponential:
+
+This approximation yields the linearized Poisson–Boltzmann equation
+
+which also is known as the Debye–Hückel equation:
+The second term on the right-hand side vanishes for systems that are electrically neutral. The term in parentheses divided by 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  , has the units of an inverse length squared and by
+dimensional analysis leads to the definition of the characteristic length scale
+
+that commonly is referred to as the Debye–Hückel length.  As the only characteristic length scale in the Debye–Hückel equation, 
+  
+    
+      
+        
+          λ
+          
+            D
+          
+        
+      
+    
+    {\displaystyle \lambda _{D}}
+   sets the scale for variations in the potential and in the concentrations of charged species. All charged species contribute to the Debye–Hückel length in the same way, regardless of the sign of their charges. For an electrically neutral system, the Poisson equation becomes
+
+To illustrate Debye screening, the potential produced by an external point charge 
+  
+    
+      
+        
+          ρ
+          
+            
+              e
+              x
+              t
+            
+          
+        
+        =
+        Q
+        δ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \rho _{\rm {ext}}=Q\delta (\mathbf {r} )}
+   is
+
+The bare Coulomb potential is exponentially screened by the medium, over a distance of the Debye length: this is called Debye screening or shielding (Screening effect). 
+The Debye–Hückel length may be expressed in terms of the Bjerrum length 
+  
+    
+      
+        
+          λ
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {B}}}
+   as
+
+where 
+  
+    
+      
+        
+          z
+          
+            j
+          
+        
+        =
+        
+          q
+          
+            j
+          
+        
+        
+          /
+        
+        e
+      
+    
+    {\displaystyle z_{j}=q_{j}/e}
+   is the integer charge number that relates the charge on the 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  -th ionic
+species to the elementary charge 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  .
+
+
+== In a plasma ==
+For a weakly collisional plasma, Debye shielding can be introduced in a very intuitive way by taking into account the granular character of such a plasma. Let us imagine a sphere about one of its electrons, and compare the number of electrons crossing this sphere with and without Coulomb repulsion. With repulsion, this number is smaller. Therefore, according to Gauss theorem, the apparent charge of the first electron is smaller than in the absence of repulsion. The larger the sphere radius, the larger is the number of deflected electrons, and the smaller the apparent charge: this is Debye shielding. Since the global deflection of particles includes the contributions of many other ones, the density of the electrons does not change, at variance with the shielding at work next to a Langmuir probe (Debye sheath). Ions bring a similar contribution to shielding, because of the attractive Coulombian deflection of charges with opposite signs.
+This intuitive picture leads to an effective calculation of Debye shielding (see section II.A.2 of ). The assumption of a Boltzmann distribution is not necessary in this calculation: it works for whatever particle distribution function. The calculation also avoids approximating weakly collisional plasmas as continuous media. An N-body calculation reveals that the bare Coulomb acceleration of a particle by another one is modified by a contribution mediated by all other particles, a signature of Debye shielding (see section 8 of ). When starting from random particle positions, the typical time-scale for shielding to set in is the time for a thermal particle to cross a Debye length, i.e. the inverse of the plasma frequency. Therefore in a weakly collisional plasma, collisions play an essential role by bringing a cooperative self-organization process: Debye shielding. This shielding is important to get a finite diffusion coefficient in the calculation of Coulomb scattering (Coulomb collision).
+In a non-isothermic plasma, the temperatures for electrons and heavy species may differ while the background medium may be treated as the vacuum (
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \varepsilon _{r}=1}
+  ), and the Debye length is
+
+where
+
+λD is the Debye length,
+ε0 is the permittivity of free space,
+kB is the Boltzmann constant,
+qe is the charge of an electron,
+Te and Ti are the temperatures of the electrons and ions, respectively,
+ne is the density of electrons,
+nj is the density of atomic species j, with positive ionic charge zjqeEven in quasineutral cold plasma, where ion contribution virtually seems to be larger due to lower ion temperature, the ion term is actually often dropped, giving
+
+although this is only valid when the mobility of ions is negligible compared to the process's timescale.
+
+
+=== Typical values ===
+In space plasmas where the electron density is relatively low, the Debye length may reach macroscopic values, such as in the magnetosphere, solar wind, interstellar medium and intergalactic medium. See the table here below:
+
+
+== In an electrolyte solution ==
+In an electrolyte or a colloidal suspension, the Debye length for a monovalent electrolyte is usually denoted with symbol κ−1
+where
+
+I is the ionic strength of the electrolyte in number/m3 units,
+ε0 is the permittivity of free space,
+εr is the dielectric constant,
+kB is the Boltzmann constant,
+T is the absolute temperature in kelvins,
+
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is the elementary charge,or, for a symmetric monovalent electrolyte,
+
+where
+
+R is the gas constant,
+F is the Faraday constant,
+C0 is the electrolyte concentration in molar units (M or mol/L).Alternatively,
+
+where 
+  
+    
+      
+        
+          λ
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {B}}}
+   is the Bjerrum length of the medium in nm,
+and the factor 
+  
+    
+      
+        
+          10
+          
+            −
+            24
+          
+        
+      
+    
+    {\displaystyle 10^{-24}}
+   derives from transforming unit volume from cubic dm to cubic nm.
+For deionized water at room temperature, at pH=7, λB ≈ 1μm.
+At room temperature (20 °C or 70 °F), one can consider in water the relation:
+where
+
+κ−1 is expressed in nanometres (nm)
+I is the ionic strength expressed in molar (M or mol/L)There is a method of estimating an approximate value of the Debye length in liquids using conductivity, which is described in ISO Standard, and the book.
+
+
+== In semiconductors ==
+The Debye length has become increasingly significant in the modeling of solid state devices as improvements in lithographic technologies have enabled smaller geometries.The Debye length of semiconductors is given:
+
+where
+
+ε is the dielectric constant,
+kB is the Boltzmann constant,
+T is the absolute temperature in kelvins,
+q is the elementary charge, and
+Ndop is the net density of dopants (either donors or acceptors).When doping profiles exceed the Debye length, majority carriers no longer behave according to the distribution of the dopants.  Instead, a measure of the profile of the doping gradients provides an "effective" profile that better matches the profile of the majority carrier density.
+In the context of solids, Thomas–Fermi screening length may be required instead of Debye length.
+
+
+== See also ==
+Bjerrum length
+Debye–Falkenhagen effect
+Plasma oscillation
+Shielding effect
+Screening effect
+
+
+== References ==
+
+
+== Further reading ==
+Goldston & Rutherford (1997). Introduction to Plasma Physics. Philadelphia: Institute of Physics Publishing.
+Lyklema (1993). Fundamentals of Interface and Colloid Science. NY: Academic Press.

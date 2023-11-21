@@ -1,0 +1,64 @@
+The SEE-FIM protocol is a pathology dissection protocol for Sectioning and Extensively Examining the Fimbria (SEE-FIM). This  protocol is intended to provide for the optimal microscopic examination of the distal fallopian tube (fimbria) to identify either cancerous or precancerous conditions in this organ.
+
+
+== Background ==
+Women with either a strong family history of breast and ovarian cancer or a documented inherited (germline) mutation in a BRCA gene are encouraged to consider risk reduction salpingo-oophorectomy (RRSO). The surgery is ideally conducted prior to the time that the risk of developing HGSC became too great to defer the procedure, which was age 35 for women with BRCA1 and 45 for BRCA2 mutations.  Removal of both tubes and ovaries has reduced the risk of subsequent HGSC by 85% [see BRCA mutation].Beginning in 2000, pathologists began to encounter early, often non-invasive HGSCs (serous tubal intraepithelial carcinomas or STICs) in the fallopian tubes of women with germ line BRCA mutation who underwent RRSO.
+
+
+== Introduction of the SEE-FIM protocol ==
+
+
+=== Conception ===
+The SEE-FIM protocol was introduced in 2005 and required examining all of the fallopian tube, specifically the sectioning and examination of the distal one-third (infundibulum and fimbria). Early HGSCs of the fallopian tube, once considered rare, were encountered frequently in this portion of the tube once the SEE-FIM protocol was adopted. Based on this information, the distal fallopian tube was cited as an origin for many HGSCs formerly classified as ovarian cancers. The SEE-FIM protocol was adopted by many to identify or exclude these tumors during pathologic examination of the fallopian tubes in risk reduction salpingo-oophorectomies.
+
+
+=== Method ===
+The SEE-FIM protocol consists of five steps (See Figure):
+
+The tube is fixed for at least 2 hours in laboratory fixative.
+The distal one third is amputated.
+The distal one third is sectioned in the longitudinal (sagittal) plane as thinly as possible and submitted for processing.
+The remainder of the tube is sectioned in the transverse (cross section) plane every 1-2 millimeters and submitted for processing.
+Sections are stained with hematoxylin and eosin and are examined by the pathologist with attention to the epithelial cells and the presence of any evidence of a malignancy or precancerous condition.
+
+
+== Acceptance in pathology practice ==
+As of 2018, the SEE-FIM protocol was being used by 85% of academic pathology practices and 65% of private practices in the United States and elsewhere in the World. Routine use of the SEE-FIM protocol has been recommended by the College of American Pathologists and the International Society of Gynecologic Pathologists when processing fallopian tubes in risk reduction surgeries, and cases of ovarian and uterine serous cancer. It is also recommended in the reporting guidelines for gynecologic cancer sponsored by the British Gynecologic Cancer Society. It is also part of routine protocols in academic institutions and was employed to ascertain the frequency of STIC in a large population-based study.
+
+
+== Indications for the Protocol ==
+The primary purpose of the SEE-FIM protocol is to detect small cancers in the fallopian tube that are not visible to the naked eye. It is used most often in the following scenarios.
+
+
+=== Prophylactic salpingectomy ===
+In RRSO specimens from healthy women at increased risk for HGSC, the protocol is used to confirm or exclude the presence of an early HGSC (STIC). If a malignancy is discovered there is a significant risk of a later recurrence, computed at 10% and 27% at 5 and 10 years. In contrast, if no abnormality is found the risk is less than 1%.
+
+
+=== Opportunistic salpingectomy ===
+This procedure has been introduced to remove the fallopian tubes when convenient after the cessation of childbearing. The protocol is used to exclude occult cancer. A recent study of over 25,000 women who underwent this procedure reported no cases of HGSC in follow-up if no cancer was found.[see Prophylactic salpingectomy].
+
+
+=== Surgical excision specimens from women with HGSC ===
+In cases with advanced HGSC, the SEE-FIM protocol provides a detailed assessment of the fallopian tube to determine if the tumor arose in the fallopian tube. If pathologic examination confirmed the presence of HGSC in the tubal epithelium, the tumor would be classified as a primary fallopian tube malignancy. This information is also helpful in ascertaining the extent (or stage) of tumor involvement, which in turn influences choice of therapy.  
+.
+
+
+== See also ==
+High grade serous carcinoma
+BRCA mutation
+Fallopian tube cancer
+Ovarian cancer
+Ovarian Cancer Research Alliance
+Prophylactic salpingectomy
+
+
+== Abbreviations ==
+BRCA – Breast cancer associated tumor suppressor genes, including BRCA1 and BRCA2. Inherited (germline) loss of a BRCA gene imposes an increased risk of breast and ovarian cancer.
+TP53 – A tumor suppressor gene that is mutated in High grade serous carcinoma.
+RRSO – Risk reduction salpingo-oophorectomy.
+RRS – Risk reduction salpingectomy.
+HGSC – Extrauterine high grade serous carcinoma.
+STIC – Serous tubal intraepithelial carcinoma, a non-invasive precursor to high grade serous carcinoma
+
+
+== References ==

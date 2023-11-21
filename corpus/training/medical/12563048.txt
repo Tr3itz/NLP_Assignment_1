@@ -1,0 +1,29 @@
+The Amsterdam criteria  are a set of diagnostic criteria used by doctors to help identify families which are likely to have Lynch syndrome, also known as hereditary nonpolyposis colorectal cancer (HNPCC).The Amsterdam criteria arose as a result of a meeting of the International Collaborative Group on Hereditary Non-Polyposis Colon Cancer in Amsterdam, in 1990.  Following this, some of the genetic mechanisms underlying Lynch syndrome were elucidated during the 1990s and the significance of tumours outside the colon, such as those of the endometrium, small intestine and ureter, became clearer.  These  changes in the knowledge of the syndrome lead to a revision of the Amsterdam criteria and were published in Gastroenterology journal in 1999.
+
+
+== Criteria ==
+The initial Amsterdam criteria were a series of clinical criteria that were colloquially known as the 3-2-1 rule.  They were formulated to serve as a common starting point for future research into the genetics underlying the disease.  The criteria were as follows: 
+
+At least 3 relatives with histologically confirmed colorectal cancer, 1 of whom is a first degree relative of the other 2; familial adenomatous polyposis should be excluded;
+At least 2 successive generations involved;
+At least 1 of the cancers diagnosed before age 50.These criteria were found to be too strict and were expanded to include the associated non-colorectal cancers in 1998.  These were called the Amsterdam II clinical criteria for families with Lynch syndrome.Each of the following criteria must be fulfilled:
+
+3 or more relatives with an associated cancer (colorectal cancer, or cancer of the endometrium, small intestine, ureter or renal pelvis);
+2 or more successive generations affected;
+1 or more relatives diagnosed before the age of 50 years;
+1 should be a first-degree relative of the other two;
+Familial adenomatous polyposis (FAP) should be excluded in cases of colorectal carcinoma;
+Tumors should be verified by pathologic examination.
+
+
+== Alternatives ==
+In 1997, the National Cancer Institute published a set of recommendations called the Bethesda guidelines for the identification of individuals who should receive genetic testing for Lynch syndrome related tumors.  The NCI revisited and revised these criteria in 2004.The Revised Bethesda Guidelines are as follows:
+
+Colorectal carcinoma (CRC) diagnosed in a patient who is less than 50 years old;
+Presence of synchronous (at the same time) or metachronous (at another time i.e.- a re-occurrence of) CRC or other Lynch syndrome-associated tumors, regardless of age;
+CRC with high microsatellite instability histology diagnosed in a patient less than 60 years old;
+CRC diagnosed in one or more first-degree relatives with a Lynch syndrome-associated tumor, with one of the cancers being diagnosed at less than 50 years of age;
+CRC diagnosed in two or more first-degree or second-degree relatives with Lynch syndrome-associated tumors, regardless of age.The Revised Bethesda Guidelines have been reported as being more sensitive than the Amsterdam II Criteria in detecting individuals and families at risk of Lynch syndrome.
+
+
+== References ==

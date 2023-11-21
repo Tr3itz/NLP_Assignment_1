@@ -1,0 +1,74 @@
+Neurocriminology is an emerging sub-discipline of biocriminology and criminology that applies brain imaging techniques and principles from neuroscience to understand, predict, and prevent crime.
+
+
+== Concept ==
+While crime is partially a social and environmental problem, the main idea behind neurocriminology (also known as neurolaw) is that the condition of an individual's brain often needs to be included in the analysis for a complete understanding. This can include conditions such as brain tumors, psychoses, sociopathy, sleepwalking, and many more. Deviant brain theories have always been part of biocriminology, which explains crime with biological reasons. Neurocriminology has become mainstream during the past two decades, since contemporary biocriminologists focus almost exclusively on brain due to significant advances in neuroscience. Even though neurocriminology is still at odds with traditional sociological theories of crime, it is becoming more popular in the scientific community.
+
+
+== Origins ==
+The origins of neurocriminology go back to one of the founders of modern criminology, 19th-century Italian psychiatrist and prison doctor Cesare Lombroso, whose beliefs that the crime originated from brain abnormalities were partly based on phrenological theories about the shape and size of the human head. Lombroso conducted a postmortem on a serial killer and rapist, who had an unusual indentation at the base of the skull. Lombroso discovered a hollow part in the killer's brain where the cerebellum would be. Lombroso's theory was that crime originated in part from abnormal brain physiology and that violent criminals where throwbacks to less evolved human types identifiable by ape-like physical characteristics. Criminals, he believed, could be identified by physical traits, such as a large jaw and sloping forehead. The contemporary neuroscientists further developed his idea that physiology and traits of the brain underlie all crime. The term “neurocriminology” was first introduced by James Hilborn (Cognitive Centre of Canada) and adopted by the leading researcher in the field, Dr. Adrian Raine, the chair of the Criminology Department at University of Pennsylvania. He was the first to conduct brain imaging study on violent criminals.
+
+
+== Major studies ==
+Many recent studies have revealed that sometimes structural and functional abnormalities are so striking that anyone can see them. Some violent offenders, however, have subtle structural or functional abnormalities and even highly experienced neuroradiologists cannot detect these irregularities right away. Yet, the abnormalities can be detected using brain imaging and state-of-the-art analytic tools.
+
+
+== Neurophysiological studies ==
+Studies on structural deficiencies suggest that people consistently behaving antisocially have structurally impaired brains. The abnormalities can be either of general character or affect specific regions of the brain that control emotions, aggression or are responsible for ethical decisions:
+Low number of neurons in the prefrontal cortex.
+A study in 2000 determined that people with a history of persistent antisocial behavior had an 11 percent reduction in the volume of gray matter in the prefrontal cortex, while white matter volume was normal.
+Similarly, A 2009 meta-analysis study, which pooled together the findings of 12 anatomical brain-imaging studies conducted on offender populations, found that the prefrontal cortex of the brain is indeed structurally impaired in offenders.Underdeveloped amygdalae. Two studies found that both the left and especially the right amygdalae are impaired in psychopaths. The psychopaths had on average 18 percent reduction in the volume of the right amygdala.Cavum septi pellucidi maldevelopment. A study in 2010 suggested that people with cavum septi pellucidi were prone to psychopathy, antisocial personality disorder, and had more charges and convictions for criminal offenses. This brain maldevelopment was especially linked to lifelong antisocial behavior, i.e. a reckless disregard for self and others, lack of remorse, and aggression.Bigger right hippocampus. A 2004 study suggested that the psychopaths’ right hippocampus that partially controls emotions and regulates aggression was significantly bigger than the left. This asymmetry was also true in normal people, but it was much more noticeable in psychopaths.Increase in the volume of the striatum. A study in 2010 found that psychopathic individuals showed a 10 percent increase in the volume of the striatum.Damage by foreign objects. A large number of studies on structural damage by foreign objects convincingly shows that adults suffering head injuries damaging the prefrontal cortex show impulsive and antisocial behavior that does not conform to the norms of society.
+There is a number of famous life stories showing the same causal connection. For example, P. Gage was a well-respected, well-liked, and responsible gentleman. In 1848 because of a construction accident he suffered a serious damage to his brain when a metal rod propelled by an explosive entered his lower left cheek and exited from the top-middle part of his head. Gage healed quickly. After that accident, however, he became erratic, disrespectful, and vulgar. Gage had been transformed from a well-controlled, well-respected person to an individual with psychopathic traits.Damage by tumors. There is also a number of famous U.S. criminal cases showing that damage of the brain by tumors can result in the same transformation as the damage by foreign objects.
+Charles Whitman, for instance, was a young man who studied architectural engineering at the University of Texas. Whitman had no history of violence or crime. As a child, he scored 138 on the Stanford-Binet IQ test, placing in the 99th percentile. He was an Eagle Scout, volunteered as a scoutmaster, and served in Marine Corps. In 1966 Whitman unexpectedly killed his mother as well as wife, ascended the belltower of the University of Texas, Austin, and fired a rifle at students below. He killed 15 people and wounding 31 more before police officers shot him. Whitman in his final note complained of inability to control his thoughts and requested an autopsy, which revealed a brain tumor in the hypothalamus region of his brain, a growth that, some hypothesized, put pressure on his amygdala.Another example would be Michael Oft. Oft was a teacher in Virginia who had no prior psychiatric nor deviant behavior history. At the age of forty, his behavior suddenly changed. He began to frequent massage parlors, collect child pornography, abuse his step-daughter, and was soon found guilty of child molestation. Mr. Oft opted for a treatment program for pedophiles, but still couldn't resist soliciting sexual favors from staff and other clients at the rehabilitation center. A neurologist advised a brain scan, which showed a tumor growing at the base of his orbitofrontal cortex, compressing the right prefrontal region of his brain. After the tumor was removed, Mr. Oft's emotion, behavior and sexual activity returned to normal. But after several months of normal behavior Mr. Oft again began to collect child pornography. Neurologists rescanned his brain and found that the tumor had grown back. After the second surgery removing the tumor, his behavior has been totally appropriate.
+
+
+== Neurofunctional studies ==
+Similarly to neurophysiological studies neurofunctional showed that brains of criminals and psychopaths not only are structures differently but also operate in a different way. As you can see below, both structural and functional abnormalities tend to affect the same areas of the brain. These are the major abnormalities found:
+Lack of Activation in the Prefrontal Cortex. A number of studies replicated the observance that violent criminals’ brains showed a significant reduction in prefrontal glucose metabolism.Reduced Activity In The Amygdala. A study found that individuals with high psychopathy scores showed reduced activity in the amygdala during emotional, personal moral decision-making.Dysfunctional Posterior Cingulate. Two studies found that posterior cingulate functions poorly in adult criminal psychopaths and aggressive patients.Reduced Cerebral Blood Flow in Angular Gyrus. A couple of studies found reduced cerebral blood flow in angular gyrus of murderers and impulsive, violent criminals.Higher Activation of Subcortical Limbic Regions. A 1998 study showed higher activation of subcortical limbic regions of two groups of reactive and proactive murderers, especially in the more “emotional” right hemisphere of the brain.Functional Disturbances of the Hippocampus and Its Parahippocampal Gyrus. A number of studies suggest that this region of the brain is not working properly in murders and violent offenders in general.
+
+
+== Free will ==
+Unlike the founding father of criminology, Cesare Lombroso, who thought that crime was fundamentally biological in its origin and criminals lacked free will altogether, contemporary neurocriminologists seem to take the middle ground approach. They do not argue that biological factors alone cause behavioral problems, but recognize that behavior results from interaction between biology and environment. Some authors, however, are more determinist in their views. As Stanford neuroscientist David Eagleman writes: "Free will may exist (it may simply be beyond our current science), but one thing seems clear: if free will does exist, it has little room in which to operate. It can at best be a small factor riding on top of vast neural networks shaped by genes and environment. In fact, free will may end up being so small that we eventually think about bad decision-making in the same way we think about any physical process, such as diabetes or lung disease."
+
+
+== Legal use ==
+US legal defense teams increasingly use brain scans as mitigating evidence in trials of violent criminals and sex offenders. See Neurolaw for more. Here are some of the most famous cases:
+
+
+=== Herbert Weinstein ===
+In 1991, a sixty-five-year-old advertising executive with no prior history of crime or violence after an argument strangled his wife, opened the window and threw her out of their 12th-floor apartment. His defense team had a structural brain scan done using MRI and PET scan. The images showed a big piece missing from the prefrontal cortex of the brain, i.e., a subarachnoid cyst was growing in his left frontal lobe. The defense team used these images to argue that Weinstein had an impaired ability to regulate his emotions and make rational decisions. The team went with an insanity defense, and the prosecution and defense agreed to a plea of manslaughter. As a result, Weinstein was given a seven-year sentence in contrast to the twenty-five-year sentence he would have served if he had been convicted of second-degree murder. He ended up serving until 2006.
+
+
+=== Antonio Bustamante ===
+Bustamante was a well-behaved teenager who suddenly at the age of 22 became a career criminal. His crimes included theft, breaking and entering, drug offenses, and robbery. In 1990 Bustamante was charged with a homicide. The defense team discovered that the client had suffered a head injury from a crowbar at the age of twenty. Bustamante's behavior changed fundamentally after that, transforming him from a normal individual into an impulsive and emotionally labile criminal. The defense team had his client's brain scanned, which revealed malfunctioning of the prefrontal cortex. At the end the jury believed that Bustamante's brain was not normal and spared him from the death penalty.
+
+
+=== Donta Page ===
+In 1999, Page robbed, raped and killed a female student in Denver. He later was found guilty of first-degree murder and was a candidate for the death penalty. Professor A. Raine from the University of Pennsylvania was an expert witness for defense and brought Page into a laboratory to assess his brain function. Brain imaging scans revealed a distinct lack of activation in the ventral prefrontal cortex. Professor Raine argued for a deep-rooted biological explanation for Mr. Page's violence, who escaped death penalty partly on the basis of his brain pathology.
+
+
+== Crime prevention ==
+Even though currently there are no preventive programs in place utilizing the recent discoveries in neurocriminology, there are a number of offender rehabilitation programs (Cognitive Centre of Canada).
+
+
+=== Decisions based on brain imaging ===
+Some scientists propose using brain imaging to help decide which soon-to-be-released offenders are at greater risk for reoffending. The brain imaging data would be used along with common factors like age, prior arrests, and marital status. To support this idea, in a 2013 study, Professor Kent Kiehl from the University of New Mexico studying the population of 96 male offenders in the state's prisons found that offenders with low activity in the anterior cingulate cortex where twice as likely to commit an offense in the four years after their release as those who had high activity in this region. Similarly, Dustin Pardini conducted that which shows that men with a smaller amygdala are three times more likely to commit violence three years after their release.
+
+
+=== Neurochemistry ===
+Trials demonstrated the efficacy of a number of medications, i.e. stimulants antipsychotics, antidepressants and mood stabilizers, in diminishing aggression in adolescents and children.
+Even a simple omega-3 supplements in the diets of young offenders reduces offending and aggression.
+
+
+=== Meditation ===
+Meditation can also affect brains, and even change them permanently. In 2003 Professor Richie Davidson from the University of Wisconsin performed a revolutionary study. People were randomly selected into either a mindfulness training group or a control group that was put on a waiting list for training. Davidson showed that even eight weekly sessions of meditation enhanced left frontal EEG functioning. Similar study was later replicated by Professor Holzel.
+
+
+== See also ==
+Criminology
+Social neuroscience
+Neurolaw
+Neuropsychiatry
+
+
+== References ==

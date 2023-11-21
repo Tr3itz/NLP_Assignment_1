@@ -1,0 +1,286 @@
+A Pedersen current is an electric current formed in the direction of the applied electric field when a conductive material with charge carriers is acted upon by an external electric field and an external magnetic field. Pedersen currents emerge in a material where the charge carriers collide with particles in the conductive material at approximately the same frequency as the gyratory frequency induced by the magnetic field. Pedersen currents are associated with a Pedersen conductivity related to the applied magnetic field and the properties of the material.
+
+
+== History ==
+The first expression for the Pedersen conductivity was formulated by Peder Oluf Pedersen from Denmark in his 1927 work "The Propagation of Radio Waves along the Surface of the Earth and in the Atmosphere", where he pointed out that the geomagnetic field means that the conductivity of the ionosphere is anisotropic.
+
+
+== Physical explanation ==
+
+When a moving charge carrier in a conductor is under the influence of a magnetic field 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+  , the carrier experiences a force perpendicular to the direction of motion and the magnetic field, resulting in a gyratory path, which is circular in the absence of any other external force. When an electric field 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {E} }
+   is applied in addition to the magnetic field and perpendicular to that field, this gyratory motion is driven by the electric field, leading to a net drift in the direction 
+  
+    
+      
+        
+          E
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {E} \times \mathbf {B} }
+   around the guiding center and a lack of mobility in the direction of the electric field. The charge carrier undergoes a helical motion whereby a charge carrier at rest acquires motion in the direction of the electric field according to Coulomb's law, gains a velocity perpendicular to the magnetic field, and subsequently is pushed in the direction 
+  
+    
+      
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {v} \times \mathbf {B} }
+   due to the Lorentz force (as 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   is in the direction of 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {E} }
+  , 
+  
+    
+      
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {v} \times \mathbf {B} }
+   is initially in the same direction as 
+  
+    
+      
+        
+          E
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {E} \times \mathbf {B} }
+  .) The motion will then oscillate backwards against the electric field until it again reaches a velocity of zero in the direction of the electric field, before again being driven by the electric and magnetic fields, forming a helical path. As a result, in a vacuum, no net current is possible in the direction of the electric field. Likewise, when there is a dense material with a high frequency of collisions between the charge carriers and the conductive medium, mobility is very low and the charge carriers are basically stationary.For a positively charged particle, over the course of this helical path, there is a positive skew in the location distribution of the charge carrier in the direction of the electric field, such that at any given point in time a measurement of the location of the charge carrier will on average result in a positive change from original position in the direction of the electric potential. During a collision with another particle in the medium, the velocity of the charge carrier is randomized at the point of collision. This location of collision is likely to be a positive change in the direction of the electric field from the original location of the charge carrier. After the velocity is randomised, the charge carrier will then restart helical motion from a different original location. Overall, this results in a bulk movement in the direction of the electric field such that a current is able to flow, which is known as the Pedersen Current, with the associated Pedersen Conductivity reaching a maximum when the frequency of collisions is approximately equal to the gyratory frequency so that the charge carriers experience one collision for every gyration.The Pedersen conductivity is determined by the following equation:
+Where the electron density is 
+  
+    
+      
+        
+          n
+          
+            e
+          
+        
+      
+    
+    {\displaystyle n_{e}}
+  , 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is the magnetic field, 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+      
+    
+    {\displaystyle C_{i}}
+   is the ion concentration for a given species, 
+  
+    
+      
+        
+          ν
+          
+            i
+            n
+          
+        
+      
+    
+    {\displaystyle \nu _{in}}
+   is the collision frequency between ion species i and other particles, 
+  
+    
+      
+        
+          ω
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \omega _{i}}
+   is the gyrofrequency for that ion, 
+  
+    
+      
+        
+          ν
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \nu _{e}}
+   is the collision frequency for the electron, and 
+  
+    
+      
+        
+          ω
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \omega _{e}}
+   is the electron gyrofrequency.
+A negative charge carrier undergoes a similar drift in the direction 
+  
+    
+      
+        
+          E
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {E} \times \mathbf {B} }
+  , but moves in the opposite direction to a positive charge carrier, and undergoes helical motion such that there is a net negative skew in the distribution of position from the original position over the gyration, and as these particles are negatively charged they will also produce a positive contribution to the Pedersen current.
+
+
+== Role in the Ionosphere ==
+Pedersen currents play an important role in the ionosphere, especially in polar regions. In the ionospheric dynamo region near the poles, the ion density is low enough and the magnetic field high enough for the collision frequency to be comparable to the gyration frequency, and the Earth's magnetic field has a large component perpendicular to the horizontal electric field due to the high inclination of the field near the poles. As a result, Pedersen currents are a significant mechanism for charge carrier movement. The magnitude of the Pedersen current balances the drag on the ionospheric plasma due to ion‐neutral collisions.Pedersen currents in the ionosphere have a similar production mechanism to Hall currents, have a similar equation form for determining conductivity and have a similar conductivity profile and conducitivity dependence on various factors. The Pedersen and Hall conductivities are maximised during daytime or in auroral regions at night, as they depend on plasma density, which in turn depends on auroral or solar ionization. The conductivities also vary by about 40% over the solar cycle, reaching a maximum conductivity around solar maximum.The Pedersen conductivity reaches a maximum in the ionosphere at an altitude of around 125 km.Pedersen currents flow between the Region 1 and Region 2 Birkeland current sheets (see the figure), completing the circuit of the flow of charge through the ionosphere (at a given local time, one region involves current entering the ionosphere along the geomagnetic field lines, and the other region involves current leaving the ionosphere.) There is also a Pedersen current that flows across the pole from the dawn side (local time 6:00) to the dusk side (local time 18:00) of the region 1 current sheet.
+Electrons have also been shown to carry Pedersen currents in the D layer of the ionosphere.
+
+
+=== Joule heating ===
+The Joule heating of the ionosphere, a major source of energy loss from the magnetosphere, is closely related to the Pedersen conductivity through the following relation:
+
+Where 
+  
+    
+      
+        
+          q
+          
+            J
+          
+        
+      
+    
+    {\displaystyle q_{J}}
+   is the Joule heating per unit volume, 
+  
+    
+      
+        
+          
+            σ
+          
+          
+            P
+          
+        
+      
+    
+    {\displaystyle \mathbf {\sigma } _{P}}
+   is the Pedersen conductivity, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are the electric and magnetic fields, and 
+  
+    
+      
+        
+          U
+          
+            n
+          
+        
+      
+    
+    {\displaystyle U_{n}}
+   is the neutral wind velocity.
+
+
+== See also ==
+Electromagnetism
+Magnetohydrodynamics
+List of plasma (physics) articles
+
+
+== References ==

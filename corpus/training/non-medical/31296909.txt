@@ -1,0 +1,25 @@
+An isolated ground (IG) (or Functional Earth (FE) in European literature) is a ground connection to a local earth electrode from equipment where the main supply uses a different earthing arrangement, one of the common earthing arrangements used with domestic mains supplies. It is distinct from a TT earthing system where the system electrode is also part of the safety earthing and not neutral bonded. In most countries where regulation permits it, TT is preferred for such systems as conventional wiring techniques can be used.
+Examples where an IG may be required include radio transmitters where it is not desired for RF currents associated with the antenna and its earthing to enter the mains supply wiring, and in reverse, for sensitive apparatus that should be protected from supply borne interference.
+Great care has to be taken to maintain system safety with such systems, and each case has to be carefully considered.
+
+
+== Description ==
+The primary reason for the use of isolated grounds (IG) is to provide a noise-free ground return, separate from the equipment grounding (EG) return. The EG circuit includes all of the metal conduit, outlet boxes, and metal enclosures that contain the wiring and must be grounded to provide a safe return path in case of fault currents. The IG provides an insulated, separate ground path for the ground reference in electronic equipment, such as computers, hospital equipment, and audio equipment. IG does not break ground loops, which can damage equipment like computers, printers, etc.. Interconnected computer equipment often benefits from single-point grounding.
+IG is only used with special equipment that requires it. The IG is typically insulated and separate all the way back to the point of earth grounding rod outside of the building. The IG is NOT connected to a 
+neutral or any other earthing network. Due to the installation of a separate, insulated conductor and the associated special outlets required, IG circuits are more expensive to install than standard power circuits.Its main downside is that an isolated grounding connection has higher impedance than a non-isolated grounding connection, and no redundancy, so safety is reduced. Isolated ground receptacles are allowed in patient care areas, but only when installed outside the immediate patient care vicinity.
+
+
+== Domestic supplies ==
+Until the 1950s, isolated ground domestic mains supplies tended to have no Residual-Current Device (RCD) or Earth Leakage Circuit Breaker (ELCB), and too high a ground impedance to blow a fuse if a live-to-earth fault occurred. This could leave metalwork in the house live. The use of Residual Current Devices (RCDs) or formerly ELCBs with such installs solved this problem. Such installs are called EEBAD (Earthed Equipotential Bonding and Automatic Disconnection).
+
+
+== Noise ==
+An isolated ground, if installed correctly, can reduce some electrical noise. However, complete power conditioning and protection usually requires additional devices such as a surge protector or an uninterruptible power supply. If the receptacle is not installed correctly, it can create a dangerous installation.
+
+
+== See also ==
+Electrical grounding
+Electrical safety
+
+
+== References ==

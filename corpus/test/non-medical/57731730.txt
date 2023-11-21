@@ -1,0 +1,21 @@
+Ecological units, comprise concepts such as population, community, and ecosystem as the basic units, which are at the basis of ecological theory and research, as well as a focus point of many conservation strategies. The concept of ecological units continues to suffer from inconsistencies and confusion over its terminology. Analyses of the existing concepts used in describing ecological units have determined that they differ in respects to four major criteria:
+
+The questions as to whether they are defined statistically or via a network of interactions,
+If their boundaries are drawn by topographical or process-related criteria,
+How high the required internal relationships are,
+And if they are perceived as "real" entities or abstractions by an observer.A population is considered to be the smallest ecological unit, consisting of a group of individuals that belong to the same species. A community would be the next classification, referring to all of the population present in an area at a specific time, followed by an ecosystem, referring to the community and it's interactions with its physical environment. An ecosystem is the most commonly used ecological unit and can be universally defined by two common traits:
+The unit is often defined in terms of a natural border (maritime boundary, watersheds, etc.)
+Abiotic components and organisms within the unit are considered to be interlinked.
+
+
+== See also ==
+Biogeographic realm
+Ecoregion
+Ecotope
+Holobiont
+Functional ecology
+Behavior settings
+Regional geology
+
+
+== References ==

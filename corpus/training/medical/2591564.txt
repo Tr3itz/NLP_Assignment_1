@@ -1,0 +1,21 @@
+Left shift or blood shift is an increase in the number of immature cell types among the blood cells in a sample of blood. Many (perhaps most) clinical mentions of left shift refer to the white blood cell lineage, particularly neutrophil-precursor band cells,: 84–84  thus signifying bandemia. Less commonly, left shift may also refer to a similar phenomenon in the red blood cell lineage in severe anemia, when increased reticulocytes and immature erythrocyte-precursor cells appear in the peripheral circulation.
+
+
+== Definition ==
+The standard definition of a left shift is an absolute band form count greater than 7700/microL. There are competing explanations for the origin of the phrase "left shift," including the left-most button arrangement of early cell sorting machines and a 1920s publication by Josef Arneth, containing a graph in which immature neutrophils, with fewer segments, shifted the median left. In the latter view, the name reflects a curve's preponderance shifting to the left on a graph of hematopoietic cellular differentiations. 
+
+
+== Morphology ==
+It is usually noted on microscopic examination of a blood smear. This systemic effect of inflammation is most often seen in the course of an active infection and during other severe illnesses such as hypoxia and shock. Döhle bodies may also be present in the neutrophil's cytoplasm in the setting of sepsis or severe inflammatory responses.: 663–664 
+
+
+== Pathogenesis ==
+It is believed that cytokines (including IL-1 and TNF) accelerate the release of cells from the postmitotic reserve pool in the bone marrow, leading to an increased number of immature cells.: 84–84 
+
+
+== See also ==
+Leukocytosis
+Reticulocyte
+
+
+== References ==

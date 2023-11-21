@@ -1,0 +1,15 @@
+Computing in Cardiology (formerly known as Computers in Cardiology) is a scientific conference held annually since 1974. It brings together scientists from medicine, bioengineering, and other related fields, focused on the application of computational methods in cardiology. Papers presented at the conference are published by the Institute of Electrical and Electronics Engineers. Since 2006, papers at the conference have been published under a Creative Commons license. The current president of the board of directors is Rob S. Macleod.Since 2000, the conference has hosted the annual Physionet/CinC data challenge.
+
+
+== Abstracting and indexing ==
+Computing in Cardiology is abstracted and indexed in:
+
+Conference Proceedings Citation Index
+Scopus
+
+
+== References ==
+
+
+== External links ==
+Official website

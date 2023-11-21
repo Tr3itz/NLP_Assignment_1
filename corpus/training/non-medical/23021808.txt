@@ -1,0 +1,11 @@
+Electric transient may refer to:
+Physical phenomena:
+
+Transient response
+Transient (oscillation)
+Transient recovery voltage
+Voltage spike
+Voltage droop
+Inrush currentSoftware:
+
+SPICE transient simulation mode

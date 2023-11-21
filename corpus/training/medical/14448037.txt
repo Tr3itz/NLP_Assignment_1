@@ -1,0 +1,37 @@
+DaT Scan (DaT scan or Dopamine Transporter Scan) commonly refers to a diagnostic method to investigate if there is a loss of dopaminergic neurons in striatum. The term may also refer to a brand name of Ioflupane (123I) which is used for the study. The scan principle is based on use of the radiopharmaceutical Ioflupane (123I) which binds to dopamine transporters (DaT). The signal from them is then detected by the use of single-photon emission computed tomography (SPECT) which uses special gamma-cameras to create a pictographic representation of the distribution of dopamine transporters in the brain.DaTSCAN is indicated in cases of tremor when its origin is uncertain. Although this method can distinguish essential tremor from Parkinson's syndrome, it is unable to distinguish between Parkinson's disease, multiple system atrophy or progressive supranuclear palsy.
+There is evidence that DaTSCAN is accurate in diagnosing early Parkinson's.
+
+
+== Procedure ==
+At the beginning a patient should take two iodine tablets and wait for one hour. These pills are important because they prevent the accumulation of radioactive substances in the thyroid gland. After one hour, the patient gets an injection to the shoulder, which contains the radiopharmaceutical, and then waits for 4 hours. The concentration of the substance increases, and then it is scanned by a gamma-camera, which is located around the patient's head. The whole examination lasts about 30–45 minutes, and it is non-invasive.
+If a patient uses certain medications listed below, it is necessary to stop usage for a few days or weeks before the DaTSCAN, but only after a consultation with the patient's doctor.
+The examination takes just a few hours, so patients do not need to stay in a hospital overnight, but they have to drink much more than they are used to and go to the toilet more often. It is important for a fast elimination of the radioactive substances from the body.
+
+
+== Contraindications ==
+pregnancy
+breast-feeding
+severe renal or hepatic insufficiency
+allergy to iodine substances
+certain medications – stimulants or noradrenalin and some antidepressants
+
+
+== Differential Diagnosis ==
+Parkinson's disease, multiple system atrophy or progressive supranuclear palsy
+Essential tremor
+Lewy body disease
+
+
+== See also ==
+Essential tremor
+Multiple system atrophy
+Progressive supranuclear palsy
+
+
+=== External links ===
+European Parkinson's Disease Association Archived 2011-12-11 at the Wayback Machine
+DaTSCAN Archived 2019-07-20 at the Wayback Machine
+Patient's view Archived 2011-10-14 at the Wayback Machine
+
+
+=== References ===

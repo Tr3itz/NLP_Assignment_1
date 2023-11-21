@@ -1,0 +1,47 @@
+Stab-Lok is a brand name of electrical circuit breakers that were manufactured primarily by Federal Pacific Electric between 1950-1980.
+In June 1980, Reliance Electric, which had purchased FPE, reported to the United States Consumer Product Safety Commission
+that "many FPE circuit breakers did not fully comply with Underwriters Laboratories, Inc. (UL) requirements. Commission testing confirmed that these breakers fail certain UL calibration test requirements."
+Professional home inspectors now routinely recommend removing and replacing Stab-Lok breakers and panels that remain in service, as they may pose a fire hazard.
+
+
+== Safety issues ==
+It has been widely reported in news media and online that Stab-Lok circuit breakers, and panels, do not meet the requirements of the National Electrical Code (NFPA 70) and Underwriters Laboratories, and should be replaced.
+According to a 2012 news report by NBC Bay Area (KNTV):
+
+The "Stab-Lok” circuit breaker and panel produced by Federal Pacific Electric (FPE) installed in hundreds of thousands of homes in the Bay Area may cause house fires, according decades of documentation and electrical experts interviewed by the NBC Bay Area Investigative Unit.  Stab-Lok circuit breakers are most commonly found in houses built before 1990.
+According to an independent analysis performed by Jesse Aronson, P.E.:
+
+FPE and replacement brands of Stab-Lok® circuit breakers have a high defect rate. They do not  provide the level of circuit protection required by the NEC (National Electrical Code). Homeowners should be alerted to this safety defect and advised to have it corrected. FPE Stab-Lok® circuit breaker panels should be replaced unless the occupants are informed and willing to live with the resulting increased risk of fire and injury.
+According to ANGI Homeservices, formerly known as Angie's List,
+
+If your home has a Federal Pacific Electric (FPE) circuit breaker panel with Stab-Lok circuit breakers, you run a significant risk of breaker malfunction and fire. While these types of circuit breakers were once commonly installed in houses across the country, many are defective. To be on the safe side, it’s a good idea to replace any Federal Pacific breakers in your home.
+
+Angie's List and NBC Bay Area both highlighted an October 2002 ruling in a New Jersey Superior Court, which found that FPE (Federal Pacific Electric), the manufacturer of the Stab-Lok breakers and panels, "knowingly and purposefully [sic] distributed circuit breakers which were not tested to meet UL standards as indicated on their label".
+
+
+== Government response ==
+After the 1979 sale of Federal Pacific Electric to Reliance Electric, a unit of Exxon Corporation, Reliance reported to the U.S. Consumer Product Safety Commission that the Stab-Lok breakers and panels did not meet the requirements published by Underwriters Laboratories, even though the products bore UL markings.
+The CPSC performed its own testing and concluded:
+
+Commission testing confirmed that these breakers fail certain UL calibration test requirements.
+After a two-year investigation into whether these test failures would create a "serious risk of injury to consumers", the CPSC closed the investigation, citing a lack of budget to continue:
+
+The Commission staff estimates that it would cost several million dollars to gather the data necessary to assess fully whether those circuit breakers that are installed in homes ... present a risk to the public.
+CPSC urged consumers to remain vigilant and report any failed breakers or equipment so it could continue to collect data.
+
+
+== Fate ==
+The Stab-Lok brand was discontinued, and its maker, FPE, went through a succession of later owners: Reliance Electric, owned by Exxon, in 1979; Exxon later sold Reliance Electric to Rockwell, which sold the business to Baldor Electric in 2006.  Baldor was bought by ABB in 2011.Other companies began building Stab-Lok style breakers through around 1990. According to a Washington Post article, home inspection professionals now routinely advise consumers to remove and replace those panels that remain in service.According to Home Inspection Insider, when Dr. Jesse Aronstein tested the Schneider Electric and Connecticut Electric replacement breakers, he found they had problems with failure rates, indicating that replacement breakers are no better than original Stab-Lok breakers.In his report, Dr. Aronstein states
+
+UBI (Connecticut Electric) replacement breakers that are still being manufactured and sold today. Almost half of the UBI Stab-Lok® type breakers tested to date, including brand new samples, failed to meet the UL489 safety standard performance requirements. This stands as the highest defect rate of any brand of Stab-Lok® type breakers yet tested. 
+
+
+== Providers ==
+Other manufacturers of Stab-Lok breakers may have included:
+American Circuit Breaker Corporation
+Challenger
+Thomas & Betts
+Connecticut Electric - Unique Breakers Inc. (UBI)
+
+
+== References ==

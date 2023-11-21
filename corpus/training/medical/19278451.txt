@@ -1,0 +1,27 @@
+In radiation therapy, bolus is a material which has properties equivalent to tissue when irradiated. It is widely used in practice to reduce or alter dosing for targeted radiation therapy.
+
+
+== Compensating for missing tissue or irregular tissue shape ==
+It must be possible to mould the bolus to fill the tissue space. Lincolnshire and Spier's bolus, which is loosely packed in polyethylene bags, is suitable as the bolus bags take the shape of the skin surface these bags are easily smoothed to achieve a flat surface.
+
+
+== Modifying dose at the skin surface and at depth ==
+A specific thickness of bolus can be applied to the skin to alter the dose received at depth in the tissue and on the skin surface. A typical example of this is the application of a defined thickness of bolus to a chest wall for post-mastectomy chest wall treatment, to increase the skin dose. The thickness of bolus applied is dependent on the skin dose required and the angle of incidence of the treatment beams. For example if oblique 6 MV beams are used for tangential pair, 1 cm of bolus effectively becomes 1.5 cm, i.e., "full bolus".
+When a full bolus is applied, bolus thickness equal to the depth of the build-up region removes the skin-sparing effect of a megavoltage x-ray beam.
+
+
+== Pliable bolus ==
+Suitable material must be pliable and easily moulded to the skin surface, but retain a constant thickness. One example includes paraffin gauze.
+
+
+== Rigid bolus ==
+For smaller areas which do not require the bolus to be moulded over the skin, Perspex can be used. The use of Perspex bolus is advantageous for electron set-ups because it is transparent. Since the f.s.d. for most electron fields is 95 cm, so that the movements of the couch are not isocentric, inaccuracies may arise for aligning angled fields when an opaque bolus is inserted.
+
+
+== Positioning bolus in the treatment beam ==
+To ensure that the patient receives the required dose, bolus of the right thickness must be placed correctly. Therefore bolus requirements must be clearly documented in the setup sheets of the treatment card. When using bolus to compensate for missing tissue, the whole of the bolussed area must be level with the point on the patient where the f.s.d. is set, to ensure dose homogeneity.
+When the bolus is used to reduce the skin-sparing effect, the bolus does not necessarily need to touch the skin all over the bolussed area as the scatter is of sufficiently high energy to be unaffected by an air gap. However, it is important that the bolus is uniform thickness. Some bolus materials are easily squashed and must be carefully measured at regular intervals.
+
+
+== References ==
+Perez and Brady's Principles and Practice of Radiation Oncology

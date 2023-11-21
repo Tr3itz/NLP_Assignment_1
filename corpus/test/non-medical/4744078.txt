@@ -1,0 +1,39 @@
+In electrical engineering,  dot marking convention, or alphanumeric marking convention, or both, can be used to denote the same relative instantaneous polarity of two mutually inductive components such as between transformer windings. These markings may be found on transformer cases beside terminals, winding leads, nameplates, schematic and wiring diagrams.
+The convention is that current entering a transformer at the end of a winding marked with a dot, will tend to produce current exiting other windings at their dotted ends.Maintaining proper polarity is important in power system protection, measurement and control systems. A reversed instrument transformer winding may defeat protective relays, give inaccurate power and energy measurements, or result in display of negative power factor. Reversed connections of paralleled transformer windings will cause circulating currents or an effective short circuit. In signal circuits, reversed connections of transformer windings can result in incorrect operation of amplifiers and speaker systems, or cancellation of signals that are meant to add.
+
+
+== Polarity ==
+Leads of primary and secondary windings are said to be of the same polarity when instantaneous current entering the primary winding lead results in instantaneous current leaving the secondary winding lead as though the two leads were a continuous circuit.
+In the case of two windings wound around the same core in parallel, for example, the polarity will be the same on the same ends: A sudden (instantaneous) current in the first coil will induce a voltage opposing the sudden increase (Lenz's law) in the first and also in the second coil, because the magnetic field produced by the current in the first coil traverses the two coils in the same manner. 
+The second coil will, therefore, show an induced current opposite in direction to the inducing current in the first coil. Both leads behave like a continuous circuit, one current entering into the first lead and another current leaving the second lead.
+
+
+== Transformer windings ==
+Two methods are commonly used to denote which terminals present the same relative polarity. A dot may be used, or an alphanumeric designation. Alphanumeric designations are typically in the form H1 for primaries, and for secondaries, X1, (and Y1, Z1, if more windings present).
+Unlike single-phase transformers, three-phase transformers may have a phase shift due to different winding configurations (for example, a wye connected primary and a delta connected secondary), resulting in a multiple of 30 degree phase shift between H1 and X1 bushing designations. The vector group in the nameplate of the transformer gives information about such phase shift.
+
+
+== Terminal layout conventions ==
+Transformers are said to have "additive" or "subtractive" polarity based on their physical arrangement of terminals and the polarity of windings connected to the terminals. The convention used for North American transformers is that, facing the high voltage side of the transformer, the H1 terminal is on the observer's right. A transformer is called "additive" if, conceptually, connecting the high-voltage terminal to the adjacent low-voltage terminal gives a total voltage between the other two terminals that is the sum of the high voltage and low voltage ratings, when the high-voltage winding is excited at rated voltage. The H1 and X2 terminals are physically adjacent. In the "subtractive" arrangement, the H1 and X1 terminals are adjacent, and the voltage measured between H2 and X2 would be the difference of the  high voltage and low voltage windings. Pole mounted distribution transformers are manufactured with additive polarity, while instrument transformers are made with subtractive polarity.  Where markings have been obscured or are suspect, a test can be made by interconnecting the windings and exciting the transformer, and measuring the voltages.
+
+
+== Three phase transformers ==
+Three-phase transformers used in electric power systems will have a nameplate that indicate the phase relationships between their terminals. This may be in the form of a phasor diagram, or using an alpha-numeric code to show the type of internal connection (wye or delta) for each winding.
+
+
+== See also ==
+Electrical polarity
+
+
+== References ==
+
+
+== Further reading ==
+Brenner, Egon; Javid, Mansour (1959). "§18.1 'Symbols and Polarity of Mutual Inductance' in Chapter 18 - Circuits with Magnetic Circuits". Analysis of Electric Circuits. McGraw-Hill Electrical and Electronic Engineering Series. McGraw-Hill. pp. 589–590. Retrieved 2022-07-03.
+Harman, Willis W.; Lytle, Dean W. (1962). "10-2. Transformers". Electrical and Mechanical Networks: An introduction to their analysis. McGraw-Hill Electrical and Electronic Engineering Series (1 ed.). New York, USA: McGraw-Hill Book Company, Inc. / The Maple Press Company, York, PA. pp. 353–354. LCCN 61-17340. Order No. 26590. p. 354: The voltage drop from the dotted to the undotted end of a coil, induced by a current i flowing in at the dotted end of the other coil, is M di/dt. If M is assumed positive, the four markings of Fig. 10-3a. correspond exactly and may be freely interchanged. The same holds true for the four markings of Fig. 10-3b.
+Grossner, Nathan (1967). Transformers for Electronic Circuits. McGraw-Hill. p. 26. ISBN 0-07024979-2.
+Nahvi, Mahmood; Edminister, Joseph (2002). Schaum's outline of theory and problems of electric circuits. Schaum's outline of theory and problems / Schaum's outline series (4 ed.). McGraw-Hill Professional. p. 338. ISBN 0-07-139307-2. Retrieved 2022-07-03.
+Boylestad, Robert L. (2003). "Section 21.8: Series connection of mutually coupled coils". Introductory Circuit Analysis (10 ed.). Prentice Hall. p. 954. ISBN 0-13-097417-X. Retrieved 2022-07-03.
+Parker, Martin R.; Ula, Sadrul; Webb, William E. (2005). "§2.5.5 'Transformers' & §10.1.3 'The Ideal Transformer'". In Whitaker, Jerry C. (ed.). The Electronics Handbook (2 ed.). Taylor & Francis. pp. 172, 1017. ISBN 0-8493-1889-0. Retrieved 2022-07-03.
+Kothari, Dwarkadas Prahladadas; Nagrath, Inder Jit (2010). "Chapter 3 - Transformers". Electric machines (4 ed.). Tata McGraw-Hill. p. 73, §3.7 'Transformer Testing'. ISBN 978-0-07-069967-0. Retrieved 2022-07-03.
+ANSI/IEEE C57.13, American National Standard Requirements for Instrument Transformers.

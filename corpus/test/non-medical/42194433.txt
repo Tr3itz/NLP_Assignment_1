@@ -1,0 +1,10 @@
+A power distribution center (PDC) is electrical equipment designed to regulate the distribution of electrical power to various equipment, be that to machines in a factory or to various systems on an automotive vehicle. Typically, a switchgear supplies power to the PDC. The PDC housing contains a transformer, which steps down the incoming power to a lower voltage to feed other plant loads such as motor control centers (MCC's). Feeder breakers for these loads will be located on the PDC. PDC's will often contain additional protective relays, monitoring equipment, fuses, terminal points, etc...
+
+
+== See also ==
+Motor control center
+Transformer
+Switchgear
+
+
+== References ==

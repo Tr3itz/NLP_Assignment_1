@@ -1,0 +1,63 @@
+The space cardioid is a 3-dimensional curve derived from the cardioid. It has a parametric representation using trigonometric functions.
+
+
+== Definition ==
+The general form of the equation is most easily understood in parametric form, as follows:
+
+  
+    
+      
+        X
+        (
+        t
+        )
+        =
+        (
+        (
+        k
+        +
+        cos
+        ⁡
+        (
+        t
+        )
+        )
+        cos
+        ⁡
+        (
+        t
+        )
+        ,
+        (
+        j
+        +
+        cos
+        ⁡
+        (
+        t
+        )
+        )
+        sin
+        ⁡
+        (
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        t
+        )
+        )
+        
+      
+    
+    {\displaystyle X(t)=((k+\cos(t))\cos(t),(j+\cos(t))\sin(t),\sin(t))\,}
+  
+
+
+== See also ==
+Trigonometric functions
+
+
+== References ==

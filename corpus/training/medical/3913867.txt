@@ -1,0 +1,49 @@
+Optimal virulence is a concept relating to the ecology of hosts and parasites. One definition of virulence is the host's parasite-induced loss of fitness. The parasite's fitness is determined by its success in transmitting offspring to other hosts. For about 100 years, the consensus was that virulence decreased and parasitic relationships evolved toward symbiosis. This was even called the law of declining virulence despite being a hypothesis, not even a theory. It has been challenged since the 1980s and has been disproved.A pathogen that is too restrained will lose out in competition to a more aggressive strain that diverts more host resources to its own reproduction.  However, the host, being the parasite's resource and habitat in a way, suffers from this higher virulence. This might induce faster host death, and act against the parasite's fitness by reducing probability to encounter another host (killing the host too fast to allow for transmission). Thus, there is a natural force providing pressure on the parasite to "self-limit" virulence. 
+The idea is, then, that there exists an equilibrium point of virulence, where parasite's fitness is highest. Any movement on the virulence axis, towards higher or lower virulence, will result in lower fitness for the parasite, and thus will be selected against.
+
+
+== Mode of transmission ==
+Paul W. Ewald  has explored the relationship between virulence and mode of transmission. He came to the conclusion that virulence tends to remain especially high in waterborne and vector-borne infections, such as cholera and dengue. Cholera is spread through sewage and dengue through mosquitos. In the case of respiratory infections, the pathogen depends on an ambulatory host to survive. It must spare the host long enough to find a new host. Water- or vector-borne transmission circumvents the need for a mobile host.   Ewald is convinced that the crowding of field hospitals and trench warfare provided an easy route to transmission that evolved the virulence of the 1918 influenza pandemic. In such immobilized, crowded conditions pathogens can make individuals very sick and still jump to healthy individuals.
+Other epidemiologists have expanded on the idea of a tradeoff between costs and benefits of virulence. One factor is the time or distance between potential hosts. Airplane travel, crowded factory farms, and urbanization have all been suggested as possible sources of virulence. Another factor is the presence of multiple infections in a single host leading to increased competition among pathogens. In this scenario, the host can survive only as long as it resists the most virulent strains. The advantage of a low virulence strategy becomes moot.   Multiple infections can also result in gene swapping among pathogens, increasing the likelihood of lethal combinations.
+
+
+== Evolutionary hypotheses ==
+There are three main hypotheses about why a pathogen evolves as it does. These three models help to explain the life history strategies of parasites, including reproduction, migration within the host, virulence, etc.  The three hypotheses are the trade-off hypothesis, the short-sighted evolution hypothesis, and the coincidental evolution hypothesis. All of these offer ultimate explanations for virulence in pathogens.
+
+
+=== Trade-off hypothesis ===
+At one time, some biologists argued that pathogens would tend to evolve toward ever decreasing virulence because the death of the host (or even serious disability) is ultimately harmful to the pathogen living inside. For example, if the host dies, the pathogen population inside may die out entirely. Therefore, it was believed that less virulent pathogens that allowed the host to move around and interact with other hosts should have greater success reproducing and dispersing.
+But this is not necessarily the case. Pathogen strains that kill the host can increase in virulence as long as the pathogen can transmit itself to a new host, whether before or after the host dies. The evolution of virulence in pathogens is a balance between the costs and benefits of virulence to the pathogen. For example, studies of the malaria parasite using rodent and chicken models found that there was trade-off between transmission success and virulence as defined by host mortality.
+
+
+=== Short-sighted evolution hypothesis ===
+Short-sighted evolution suggests that the traits that increase reproduction rate and transmission to a new host will rise to high frequency within the pathogen population. These traits include the ability to reproduce sooner, reproduce faster, reproduce in higher numbers, live longer, survive against antibodies, or survive in parts of the body the pathogen does not normally infiltrate. These traits typically arise due to mutations, which occur more frequently in pathogen populations than in host populations, due to the pathogens' rapid generation time and immense numbers. After only a few generations, the mutations that enhance rapid reproduction or dispersal will increase in frequency. The same mutations that enhance the reproduction and dispersal of the pathogen also enhance its virulence in the host, causing much harm (disease and death). If the pathogen's virulence kills the host and interferes with its own transmission to a new host, virulence will be selected against. But as long as transmission continues despite the virulence, virulent pathogens will have the advantage. So, for example, virulence often increases within families, where transmission from one host to the next is likely, no matter how sick the host. Similarly, in crowded conditions such as refugee camps, virulence tends to increase over time since new hosts cannot escape the likelihood of infection.
+
+
+=== Coincidental evolution hypothesis ===
+Some forms of pathogenic virulence do not co-evolve with the host. For example, tetanus is caused by the soil bacterium Clostridium tetani. After C. tetani bacteria enter a human wound, the bacteria may grow and divide rapidly, even though the human body is not their normal habitat.  While dividing, C. tetani produce a neurotoxin that is lethal to humans. But it is selection in the bacterium's normal life cycle in the soil that leads it to produce this toxin, not any evolution with a human host. The bacterium finds itself inside a human instead of in the soil by mere happenstance. We can say that the neurotoxin is not directed at the human host.
+More generally, the virulence of many pathogens in humans may not be a target of selection itself, but rather an accidental by-product of selection that operates on other traits, as is the case with antagonistic pleiotropy.
+
+
+== Expansion into new environments ==
+A potential for virulence exists whenever a pathogen invades a new environment, host or tissue.  The new host is likely to be poorly adapted to the intruder, either because it has not built up an immunological defense or because of a fortuitous vulnerability.  In times of change, natural selection favors mutations that exploit the new host more effectively than the founder strain, providing an opportunity for virulence to erupt.
+
+
+== Host susceptibility ==
+Host susceptibility contributes to virulence.  Once transmission occurs, the pathogen must establish an infection to continue. The more competent the host immune system, the less chance there is for the parasite to survive. It may require multiple transmission events to find a suitably vulnerable host. During this time, the invader is dependent upon the survival of its current host. The optimum conditions for high virulence would be a community with immune dysfunction (and/or poor hygiene and sanitation) that was in all other ways as healthy as possible (eg optimum nutrition).
+
+
+== See also ==
+Law of declining virulence – Disproved hypothesis of epidemiologist Theobald Smith
+
+
+== References ==
+
+
+== External links ==
+Empirical Support for Optimal Virulence in a Castrating Parasite
+Evolution of Virulence
+Adaptive Dynamics of Infectious Diseases: In Pursuit of Virulence ...
+Integrating across levels Interesting discussion of the complexity of optimal virulence theory
+`Small worlds' and the evolution of virulence: infection occurs ...
+Pathogen Virulence: The Evolution of Sickness - A Review from the Science Creative Quarterly

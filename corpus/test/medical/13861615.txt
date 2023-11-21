@@ -1,0 +1,56 @@
+Neurocritical care (or neurointensive care) is a medical field that treats life-threatening diseases of the nervous system and identifies, prevents, and treats secondary brain injury.
+
+
+== History ==
+There have been many attempts to manage head injuries throughout history including trepanned skulls found from ancient Egypt and descriptions of treatments to decrease brain swelling in ancient Greek text. Intensive care begin with centers to treat the poliomyelitis outbreak during the mid-twentieth century. These early respiratory care units utilized a negative and positive pressure unit called the "Iron Lung" to aid patients in respiration and greatly decreased the mortality rate of polio. Dr. Bjørn Aage Ibsen, a physician in Denmark, "birthed the intensive care unit", when he used tracheostomy and positive pressure manual ventilation to keep polio patients alive in the setting of an influx of patients and limited resources (only one iron Lung).
+The first neurological intensive care unit was created by Dr. Dandy Walker at Johns Hopkins in 1929. Dr. Walker realized that some surgical patient could use specialized postoperative neurosurgical monitoring and treatment. The unit Dr. Walker created showed a benefit to postoperative patients, than neurologic patients came to the unit. Dr. Safar created the first intensive care unit in the United States in Baltimore in the 1950s. In the 1970s, the benefit of specialized care in respiratory and cardiac ICUs led to the Society of Critical Care medicine being formed. This body created standards for extensive, difficult medical problems and treatments. Over time the need for specialized monitoring and treatments led to neurologic intensive care units.
+Modern neurocritical care began to develop in the 1980s. The Neurocritical Care Society was founded in 2002. In 2005, neurocritical care was recognized as a neurological subspecialty.
+
+
+== Scope ==
+The doctors who practice this type of medicine are called neurointensivists, and can have medical training in many fields, including neurology, anesthesiology, emergency medicine, internal medicine, or neurosurgery.  Common diseases treated in neurointensive care units include strokes, ruptured aneurysms, brain and spinal cord injury from trauma, seizures (especially those that last for a long period of time- status epilepticus, and/or involve trauma to the patient, i.e., due to a stroke or a fall), swelling of the brain (Cerebral edema), infections of the brain (encephalitis) and the brain's or spine's meninges (meningitis), brain tumors (especially malignant cases; with neurological oncology), and weakness of the muscles required to breathe (such as the diaphragm).  Besides dealing with critical illness of the nervous system, neurointensivists also treat the medical complications that may occur in their patients, including those of the heart, lung, kidneys, or any other body system, including treatment of infections.
+
+
+== Neurointensive care centers ==
+Neurological Intensive care units are specialized units in select tertiary care centers that specialized in the care of critical ill neurological and post and pre-op neurosurgical patients. The goal of NICUs are to provide early and aggressive medical interventions including managing pain, airways, ventilation, anticoagulation, elevated ICP, cardiovascular stability and secondary brain injury.  Admission criteria includes: Impaired consciousness, impaired ability to protect airway, progressive respiratory weakness, need for mechanical ventilation, seizure, Radiologic evidence of elevated ICP, monitoring of neurologic function in patients that are critically ill. Neuro-ICU have been seeing increasing use at Tertiary referral hospital. One of the main reasons why Neuro-ICUs have seen increased use is the use of therapeutic hypothermia which has been shown to improve long-term neurological outcomes following cardiac arrest.
+
+
+== Neurointensive care team ==
+Most neurocritical care units are a collaborative effort between neurointensivists, neurosurgeons, neurologists, radiologists, pharmacists, physician extenders (such as nurse practitioners or physician assistants), critical care nurses, respiratory therapists, registered dietitians, rehabilitation therapists, and social workers who all work together in order to provide coordinated care for the critically ill neurologic patient.
+
+
+== Neurointensive care nursing ==
+Patients in the neurointensive care units (NICU) are vulnerable due to their primary injury, and in need of help with all their personal hygiene. When planning for nursing interventions it is beneficial to be aware of the patient’s intracranial adaptive capacity, i.e., intracranial compliance, to avoid the development of elevated ICP. All nursing interventions is performed with the aim of benefit for the patient, such as hygienic interventions, preventing pressure ulcers, surgery wound management, endotracheal suctioning when artificial ventilation is needed, among other things. Though, nursing interventions might as well be stressful, and can result in high ICP. Therefore, it is the nurse’s obligation to plan for the interventions so that a balance is achieved between the benefits for the patient’s wellbeing and the risk of raised ICP, which might cause secondary insults. High ICP can be prevented by giving extra sedation before intervention, optimizing the patients position with a raised head and stretched neck to avoid venous stasis. When ICP is > 15 mmHg only the most important interventions are to be performed, to minimize the probabilities of secondary insults.
+
+
+== Neurointensive care procedures ==
+Hypothermia: One third to half of people with coronary artery disease will have an episode where their heart stops. Of the patients who have their heart stopped seven to thirty percent leave the hospital with good neurological outcome (conscious, normal brain function, alert, capable of normal life). Lowering patients body temperature between 32 -34 degrees within six hours of arriving at the hospital doubles the patients with no significant brain damage compared to no cooling and increases survival of patients.
+Basic life support monitoring:
+Electrocardiography, pulse oximetry, blood pressure, assessment of comatose patients.Neurological monitoring:
+Serial neurologic examination, assessment of comatose patients (Glasgow Coma Scale plus pupil or four score), ICP (subarachnoid hemorrhages, TBI, Hydrocephalus, Stroke, CNS infection, Hepatic failure), multimodality monitoring to monitor disease and prevent secondary injury in states that are insensitive to neurological exam or conditions confounded by sedation, neuromuscular blockade and coma.
+Intracranial pressure (ICP) management:
+Ventricular catheter to monitor Brain oxygen and concentrations of glucose and PH. With treatment options of Hypertonic serum, barbiturates, hypothermia and decompressive hemicraniectomy
+
+
+== Common neurointensive care illnesses and treatments ==
+Traumatic brain injury: Sedation, ICP monitoring and management, Decompressive Craniectomy, Hyperosmolar therapy and maintain hemodynamic stability.
+
+Stroke: Airway management, Maintenance of blood pressure and cerebral perfusion, intravenous fluid management, Temperature control, prophylaxis against seizures, nutrition, ICP management and treatment of medical complications.Subarachnoid hemorrhage: 
+Find the cause of hemorrhage, treat aneurysm or arteriovenous malformation if necessary, monitor for clinical deterioration, manage systemic complications and maintain cerebral perfusion pressure and prevent vasospasm and bridge patient to angiographic clipping.Status epilepticus: 
+Termination of seizures, prevention of seizure recurrence, treatment of cause of seizure, management of complications, monitoring of hemodynamic stability and continuous Electroencephalography (EEG).Meningitis: 
+Empirical treatment with antibiotics and maintain hemodynamic stability.Encephalitis: 
+Airway protection, monitoring of ICP, treatment of seizures if necessary, and sedation if patient is agitated and virial testing hemodynamic stability.Acute parainfectious inflammatory encephalopathy (Acute disseminated encephalomyelitis (ADEM) and Acute hemorrhagic leucoencephalitis (AHL)): 
+high dose corticosteroids, monitoring of hemodynamic stability.Multiple sclerosis, Autonomic neuropathy, spinal cord lesion and neuromuscular disease causing respiratory failure: 
+Monitor respiration and respiratory assistance, if necessary to maintain hemodynamic stability.Tissue plasminogen activator:
+Monitor patient who receive TPA for 24 hours for brain bleeds.
+Spinal cord injury: immobilization, airway protection and oxygenation, management of spinal chock and cardiovascular effects.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+American Academy of Neurology

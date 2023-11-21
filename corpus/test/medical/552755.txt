@@ -1,0 +1,65 @@
+Steatosis, also called fatty change, is abnormal retention of fat (lipids) within a cell or organ. Steatosis most often affects the liver – the primary organ of lipid metabolism – where the condition is commonly referred to as fatty liver disease. Steatosis can also occur in other organs, including the kidneys, heart, and muscle. When the term is not further specified (as, for example, in 'cardiac steatosis'), it is assumed to  refer to the liver.Risk factors associated with steatosis are varied, and may include diabetes mellitus, protein malnutrition, hypertension, cell toxins, obesity, anoxia, and sleep apnea.Steatosis reflects an impairment of the normal processes of synthesis and elimination of triglyceride fat. Excess lipid accumulates in vesicles that displace the cytoplasm. When the vesicles are large enough to distort the nucleus, the condition is known as macrovesicular steatosis; otherwise, the condition is known as microvesicular steatosis. While not particularly detrimental to the cell in mild cases, large accumulations can disrupt cell constituents, and in severe cases the cell may even burst.
+
+
+== Pathogenesis ==
+No single mechanism leading to steatosis exists; rather, a varied multitude of pathologies disrupt normal lipid movement through the cell and cause accumulation. These mechanisms can be separated based on whether they ultimately cause an oversupply of lipid which can not be removed quickly enough (i.e., too much in), or whether they cause a failure in lipid breakdown (i.e., not enough used).Failure of lipid metabolism can also lead to the mechanisms which would normally utilise or remove lipids becoming impaired, resulting in the accumulation of unused lipids in the cell. Certain toxins, such as alcohols, carbon tetrachloride, aspirin, and diphtheria toxin, interfere with cellular machinery involved in lipid metabolism. In those with Gaucher's disease, the lysosomes fail to degrade lipids and steatosis arises from the accumulation of glycolipids. Protein malnutrition, such as that seen in kwashiorkor, results in a lack of precursor apoproteins within the cell, therefore unused lipids which would normally participate in lipoprotein synthesis begin to accumulate.
+
+
+=== Macrovesicular steatosis ===
+Macrovesicular steatosis is the more common form of fatty degeneration and may be caused by oversupply of lipids due to obesity, obstructive sleep apnea (OSA), insulin resistance, or alcoholism. Nutrient malnutrition may also cause the mobilisation of fat from adipocytes and create a local oversupply in the liver where lipid metabolism occurs. Excess alcohol over a long period of time can induce steatosis. The breakdown of large amounts of ethanol in alcoholic drinks produces large amounts of chemical energy in the form of NADH, signalling to the cell to inhibit the breakdown of fatty acids (which also produces energy) and simultaneously increase the synthesis of fatty acids. This "false sense of energy" results in more lipid being created than is needed.
+
+
+=== Microvesicular steatosis ===
+Microvesicular steatosis is characterized by small intracytoplasmic fat vacuoles (liposomes) which accumulate within hepatocytes. It is associated with a wide variety of conditions, including alcoholism, drug toxicity of several medications, delta hepatitis (in South America and Central Africa), sudden childhood death, congenital defects of fatty acid beta oxidation, cholesterol ester storage disease, Wolman disease and Alpers syndrome.
+
+
+== Histology ==
+Histologically, steatosis is physically apparent as lipid within membrane bound liposomes of parenchymal cells. When this tissue is fixed and stained to be better viewed under a microscope, the lipid is usually dissolved by the solvents used to prepare the sample. As such, samples prepared this way will appear to have empty holes (or vacuoles) within the cells where the lipid has been cleared. Special lipid stains, such as Sudan stains and osmium tetroxide are able to retain and show up lipid droplets, hence more conclusively indicating the presence of lipids. Other intracellular accumulations, such as water or glycogen, can also appear as clear vacuoles, therefore it becomes necessary to use stains to better determine what substance is accumulating.
+Grossly, steatosis causes organ enlargement and lightening in colour. This is due to the high lipid content increasing the organ's volume and becoming visible to the unaided eye. In severe cases, the organ may become vastly enlarged, greasy, and yellow in appearance.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Medical imaging ==
+On X-ray computed tomography (CT), the increased fat component will decrease the density of the liver tissue, making the image less bright. Typically the density of the spleen and liver are roughly equivalent. In steatosis, there is a difference between the density and brightness of the two organs, with the liver appearing darker.
+On ultrasound, fat is more echogenic (capable of reflecting sound waves). The combination of liver steatosis being dark on CT and bright on ultrasound is sometimes known as the flip flop sign.On magnetic resonance imaging, multiecho gradient echo images can be used to determine the percent fat fraction of the liver. The different resonance frequencies between water and fat make this technique very sensitive and accurate. Acquisition of echoes in "in phase" and "out phase" conditions (pertaining to the relative phases of the fat and water proton contingents) enables to obtain a signal proportional to the water and fat contingent, or a signal proportional to the water minus the fat contingent. These signal intensities are then algebraically combined into a percent fat. More recent techniques take into account experimental noise, signal decay and spectroscopic properties of fat. Numerous validation studies have demonstrated excellent correlations between the steatosis level quantified at MRI and the steatosis levels semi-quantitatively and quantitatively determined on liver biopsies (reference methods). Several MRI vendors offer automated calculation of percent fat with acquisition sequences no longer than a single breath hold.On abdominal ultrasonography, steatosis is seen as a hyperechoic liver as compared to the normal kidney.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Incidence ==
+In Bristol University's study Children of the 90s, 2.5% of 4,000 people born in 1991 and 1992 were found by ultrasound scanning at the age of 18 to have non-alcoholic fatty liver disease; five years later transient elastography (fibroscan) found over 20% to have the fatty deposits on the liver of steatosis, indicating non-alcoholic fatty liver disease; half of those were classified as severe. The scans also found that 2.4% had the liver scarring of fibrosis, which can lead to cirrhosis.
+
+
+== See also ==
+Fatty liver disease
+Lipid metabolism
+Non-alcoholic fatty liver disease
+Visceral fat
+Fat globules
+
+
+== References ==
+
+
+== External links ==

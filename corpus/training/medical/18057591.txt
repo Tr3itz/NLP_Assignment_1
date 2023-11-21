@@ -1,0 +1,23 @@
+The Cardiac Arrest Registry to Enhance Survival or CARES was initiated in 2004 as an agreement between the Centers for Disease Control and Prevention and the Department of Emergency Medicine at Emory University. It is a simple but powerful database that allows cities to collect a small set of performance measures from 9-1-1, first responders, fire departments, and Emergency Medical Services, and link it with outcome data from hospitals. This data enables cities to perform internal benchmarking and improve their response to cardiac arrest by strengthening the chain of  survival in their community. Because most EMS systems don't measure their response effectively, they are unable to implement change in an effective manner. Since the program's inception, survival from cardiac arrest in the city of Atlanta has increased from 3% to 15%. For the last half of 2007, survival in Atlanta increased to 31.2%.
+
+
+== Objectives ==
+According to the CDC, the specific objectives of the project are:
+To quantify the incidence and location of cardiac arrest events
+To track the performance of each component of the Emergency Medical Services system (e.g., 9-1-1 dispatching and pre-arrival phone instructions, bystander care, first responder, ALS ambulance and definitive care)
+To determine the outcome achieved (e.g., return of spontaneous circulation, survival to admission, survival to hospital discharge, and function status at the discharge)
+To evaluate how well the EMS system achieves each link in the American Heart Association's concept of the chain of survival model
+To identify and prioritize opportunities to strengthen the chain of survival by monitoring high risk locations, settings, and populations, and prioritizing interventions to improve care
+To determine whether and why the burden of cardiac arrest and survival outcomes differ by race/ethnicity, gender, and socioeconomic levels
+
+
+== Current CARES participants, expansion sites, and focus sites (2008-2009) ==
+
+
+== References ==
+
+
+== External links ==
+Cardiac Arrest Registry to Enhance Survival - Official Site
+Cardiac Arrest Registry to Enhance Survival - Reference Manual
+Essential Features of Designating Out-of-Hospital Cardiac Arrest as a Reportable Event - AHA Scientific Statement, Circulation 2008;117:2299-2308

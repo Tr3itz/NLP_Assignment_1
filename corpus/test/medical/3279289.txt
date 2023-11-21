@@ -1,0 +1,36 @@
+In pathology, grading is a measure of the cell appearance in tumors and other neoplasms.  Some pathology grading systems apply only to malignant neoplasms (cancer); others apply also to benign neoplasms. The neoplastic grading is a measure of cell anaplasia (reversion of differentiation) in the sampled tumor and is based on the resemblance of the tumor to the tissue of origin. Grading in cancer is distinguished from staging, which is a measure of the extent to which the cancer has spread.
+Pathology grading systems classify the microscopic cell appearance abnormality and deviations in their rate of growth with the goal of predicting developments at tissue level (see also the 4 major histological changes in dysplasia).
+Cancer is a disorder of cell life cycle alteration that leads (non-trivially) to excessive cell proliferation rates, typically longer cell lifespans and poor differentiation. The grade score (numerical: G1 up to G4) increases with the lack of cellular differentiation - it reflects how much the tumor cells differ from the cells of the normal tissue they have originated from (see 'Categories' below).  Tumors may be graded on four-tier, three-tier, or two-tier scales, depending on the institution and the tumor type.
+The histologic tumor grade score along with the metastatic (whole-body-level cancer-spread) staging are used to evaluate each specific cancer patient, develop their individual treatment strategy and to predict their prognosis.  A cancer that is very poorly differentiated is called anaplastic.
+
+
+== Categories ==
+Grading systems are also different for many common types of cancer, though following a similar pattern with grades being increasingly malignant over a range of 1 to 4. If no specific system is used, the following general grades are most commonly used, and recommended by the American Joint Commission on Cancer and other bodies:
+GX                Grade cannot be assessed
+G1                Well differentiated (Low grade)
+G2                Moderately differentiated (Intermediate grade)
+G3                Poorly differentiated (High grade)
+G4                Undifferentiated (High grade)
+
+
+=== Specific systems ===
+Of the many cancer-specific schemes, the Gleason system, named after Donald Floyd Gleason,  used to grade the adenocarcinoma cells in prostate cancer is the most famous. This system uses a grading score ranging from 2 to 10. Lower Gleason scores describe well-differentiated less aggressive tumors.
+Other systems include the Bloom-Richardson grading system for breast cancer and the Fuhrman system for kidney cancer. Invasive-front grading is useful as well in oral squamous cell carcinoma.For soft-tissue sarcoma two histological grading systems are used : the National Cancer Institute (NCI) system and the French Federation of Cancer Centers Sarcoma Group (FNCLCC) system.
+
+
+== Examples of grading schemes ==
+
+
+== See also ==
+TNM staging system (Other parameters)
+Tumor kinds that have their own grading system:
+Teratoma
+Gleason score
+
+
+== References ==
+
+
+== External links ==
+CancerWeb Archived 2002-04-30 at the Wayback Machine
+Atlas Interactif de Neuro-Oncologie

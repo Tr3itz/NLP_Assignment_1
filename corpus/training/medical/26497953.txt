@@ -1,0 +1,5 @@
+A fusion beat occurs when electrical impulses from different sources act upon the same region of the heart at the same time. If it acts upon the ventricular chambers it is called a ventricular fusion beat, whereas colliding currents in the atrial chambers produce atrial fusion beats.
+Ventricular fusion beats can occur when the heart's natural rhythm and the impulse from a pacemaker coincide to activate the same part of a ventricle at the same time, causing visible variation in configuration and height of the QRS complex of an electrocardiogram reading of the heart's activity. This contrasts with the pseudofusion beat wherein the pacemaker impulse does not affect the complex of the natural beat of the heart. Pseudofusion beats are normal. Rare or isolated fusion beats caused by pacemakers are normal as well, but if they occur too frequently may reduce cardiac output and so can require adjustment of the pacemaker.
+
+
+== References ==

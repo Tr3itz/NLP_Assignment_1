@@ -1,0 +1,77 @@
+In medicine, desmoplasia is the growth of fibrous connective tissue. It is also called a desmoplastic reaction to emphasize that it is secondary to an insult. Desmoplasia may occur around a neoplasm, causing dense fibrosis around the tumor, or scar tissue (adhesions) within the abdomen after abdominal surgery.Desmoplasia is usually only associated with malignant neoplasms, which can evoke a fibrotic response invading healthy tissue. Invasive ductal carcinomas of the breast often have a  stellate appearance caused by desmoplastic formations.
+
+
+== Terminology ==
+Desmoplasia originates from the Ancient Greek δεσμός desmos, "knot", "bond" and πλάσις plasis, "formation". It is usually used in the description of desmoplastic small round cell tumors.
+Neoplasia is the medical term used for both benign and malignant tumors, or any abnormal, excessive, uncoordinated, and autonomous cellular or tissue growth.
+
+Desmoplasia refers to growth of dense connective tissue or stroma. This growth is characterized by low cellularity with hyalinized or sclerotic stroma and disorganized blood vessel infiltration. This growth is called a desmoplastic response and occurs as result of injury or neoplasia. This response is coupled with malignancy in non-cutaneous neoplasias, and with benign or malignant tumors if associated with cutaneous pathologies.The heterogeneity of tumor cancer cells and stroma cells combined with the complexities of surrounding connective tissue suggest that understanding cancer by tumor cell genomic analysis is not sufficient; analyzing the cells together with the surrounding stromal tissue may provide more comprehensive and meaningful data.
+
+
+=== Normal tissue structure and wound response ===
+Normal tissues consist of parenchymal cells and stromal cells.  The parenchymal cells are the functional units of an organ. In contrast, the stromal cells provide the structure of the organ and secrete extracellular matrix as supportive, connective tissue. In normal epithelial tissues, epithelial cells, or parenchymal cells of epithelia, are highly organized, polar cells. These cells are separated from stromal cells by a basement membrane that prevents these cell populations from mixing. A mixture of these cell types is recognized, normally, as a wound, as in the example of a cut to the skin. Metastasis is an example of a disease state in which a breach of the basement membrane barrier occurs.
+
+
+== Cancer ==
+Cancer begins as cells that grow uncontrollably, usually as a result of an internal change or oncogenic mutations within the cell. Cancer develops and progresses as the microenvironment undergoes dynamic changes. The stromal reaction in cancer is similar to the stromal reaction induced by injury or wound repair: increased ECM and growth factor production and secretion, which consequently cause growth of the tissue. In other words, the body reacts similarly to a cancer as it does to a wound, causing scar-like tissue to be built around the cancer. As such, the surrounding stroma plays a very important role in the progression of cancer. The interaction between cancer cells and surrounding tumor stroma is thus bidirectional, and the mutual cellular support allows for the progression of the malignancy.
+
+
+=== Growth factors for vascularization, migration, degradation, proliferation ===
+Stroma contains extracellular matrix components such as proteoglycans and glycosaminoglycans which are highly negatively charged, largely due to sulfated regions, and bind growth factors and cytokines, acting as a reservoir of these cytokines. In tumors, cancer cells secrete matrix degrading enzymes, such as matrix metalloproteinases (MMPs) that, once cleaved and activated, degrade the matrix, thereby releasing growth factors that signal for the growth of cancer cells. MMPs also degrade ECM to provide space for vasculature to grow to the tumor, for the tumor cells to migrate, and for the tumor to continue to proliferate.
+
+
+=== Underlying mechanisms ===
+Desmoplasia is thought to have a number of underlying causes. 
+In the reactive stroma hypothesis, tumor cells cause the proliferation of fibroblasts and subsequent secretion of collagen. The newly secreted collagen is similar to that of collagen in scar formation – acting as a scaffold for infiltration of cells to the site of injury. Furthermore, the cancer cells secrete matrix degrading enzymes to destroy normal tissue ECM thereby promoting growth and invasiveness of the tumor. Cancer associated with a reactive stroma is typically diagnostic of poor prognosis.The tumor-induced stromal change hypothesis claims that tumor cells can dedifferentiate into fibroblasts and, themselves, secrete more collagen. This was observed in desmoplastic melanoma, in which the tumor cells are phenotypically fibroblastic and positively express genes associated with ECM production. However, benign desmoplasias do not exhibit dedifferentiation of tumor cells.
+
+
+=== Characteristics of desmoplastic stromal response ===
+A desmoplastic response is characterized by larger stromal cells with increased extracellular fibers and immunohistochemically by transformation of fibroblastic-type cells to a myofibroblastic phenotype. Myofibroblastic cells in tumors are differentiated from fibroblasts for their positive staining of smooth-muscle actin (SMA). Furthermore, an increase in total fibrillar collagens, fibronectins, proteoglycans, and tenascin C are distinctive of the desmoplastic stromal response in several forms of cancer. Expression of tenascin C by breast cancer cells has been demonstrated to allow for metastasis to the lungs and cause the expression of tenascin C by the surrounding tumor stromal cells. In addition, tenascin C is found extensively in pancreatic tumor desmoplasia as well.
+
+
+==== Differentiation of scars ====
+While scars are associated with the desmoplastic response of various cancers, not all scars are associated with malignant neoplasms. Mature scars are usually thick, collagenous bundles arranged horizontally with paucicellularity, vertical blood vessels, and no appendages. This is distinguished from desmoplasia in the organization of the tissue, the appendages, and orientation of blood vessels. Immature scars are more difficult to distinguish due to their neoplastic origins. These scars are hypercellular with fibroblasts, myofibroblasts, and some immune cells present. The immature scars can be distinguished from desmoplasia by immunohistochemical staining of biopsied tumors that will reveal the type and organization of cells present as well as whether recent trauma has occurred to the tissue.
+
+
+== Examples ==
+Source: 
+
+
+=== Benign condition examples ===
+Desmoplastic melanocytic naevus
+Desmoplastic spitz naevus
+Desmoplastic cellular blue naevi
+Desmoplastic hairless hypopigmented naevus
+Desmoplastic trichoepithelioma
+Desmoplastic trichilemmoma
+Desmoplastic tumor of the follicular infundibulum
+Sclerotic dermatofibroma
+Desmoplastic fibroblastoma
+Desmoplastic cellular neurothekeoma
+Sclerosing perineurioma
+Microvenular haemangioma
+Immature scars
+
+
+=== Malignant condition examples ===
+Desmoplastic malignant melanoma
+Desmoplastic squamous cell carcinoma
+Morpheaform basal cell carcinoma
+Microcystic adnexal carcinoma
+Cutaneous leiomyosarcoma
+Cutaneous metastasis
+
+
+=== Prostate cancer ===
+The stroma of the prostate is characteristically muscular. Due to this muscularity, detecting the myofibroblastic phenotypic change indicative of reactive stroma is difficult in an examination of patient pathologic slides. A diagnosis of reactive stroma associated with prostate cancer is one of poor prognosis.
+
+
+=== Breast cancer ===
+Clinical presentation of a lump in the breast is histologically viewed as a collagenous tumor or desmoplastic response created by myofibroblasts of the tumor stroma. Proposed mechanisms of activation of myofibroblasts are by immune cytokine signaling, microvascular injury, or paracrine signaling by tumor cells.
+
+
+== See also ==
+List of biological development disorders
+
+
+== References ==

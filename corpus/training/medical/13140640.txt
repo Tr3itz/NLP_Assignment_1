@@ -1,0 +1,62 @@
+Eye–hand coordination (also known as hand–eye coordination) is the coordinated motor control of eye movement with hand movement and the processing of visual input to guide reaching and grasping along with the use of proprioception of the hands to guide the eyes, a modality of multisensory integration. Eye–hand coordination has been studied in activities as diverse as the movement of solid objects such as wooden blocks, archery, sporting performance, music reading, computer gaming, copy-typing, and even tea-making. It is part of the mechanisms of performing everyday tasks; in its absence, most people would not be able to carry out even the simplest of actions such as picking up a book from a table.
+
+
+== Evolution ==
+
+
+=== The eye–forelimb hypothesis ===
+The eye–forelimb (EF) hypothesis suggests that the primate visual system changed in parallel with the specialization of the hand through a common evolutionary mechanism. The ultimate result became accurate depth perception, speed and exactness of the hand when it is gripping.
+
+
+==== Primates and binocular vision ====
+Primates, including humans, have eyes that are directed forward. Primates also have an optic chiasm (OC), with 45 percent made up of uncrossed nerves. The traditional idea is that such vision combined with high-grade binocularity to promote deep vision. But an overview article in Brain, Behavior and Evolution  presents a new eye–forelimb hypothesis (EF hypothesis) that the neural architecture of primates' visual system evolved for a totally different purpose. The EF hypothesis postulates that it has selective value to have short neural pathways between areas of the brain that receive visual information about the hand and the motor nuclei that control the coordination of the hand. The heart of the EF hypothesis is that evolutionary transformation in OC will affect the length of these neural pathways.
+A way to test the hypothesis is to compare the precision and speed of, for example, the left hand when performing tasks in the left and right field of view respectively. Several such experiments have been carried out. Tthough they were not done primarily to test the EF hypothesis, the results are clearly in accordance with the hypothesis: a higher precision and speed as long as the hand works in the ipsilateral field of vision. 
+Berlucchi et al.  believes that the hand's reactions to visual stimuli that are presented in the ipsilateral field of vision are integrated into the contralateral hemisphere, which results in fewer synapses for the signals to pass, resulting in faster motor skills than with visual stimuli presented counter-laterally.
+Primates and felines skillfully use their anterior limbs under supervision of the eye. Primates and felines have a high proportion of ipsilateral retinal projections (IRP) (45% respectively 30% IRP). The fact that crocodiles, most birds and fishes lack IRP is also accommodated by the EF hypothesis. For anatomical/functional reasons, crocodiles, birds and fishes have little use of the anterior limb in their frontal space.
+The African claw frog Xenopus laevis has only crossed projections before the metamorphosis, thereafter it develops binocular vision and anterior extremities with claws. Xenopus laevis uses its claws when it catches prey situated in front of the frog. Dolphins lack IRP, which is consistent with the hypothesis because the anterior extremity of the dolphin (the pectoral fin) is used only laterally. Among marsupials, three tree-climbing species have a high proportion of IRP. Vombater (Vombatidae), has very few IRP, which is in accordance with the EF hypothesis since it is a terrestrial herbivore. That kind of foraging reduces the need of excellent visual control of the forefoot. The other marsupials fall between these extremes.The EF hypothesis offers new perspectives on human evolution. Excellent eye–hand control are typical features of primates. Fossil evidence suggests that the first actual primates appeared about 55 million years ago. Even then, the hand seems to have been specialized to grip. Early primate ancestors may have developed this special grip to retrieve and eat flowers, nectar, and leaves in the distal branches of trees. Bloch and Boyer claim that the hand's grip ability evolved before the visual specialization of the primates. The EF hypothesis, on the contrary, indicates that the primate vision system evolved in parallel with the specialization of the hand through a common evolutionary mechanism. In principle an increase in IRP has selective value in animals that regularly use the anterior limb in the frontal field of vision.
+
+
+== Behavior and kinematics ==
+Neuroscientists have extensively researched human gaze behavior, noting that the use of the gaze is very task-specific, but that humans typically exhibit proactive control to guide their movement. Usually the eyes fixate on a target before the hands are used to engage in a movement, indicating that the eyes provide spatial information for the hands.  The duration that the eyes appear to lock onto a goal for a hand movement varies—sometimes the eyes remain fixated until a task is completed. Other times, the eyes seem to scout ahead toward other objects of interest before the hand even grasps and manipulates the object.
+
+
+=== Eye-guided hand movement ===
+When eyes and hands are used for core exercises, the eyes generally direct the movement of the hands to targets.  Furthermore, the eyes provide initial information of the object, including its size, shape, and possibly grasping sites for judging the force the fingertips need to exert to engage in a task.
+For sequential tasks, eye-gaze movement occurs during important kinematic events like changing the direction of a movement or when passing perceived landmarks. This is related to the task-search-oriented nature of the eyes and their relation to the movement planning of the hands and the errors between motor signal output and consequences perceived by the eyes and other senses that can be used for corrective movement. The eyes have a tendency to "refixate" on a target to refresh the memory of its shape, or to update for changes in its shape or geometry in drawing tasks that involve the relating of visual input and hand movement to produce a copy of what was perceived. In high accuracy tasks, when acting on greater amounts of visual stimuli, the time it takes to plan and execute movement increases linearly, per Fitts's law.
+
+
+=== Hand-guided saccades ===
+Humans have the ability to aim eye movement toward the hand without vision, using the sense of proprioception, with only minor errors related to internal knowledge of limb position.  It has been shown the proprioception of limbs, in both active and passive movement, results in saccadic overshoots when the hands are used to guide eye movement. In experiments these overshoots result from the control of eye saccades rather than previous movement of the hands. This implies that limb-based proprioception is capable of being transformed into ocular motor coordinates to guide eye saccades, which allows for the guidance of the saccades by hands and feet.
+
+
+== Clinical syndromes ==
+Numerous disorders, diseases, and impairments have been found to result in disruption to eye–hand coordination, owing to damage to the brain itself, degeneration of the brain due to disease or aging, or an apparent inability to coordinate senses completely.
+
+
+=== Aging ===
+Impairments to eye–hand coordination have been shown in older adults, especially during high-velocity and precise movements. This has been attributed to the general degeneration of the cortex, resulting in a loss of the ability to compute visual inputs and relate them to hand movements.  However, while older adults tend to take more time for these sorts of tasks, they are still able to remain just as accurate as younger adults, but only if the additional time is taken.
+
+
+=== Bálint's syndrome ===
+Bálint's syndrome is characterized by a complete lack of eye–hand coordination and has been demonstrated to occur in isolation to optic ataxia. It is a rare psychological condition resulting most often from damage bilaterally to the superior parieto-occipital cortex. One of the most common causes is from strokes, but tumours, trauma, and Alzheimer's disease can also cause damage. Balint's syndrome patients can suffer from three major components: optic apraxia, optic ataxia, and simultanagnosia. Simultanagnosia is when patients have difficulty perceiving more than one object at a time. There have been three different approaches for rehabilitation. The first approach is the adaptive or functional approach; it involves functional tasks that use a patient's strengths and abilities. The second approach is remedial approach and involves restoration of the damaged central nervous system by training perceptual skills. The last approach is multi-context approach and involves practising a targeted strategy in a multiple environment with varied tasks and movement demands, along with self-awareness tasks.
+
+
+=== Optic apraxia ===
+Optic apraxia is a condition that results from a total inability of a person to coordinate eye and hand movements. Although similar to optic ataxia, its effects are more severe and do not necessarily come from damage to the brain, but may arise from genetic defects or tissue degeneration.
+
+
+=== Optic ataxia ===
+Optic ataxia or visuomotor ataxia is a clinical problem associated with damage to the occipital–parietal cortex in humans, resulting in a lack of coordination between the eyes and hand. It can affect either one or both hands and can be present in part of the visual field or the entire visual field. Optic ataxia has been often considered to be a high-level impairment of hand–eye coordination resulting from a cascade of failures in the sensory to motor transformations in the posterior parietal cortex. Visual perception, naming, and reading are still possible, but visual information cannot direct hand motor movements. Optic ataxia has been often confused with Balint's syndrome, but recent research has shown that optic ataxia can occur independently of Balint's syndrome. Optic ataxia patients usually have troubles reaching toward visual objects on the side of the world opposite to the side of brain damage. Often these problems are relative to current gaze direction, and appear to be remapped along with changes in gaze direction. Some patients with damage to the parietal cortex show "magnetic reaching": a problem in which reaches seem drawn toward the direction of gaze, even when it is deviated from the desired object of grasp.
+
+
+=== Parkinson's disease ===
+Adults with Parkinson's disease have been observed to show the same impairments as found in normal aging, only to a more extreme degree, in addition to a loss of control of motor functions per normal symptoms of the disease. It is a movement disorder and occurs when there is degeneration of dopaminergic neurons that connect the substantia nigra with the caudate nucleus. A patient's primary symptoms include muscular rigidity, slowness of movement, a resting tremor, and postural instability.  The ability to plan and learn from experience has been shown to allow adults with Parkinson's to improvement times, but only under conditions where they are using medications to combat the effects of Parkinson's. Some patients are given L-DOPA, a precursor to dopamine. It is able to cross the blood–brain barrier and then is taken up by dopaminergic neurons and then converted to dopamine.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==

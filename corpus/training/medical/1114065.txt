@@ -1,0 +1,104 @@
+Aortic valve replacement is a procedure whereby the failing aortic valve of a patient's heart is replaced with an artificial heart valve. The aortic valve may need to be replaced because:
+
+The valve is leaky (aortic insufficiency, also known as aortic regurgitation)
+The valve is narrowed and doesn't open fully (aortic stenosis)Current methods for aortic valve replacement include open-heart surgery, termed minimally invasive cardiac surgery (MICS) or surgical aortic valve replacement (SAVR) and percutaneous  or transcatheter aortic valve replacement (TAVR; also PAVR, PAVI, TAVI).
+A competent practising cardiologist can evaluate whether a patient could benefit from heart valve repair.
+
+
+== History ==
+During the late 1940s and early 1950s, the first surgical approaches towards treating aortic valve stenosis had limited success. The first attempts were valvotomies, (i.e. cutting the valve while the heart is pumping). A ball valve prosthesis placed on the descending thoracic aorta (heterotopically) was developed by Hufnagel, Harvey and others to address aortic stenosis, but had disastrous complications. Later, with the innovation of cardiopulmonary bypass, the ball valve prosthesis was placed orthotopically (i.e. in same place as the original aortic valve). This first generation of prosthetic valves was durable, but needed intense anti-coagulation, and cardiac hemodynamics were compromised. During the mid-1950s, a single-leaflet prosthesis was developed by Bahnson et al. In early 1960, Ross and Barratt-Boyes used allografts. Tissue prosthetic valves were introduced in 1965 by Binet in Paris, but they degenerated quickly because the tissue was insufficiently preserved. Carpentier solved this problem by introducing glutaraldehyde-preserved stent-mounted porcine valves.
+
+
+== Anatomy, physiology and pathophysiology ==
+The aortic valve is semilunar (half-moon shaped) with three cusps. It separates the heart from the aorta. Each cusp is attached to the aortic wall creating a sinus; a Valsalva sinus. The origins of the two coronary arteries are sited in two Valsalva sinuses, each named after the coronary artery they supply. Leaflets are separated by commissures. The posterior leaflet is in continuation with the anterior leaflet of the mitral valve (the tissue is called the aorto-mitral curtain). The aortic valve is opened during systole, the driving force for it to open is the difference in pressure between the contracting left ventricle of the heart and the aorta. During cardiac diastole (when the heart chamber gets bigger) the aortic valve closes.Aortic stenosis most commonly is the result of calcification of the cusps. Other reasons for stenosis are the bicuspid valve (some patients have only two cusps at the aortic valve instead of the usual three) and rheumatic aortic stenosis (now rare in the West). Obstruction at the level of the aortic valve causes increased pressure within the heart's left ventricle. This can lead to hypertrophy and ultimately dysfunction of the heart. While x-ray and ECG might indicate aortic stenosis, echocardiography is the diagnostic procedure of choice. US findings also help in grading the severity of the disease. In cases of symptomatic severe aortic stenosis, AVR is warranted. In cases of asymptomatic but severe aortic stenosis, more factors should be taken into consideration.Aortic regurgitation, on the other hand, has many causes: degeneration of the cusps, endocarditis, bicuspid aortic valve, aortic root dilatation, trauma, connective tissue disorders such as Marfan syndrome or Ehlers-Danlos lead to imperfect closure of the valve during diastole, hence the blood is returning from the aorta towards the left ventricle of the heart. Acute aortic regurgitation (caused by endocarditis, aortic dissection or trauma) ends up in pulmonary edema, because of the acute increase in left ventricle (LVEDP) that does not have time to adjust to the regurgitation. Chronic regurgitation, by contrast, gives the heart time to change shape, resulting in eccentric hypertrophy, which has disastrous effects on the myocardium. Ultrasound is here also the best diagnostic mobility, either it is transthoracic or transesophageal. 
+
+
+== Indications for surgery ==
+
+
+=== Guidelines for aortic valve replacement ===
+As long-term data on the survival and quality of life of people following valve replacement have become available, evidence-based guidelines for aortic valve replacement have been developed. These help healthcare professionals decide when aortic valve replacement is the best option for a patient. Two widely accepted sets of guidelines used by surgeons and cardiologists are the American Heart Association and American College of Cardiology Guidelines for the Management of Patients with Valvular Heart Disease, and the European Society of Cardiology and the European Association for Cardio‑Thoracic Surgery Guidelines for the management of valvular heart disease.
+
+
+=== Aortic stenosis ===
+Aortic stenosis is treated with aortic valve replacement in order to avoid angina, syncope, or congestive heart failure. Individuals with severe aortic stenosis are candidates for aortic valve replacement once they develop symptoms or when their heart function is impacted. Some people with asymptomatic aortic stenosis may also be candidates for aortic valve replacement, especially if symptoms appear during exercise testing. Patients with moderate aortic valve stenosis who need another type of cardiac surgery (i.e. coronary artery bypass surgery) should also have their valve addressed by the surgical team if echocardiography unveils significant heart problems.Low gradient aortic stenosis with concomitant left ventricular dysfunction poses a significant question to the anesthesiologist and the patient. Stress echocardiography (i.e. with dobutamine infusion) can help determine if the ventricle is dysfunctional because of aortic stenosis, or because the myocardium lost its ability to contract.
+
+
+=== Aortic insufficiency ===
+Many people with aortic insufficiency often do not develop symptoms until they have had the condition for many years. Aortic valve replacement is indicated for symptoms such as shortness of breath, and in cases where the heart has begun to enlarge (dilate) from pumping the increased volume of blood that leaks back through the valve.
+
+
+== Types of valves ==
+
+There are two basic types of replacement heart valve: tissue (bioprosthetic) valves and mechanical valves.
+
+
+=== Tissue valves ===
+Tissue heart valves are usually made from animal tissue (heterografts) mounted on a metal or polymer support. Bovine (cow) tissue is most commonly used, but some are made from porcine (pig) tissue. The tissue is treated to prevent rejection and calcification (where calcium builds up on the replacement valve and stops it working properly).Occasionally, alternatives to animal tissue valves are used: aortic homografts and pulmonary autografts. An aortic homograft is an aortic valve from a human donor, retrieved either after their death or from their heart if they are undergoing a heart transplant. A pulmonary autograft, also known as the Ross procedure is where the aortic valve is removed and replaced with the patient's own pulmonary valve (the valve between the right ventricle and the pulmonary artery). A pulmonary homograft (a pulmonary valve taken from a cadaver) is then used to replace the patient's own pulmonary valve. This procedure was first performed in 1967 and is used primarily in children, as it allows the patient's own pulmonary valve (now in the aortic position) to grow with the child.Tissue valves can last 10–20 years. However, they tend to deteriorate more quickly in younger patients. New ways of preserving the tissue for longer are being investigated. One such preservation treatment is now being used in a commercially available tissue heart valve. In sheep and rabbit studies, the tissue (called RESILIA tissue) had less calcification than control tissue. However, long-term durability data in patients are not yet available.Stented and stentless tissue valves are available. Stented valves come in sizes from 19 mm to 29 mm. Stentless valves are directly sutured at the aortic root. The major advantage of stentless valves is that they limit patient–prosthesis mismatch (when the area of the prosthetic valve is too small in relation to the size of the patient, increasing the pressure inside the valve) and can be helpful when dealing with small aortic root. However, stentless valves take more time than stented valves to implant.
+
+
+=== Mechanical valves ===
+Mechanical valves are made from synthetic materials, such as titanium or pyrolytic carbon. They are more durable than tissue valves, typically lasting 20–30 years. However, the risk of blood clots forming is higher with mechanical valves than with tissue valves. As a result, people with mechanical heart valves must take anticoagulant (blood-thinning) drugs, such as warfarin, for the rest of their lives, making them more prone to bleeding. The sound of the valve can sometimes be heard, often as clicks, and can be disturbing.
+
+
+=== Valve selection ===
+Valve choice is a balance between the lower durability of tissue valves and the increased risk of blood clots and bleeding with mechanical valves. Guidelines suggest that patient age, lifestyle and medical history should all be considered when choosing a valve. Tissue valves deteriorate more rapidly in young patients and during pregnancy, but they are preferable for women who wish to have children because pregnancy increases the risk of blood clots. Typically, a mechanical valve is considered for patients under 60 years old, while a tissue valve is considered for patients over the age of 65 years.
+
+
+== Surgical replacement ==
+Surgical aortic valve replacement is conventionally done through a median sternotomy, meaning the incision is made by cutting through the breastbone (sternum). Once the protective membrane around the heart (pericardium) has been opened, the patient is cannulated (aortic cannulation by a cannula placed on the aorta and a venous canulation by a single atrial venous cannula inserted through the right atrium). The patient is put on a cardiopulmonary bypass machine, also known as the heart–lung machine. This machine breathes for the patient and pumps their blood around their body while the surgeon replaces the heart valve.Once on cardiopulmonary bypass, the patient's heart is stopped (cardioplegia). This can be done with a Y-type cardioplegic infusion catheter placed on the aorta, de-aired and connected to the cardiopulmonary bypass machine. Alternatively, a retrograde cardioplegic cannula can be inserted at the coronary sinus. Some surgeons also opt to place a vent in the left ventricle through the right superior pulmonary vein, because this helps to prevent left ventricular distention before and after cardiac arrest. When the set-up is ready, the aorta is clamped shut with a cross-clamp to stop blood pumping through the heart and cardioplegia is infused. The surgeon incises the aorta a few milometers above the sinotubular junction (just above the coronary ostia, where the coronary arteries join the aorta) – a process known as aortotomy. After this, cardioplegia is delivered directly through the ostia.The heart is now still and the surgeon removes the patient's diseased aortic valve. The cusps of the aortic valve are excised, and calcium is removed (debrided) from the aortic annulus. The surgeon measures the size of the aortic annulus and fits a mechanical or tissue valve of the appropriate size. Usually the valve is fixed in place with sutures, although some sutureless valves are available. If the patient's aortic root is very small, the sutures are placed outside of the aortic root instead of at the annulus, to gain some extra space.Once the valve is in place and the aorta has been closed, patient is placed in a Trendelenburg position and the heart is de-aired and restarted. The patient is taken off the cardiopulmonary bypass machine. Transesophageal echocardiogram (an ultrasound of the heart done through the esophagus) can be used to verify that the new valve is functioning properly. Pacing wires are usually put in place, so that the heart can be manually controlled should any complications arise after surgery. Drainage tubes are also inserted, to drain fluids from the chest. These are usually removed within 36 hours, while the pacing wires are generally left in place until right before the patient is discharged from the hospital.
+
+
+=== Hospital stay and recovery time ===
+After surgical aortic valve replacement, the patient will usually stay in an intensive care unit for 12–36 hours. Unless complications arise, the patient is then able to go home after approximately four to seven days. Common complications include disturbances to the heart's rhythm (heart block), which typically require the permanent insertion of a cardiac pacemaker.Recovery from aortic valve replacement takes about three months if the patient is in good health. Patients are advised not to lift anything heavier than 10 lbs for several weeks, and not to do any heavy lifting for 4–6 months after surgery to avoid damaging their breastbone. Often patients will be referred to participate in cardiopulmonary rehabilitation, which optimizes recovery and physical function in patients with recent cardiac surgeries. This can be done in an outpatient setting.
+
+
+=== Outcomes ===
+Surgery usually relieves the aortic disease symptoms that led the patient to the operating room. The survival curve of patients who undergo aortic valve replacements is slightly inferior to the curve of their corresponding healthy same-aged same sex population. Pre-operative severe left ventricular hypertrophy is a contributing factor to morbidity.The risk of dying as a result of aortic valve replacement is estimated at 1–3%. Combining aortic valve replacement with coronary artery bypass grafting increases the risk of mortality. Older patients, as well as those who are frail and/or have other health problems (comorbidities), have a higher risk of experiencing complications. Possible problems include cardiac infarction or failure, arrhythmia or heart block typically requiring the permanent insertion of a cardiac pacemaker, mediastinal bleeding, stroke and infection. Late complications include endocarditis, thromboembolic events (blood clots), prosthetic valve dysfunction and paravalvular leak (blood flowing between the edge of the prosthetic valve and the cardiac tissue).
+
+
+==== Patient–prosthesis mismatch ====
+When dealing with a small aortic annulus, the surgeon might have to insert a prosthetic aortic valve of small size, with an orifice too small in relation to the size of the patient (patient–prosthesis mismatch). This increases the pressure of the blood flowing through the valve, and can lead to worse outcomes. Various techniques, including stentless valves, have been utilized to avoid this problem.
+
+
+== Less invasive procedures ==
+
+
+=== Minimally invasive cardiac surgery ===
+
+Since the late 1990s, some cardiac surgeons have been performing aortic valve replacement using an approach referred to as minimally invasive cardiac surgery (MICS). Using this approach, the surgeon replaces the valve through a smaller chest incision (6–10 cm) than that for a median sternotomy. MICS typically requires shorter recovery times, and produces less visible scarring.
+
+
+=== Transcatheter aortic valve replacement ===
+
+Another alternative for many high-risk or elderly patients is transcatheter aortic valve replacement (TAVR, also known as TAVI, transcatheter aortic valve implantation). Rather than removing the existing valve, the new valve is pushed through it in a collapsed state. It is delivered to the site of the existing valve through a tube called a catheter, which may be inserted through the femoral artery in the thigh (transfemoral approach), or using a small incision in the chest and then through a large artery or the tip of the left ventricle (transapical approach). Fluoroscopy and transthoracic echocardiogram (TTE) are visual aids used to guide the process. Once the collapsed replacement valve is in place it is expanded, pushing the old valve's leaflets out of the way.Guidelines suggest TAVR for most patients aged 75 years and older, and surgical aortic valve replacement for most younger patients. Ultimately, the choice of treatment is  based on many factors.Systematic reviews have addressed this comparison:
+"In patients with severe aortic stenosis and coronary artery disease, TAVR + PCI was associated with greater all-cause mortality at follow-up compared with SAVR + CABG."
+"Among older low-risk patients with severe aortic stenosis, TAVR is associated with a lower rate of death or disabling stroke compared with SAVR"
+
+
+== See also ==
+Aortic valve repair
+Artificial heart valve
+Valvular heart disease
+Minimally invasive cardiac surgery
+Pericardial heart valves
+Open aortic surgery
+
+
+== References ==
+
+
+== Sources ==
+Brzezinski, Anna (28 August 2017). "Pathophysiology of Aortic Valve Disease". In Lawrence H. Cohn; David H. Adams (eds.). Cardiac Surgery in the Adult Fifth Edition. McGraw-Hill Education. ISBN 978-0-07-184487-1.
+Emery, Robert W. (28 August 2017). "Aortic Valve Replacement with a Mechanical Cardiac Valve Prosthesis". In Lawrence H. Cohn; David H. Adams (eds.). Cardiac Surgery in the Adult Fifth Edition. McGraw-Hill Education. ISBN 978-0-07-184487-1.
+Fullerton, David A. (2014). "Aortic Valve Replacement". In Larry Kaiser; Irving L. Kron; Thomas L. Spray (eds.). Mastery of Cardiothoracic Surgery. Lippincott Williams & Wilkins. ISBN 978-1-4511-1315-0.
+Gao, Changqing (2014). Robotic Cardiac Surgery. Springer Netherlands. ISBN 978-94-007-7659-3.
+Kouchoukos, Nicholas T. (27 September 2012). Kirklin/Barratt-Boyes Cardiac Surgery E-Book. Elsevier Health Sciences. ISBN 978-1-4557-4605-7.
+Pibarot, Philippe; Dumesnil, Jean G. (2009-02-24). "Prosthetic Heart Valves". Circulation. Ovid Technologies (Wolters Kluwer Health). 119 (7): 1034–1048. doi:10.1161/circulationaha.108.778886. ISSN 0009-7322. PMID 19237674.
+Sabiston (16 December 2010). Sabiston and Spencer's Surgery of the Chest E-Book. Elsevier Health Sciences. ISBN 978-1-4557-0009-7.
+Yanagawa, Bobby (28 August 2017). "Stented Bioprosthetic Aortic Valve Replacement". In Lawrence H. Cohn; David H. Adams (eds.). Cardiac Surgery in the Adult Fifth Edition. McGraw-Hill Education. ISBN 978-0-07-184487-1.
+
+
+== External links ==
+The Society of Thoracic Surgeons – Aortic Valve
+Aortic Valve Replacement Animation

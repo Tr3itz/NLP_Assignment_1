@@ -1,0 +1,177 @@
+Commelec is a framework that provides distributed and real-time control of electrical grids by using explicit setpoints for active/reactive power absorptions/injections. It is based on the joint-operation of communication and electricity systems. Commelec has been developed by scientists at École Polytechnique Fédérale de Lausanne, a research institute and university in Lausanne, Switzerland. The Commelec project is part of the SNSF’s National Research Programme “Energy Turnaround” (NRP 70).
+
+
+== Motivation ==
+Due to penetration of a large amount of distributed generation, modern power systems are facing numerous challenges such as the absence of inertia, stochastic power generation, grid stress and stability issues. This could lead to problems related to power balance, power quality, voltage and frequency control, system economics and load dispatch. The conventional distribution grid was not designed to support the distributed generation of electricity. Therefore Commelec framework is developed in order to guarantee a proper grid operation under these challenges without major grid reinforcements. It can provide both primary frequency control and secondary voltage control, being also capable to operate in islanded mode. In contrast to conventional droop-control, it keeps the equilibrium point without using the frequency as the main indicator of power imbalance.
+
+
+== Principle of Operation ==
+Commelec is an agent-based framework. The grid agent (GA) is a piece of software that is running on an embedded computer attached somewhere in the grid. It monitors the state of the grid through the measurement system and orchestrates different resources by speaking to resource agents (RAs) that are usually collocated on the inverters of the resources. While GAs are smart and take part in computing decision actions, RAs are simple-minded, merely requested to send information about their internal state in a specified and universal format.
+
+
+=== Device-independent Protocol for Message Exchange ===
+Every 100 ms, RA sends a device-independent representation about its internal state to the GA. On receiving this information from RAs through a communication network (e.g. internet), GA solves robust multi-objective optimization problem (taking into account the constraints of the grid), takes local decisions and implements them. Correction of decisions can be done after receiving new advertisements from RAs. The information that GA receives from RA has pure mathematical abstract description. It consists of:
+PQ profile: A convex set 
+  
+    
+      
+        
+          
+            A
+            ⊆
+            
+              
+                R
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\cal {A\subseteq \mathbb {R} ^{2}}}}
+   that contains all the possible power setpoints 
+  
+    
+      
+        (
+        P
+        ,
+        Q
+        )
+      
+    
+    {\displaystyle (P,Q)}
+   that RA can implement,
+Virtual cost: A continuously differentiable function 
+  
+    
+      
+        C
+        F
+        :
+        
+          
+            
+              A
+            
+            →
+            
+              R
+            
+          
+        
+      
+    
+    {\displaystyle CF:{\cal {{A}\rightarrow \mathbb {R} }}}
+   characterized by the preference of the resource to stay in a certain zone of PQ profile,
+Belief function: A set-valued function 
+  
+    
+      
+        B
+        F
+        :
+        
+          
+            
+              A
+            
+            →
+            
+              2
+              
+                
+                  
+                    R
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle BF:{\cal {{A}\rightarrow 2^{\mathbb {R} ^{2}}}}}
+  which captures uncertainty in resource operation due to nature and local inverter control. Requested setpoint 
+  
+    
+      
+        (
+        P
+        ,
+        Q
+        )
+      
+    
+    {\displaystyle (P,Q)}
+   for RA to implement and actually implemented setpoint 
+  
+    
+      
+        (
+        
+          P
+          ′
+        
+        ,
+        
+          Q
+          ′
+        
+        )
+      
+    
+    {\displaystyle (P',Q')}
+  , in general, can be different. By definition, 
+  
+    
+      
+        (
+        
+          P
+          ′
+        
+        ,
+        
+          Q
+          ′
+        
+        )
+        ∈
+        B
+        F
+        (
+        P
+        ,
+        Q
+        )
+        ⊆
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (P',Q')\in BF(P,Q)\subseteq \mathbb {R} ^{2}}
+  .
+
+
+=== Composability ===
+Power network can be organized in a flat setting where single GA controls the whole grid and leads all the RAs, and in the hierarchical setting in which GA can lead not only RAs, but also the GAs with lower hierarchy level. Composability property that Commelec provides, enables aggregation of several resources that GA controls to a single entity (i.e. virtual resource) which can be further controlled by a GA with a higher hierarchy level. Such virtual resource uses the same language to advertise internal state to its leading GA which makes the control problem scalable.
+
+
+== Experimental Validation ==
+The performance of Commelec control framework is evaluated through a case study composed of a replica of CIGRÉ’s low-voltage microgrid benchmark TF C6.04.02. This microgrid, built at EPFL, consists of different types of resources such as photovoltaic plants, battery energy storage systems and electric heaters. For real-time monitoring, phasor measurement units (PMUs) are used.
+
+
+== References ==

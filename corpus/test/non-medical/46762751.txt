@@ -1,0 +1,176 @@
+Periodic Steady-State Analysis (PSS analysis) computes the periodic steady-state response of a circuit at a specified fundamental frequency, with a simulation time independent of the time constants of the circuit. The PSS analysis also determines the circuit's periodic operating point which is required starting point for the periodic time-varying small-signal analyses: PAC, PSP, PXF, and Pnoise. The PSS analysis works with both autonomous and driven circuits.
+PSS is usually used after transient analysis.
+
+
+== Examples ==
+The current through a capacitance of value C in time domain is 
+  
+    
+      
+        i
+        (
+        t
+        )
+        =
+        C
+        
+          
+            
+              d
+              v
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle i(t)=C{\frac {dv(t)}{dt}}}
+  , which becomes 
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        v
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+        +
+        
+          
+            1
+            C
+          
+        
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                0
+              
+            
+            +
+            t
+          
+        
+        
+          i
+          (
+          t
+          )
+          d
+          t
+        
+      
+    
+    {\displaystyle v(t)=v(t_{0})+{\frac {1}{C}}\int _{t_{0}}^{t_{0}+t}{i(t)dt}}
+   . For this component operating in a periodic steady state circuit, its voltage will be 
+  
+    
+      
+        v
+        (
+        
+          t
+          
+            0
+          
+        
+        +
+        T
+        )
+        =
+        v
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle v(t_{0}+T)=v(t_{0})}
+   when T is equal to its fundamental period. Referring back to the original voltage function 
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        v
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+        +
+        
+          
+            1
+            C
+          
+        
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                0
+              
+            
+            +
+            t
+          
+        
+        
+          i
+          (
+          t
+          )
+          d
+          t
+        
+      
+    
+    {\displaystyle v(t)=v(t_{0})+{\frac {1}{C}}\int _{t_{0}}^{t_{0}+t}{i(t)dt}}
+  , it can be determined that the average current flowing through the capacitor is zero in periodic steady state.

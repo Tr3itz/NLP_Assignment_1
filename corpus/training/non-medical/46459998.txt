@@ -1,0 +1,47 @@
+Adaptive voltage scaling (AVS) is a closed-loop dynamic power minimization technique that adjusts the voltage supplied to a computer chip to match the chip's power needs during operation. Many computer chips, especially those in mobile devices or Internet of things devices are constrained by the power available (for example, they are limited to the power stored in a battery) and face varying workloads. In other situations a chip may be constrained by the amount of heat it is allowed to generate. In addition, individual chips can vary in their efficiency due to many factors, including minor differences in manufacturing conditions. AVS allows the voltage supplied to the chip, and therefore its power consumption, to be continuously adjusted to be appropriate to the workload and the parameters of the specific chip. This is accomplished by integrating a device that monitors the performance of the chip (a hardware performance manager) into the chip, which then provides information to a power controller.AVS is similar in its goal to dynamic voltage scaling (DVS) and dynamic voltage and frequency scaling (DVFS). All three approaches aim to reduce power usage and heat generation.  However AVS adapts the voltage directly to the conditions on the chip, allowing it to address real-time power requirements as well as chip-to-chip variations and changes in performance that occur as the chip ages. 
+
+
+== Background ==
+Technological advances have enabled very powerful and versatile computing systems to be implemented on smaller chips. As this allows a larger number of functions to take place in the same area, both current density and the associated power dissipation become more concentrated compared to larger chips. The power consumption and thermal performance of integrated circuits has become a limiting factor for high-performance systems. Mobile devices are also limited by the total amount of power available. Minimizing power consumption in digital CMOS circuits requires significant design effort at all levels. Supply voltage reduction is one way to achieve this, but static supply voltage reduction can reduce performance. Dynamic voltage scaling systems are used to adjust the supply voltage to the specific operations the chip is performing. However, conventional DVS systems do not directly monitor the performance of the chip and must therefore accommodate operation under worst-case performance scenarios. AVS aims to supply each individual domain of the system on the chip with just enough voltage to perform its task under the conditions actually experienced by the chip, minimizing power consumption per processor domain.
+
+
+== Advantages of AVS ==
+Adaptive voltage scaling is a closed-loop DVS approach that evaluates different factors, such as process variations from device to device on a chip, temperature fluctuations during chip operations, and load variations, and establishes a voltage-frequency relationship for the circuit under those conditions. Each individual chip's process corner is determined either during manufacturing or during runtime and the optimal voltage-frequency relationship is determined and subsequently used for voltage optimization. The advantages offered by this approach are:
+Delivery of the desired voltage to every block of the system despite variations in temperature, process corner and frequency;
+Processor- and architecture-independent implementation of power reduction;
+Typical savings of about 55% compared to open-loop Dynamic Voltage Scaling approaches.Adaptive voltage scaling is used to address the energy-saving requirements of application-specific integrated circuits, microprocessors and system on a chip circuits. It is also well-suited for high-volume systems such as data centers and wireless base stations, as well as power-constrained applications such as portable devices, USB peripherals, and consumer electronics.
+
+
+== Comparison between DVS and AVS ==
+The primary difference between DVS and AVS is that the former has an open loop control architecture whereas the latter is closed-loop. That is, in AVS there is direct feedback between the performance of the chip and the voltage provided to it. 
+
+
+=== DVS ===
+A generic DVS system has a performance manager, a phase-locked loop and a voltage regulator. The performance manager uses a software interface to predict the performance requirements of the next task. Once the power requirements have been determined, the voltage and frequency are set by the performance manager. The phase-locked loop accomplishes the frequency scaling depending on the target frequency set by the performance manager. Similarly, the voltage regulator is programmed to scale the supply voltage in order to achieve the target voltage for the task. DVS systems use a one-to-one mapping of the voltage to frequency to perform the voltage scaling. Frequency-voltage pairs are determined by characterizing the chip's performance under worst-case conditions and stored in a lookup table. If conditions are more favorable, there may be a significant over-supply of power. 
+
+
+=== AVS ===
+In closed-loop systems such as AVS, actual on-chip conditions are measured and used to determine the target voltage and frequency. Several different implementations of AVS have been developed. 
+
+
+==== Critical Path Emulation ====
+One way to determine the voltage-frequency relationship of the chip is to use a critical path emulator. The emulator is tuned during the manufacturing process to closely model the behavior of the chip, and adapts to environmental and process variations. Measuring the behavior of the emulator allows the supply voltage to be automatically adjusted such that the minimum voltage is supplied for the target task.A ring oscillator that operates at the same voltage as that of the rest of the chip can be used as a critical path emulator. The ring oscillator's measured frequency indicates the voltage-frequency relationship for the chip under the conditions in which it is operating.
+Another type of emulator is a "delay chain" of inverters, NAND gates, wire segments, etc. The exact setting of the delay chain is determined during manufacturing after testing. The delay chain is then used to measure the time taken for a process to traverse the chain, simulating the performance of the chip.Both the ring oscillator and critical path methods suffer from the problem that they may not offer a perfect simulation of the operation of the chip, so that a safety margin must be included.
+
+
+==== Direct measurement of circuit behavior ====
+An alternative to simulating the behavior of the critical path is to measure circuit performance directly. One implementation of this approach, called Razor, is based on the idea that only a subset of input patterns will activate the longest timing path on the chip.  If the voltage is too low, these input patterns will create a timing error. However, chips have error-correction systems built into them, so a low number of errors can be tolerated. The number of errors is measured and used as feedback to the power system: if the number of errors is very low, then the voltage can be dropped to save power; if the number of errors is above a certain threshold, then the voltage must be increased.
+
+
+==== Compensation for age-related performance degradation ====
+Over time, chips develop negative-bias temperature instability, which increases the voltage required to operate correctly. AVS can be used to mitigate this issue by increasing the voltage to match the new requirements of the system. This is possible only if the operational degradation due to temperature instability is accurately captured by the performance sensor in the AVS system.
+
+
+== See also ==
+Power Dissipation
+Low Power Electronics
+Dynamic Voltage scaling
+Bias Temperature Instability
+
+
+== References ==

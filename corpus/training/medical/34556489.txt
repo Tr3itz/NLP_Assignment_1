@@ -1,0 +1,176 @@
+Anticancer genes, when expressed ectopically, exhibit a preferential ability to kill cancer cells while leaving normal healthy cells unharmed. This phenomenon is achieved through various processes such as apoptosis, apoptosis following a mitotic catastrophe, necrosis, and autophagy. In the late 1990s, extensive research in the field of cancer cells led to the identification of many anticancer genes such as '291 The human genome'. The deregulation of these genes due to base substitutions leading to insertions, deletions, or alterations in missense amino acids can cause frameshifts, thereby altering the protein. A change in gene copy number or rearrangements is also essential for deregulating these genes. The loss or alteration of these anticancer genes due to mutations or rearrangements may lead to the development of cancer.(1)
+
+
+== Anticancer genes as therapeutics ==
+
+Cancer is classified as a group of diseases, all of which are characterized by uncontrolled cell proliferation. In normal functioning cells, apoptosis is induced to avoid the incidence of such uncontrolled proliferation. However, these processes may continue on to become cancer in the event the processes become dysregulated. Epidemiological studies have shown cancer to be a leading cause of death worldwide  (Figure 1). Current advancements in therapeutics have led to a substantial increase in patient survival rates. Below is a non-comprehensive list of common anticancer genes.
+
+
+== Summary of anticancer genes ==
+
+
+== Common anticancer gene examples ==
+
+
+=== APOPTIN ===
+
+
+==== History ====
+Apoptin was the first anticancer gene to be isolated. This gene comes from the single, circular minus-strand DNA found in the Chicken Anemia Virus (CAV) genome. This virus belongs to the Gyrovirus genus, and is currently being studied as a new cancer therapeutic and diagnostic tool. This protein, also known as viral protein 3 (VP3) was isolated from chickens, and has been shown to cause PCD in transformed human cells.
+Apoptin:
+Apoptin, a protein produced from avian viruses, causes p53-deficient tumor-specific apoptosis manner. After attaching to DNA, apoptin behaves Apoptin is mostly nuclear and phosphorylated in tumor cells, whereas it is cytoplasmic and unphosphorylated in normal cells, where it is easily neutralized.
+The transfection of the SV40 big T oncogene can momentarily induce apoptosis, nuclear translocation, and apoptin phosphorylation in normal cells, showing that apoptin can detect early oncogenic change. Apoptin seems to detect signals of survival in cancer cells, which it can reroute into impulses for cell death. DEDAF, Nur77, Nmi, Hippi, and APC1 are among the targets for apoptin. Animal tumor models and apoptin-transgenic mice have shown apoptin to be a safe and effective anticancer agent which causes a significant tumor regression. Apoptin may be used as a target for treatment or as an early indicator of druggable tumor-specific processes in future antitumor therapies. 
+
+
+==== Action ====
+This protein encoded for by Apoptin has the specific capability of attacking transforming cells while leaving untransformed cells unharmed. Independent of p53, Apoptin induces apoptosis through an intrinsic, mitochondrial pathway. And unlike other PCD pathways, the pathway of Apoptin is independent of death receptors. In normal functioning cells, this 13.6-kDa protein resides in the cytoplasm, yet in cancerous cells, it travels to the nucleus via phosphorylation at the Thr-108 position via the mitogenic cyclin dependent kinase (CDK2).  Additionally, this protein does not act alone. Several Apoptin-interacting molecules are needed in order for Apoptin to be fully functional. These molecules include, but not limited to, DNA, clyclinA-CDK2, and fas-associated death domain protein (FADD). Current apoptin therapeutic agents have been used to treat Lewis lung carcinomas, and osteosarcomas with future implications in treating liver cancers.
+
+
+=== Brevinin-2R ===
+Brevinin 2R:
+The frog's body's skin Ridibunda Rana was used to isolate the unique non-hemolytic defensin known as brevinin-2R. Malignant cells such as T-cell leukemia Jurkat, B-cell lymphoma BJAB, colon cancers HT29/219, SW742, fibrosarcoma L929, breast cancer MCF-7, and A549 (lung carcinoma) exhibit preferential cytotoxicity towards it in comparison to primary cells such T cells, human lung fibroblasts, and peripheral blood mononuclear cells (PBMC). Jurkat, MCF-7, and L929 overexpressing cells as well as MCF-7 cells overexpressing a dominant-negative mutant of a pro-apoptotic BNIP3 (TM-BNIP3) were largely resistant to Brevinin-2R treatment.
+
+
+==== Action ====
+These 25 amino acid peptides, in contrast to the majority of peptides within the Brevinine family, has low hemolytic action. Not only does the peptide have a reduced hemolytic action, it also is semi-selective towards cancer cells and leaves non-cancerous cells largely unharmed. This peptide works as to prevent the progression of cancer by arresting the cell cycle at the G2/M phase, resulting in an induction of apoptosis.
+This defensin traditionally works as a part of the innate immune system, working as an antimicrobial defense. However, this peptide is currently being studied as an anticancer peptide. Brevinin-2R works to trigger cell death by reducing the mitochondrial membrane potential resulting in lower cellular ATP levels while simultaneously increasing the concentration of reactive oxygen species. Currently and somewhat unrelated, Brevinin-2R is being considered for diabetic treatments. In treating type II diabetes, or diabetes mellitus, Brevinins have been shown to promote insulin release. Finally, these peptides even have the capability to increase the rate of tissue regeneration, as seen with the frog in which Brevinin-2R was isolated from.
+
+
+=== E4orf4 ===
+
+
+==== History ====
+Early region 4 open-reading-frame 4 (E4orf4) is an adenovirus protein of 14kDa which regulates growth in all stages of the adenovirus (Ad) infection. E4orf4 partners mainly with protein phosphatase 2A (PP2A) and Src kinases to induce cell death. Modeling of this protein reveals that it is likely made up of 3 α-helices with N- and C-terminal loops. It has a small stretch of amino acids in positions 66–75, which are highly basic, and likely are a place of nuclear and nucleolar targeting, as well as a place for Src kinases to bind.
+
+
+==== Action ====
+E4orf4 is an important regulator of adenoviruses. Additionally, outside of the context of the virus, it causes programmed cell death both in the context of a healthy cellular environment, and cancer. E4orf4 is a key regulator of Ad by down-regulating both viral and cellular genes, which plays an important role in regulating the proliferation of the virus. In turn, the down-regulation also impacts the alternative splicing of the viral RNA and protein translation. In the absence of a viral infection, E4orf4 induces apoptosis in a p53 and caspase-independent manner; however, there is still communication between this pathway and the caspase-dependent apoptosis pathway. In the context of cancer, E4orf4 is even more efficient at inducing cell death than in healthy cells, which could be an important finding for potential cancer therapies. It has been discovered that the mechanisms behind the function of E4orf4 is closely associated with several other proteins including the B55 subunit of PP2A. E4orf4 binds to PP2A to reduce the phosphorylation of the DNA damage response (DDR) proteins. Consequently, this reduces the function of DDR and limits DNA repair. Many cancer cells have defects in the DDR pathways and targeting these cells with E4orf4 can potentially destroy the remaining DDR pathways, resulting in cancer cell death.The main mechanism behind the specificity of cancer cell targeting by E4orf4 is unknown but there are multiple hypotheses that scientists are considering: 1) The activation of the oncogenic state causes dormant apoptotic signals to be initiated and cause cell death to be more easily achieved by different signals. 2) There has been some indication that cancer cells become addicted to oncogenic pathways. E4orf4 may inhibit these pathways, causing cell death in cancer cells, but not normal cells. 3) E4orf4 may use oncogenes that have been activated in cancer cells, including Src, to cause cell death. 4) Cancer cells have disrupted cell cycle checkpoints and E4orf4 can take advantage of this by disrupting checkpoints in mitosis. 5) A Drosophila model demonstrated that E4orf4 can inhibit classical apoptosis in healthy tissues. It has been considered that this function of E4orf4 is lost in cancer cells causing a more effective killing of cells. 6) E4orf4 has been shown to cause structural changes in mitochondria, which could impact metabolic reprogramming and may affect cancer and healthy cells differently.
+
+
+=== HAMLET ===
+
+
+==== History ====
+HAMLET is known as an anticancer protein complex found in breast milk. One of the two molecules of this complex is multimeric alpha lactalbumin (MAL) (Figure 3), which was first discovered during a study in 1995 that investigated how breast milk affects bacteria transformed with lung cancer. This study found that transformed cells were selected for apoptosis at a much higher rate than the untransformed, healthy cells. A later study in 2000, ascertained that oleic acid, a C18:1 fatty acid, is a cofactor that binds to MAL forming HAMLET. This complex, in a partially unfolded state, then displays apoptotic activity in cancer cells.
+
+
+==== Action ====
+Apoptosis, or programmed cell death, can occur through activation of three different pathways, intrinsic, extrinsic, or tumor necrosis factor. HAMLET proceeds by both a multifaceted intrinsic pathway and the caspase cascade, a subsection of the TNF pathway, through targeting many different cell components. First, after uptake by the cell, HAMLET proceeds to the mitochondria and depolarize the membranes at cytochrome c. Consequently, mitochondria dependent apoptosis factors are released as well as the caspase cascade is activated. Second, proteasomes are targeted by HAMLET through a mechanism that is less understood. Research does suggest that HAMLET directly binds to the proteasome leading to its inhibition. Third, HAMLET has been found to target the nucleus, specifically histones. HAMLET irreversibly binds to histones leading to the inactivation of transcription and chromatin condensation, which inevitably causes apoptosis. Lastly, studies show that cells treated by HAMLET exhibit behaviors common to macroautophagy. This includes presence of cytoplasmic vacuoles, double-membrane vesicles, and a dose-dependent decrease in ATP levels.
+
+
+=== MDA-7 ===
+
+
+==== History ====
+Melanoma differentiation associated gene-7 (mda-7), and also known as IL-24, was discovered in the mid-1900s using subtraction hybridization. mda-7 is classified in the interleukin IL-10 family because of similar structure and amino acid sequence to other interleukins in that class, the chromosomal location (human chromosome 1q32-33), and the shared properties it has with cytokines. Protein structural studies reveal that it is a dimer and glycosylated. It has been found that its expression is either not present or present at very low levels in tumor cells, including advanced stage melanoma and metastatic disease, compared to normal non-transformed cells. Multiple studies within the past 15 years have demonstrated that increasing mda-7 expression in tumor cells results in growth arrest and cell death in many different cell lines. When mda-7 is over-expressed in normal cells, no change in growth or cell viability is detected. mda-7 is also considered a radio-sensitizing cytokine because it generates a reactive oxygen species and causes stress in endoplasmic reticulum. mda-7 has been used in several clinical trials because of its ability to induce apoptosis, prevent tumor angiogenesis, cause immune-regulation, and increase radiation lethality. It was seen in one Phase I clinical trial that injecting mda-7 via an adenovirus directly into a tumor resulted in safe tumor regulation and immune activation.
+
+
+==== Action ====
+mda-7 interacts with two of the type II cytokine hetero-dymeric receptor complexes IL-20R1/IL-20R2 and IL-22R1/IL-20R2. It has been seen that in some contexts, mda-7 activates STAT transcription factors. However, the STAT pathway is not always activated and is not required for mda-7 cell growth arrest and cell death. mda-7 can be placed into tumor cell lines via transfection or adenovirus-transduction; it has been seen that following this, apoptosis is induced only in the tumor cells and results in no toxicity in the healthy cells. Its function as a tumor suppressor is not fully understood, but it has been observed that in the context of melanoma, mda-7 expression is drastically decreased. While there are no official studies published backing this claim, it is thought that mda-7 could potentially act as a paracrine factor, be involved in signaling short-range, and immune function in skin. mda-7 is also thought to have a pro-inflammatory purpose. It is also possible that mda-7 induces cytokine secretion, which causes antigen-presenting cells to present tumor antigens, resulting in an immune response against tumors. It has also been discovered that mda-7, and its translated protein MDA-7, interacts with kinases including serine/threonine protein kinase (PKR). Further studies will need to be performed to better understand the mechanisms of mda-7 action.
+
+
+=== NOXA ===
+
+
+==== History ====
+Noxa, isolated from mice, is a member of the Bcl-2 family and is able to regulate cell death through a variety of intracellular stress signals. Having been discovered nearly three decades ago in 1990 by Hijikata et al., this gene product was isolated this protein from an adult T-cell leukemia (ATL) library This gene, and its protein in which it encodes for, has been studied as a potential therapeutic in chronic lymphocytic leukemia (CLL), the most common leukemia found in adults in the Western world. In humans, the Noxa homologue is known as APR/PMAIP1.
+
+
+==== Action ====
+Upon receiving intrinsic death signals, the gene NOXA encodes for the protein Noxa through a three-exon transcript. This protein binds to anti-apoptotic proteins resulting in these proteins' inhibition. As a p53 inducible gene, NOXA is transcribed and translated to Noxa in response to DNA damage and hypoxia induced apoptosis. A constitutive gene found in the brain, thymus, spleen, and several other organs, it initiates apoptosis through Bax-mediated mitochondrial-dysfunction through the inhibition of the Bcl2 family's antiapoptotic members. Through gene knockout studies, it was shown that double deficient Noxa there was no spontaneous tumor development as commonly observed with knockout of p53. Noxa has been shown to be involved in the maintenance of memory CD4+ T Th1/Th2 cell homeostasis where in the absence of Noxa, Th2 memory T-cell death results.
+
+
+=== NS1 ===
+
+
+==== History ====
+In the 1960s rodent parvovirus was discovered by Dr. Helene Toolan to have an oncosuppressive activity. However, the specific gene found in the parvovirus genome, which is called NS1, that causes the oncosuppressive activity was not characterized until later. NS1 is a small protein (only 672 amino acids) with 5 distinct domains that exert different functions that inevitably lead to apoptosis and cell death. NS1 activates cell death through two different pathways, apoptosis/lysosomal-like programmed cell death and necrosis/cytolysis.
+
+
+==== Action ====
+NS1 is considered a regulatory protein due to its activity in transcription, translation, and protein-protein interactions, which allows the parvovirus to replicate unhindered. However, scientists are primarily interested in utilizing its cytolytic activity since this has been proven to be active in cancerous cells. The first way NS1 propagates cell death through cytolysis is by interrupting the cell cycle at the S/G2 junction, causing a stress response in the cell. Specifically, NS1 interacts with many molecules and compounds important in the transition and inhibits their activity. When NS1 expression reaches a certain threshold, the triggered stress response finally causes caspase 3/9-mediated programmed cell death. Another way that NS1 causes cytolysis is through degradation of the cytoskeleton of the cell. NS1 specifically targets and degrades the microfilament tropomyosin using casein kinase II, actin filaments through activation of actin-severing protein gelsolin, and vimentin through an unknown mechanism. The last NS1-mediated mechanism of cytolysis involves the depolarization of the mitochondria. This results in the release of many reactive oxygen species, causing DNA damage. When DNA is damaged, a DNA damage response occurs, which in this case results in cell death.
+
+
+=== ORCTL3 ===
+
+
+==== History ====
+Organic Cation Transporter Like-3 (ORCTL3) was first discovered as a result of a large-scale DNA sequencing project in search of genes with a tumor-specific apoptosis activity. The name ORCTL3 was decided upon because of its structural homology to proteins belonging to the family of organic cation transporters. However, the name is a misnomer as after examining the properties of ORCTL3, it was revealed that ORCTL3 is a transporter for urate. The ORCTL3 gene spans around 12 kb of genomic DNA and consists of ten exons. It was shown that the 2.4 kb transcript of this gene is universally expressed in all human tissues. Additionally, ORCTL3 transfection into numerous tumorigenic cells induced apoptosis, while normal and primary cells remained healthy.
+
+
+==== Action ====
+ORCTL3 is a 90 kDa protein composed of 351 amino acids. It is suggested that the protein spans the cell membrane several times, based on computational methods. Overexpressed ORCTL3 is localized to the endoplasmic reticulum (ER), Golgi and the plasma membrane but not to mitochondria. ORCTL3 was identified as the first high-affinity nicotinate exchanger in kidneys and intestine. Nicotinate is an essential vitamin (Vitamin B3) that is involved in NAD+ synthesis, which in turn is important for energetic processes, signal transduction pathways, and the activation of the NAD+ -dependent histone deacetylase SIRT1. ORCTL3 has been shown to be activated for apoptosis induction in renal cells in vitro, in vivo and ex vivo. For its apoptosis effect ORCTL3 targets stearoyl-CoA desaturase (SCD), an enzyme that introduces a double bond in the fatty acid stearic acid. The fact that SCD is commonly overexpressed in cancer and oncogene transformed cells might explain the tumor-specificity of ORCTL3 to some extent, however, the existence of other additional targets of ORCTL3 cannot formally be ruled out.
+
+
+=== Par-4 ===
+
+
+==== History ====
+Prostate apoptosis response-4 (Par-4) is a tumor suppressor protein with a pro-apoptotic function. Par-4 was first discovered in rat prostate cancer cells as part of an effort determined in discovering genes that were induced in response to increased Ca2+ in cells, although it is now known to be ubiquitously expressed in a wide variety of tissues across many different species. The Par-4 gene is located on the minus strand of chromosome 12q21.2, spanning 99.06 kb of DNA and containing seven exons and six introns. Par-4 is known to be downregulated in certain terminally differentiated cells such as neurons, specific retinal cells, and smooth muscle cells as well as in certain cancer cells such as renal cancers, neuroblastoma, and leukemia. Par-4 has also been shown to be generally higher in dying cells, consistent with its pro-apoptotic functions.
+
+
+==== Action ====
+Par-4 is a 38 kDa multi-domain protein composed of about 340 amino acids. Conserved domains among human, mouse, and rat homologs include the leucine zipper (LZ) domain at the C-terminal region, two nuclear localization sequences, NLS1 and NLS2, in the N-terminal region, and a nuclear export sequence within the LZ domain. Although Par-4 mutations are rare, it was identified that an A to T point mutation affecting residue 189 localized in exon 3 causes premature termination of Par-4 in human endometrial carcinoma. Knockout of Par-4 in mice leads to the development of spontaneous tumors in various tissues revealed by increased proliferative response of peripheral T cells, inhibition of apoptosis, increased NF-κB activity, and decreased JNK activity. Par-4 overexpression is sufficient to induce apoptosis in most cancer cells in the absence of a second apoptotic signal, but does not induce apoptosis in normal or immortalized cells.The anticancer function of Par-4 is achieved by two distinct means: activating the molecular components of the cell-death machinery and inhibiting pro-survival factors. One essential apoptotic function of Par-4 is inhibiting the NF-κB pathway, which is a key contributing factor in many tumors and prevents cell death by activating the expression of pro-survival genes. Par-4 also assists in PCD by enabling the trafficking of specific ligands such and cell surface death receptors, such as FasL and Fas, respectively, to the plasma membrane thus activating the extrinsic death pathway. Overexpression of Par-4 selectively induces apoptosis in cancer cells, attributed to the selective activation via phosphorylation of the T155 residue by protein kinase A (PKA). It has been shown that two events are required for Par-4 activation: nuclear entry and phosphorylation by PKA.
+
+
+=== TRAIL ===
+
+
+==== History ====
+Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) (Figure 5) is a member of the tumor necrosis factor (TNF) family that also includes Fas ligands, TNFα, and TL1A. It was discovered in 1995 by Wiley et al. and then further characterized in 1996 by Pitti et al. The former study discovered that TRAIL is localized to surfaces of cells in most human tissues, excluding the brain, liver, and testes, while the latter study was able to elicit that the protein is a type II membrane protein that can also be cleaved into a soluble form.
+
+
+==== Action ====
+The intrigue surrounding TRAIL is all due to this protein's ability both in vivo and in vitro to specifically target tumor cells for apoptosis while leaving healthy cells intact. This activity proceeds by both the intrinsic and extrinsic pathway. First, the homotrimer of TRAIL binds three molecules of either TRAIL-receptor 1 or 2, which are transmembrane proteins that contain a cytoplasmic death domain. Once TRAIL is bound, Fas, caspase-8, and caspase-10 associate with the death domain forming death-inducing signaling complex (DISC) that proceeds through two different mechanisms depending on the cell type. In one cell type, DISC can directly activate the effector caspase leading to apoptosis, while in the other the complex activates a bcl-2-mediated pathway in a similar fashion as HAMLET that results in the release of cytochrome c from the mitochondria, which then causes the activation of effector caspase. The latter mechanism is the focus of many oncogenic therapies because p53, the tumor suppressor gene, activates the same pathway. Since cancer is commonly caused by the inactivation of p53, TRAIL could mediate this effect by still activating the apoptotic pathway.
+
+
+=== TP53 ===
+
+
+==== History ====
+TP-53 (Figure 6) is a gene that encodes for the protein p53; this protein is a tumor suppressor. p53 was discovered in 1979 stemming from a study involving cancer immunology and the role of viruses in some cancers. The protein was so named because it was measured to have a weight of 53 kDa. This study was conducted by David Philip Lane and technician Alan K. Roberts, in Lionel V. Crawford's lab in London. It was seen in this study that p53 could bind to viral tumor antigens. This information was corroborated during the same year when a separate study found that p53 had immunoreactivity with serum from tumors containing antibodies. This later study was run by Daniel I. H. Linzer and Arnold J. Levine out of Princeton University. Further papers came out around the same time all mentioning the discovery of a tumor suppressing protein. While p53 was first officially identified in 1979, many labs in previous years had come across the same protein, without knowing what it was. In the mid-1970s, a scientist by the name of Peter Tegtmeyer happened upon a protein with an approximate size of 50 kDa. However, because he was focusing his studies on SV40, a tumor-causing virus affecting monkeys and humans, he did not pay much attention to this protein.
+
+
+==== Action ====
+The p53 protein is a tumor-suppressing transcription factor (TF), which can recognize when there is an alteration in a cell's DNA caused by factors including chemical toxins, radiation, ultraviolet (UV) rays, and other damaging agents. Crucially, p53 plays a role in determining whether the damaged genetic material in the cell can be repaired, or if the cell should be destroyed through apoptosis. The individual topologically associating domains (TADs) target different genes and unique effector pathways. It has been observed that inactivating both of the TADs detrimentally affects the ability of p53 to suppress tumor growth and interact with target genes. When only one TAD is inactivated, p53 can still suppress specific tumors; however, it can no longer successfully engage in transactivation. The C-terminal domain (CTD) is an intrinsically disordered domain (IDD), which can take on different conformations depending on what it is binding with and is a location of many post-translational modifications, resulting in its ability to regulate p53 function depending on what it is bound to and what modifications are linked with the CTD. This domain also aids in the binding of the central DNA-binding domain (DBD) to specific DNA sequences; the CTD is a positive regulator of DNA binding and stabilizes the interaction of the DNA with the DBD. p53 is unique as a transcription factor in that it can recognize and bind response elements (RE) in many different environments and doesn't need other transcription factors to cooperatively bind with it like many other TFs.Mutations in the p53 pathway have been observed in almost all cancer types including breast cancer, bladder cancer, lung cancer, ovarian cancer, cholangiocarcinoma, head and neck squamous cell carcinoma, melanoma, wilms tumor, and other cancers often due to a single point mutation in p53. Li-Fraumeni Syndrome is a condition linked to inherited mutations, at least 140 mutations, in the TP-53 gene. This condition largely increases the risk of developing cancers like breast cancer, bone cancer, and soft tissue sarcomas. Specifically, this impacts children and young adults. A majority of these mutations in the TP-53 gene are single amino acid changes, but other mutations cause a small portion of the DNA to be absent. This leads to a faulty p53 protein that fails to recognize DNA damage in cells, control cell growth, and initiate apoptosis in cells with damaged DNA. Consequently, cells containing erroneous DNA can uncontrollably divide.CHEMOTHERAPY FOR CANCER:
+Chemotherapy, which involves administering specialized drugs to cancer patients, works to prevent cancer cells from proliferating, dividing, and producing new cells. Chemotherapy has a variety of uses, including,
+To combat a specific form of cancer.
+When a cure is not achievable, to slow tumor development.
+To reduce tumor size prior to surgery or radiation treatment.
+To get rid of signs like pain.
+Once a tumor has been surgically removed, to prevent a potential cancer return and eradicate any little cancer cells that may have persisted (2)
+CANCER GENE TYPES
+There are three main categories of cancer genes that regulate cell division and have the potential to result in cancer.
+Oncogenes are altered genes that can cause cancer by causing cells to expand out of control. Normal genes that regulate cell growth are called proto-oncogenes, though if they undergo mutation, they could develop into oncogenes and proto-oncogenes function as switches. Typically, a proto-oncogene is turned off the activation of a proto-oncogene instructs a cell to divide or expand. However, oncogenes are perpetually active, causing uncontrolled cell growth. (51)
+Normal genes that act as tumor suppressors slow down cell division and growth, correct DNA errors, and indicate when cells should die. (Apoptosis, likewise, referred to as "programmed cell death,", is a normal process). They support our defense against cancer. When turned on, tumor suppressor genes function appropriately. They limit the excessive cell division. However, these genes are disabled when they are altered. This results in uncontrolled cell growth, which can cause cancer. (52)
+CANCER CAUSING GENES:
+The impact of genetic variations on human health and the chance of developing cancer has received a significant lot of attention from scientists. The following genetic alterations have been connected for cancer.
+BRCA gene mutations:
+The tumor suppressing BRCA genes frequently help in cancer prevention. They control how cells divide and develop and help repair DNA damage BRCA gene abnormalities, however, can the likelihood of having specific cancers is raised. Cancers BRCA1 and BRCA2 are the two BRCA recognized cancer-causing gene alterations. The likelihood that a woman may develop ovarian and breast cancer is increased by certain gene abnormalities. Male breast cancer and prostate cancer risk are both increased by BRCA2 gene mutations Men and women with BRCA2 gene mutations have a marginally increased chance of acquiring pancreatic cancer. (53)
+
+
+== Common misconceptions ==
+Often, genes are confused with the proteins in which they code for (Figure 7). Genes are composed of nucleotides, while proteins are composed of amino acids. The genes serve as codes and blueprints to create either proteins of interest, or various non-coding ribonucleic acids (ncRNAs), which exhibit various effects, such as working to prevent cancer within cells.
+
+
+== See also ==
+Oncogene
+Gene therapy for cancer
+Tumour suppressor gene
+Cell Cycle
+Cell Cycle Checkpoints
+Genes
+Proteins
+Apoptosis
+HAMLET
+Par-4
+
+
+== References ==
+1. Futreal, P. Andrew (2009). "A census of human cancer genes". Nature Reviews Cancer. 4 (3): 177–183. doi:10.1038/nrc1299. PMC 2665285.
+
+Dr Joyce MWATONOKThe American Cancer Society. Cancer and genes. https://www.cancer.org/, as of 2014.
+      The American Society for Clinical Oncology. Cancer Genetics in 2015: http://www.cancer.net/navigating-cancer-care/cancer-basics/genetics/cancer-genetics.
+      doi:10.1146/annurev.pharmtox.48.121806.154910
+      DoI: 10.1111/j.1582-4934.2008. 00129.x
+      Cancer Research UK. Genes, DNA and Cancer. Cancer Research UK; 2014: http://www.cancerresearchuk.org/about-cancer/what-is-cancer/genes-dna-and-cancer.

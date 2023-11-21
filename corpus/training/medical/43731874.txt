@@ -1,0 +1,4 @@
+Cooperative synapse formation describes the mutual amplification of synapses. It is needed to explain the distribution of the number of synapses between neurons for example in a rat cortex. Spike-Timing dependence of structural plasticity is capable of explaining the emergence of cooperative synapse formation.
+
+
+== Sources ==

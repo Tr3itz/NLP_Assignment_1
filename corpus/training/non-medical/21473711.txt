@@ -1,0 +1,67 @@
+Aerial bundled cables (also aerial bundled conductors or simply ABC) are overhead power lines using several insulated phase conductors bundled tightly together, usually with a bare neutral conductor.  This contrasts with the traditional practice of using uninsulated conductors separated by air gaps. This variation of bundled conductors utilizes the same principles as overhead power lines, except that they are closer together to the point of touching but each conductor is surrounded by an insulating layer (except for the neutral line).
+The main objections to the traditional design are that the multiple conductors are considered unappealing, and external forces (such as high winds) can cause them to touch and short circuit.  The resultant sparks have been a cause of bushfires in drier climates. In the UK where some supplies to rural property are converted to PME/MEN from TT Earthing system concerns have been expressed that the lower conductor alone may be broken, (by high vehicle or falling tree for  example) but with the upper phase conductors intact. This is a potentially dangerous fault condition.  With ABC, a simultaneous disconnection of all conductors is more likely.
+In moister climates, tree growth is a significant problem for overhead power lines. ABC will not arc over if touched by tree branches.  Although persistent rubbing is still a problem, tree-trimming costs can be reduced.
+Areas with large trees and branches falling on lines are a problem for ABC as the line degrades over time. Due to the very large strain forces cracking and breaking insulation can lead to short circuit failures which can then lead to ground fires due to dripping of molten insulation.
+Low voltage ABC has already been developed in several countries across the globe and promises to be cheaper, safer, more reliable, require less tree clearing and pruning, be more aesthetic, be less labor-intensive, require less maintenance and eliminate bushfires being initiated by conductor clashing.
+
+
+== Advantages ==
+Relative immunity to short circuits caused by external forces (wind, fallen branches), unless they abrade the insulation.
+Can stand in close proximity to trees/buildings and will not generate sparks if touched.
+Little to no tree trimming necessary
+Simpler installation, as crossbars and insulators are not required.
+Ease of erection and stringing, less labor-intensive, less construction resources needed.
+More aesthetically appealing.
+Can be installed in a narrower right-of-way.
+At junction poles, insulating bridging wires are needed to connect non-insulated wires at either side. ABC can dispense with one of these splices.
+Less risk of a neutral-only break from tree or vehicle damage, increasing safety with TNC-s systems.
+Significantly improved safety for linespersons, particularly when working on live conductors.
+Electricity theft is made harder, and more obvious to detect.
+Less required maintenance and necessary inspections of lines.
+Improved reliability in comparison with both bare conductor overhead systems and underground systems. Insulated conductors prevent accidental contact and supply can be maintained temporarily in the event of a suspension system collapse.
+
+
+== Disadvantages ==
+Additional cost for the cable itself.
+Insulation degrades due to sun exposure, though the critical insulation between the wires is somewhat shielded from the sun.
+Shorter spans and more poles due to increased weight.
+Can lead to much longer repair times for installations in hilly areas due to much higher line weights requiring bigger and more specialized equipment to repair.
+Older installations are known to cause fires in areas where falling large trees or branches regularly cause breaks in lines and or in insulation leading to short circuits which can then lead to burning insulation dripping to ground and starting ground fires.
+Failure modes through punctures, electrical tracking, and erosion.
+
+
+== International usage ==
+
+
+=== Australia ===
+ABC have been introduced into Australian power systems progressively since 1983.  This was partly in response to bushfires sparked by old wires touching.
+In some bushfire prone areas though, older ABC installations are now creating fires, particularly at points where the cables have damaged or been degraded over time.
+In the Dandenong Ranges area Victoria 2014. Medium voltage (11-22 kV) ABC is being replaced with underground cable due to high failure rates of HV ABC, with life expectancy of just 10 years, when original life was expected to be approx 30 years. Due to degraded cable, cost of repairs & maintenance and bushfire risk.
+
+
+=== Ireland ===
+Low voltage ABC lines were first installed on the rural Irish distribution networks in 1981. It is not known where ABC was first installed.
+
+
+=== Pakistan ===
+K-Electric first introduced ABC, in Gulshan-e-Iqbal area of Karachi city with a pilot project was completed in March 2014. Following 90% theft loss reduction, the decision to roll out the new cabling across the entire K-Electric distribution network of Karachi.
+
+
+=== Sri Lanka ===
+Low voltage ABC lines are installed in urban distribution systems commonly.
+
+
+== See also ==
+Utility pole
+
+
+== References ==
+
+
+== External links ==
+Nexans Order
+Continental Cables Spec
+PE and XLPE Insulted Ariel Bundle Cables
+The Aerial Bundled Cables (ABC) and the Characteristics of its Semiconductive Shield
+Low Voltage Ariel Bundled Cable Manual
+ABC Installation Practices

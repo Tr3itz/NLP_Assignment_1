@@ -1,0 +1,17 @@
+A bonding jumper is a reliable conductor to ensure the required electrical conductivity between metal raceways required to be electrically connected.
+
+
+== Bonding ==
+"Bonding" is a method by which all electrically conductive materials and metallic surfaces of equipment and structures, not normally intended to be energized, are effectively connected with a low impedance path to avoid any appreciable potential difference between any separate points. Bonding ensures that all surfaces accessible to a person are at the same potential, reducing the hazard of an electric shock. A bonded system is not necessarily connected to earth, for example, in an aircraft. 
+The common way to effectively bond different metallic surfaces of enclosures, electrical equipment, pipes, tubes or structures together is with a copper conductor, rated lugs and appropriate bolts, fasteners or screws. Other bonding means between different metallic parts and pieces might employ brackets, clamps, exothermic bonds or welds to make effective connections.
+Effectively bonded equipment can also safely conduct phase-to-ground fault currents, induced currents, surge currents, lightning currents or transient currents during abnormal conditions. Bonding jumpers must be sized to safely handle the anticipated fault current. 
+
+
+== Applications ==
+Rules for bonding jumper installation are given in electrical code regulations.  Typically, these require a jumper at any place where the continuity of a bonding system might be interrupted, for example, where metallic conduits join an enclosure through fittings that do not assure good electrical contact.   Some codes require a bonding jumper to be pulled into non-metallic conduit or in electrical metallic tubing that may be exposed to corrosion or mechanical damage. 
+In North American electrical codes, an important bonding jumper is found in main electrical panels, where the system neutral conductor is connected to earth ground.  This must be done at only one point in each separately derived system to prevent flow of objectionable current in the earth. 
+Bonding jumpers may be installed wherever metal parts are free to move on a hinge or bearing.  This is done for electrical safety grounding, static electricity protection, and may also be useful for control of electromagnetic interference.  For example, a control panel door may have a bonding jumper across the hinges so that the metal door is effectively connected to ground, since the hinges may not provide a reliable contact. 
+Temporary bonding jumpers are used in the handling of flammable liquids and gases, so that static charge on a vehicle or portable tank does not ignite escaping gas. 
+
+
+== References ==

@@ -1,0 +1,155 @@
+In the context of electricity, the diversity factor is the ratio of the sum of the individual non-coincident maximum loads of various subdivisions of the system to the maximum demand of the complete system.
+
+  
+    
+      
+        
+          f
+          
+            Diversity
+          
+        
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                
+                  Individual peak load
+                
+                
+                  i
+                
+              
+            
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                Max
+              
+              (
+              
+                
+                  Aggregated load
+                
+                
+                  i
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle f_{\text{Diversity}}={\frac {\sum \limits _{i=1}^{n}{\text{Individual peak load}}_{i}}{\sum \limits _{i=1}^{n}{\text{Max}}({\text{Aggregated load}}_{i})}}}
+  The diversity factor is always greater than 1. The aggregate load 
+  
+    
+      
+        
+          (
+          
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              
+                Aggregated load
+              
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(\sum \limits _{i=1}^{n}{\text{Aggregated load}}_{i}\right)}
+   is time dependent as well as being dependent upon equipment characteristics. The diversity factor recognizes that the whole load does not equal the sum of its parts due to this time interdependence or "diversity." For example, one might have ten air conditioning units that are 20 tons each at a facility with an average full load equivalent operating hours of 2000 hours per year. However, since the units are each thermostatically controlled, it is not known exactly when each unit turns on. If the ten units are substantially larger than the facility's actual peak AC load, then fewer than all ten units will likely come on at once. Thus, even though each unit runs a total of a couple of thousands (2000) hours a year, they do not all come on at the same time to affect the facility's peak load. The diversity factor provides a correction factor to use, resulting in a lower total power load for the ten AC units. If the energy balance done for this facility comes out within reason, but the demand balance shows far too much power for the peak load, then one can use the diversity factor to bring the power into line with the facility's true peak load. The diversity factor does not affect the energy; it only affects the power.
+
+
+== Coincidence factor ==
+The coincidence factor is the reciprocal of the diversity factor. The simultaneity factor may be identical to either the coincidence factor or the diversity factor, depending on the sources of definition; the International Electrotechnical Commission defines the coincidence and simultaneity factors identically, with the diversity factor being their reciprocal. Since the only change in definition is to take the inverse, all one needs to know is if the factor is greater than or less than one.
+
+
+== Diversity factor in heat networks ==
+In the heat networks design the coincidence factor is often called a diversity factor (CIBSE guidance, DS 439). So, in the context of hot water systems the diversity factor is always less than 1. For space heating, for more than 40 dwellings the factor levels out to approximately 0.62. For domestic hot water at 40 dwellings it is slightly below 0.1 and keeps decreasing further with additional connections.
+
+
+== Diversity ==
+The unofficial term diversity, as distinguished from diversity factor, refers to the percent of time available that a machine, piece of equipment, or facility has its maximum or nominal load or demand; a 70% diversity means that the device in question operates at its nominal or maximum load level 70% of the time that it is connected and turned on.
+
+
+== Diversified load and diversification factor ==
+The diversified load is the total expected power, or "load", to be drawn during a peak period by a device or system of devices. The diversified load is the combination of each device's full load capacity, utilization factor, diversity factor, demand factor, and the load factor. This process is referred to as load diversification. The diversification factor is then defined as:
+
+  
+    
+      
+        
+          f
+          
+            Diversification
+          
+        
+        =
+        
+          
+            Diversified Load
+            Maximum system load
+          
+        
+      
+    
+    {\displaystyle f_{\text{Diversification}}={\frac {\text{Diversified Load}}{\text{Maximum system load}}}}
+  
+
+
+== In electrical engineering ==
+Diversity factor is commonly used for a number of engineering-related topics. One such instance is when completing a coordination study for a system. This diversity factor is used to estimate the load of a particular node in the system.
+
+
+== See also ==
+Energy storage
+Intermittent power source
+
+
+== References ==
+
+IEEE Standard 141(TM)-1993, IEEE Recommended Practice for Electric Power Distribution for Industrial Plants, Red Book.
+Handbook for Electricity Metering, Edison Electric Institute, Tenth Edition.
+
+
+== External links ==
+Barney L. Capehart. "Equipment Load Factors, Use Factors and Diversity Factors As Well as a General Discussion of Energy Audit Procedures". www.ise.ufl.edu.

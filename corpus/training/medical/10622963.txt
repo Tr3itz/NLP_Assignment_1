@@ -1,0 +1,42 @@
+Chemotherapy-induced acral erythema, also known as palmar-plantar erythrodysesthesia or hand-foot syndrome is reddening, swelling, numbness and desquamation (skin sloughing or peeling) on palms of the hands and soles of the feet (and, occasionally, on the knees, elbows, and elsewhere) that can occur after chemotherapy in patients with cancer. Hand-foot syndrome is also rarely seen in sickle-cell disease. These skin changes usually are well demarcated. Acral erythema typically disappears within a few weeks after discontinuation of the offending drug.
+
+
+== Signs and symptoms ==
+The symptoms can occur anywhere between days to months after administration of the offending medication, depending on the dose and speed of administration. The patient first experiences tingling and/or numbness of the palms and soles. This is followed 2-4 days later by bright redness, which is symmetrical and sharply defined.In severe cases this may be followed by burning pain and swelling, blistering and ulceration, peeling of the skin. Healing occurs without scarring unless there has been skin ulceration or necrosis (skin loss/death). With each subsequent cycle of chemotherapy, the reaction will appear more quickly, be more severe and will take longer to heal.
+
+
+== Causes ==
+Acral erythema is a common adverse reaction to cytotoxic chemotherapy drugs, particularly cabozantinib, cytarabine, doxorubicin, and fluorouracil and its prodrug capecitabine.Targeted cancer therapies, especially the tyrosine kinase inhibitors sorafenib and sunitinib, have also been associated with a high incidence of acral erythema. However, acral erythema due to tyrosine kinase inhibitors seems to differ somewhat from acral erythema due to classic chemotherapy drugs.
+
+
+== Pathogenesis ==
+The cause of Palmar-plantar erythrodysesthesia (PPE) is unknown. Existing hypotheses are based on the fact that only the hands and feet are involved and posit the role of temperature differences, vascular anatomy, differences in the types of cells (rapidly dividing epidermal cells and eccrine glands).In the case of PPE caused by PLD, the following mechanism has been demonstrated: sweat deposits and spreads the drug on the skin surface; then the drug penetrates into the stratum corneum like an external agent; palms and soles have high density of sweat glands, and their stratum corneum is approximately 10 times thicker than the rest of the body, and becomes an efficient long-term reservoir for the penetrating PLD, which was deposited on the skin before.
+
+
+== Diagnosis ==
+Painful red swelling of the hands and feet in a patient receiving chemotherapy is usually enough to make the diagnosis. The problem can also arise in patients after bone marrow transplants, as the clinical and histologic features of PPE can be similar to cutaneous manifestations of acute (first three weeks) graft-versus-host disease. It is important to differentiate PPE, which is benign, from the more dangerous graft-versus-host disease. As time progresses, patients with graft-versus-host disease progress to have other body parts affected, while PPE is limited to hands and feet. Serial biopsies every 3 to 5 days can also be helpful in differentiating the two disorders.
+
+
+== Prevention ==
+The cooling of hands and feet during chemotherapy may help prevent PPE. Support for this and a variety of other approaches to treat or prevent acral erythema comes from small clinical studies, although none has been proven in a randomised controlled clinical trial of sufficient size.Modifying some daily activities to reduce friction and heat exposure to your hands and feet for a period of time following treatment (approximately one week after IV medication, much as possible during the time you are taking oral medication such as capecitabine)."Hand-Foot Syndrome". Chemocare. Archived from the original on 2021-01-26. Retrieved 2020-05-27.</ref>
+
+
+== Treatment ==
+The main treatment for acral erythema is discontinuation of the offending drug, and symptomatic treatment to provide analgesia, lessen edema, and prevent superinfection. However, the treatment for the underlying cancer of the patient must not be neglected. Often, the discontinued drug can be substituted with another cancer drug or cancer treatment.Symptomatic treatment can include wound care, elevation, and pain medication. Various emollients (creams) are recommended to keep skin moist. Corticosteroids and pyridoxine have also been used to relieve symptoms. Other studies do not support the conclusion. A number of additional remedies are listed in recent medical literature. Among them henna and 10% uridine ointment which went through clinical trial.
+
+
+== Prognosis ==
+Hand-foot invariably recurs with the resumption of chemotherapy. Long-term chemotherapy may also result in reversible palmoplantar keratoderma. Symptoms resolve 1–2 weeks after cessation of chemotherapy. The range is 1-5 weeks, so it has recovered by the time the next cycle is due. Healing occurs without scarring unless there has been skin ulceration or necrosis. With each subsequent cycle of chemotherapy, the reaction will appear more quickly, be more severe and will take longer to heal.
+
+
+== History ==
+Hand-foot syndrome was first reported in association with chemotherapy by Zuehlke in 1974.
+Synonyms for acral erythema (AE) include: hand-foot syndrome, palmar-plantar erythrodysesthesia, peculiar AE, chemotherapy-induced AE,  toxic erythema of the palms and soles, palmar-plantar erythema, and Burgdorf's reaction. Common abbreviations are HFS and PPE.
+
+
+== References ==
+
+
+== Further reading ==
+Farr, Katherina Podlekareva; Safwat, Akmal (2011). "Palmar-Plantar Erythrodysesthesia Associated with Chemotherapy and Its Treatment". Case Reports in Oncology. 4 (1): 229–235. doi:10.1159/000327767. PMC 3085037. PMID 21537373.
+Hand-Foot Syndrome or Palmar-Plantar Erythrodysesthesia (1 & 2)

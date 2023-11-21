@@ -1,0 +1,166 @@
+Characteristic admittance is the mathematical inverse of the characteristic impedance.
+The general expression for the characteristic admittance of a transmission line is:
+
+  
+    
+      
+        
+          Y
+          
+            0
+          
+        
+        =
+        
+          
+            
+              
+                G
+                +
+                j
+                ω
+                C
+              
+              
+                R
+                +
+                j
+                ω
+                L
+              
+            
+          
+        
+      
+    
+    {\displaystyle Y_{0}={\sqrt {\frac {G+j\omega C}{R+j\omega L}}}}
+  where
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is the resistance per unit length,
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is the inductance per unit length,
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is the conductance of the dielectric per unit length,
+
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is the capacitance per unit length,
+
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   is the imaginary unit, and
+
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is the angular frequency.The current and voltage phasors on the line are related by the characteristic admittance as:
+
+  
+    
+      
+        
+          
+            
+              I
+              
+                +
+              
+            
+            
+              V
+              
+                +
+              
+            
+          
+        
+        =
+        
+          Y
+          
+            0
+          
+        
+        =
+        −
+        
+          
+            
+              I
+              
+                −
+              
+            
+            
+              V
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {I^{+}}{V^{+}}}=Y_{0}=-{\frac {I^{-}}{V^{-}}}}
+  where the superscripts 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+   and 
+  
+    
+      
+        −
+      
+    
+    {\displaystyle -}
+   represent forward- and backward-traveling waves, respectively.
+
+
+== See also ==
+Characteristic impedance
+
+
+== References ==
+Guile, A. E. (1977). Electrical Power Systems. ISBN 0-08-021729-X.
+Pozar, D. M. (February 2004). Microwave Engineering (3rd ed.). ISBN 0-471-44878-8.
+Ulaby, F. T. (2004). Fundamentals Of Applied Electromagnetics (media ed.). Prentice Hall. ISBN 0-13-185089-X.

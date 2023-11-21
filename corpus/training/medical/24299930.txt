@@ -1,0 +1,29 @@
+To classify postoperative outcomes for epilepsy surgery, Jerome Engel proposed the following scheme, the Engel Epilepsy Surgery Outcome Scale, which has become the de facto standard when reporting results in the medical literature:
+Class I: Free of disabling seizures
+Class II: Rare disabling seizures ("almost seizure-free")
+Class III: Worthwhile improvement
+Class IV: No worthwhile improvement
+
+
+== History ==
+Surgery for epilepsy patients has been used for over a century, but due to technological restrictions and insufficient knowledge of brain surgery, this treatment approach was relatively rare until the 1980s and 90s.  Prior to the 1980s, no classification system existed due to the lack of operations performed up until the time. As surgery as a treatment grew more prevalent, a classification system became a necessity. The appropriate evaluation of patients following epilepsy surgery is extremely important, as medical professionals must know the appropriate course of action to follow in order to achieve seizure freedom for patients.  Accordingly, the Engel classification guidelines were devised by UCLA neurologist Jerome Engel Jr. in 1987 and made public at the 1992 Palm Desert Conference on Epilepsy Surgery. The Engel classification system has since become the standard in reporting postoperative outcomes of epilepsy surgery.
+
+
+== Overview ==
+In Engel's 1993 summary of the 1992 Palm Desert Conference on Epilepsy Surgery, he annotated his classification system with more detail.  The annotation was as follows:
+
+Class I: Seizure free or no more than a few early, nondisabling seizures; or seizures upon drug withdrawal only
+Class II: Disabling seizures occur rarely during a period of at least 2 years; disabling seizures may have been more frequent soon after surgery; nocturnal seizures
+Class III: Worthwhile improvement; seizure reduction for prolonged periods but less than 2 years
+Class IV: No worthwhile improvement; some reduction, no reduction, or worsening are possible
+
+
+== Advantages ==
+The subjectivity of the Engel system leaves much of the postoperative class assignment process to the patients. While many have noted the disadvantages of a classification system where the patients are involved in determining the evaluation, others have praised it.  Proponents of the Engel classification guidelines argue that the patients are best able to perceive the worth of the operation because they are the ones experiencing the seizures before and after the treatment.
+
+
+== Disadvantages ==
+As is the case for all current methods of reviewing epilepsy surgery outcomes, the Engel classification system has subjective components. A "disabling seizure" is subjective and can vary in definition from person to person. While one epileptic experiencing a seizure when driving a car may find the seizure "disabling", the same magnitude of seizure may be interpreted as mild, and thus "nondisabling", by an epileptic resting in bed. Every class other than class I is also subjective because there is no quantitative definition of what determines a rare occurrence or method to measure worthwhileness. One doctor and patient may consider two seizures in a year as a rare occurrence while another doctor may consider ten in a year as rarely occurring. The worthwhileness of the operation is ambiguous because worth can be interpreted differently by various patients and healthcare professionals. Keeping those caveats in mind, most neurologists and neurosurgeons who specialize in epilepsy would most likely agree, as would many persons with epilepsy and even laypeople, that any seizure that leads to a period of status epilepticus (seizure activity, especially of the tonic-clonic, or grand mal, type, for longer than about five to ten minutes, or more – some now say it should be as little as two – without an intervening return to normal, or any repeat seizures without a return to consciousness) is a medical emergency, objectively a major problem, and cannot be considered a satisfactory outcome (unless perhaps if the person had a fatal or very severe form of a neurodegenerative syndrome or other disease where such severe repeat seizures are not unusual, and there are a number of these diseases; even then, such an outcome is usually still not a cure, just an amelioration of a fatal condition or a very disabling condition). Continuing to have to endure a large number of tonic-clonic seizures (grand mal seizures) over a period of days, months, or even over the course of a year or two, would make it impossible to drive and very hard to hold a job away from home entailing much stress, and would pose limits on one's abilities to safely carry out the activities of daily living without at least some monitoring or assistance.The Engel classification system has been thought of as a cross-sectional grading system by medical professionals because it does not account for long term changes in patients.  It has been proposed that it would be more beneficial to reevaluate patients on an annual basis, and the International League Against Epilepsy (ILAE) devised a separate rating scale in 2001 that reevaluates patients on every annual anniversary of their surgery. The ILAE also developed their system in hopes of avoiding many of the subjective components found in the Engel system.
+
+
+== References ==

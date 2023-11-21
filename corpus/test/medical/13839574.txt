@@ -1,0 +1,5 @@
+A Lewis Lead (also called the S5 lead) is a modified ECG lead used to detect atrial flutter waves when atrial flutter is suspected clinically, based on signs and symptoms, but is not definitely demonstrated on the standard 12 lead ECG. In order to create the Lewis Lead, the right arm electrode is moved to the manubrium adjacent to the sternum. Then the left arm electrode is moved to the right, fifth intercostal space adjacent to the sternum. The left leg electrode is placed on the right lower costal margin. The Lewis Lead is then read as Lead I on the ECG and, since in most patients it will be roughly perpendicular to the wave of ventricular depolarization, atrial flutter waves may be more apparent.
+
+
+== References ==
+Goldman's Principles of Clinical Electrocardiography 1982

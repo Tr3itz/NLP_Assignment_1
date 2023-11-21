@@ -1,0 +1,75 @@
+Astrogliosis (also known as astrocytosis or referred to as reactive astrogliosis) is an abnormal increase in the number of astrocytes due to the destruction of nearby neurons from central nervous system (CNS) trauma, infection, ischemia, stroke, autoimmune responses or neurodegenerative disease. In healthy neural tissue, astrocytes play critical roles in energy provision, regulation of blood flow, homeostasis of extracellular fluid, homeostasis of ions and transmitters, regulation of synapse function and synaptic remodeling. Astrogliosis changes the molecular expression and morphology of astrocytes, in response to infection for example, in severe cases causing glial scar formation that may inhibit axon regeneration.
+
+
+== Causes ==
+Reactive astrogliosis is a spectrum of changes in astrocytes that occur in response to all forms of CNS injury and disease. Changes due to reactive astrogliosis vary with the severity of the CNS insult along a graduated continuum of progressive alterations in molecular expression, progressive cellular hypertrophy, proliferation and scar formation.Insults to neurons in the central nervous system caused by infection, trauma, ischemia, stroke, recurring seizures, autoimmune responses, or other neurodegenerative diseases may cause reactive astrocytes.When the astrogliosis is pathological itself, instead of a normal response to a pathological problem, it is referred to as astrocytopathy.
+
+
+== Functions and effects ==
+Reactive astrocytes may benefit or harm surrounding neural and non-neural cells. They undergo a series of changes that may alter astrocyte activities through gain or loss of functions lending to neural protection and repair, glial scarring, and regulation of CNS inflammation.
+
+
+=== Neural protection and repair ===
+Proliferating reactive astrocytes are critical to scar formation and function to reduce the spread and persistence of inflammatory cells, to maintain the repair of the blood–brain barrier (BBB), to decrease tissue damage and lesion size, and to decrease neuronal loss and demyelination.Reactive astrocytes defend against oxidative stress through glutathione production and have the responsibility of protecting CNS cells from NH4+ toxicity.
+They protect CNS cells and tissue through various methods, such as uptake of potentially excitotoxic glutamate, adenosine release, and degradation of amyloid β peptides. The repair of a disruption in the blood brain barrier is also facilitated by reactive astrocytes by their direct endfeet (characteristic structure of astrocytes) interaction with blood vessel walls that induce blood brain barrier properties.They have also been shown to reduce vasogenic edema after trauma, stroke, or obstructive hydrocephalus.
+
+
+=== Scar formation ===
+Proliferating reactive scar-forming astrocytes are consistently found along borders between healthy tissues and pockets of damaged tissue and inflammatory cells. This is usually found after a rapid, locally triggered inflammatory response to acute traumatic injury in the spinal cord and brain. In its extreme form, reactive astrogliosis can lead to the appearance of newly proliferated astrocytes and scar formation in response to severe tissue damage or inflammation.
+Molecular triggers that lead to this scar formation include epidermal growth factor (EGF), fibroblast growth factor (FGF), endothelin 1 and adenosine triphosphate (ATP). Mature astrocytes can re-enter the cell cycle and proliferate during scar formation. Some proliferating reactive astrocytes can derive from NG2 progenitor cells in the local parenchyma from ependymal cell progenitors after injury or stroke. There are also multipotent progenitors in subependymal tissue that express glial fibrillary acidic protein (GFAP) and generate progeny cells that migrate towards sites of injury after trauma or stroke.
+
+
+=== Regulation of inflammation ===
+Reactive astrocytes are related to the normal function of astrocytes. Astrocytes are involved in the complex regulation of CNS inflammation that is likely to be context-dependent and regulated by multimodal extra- and intracellular signaling events. They have the capacity to make different types of molecules with either pro- or anti-inflammatory potential in response to different types of stimulation. Astrocytes interact extensively with microglia and play a key role in CNS inflammation. Reactive astrocytes can then lead to abnormal function of astrocytes and affect their regulation and response to inflammation.Pertaining to anti-inflammatory effects, reactive scar-forming astrocytes help reduce the spread of inflammatory cells during locally initiated inflammatory responses to traumatic injury or during peripherally-initiated adaptive immune responses. In regard to pro-inflammatory potential, certain molecules in astrocytes are associated with an increase in inflammation after traumatic injury.At early stages after insults, astrocytes not only activate inflammation, but also form potent cell migration barriers over time. These barriers mark areas where intense inflammation is needed and restrict the spread of inflammatory cells and infectious agents to nearby healthy tissue. CNS injury responses have favored mechanisms that keep small injuries uninfected. Inhibition of the migration of inflammatory cells and infectious agents have led to the accidental byproduct of axon regeneration inhibition, owing to the redundancy between migration cues across cell types.
+
+
+== Biological mechanisms ==
+Changes resulting from astrogliosis are regulated in a context-specific manner by specific signaling events that have the potential to modify both the nature and degree of these changes. Under different conditions of stimulation, astrocytes can produce intercellular effector molecules that alter the expression of molecules in cellular activities of cell structure, energy metabolism, intracellular signaling, and membrane transporters and pumps. Reactive astrocytes respond according to different signals and impact neuronal function. Molecular mediators are released by neurons, microglia, oligodendrocyte lineage cells, endothelia, leukocytes, and other astrocytes in the CNS tissue in response to insults ranging from subtle cellular perturbations to intense tissue injury. The resulting effects can range from blood flow regulation to provision of energy to synaptic function and neural plasticity.
+
+
+=== Signaling molecules ===
+Few of the known signaling molecules and their effects are understood in the context of reactive astrocytes responding to different degrees of insult.
+Upregulation of GFAP, which is induced by FGF, TGFB, and ciliary neurotrophic factor (CNTF), is a classic marker for reactive gliosis. Axon regeneration does not occur in areas with an increase in GFAP and vimentin. Paradoxically, an increase in GFAP production is also specific to the minimization of the lesion size and reduction in the risk for autoimmune encephalomyelitis and stroke.
+
+
+=== Transporters and channels ===
+The presence of astrocyte glutamate transporters is associated with a reduced number of seizures and diminished neurodegeneration whereas the astrocyte gap junction protein Cx43 contributes to the neuroprotective effect of preconditioning to hypoxia. In addition, AQP4, an astrocyte water channel, plays a crucial role in cytotoxic edema and aggravate outcome after stroke.
+
+
+== Neurological pathologies ==
+Loss or disturbance of functions normally performed by astrocytes or reactive astrocytes during the process of reactive astrogliosis has the potential to underlie neural dysfunction and pathology in various conditions including trauma, stroke, multiple sclerosis, and others. Some of the examples are as follows:
+Autoimmune destruction of astrocyte endfeet that contact and envelop blood vessels is associated with CNS inflammation and a form of multiple sclerosis
+Rasmussen's syndrome autoantibody destruction of astrocytes causes seizures
+In Alexander's disease, a dominant, gain-of-function mutation of the gene encoding GFAP is associated with macro-encephalopathy, seizures, psychomotor disturbances, and premature death.
+In a familial form of amyotropic lateral sclerosis (ALS), a dominant gain-of-function mutation of the gene encoding superoxide dismutase (SOD) leads to production of reactive astrocytes of molecules that are toxic to motor neurons.Reactive astrocytes may also be stimulated by specific signaling cascades to gain detrimental effects such as the following:
+Exacerbation of inflammation via cytokine production
+Production and release of neurotoxic levels of reactive oxygen species
+Release of potentially excitotoxic glutamate
+The potential contribution to seizure genesis
+Compromise of blood–brain barrier function as a result of vascular endothelial growth factor production
+Cytotoxic edema during trauma and stroke through AQP4 overactivity
+Potential for chronic cytokine activation of astrocytes to contribute to chronic painReactive astrocytes have the potential to promote neural toxicity via the generation cytotoxic molecules such as nitric oxide radicals and other reactive oxygen species, which may damage nearby neurons. Reactive astrocytes may also promote secondary degeneration after CNS injury.
+
+
+== Novel therapeutic techniques ==
+Due to the destructive effects of astrogliosis, which include altered molecular expression, release of inflammatory factors, astrocyte proliferation and neuronal dysfunction, researchers are currently searching for new ways to treat astrogliosis and neurodegenerative diseases. Various studies have shown the role of astrocytes in diseases such as Alzheimer's, amyotrophic lateral sclerosis (ALS), Parkinson's, and Huntington's. The inflammation caused by reactive astrogliosis augments many of these neurological diseases. Current studies are researching the possible benefits of inhibiting the inflammation caused by reactive gliosis in order to reduce its neurotoxic effects.
+Neurotrophins are currently being researched as possible drugs for neuronal protection, as they have been shown to restore neuronal function. For example, a few studies have used nerve growth factors to regain some cholinergic function in patients with Alzheimer's.
+
+
+=== Anti-gliosis function of BB14 ===
+One specific drug candidate is BB14, which is a nerve growth factor-like peptide that acts as a TrkA agonist. BB14 was shown to reduce reactive astrogliosis following peripheral nerve injuries in rats by acting on DRG and PC12 cell differentiation. Although further research is needed, BB14 has the potential to treat a variety neurological diseases. Further research of neurotrophins could potentially lead to the development of a highly selective, potent, and small neurotrophin that targets reactive gliosis to alleviate some neurodegenerative diseases.
+
+
+=== Regulatory function of TGFB ===
+TGFB is a regulatory molecule involved in proteoglycan production. This production is increased in the presence of bFGF or Interleukin 1. An anti-TGFβ antibody may potentially reduce GFAP upregulation after CNS injuries, promoting axonal regeneration.
+
+
+=== Ethidium bromide treatment ===
+Injection of ethidium bromide kills all CNS glia (oligodendrocytes and astrocytes), but leaves axons, blood vessels, and macrophages unaffected. This provides an environment conducive to axonal regeneration for about four days. After four days, CNS glia reinvade the area of injection and axonal regeneration is consequently inhibited. This method has been shown to reduce glial scarring following CNS trauma.
+
+
+=== Metalloprotinease activity ===
+Oligodendrocyte precursor cells and C6 glioma cells produce metalloproteinase, which is shown to inactivate a type of inhibitory proteoglycan secreted by Schwann cells. Consequently, increased metalloproteinase in the environment around axons may facilitate axonal regeneration via degradation of inhibitory molecules due to increased proteolytic activity.
+
+
+== References ==

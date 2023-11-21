@@ -1,0 +1,24 @@
+The apex beat (lat. ictus cordis), also called the apical impulse, is the pulse felt at the point of maximum impulse (PMI), which is the point on the precordium farthest outwards (laterally) and downwards (inferiorly) from the sternum at which the cardiac impulse can be felt. The cardiac impulse is the vibration resulting from the heart rotating, moving forward, and striking against the chest wall during systole. The PMI is not the apex of the heart but is on the precordium not far from it. Another theory for the occurrence of the PMI is the early systolic contraction of the longitudinal fibers of the left ventricle located on the endocardial surface of this chamber. This period of the cardiac cycle is called isovolumic contraction. Because the contraction starts near the base of the left ventricle and spreads toward the apex most of the longitudinal fibers of the left ventricle have shortened before the apex. The rapidly increasing pressure developed by the shortening of these fibers causes the aortic valve to open and the apex to move outward causing the PMI. Anatomical dissection of the musculature of the apex reveals that muscle fibers are no longer longitudinal oriented but form a spiral mass of muscular tissues which may also have an effect on the ability of the apex to contract longitudinally. After the longitudinal fibers contract, the ejection of blood out of the left ventricle is accomplished by the torsional (as one would wring out a face cloth) action of the circumferential muscle fibers of the left ventricle that are in the mid-portion of the ventricle and contract after the longitudinal fibers. During the longitudinal fiber contraction, the volume of the left ventricle has not changed keeping the apex in intimate contact with the chest wall allowing the ability to feel the apex move outward before the heart empties greater than 55% of its volume and the apex falling away from the chest wall. 
+
+
+== Identification ==
+The normal apex beat can be palpated in the precordium left 5th intercostal space, half-inch medial to the left midclavicular line and 3–4 inches left of left border of sternum.
+In children the apex beat occurs in the fourth rib interspace medial to the nipple. The apex beat may also be found at abnormal locations; in many cases of dextrocardia, the apex beat may be felt on the right side.
+
+
+== Interpretation ==
+ Lateral and/or inferior displacement of the apex beat usually indicates enlargement of the heart, called cardiomegaly. The apex beat may also be displaced by other conditions:
+Pleural or pulmonary diseases
+Deformities of the chest wall or the thoracic vertebraeSometimes, the apex beat may not be palpable, either due to a thick chest wall, or conditions where the stroke volume is reduced; such as during ventricular tachycardia or shock.
+The character of the apex beat may provide vital diagnostic clues:
+
+A forceful impulse indicates volume overload in the heart (as might occur in aortic regurgitation)
+An uncoordinated (dyskinetic) apex beat involving a larger area than normal indicates ventricular dysfunction; such as an aneurysm following myocardial infarction
+A pulse deficit between the PMI and periphery may occur in some arrhythmias, such as premature ventricular contraction or atrial fibrillation.Sustained apex beat, namely prolonged upward cardiac force during systole in a physical exam, can be seen in some chronic conditions such as hypertension and aortic stenosis, especially in elderly and females.An algorithm for the classification of some common apex beat characteristics is shown in the image
+
+
+== References ==
+
+
+== External links ==
+Examination of Cardiac Apex Beat

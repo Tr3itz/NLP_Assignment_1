@@ -1,0 +1,47 @@
+Neuroangiogenesis is the coordinated growth of nerves and blood vessels. The nervous and blood vessel systems share guidance cues and cell-surface receptors allowing for this synchronised growth. The term neuroangiogenesis only came into use in 2002 and the process was previously known as neurovascular patterning. The combination of neurogenesis and angiogenesis is an essential part of embryonic development and early life. It is thought to have a role in pathologies such as endometriosis, brain tumors, and Alzheimer's disease.
+
+
+== Physiology ==
+
+
+=== Neurovascular patterning ===
+Neurovascular development is the parallel emergence and patterning of the nervous system and the vascular system during embryogenesis and early life. Neurovascular congruency appears to be determined by shared molecular patterning mechanism involving axon guidance that involves axonal guidance molecules such as sema3A (semaphorin 3A) and (neuropilin).
+
+
+=== Mechanisms ===
+Neuroangiogenic and axonal guidance molecules act on both neuronal growth cones and endothelial tip cells in order to guide growth.Neuronal growth cones are situated on the tips of nerve cells and are responsive to different factors, both positive and negative. Growth of the neuron occurs by an extension of the actin (red in image) and microtubule (green in image) cytoskeleton.
+Tip cells found at the extremity of the developing blood vessel control adjacent endothelial cells to direct growth. Tip cells have receptors and ligands via which they respond to local neuroangiogenic factors.
+
+
+== Neurogenic factors ==
+There are many neuroangiogenic factors, some of which act to promote neuronal growth and vice versa. The table shows examples
+
+
+== Pathology ==
+Neuroangiogenesis is implicated in a number of pathologies, including endometriosis, brain tumors, and senile dementias, such as Alzheimer's disease. Each of these incurs a significant cost for the healthcare industry, meaning that complete understanding of processes involved – including neuroangiogenesis – is necessary to enable development of functional treatments.
+
+
+=== Endometriosis ===
+Endometriosis is a common gynaecological disease caused by endometrial tissue implanting outside the uterus, a symptom of which is chronic pelvic pain. The formation, growth and persistence of these implants are dependent upon angiogenesis to increase the supply of blood vessels. The resulting increase in blood flow may correlate directly with pain symptoms. One possible explanation for this is the simultaneous growth of neurons into these areas alongside blood vessels through neuroangiogenesis.
+
+
+=== Brain tumors ===
+Brain tumors, such as glioblastoma multiforme, are characterized by dense vascularity associated with high expression of the proangiogenic factors, VEGF and interleukin 8.
+
+
+=== Brain injury ===
+Following ischemic stroke or traumatic brain injury, angiogenesis supports oxygen and nutrient re-supply to injured tissue, and stimulates neurogenesis and synaptogenesis, particularly in the ischemic penumbra. Neuroangiogenesis is finely regulated and sequential, involving proliferation and migration of endothelial cells to restore blood–brain barrier function, recruitment of pericytes, and stabilization new blood vessels, a process dependent on upregulation of proangiogenic factors, such as VEGF and angiopoietin-1.
+
+
+=== Alzheimer’s disease ===
+A condition possibly resulting from a reduction in neuroangiogenic factors is Alzheimer’s disease. Without continued neuroangiogenesis during aging, areas of the brain may no longer have the full complement of functional capillaries and hence, by inference, cerebral blood flow and cognitive ability decline. This condition of reduced neuroangiogenesis and lower capillary density during senescence, possibly involving impaired regulation of angiogenic factors by hypoxia, could be a vascular basis for Alzheimer's disease.
+
+
+== See also ==
+Neurogenesis
+Angiogenesis
+Endometriosis
+Alzheimer's disease
+
+
+== References ==

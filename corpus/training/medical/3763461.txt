@@ -1,0 +1,29 @@
+A coronary care unit (CCU) or cardiac intensive care unit (CICU) is a hospital ward specialized in the care of patients with heart attacks, unstable angina, cardiac dysrhythmia and (in practice) various other cardiac conditions that require continuous monitoring and treatment.
+
+
+== Characteristics ==
+The main feature of coronary care is the availability of telemetry or the continuous monitoring of the cardiac rhythm by electrocardiography. This allows early intervention with medication, cardioversion or defibrillation, improving the prognosis. As arrhythmias are relatively common in this group, patients with myocardial infarction or unstable angina are routinely admitted to the coronary care unit. For other indications, such as atrial fibrillation, a specific indication is generally necessary, while for others, such as heart block, coronary care unit admission is standard.
+
+
+== Utilization ==
+In the United States, cardiac conditions accounted for eight of the eighteen conditions and procedures with high ICU utilization (ICU utilization in more than 40% of stays) in 2011.
+
+
+== Local differences ==
+In the United States, coronary care units are usually subsets of intensive care units (ICU) dedicated to the care of critically ill cardiac patients. These units are usually present in hospitals that routinely engage in cardiothoracic surgery. Invasive monitoring such as with pulmonary artery catheters is common, as are supportive modalities such as mechanical ventilation and intra-aortic balloon pumps (IABP).
+Certain hospitals, such as Johns Hopkins [1], maintain mixed units consisting of both acute care units for the critically ill, and intermediate care units for patients who are not critical.
+
+
+=== Acute coronary care ===
+Acute coronary care units (ACCUs), also called "critical coronary care units" (CCCUs), are equivalent to intensive care in the level of service provided. Patients with acute myocardial infarction, cardiogenic shock, or post-operative "open-heart" patients commonly abide here.
+
+
+=== Subacute coronary care ===
+Subacute coronary care units (SCCUs), also called progressive care units (PCUs), intermediate coronary care units (ICCUs), or stepdown units,  provide a level of care intermediate to that of the intensive care unit and that of the general medical floor. These units typically serve patients who require cardiac telemetry, such as those with unstable angina.
+
+
+== History ==
+Coronary care units developed in the 1960s when it became clear that close monitoring by specially trained staff, cardiopulmonary resuscitation and medical measures could reduce the mortality from complications of cardiovascular disease. The first description of a CCU was given in 1961 to the British Thoracic Society by Desmond Julian, who founded the first CCU at the Royal Infirmary of Edinburgh in 1964. Early CCUs were also located in Sydney, Kansas City, Toronto and Philadelphia. The first coronary care unit in the US was opened at Bethany Medical Center in Kansas City, Kansas by Hughes Day, and he coined the term. Bethany Medical Center is also where the first "crash carts" were developed. Studies published in 1967 revealed that those observed in a coronary care setting had consistently better outcomes.DF Beck performed the first successful resuscitation of a physician with myocardial infarction in 1953, and pioneered the use of open-chest defibrillation. Zoll introduced external defibrillation in Boston in 1956, and Kouwenhoven and colleagues at Johns Hopkins highlighted the effectiveness of a combo of mouth-to-mouth, sternal compression, and closed chest defibrillation in restoring cardiac function in ventricular fibrillation patients. The first diagnostic angiogram was discovered by Mason Sones in 1958, due to an accidental injection of dye directly into the coronary artery rather than into the entire circulation - something that was previously believed to be fatal.These developments led to an interest in intensive care for myocardial infarction. In 1967, Thomas Killip and John Kimball published a report of 250 patients with acute MI's, who had experienced significantly better survival rates in CCUs compared to other institutions. This, along with other reports, led to an increase in coronary care units. Now catheterization units are commonplace in large cities.
+
+
+== References ==

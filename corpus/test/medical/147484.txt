@@ -1,0 +1,170 @@
+Plant pathology (also phytopathology) is the scientific study of diseases in plants caused by pathogens (infectious organisms) and environmental conditions (physiological factors). Organisms that cause infectious disease include fungi, oomycetes, bacteria, viruses, viroids, virus-like organisms, phytoplasmas, protozoa, nematodes and parasitic plants. Not included are ectoparasites like insects, mites, vertebrate, or other pests that affect plant health by eating plant tissues and causing injury that may admit plant pathogens. Plant pathology also involves the study of pathogen identification, disease etiology, disease cycles, economic impact, plant disease epidemiology, plant disease resistance, how plant diseases affect humans and animals, pathosystem genetics, and management of plant diseases.
+
+
+== Overview ==
+
+Control of plant diseases is crucial to the reliable production of food, and it provides significant problems in agricultural use of land, water, fuel and other inputs.  Plants in both natural and cultivated populations carry inherent disease resistance, but there are numerous examples of devastating plant disease impacts, such as the Great Famine of Ireland and chestnut blight, as well as recurrent severe plant diseases like rice blast, soybean cyst nematode, and citrus canker.However, disease control is reasonably successful for most crops. It is achieved by use of plants that have been bred for good resistance to many diseases, and by plant cultivation approaches such as crop rotation, use of pathogen-free seed, appropriate planting date and plant density, control of field moisture, and application of pesticides. Continuing advances in the science of plant pathology are needed to improve disease control, to keep up with the ongoing evolution and movement of plant pathogens, and to keep pace with changes in agricultural practices.Plant diseases cause major economic losses for farmers worldwide - see §Economic impact. Across large regions and many crop species, it is estimated that diseases typically reduce plant yields by 10% every year in more developed settings, but yield loss to diseases often exceeds 20% in less developed settings. The Food and Agriculture Organization estimates that pests and diseases are responsible for about 25% of crop loss. To solve this, new methods are needed to detect diseases and pests early, such as novel sensors that detect plant odours and spectroscopy and biophotonics that are able to diagnose plant health and metabolism.
+
+
+== Plant pathogens ==
+
+In most pathosystems, virulence is dependent on hydrolases - and the wider class of cell wall degrading proteins - that degrade the cell wall. The vast majority of CWDPs are pathogen-produced and pectin-targeted (for example, pectinesterase, pectate lyase, and pectinases). For microbes the cell wall polysaccharides are themselves a food source, but mostly just a barrier to be overcome.Many pathogens also grow opportunistically when the host breaks down its own cell walls, most often during fruit ripening.
+
+
+=== Fungi ===
+Most phytopathogenic fungi belong to the phyla Ascomycota and Basidiomycota.
+The fungi reproduce both sexually and asexually via the production of spores and other structures. Spores may be spread long distances by air or water, or they may be soil borne. Many soil inhabiting fungi are capable of living saprotrophically, carrying out the part of their life cycle in the soil. These are facultative saprotrophs.
+Fungal diseases may be controlled through the use of fungicides and other agriculture practices. However, new races of fungi often evolve that are resistant to various fungicides.
+Biotrophic fungal pathogens colonize living plant tissue and obtain nutrients from living host cells. Necrotrophic fungal pathogens infect and kill host tissue and extract nutrients from the dead host cells. Significant fungal plant pathogens include:
+
+
+==== Ascomycetes ====
+Fusarium spp. (Fusarium wilt disease)
+Thielaviopsis spp. (canker rot, black root rot, Thielaviopsis root rot)
+Verticillium spp.
+Magnaporthe grisea (rice blast)
+Sclerotinia sclerotiorum (cottony rot)
+
+
+==== Basidiomycetes ====
+Ustilago spp. (smuts) smut of barley
+Rhizoctonia spp.
+Phakospora pachyrhizi (soybean rust)
+Puccinia spp. (severe rusts of cereals and grasses)
+Armillaria spp. (honey fungus species, virulent pathogens of trees)
+
+
+=== Fungus-like organisms ===
+
+
+==== Oomycetes ====
+The oomycetes are fungus-like organisms. They include some of the most destructive plant pathogens including the genus Phytophthora, which includes the causal agents of potato late blight and sudden oak death. Particular species of oomycetes are responsible for root rot.Despite not being closely related to the fungi, the oomycetes have developed similar infection strategies. Oomycetes are capable of using effector proteins to turn off a plant's defenses in its infection process. Plant pathologists commonly group them with fungal pathogens.Significant oomycete plant pathogens include:
+
+Pythium spp.
+Phytophthora spp., including the potato blight of the Great Irish Famine (1845–1849)
+
+
+==== Phytomyxea ====
+Some slime molds in Phytomyxea cause important diseases, including clubroot in cabbage and its relatives and powdery scab in potatoes. These are caused by species of Plasmodiophora and Spongospora, respectively.
+
+
+=== Bacteria ===
+Most bacteria that are associated with plants are actually saprotrophic and do no harm to the plant itself. However, a small number, around 100 known species, are able to cause disease. Bacterial diseases are much more prevalent in subtropical and tropical regions of the world.
+Most plant pathogenic bacteria are rod-shaped (bacilli). In order to be able to colonize the plant they have specific pathogenicity factors. Five main types of bacterial pathogenicity factors are known: uses of cell wall–degrading enzymes, toxins, effector proteins, phytohormones and exopolysaccharides.
+Pathogens such as Erwinia species use cell wall–degrading enzymes to cause soft rot. Agrobacterium species change the level of auxins to cause tumours with phytohormones. Exopolysaccharides are produced by bacteria and block xylem vessels, often leading to the death of the plant.
+Bacteria control the production of pathogenicity factors via quorum sensing.
+
+Significant bacterial plant pathogens:
+
+Burkholderia
+Pseudomonadota
+Xanthomonas spp.
+Pseudomonas spp.
+Pseudomonas syringae pv. tomato causes tomato plants to produce less fruit, and it "continues to adapt to the tomato by minimizing its recognition by the tomato immune system."
+
+
+==== Phytoplasmas and spiroplasmas ====
+
+Phytoplasma and Spiroplasma are genera of bacteria that lack cell walls and are related to the mycoplasmas, which are human pathogens. Together they are referred to as the mollicutes. They also tend to have smaller genomes than most other bacteria. They are normally transmitted by sap-sucking insects, being transferred into the plant's phloem where it reproduces.
+
+
+=== Viruses, viroids and virus-like organisms ===
+
+There are many types of plant viruses, and some are asymptomatic or latent. Under normal circumstances, plant viruses cause only a loss of crop yield. Therefore, it is not economically viable to try to control them, the exception being when they infect perennial species, such as fruit trees.Most plant viruses have small, single-stranded RNA genomes. However some plant viruses also have double stranded RNA or single or double stranded DNA genomes. These genomes may encode only three or four proteins: a replicase, a coat protein, a movement protein, in order to allow cell to cell movement through plasmodesmata, and sometimes a protein that allows transmission by a vector. Plant viruses can have several more proteins and employ many different molecular translation methods.Plant viruses are generally transmitted from plant to plant by a vector, but mechanical and seed transmission also occur. Vector transmission is often by an insect (for example, aphids), but some fungi, nematodes, and protozoa have been shown to be viral vectors. In many cases, the insect and virus are specific for virus transmission such as the beet leafhopper that transmits the curly top virus causing disease in several crop plants. One example is mosaic disease of tobacco where leaves are dwarfed and the chlorophyll of the leaves is destroyed. Another example is Bunchy top of banana, where the plant is dwarfed, and the upper leaves form a tight rosette.
+
+
+=== Nematodes ===
+
+Nematodes are small, multicellular, wormlike animals. Many live freely in the soil, but there are some species that parasitize plant roots. They are a problem in tropical and subtropical regions of the world, where they may infect crops. Potato cyst nematodes (Globodera pallida and G. rostochiensis) are widely distributed in Europe and North and South America and cause $300 million worth of damage in Europe every year. Root knot nematodes have quite a large host range, they parasitize plant root systems and thus directly affect the uptake of water and nutrients needed for normal plant growth and reproduction, whereas cyst nematodes tend to be able to infect only a few species. Nematodes are able to cause radical changes in root cells in order to facilitate their lifestyle. There are also beneficial nematodes that can be used as a biological control for crop-destroying pests. A promising example is the effectiveness of the nematode Steinernema rarium PAM25 against the Drosophila suzuki, a type of fruit fly.
+
+
+=== Protozoa and algae ===
+There are a few examples of plant diseases caused by protozoa (e.g., Phytomonas, a kinetoplastid). They are transmitted as durable zoospores that may be able to survive in a resting state in the soil for many years. Further, they can transmit plant viruses. When the motile zoospores come into contact with a root hair they produce a plasmodium which invades the roots.Some colourless parasitic algae (e.g., Cephaleuros) also cause plant diseases.
+
+
+=== Parasitic plants ===
+Parasitic plants such as broomrape, mistletoe and dodder are included in the study of phytopathology. Dodder, for example, can be a conduit for the transmission of viruses or virus-like agents from a host plant to a plant that is not typically a host, or for an agent that is not graft-transmissible.
+
+
+== Common pathogenic infection methods ==
+Cell wall-degrading enzymes: These are used to break down the plant cell wall in order to release the nutrients inside and include esterases, glycosyl hydrolases, lyases and oxidoreductases.
+Toxins: These can be non-host-specific, which damage all plants, or host-specific, which cause damage only on a host plant.
+Effector proteins: These can be secreted into the extracellular environment or directly into the host cell, often via the Type three secretion system. Some effectors are known to suppress host defense processes. This can include: reducing the plants internal signaling mechanisms or reduction of phytochemicals production. Bacteria, fungus and oomycetes are known for this function.
+Spores: Spores of phytopathogenic fungi can be a source of infection on host plants. Spores first adhere to the cuticular layer on leaves and stems of host plant. In order for this to happen, the infectious spore must be transported from the pathogen source. This occurs via wind, water, or vectors such as insects and humans. When favourable conditions are present, the spore will produce a modified hyphae called a germ tube. This germ tube later forms a bulge called an appressorium, which forms melanized cell walls to build up turgor pressure. Once enough turgor pressure is accumulated the appressorium asserts pressure against the cuticular layer in the form of a hardened penetration peg. This process is also aided by the secretion of cell wall degrading enzymes from the appressorium. Once the penetration peg enters the host tissue it develops a specialized hyphae called a haustorium. Based on the pathogens life cycle, this haustorium can invade and feed neighboring cells intracellularly or exist intercellularly within a host.
+
+
+== Physiological plant disorders ==
+
+Some abiotic disorders can be confused with pathogen-induced disorders. Abiotic causes include natural processes such as drought, frost, snow and hail; flooding and poor drainage; nutrient deficiency; deposition of mineral salts such as sodium chloride and gypsum; windburn and breakage by storms; and wildfires. Similar disorders (usually classed as abiotic) can be caused by human intervention, resulting in soil compaction, pollution of air and soil, salinization caused by irrigation and road salting, over-application of herbicides, clumsy handling (e.g. lawnmower damage to trees), and vandalism.
+
+
+== Epidemiology ==
+Epidemiology: The study of factors affecting the outbreak and spread of infectious diseases.A disease tetrahedron (disease pyramid) best captures the elements involved with plant diseases. This pyramid uses the disease triangle as a foundation, consisting of elements such as: host, pathogen and environment. In addition to these three elements, humans and time add the remaining elements to create a disease tetrahedron.
+History: Plant disease epidemics that are historically known based on tremendous losses:
+- Irish potato late blight- Dutch elm disease- Chestnut blight in North AmericaFactors affecting epidemics:
+Host: Resistance or susceptibility level, age, and genetics.
+Pathogen: Amount of inoculum, genetics, and type of reproduction
+
+
+== Disease resistance ==
+Plant disease resistance is the ability of a plant to prevent and terminate infections from plant pathogens.
+Structures that help plants prevent disease are: cuticular layer, cell walls and stomata guard cells. These act as a barrier to prevent pathogens from entering the plant host.
+Once diseases have overcome these barriers, plant receptors initiate signaling pathways to create molecules to compete against the foreign molecules. These pathways are influenced and triggered by genes within the host plant and are susceptible to being manipulated by genetic breeding to create varieties of plants that are resistant to destructive pathogens.Among defense mechanisms, chemical deterrence of pest settling and feeding, like the induction of defensive compounds, may be a key strategy for reducing herbivore damage.
+
+
+== Management ==
+
+Before control measures can be taken, the pathogen must be detected. Ancient methods of leaf examination and breaking open plant material by hand are now augmented by newer technologies. These include molecular pathology assays such as polymerase chain reaction (PCR), RT-PCR and loop-mediated isothermal amplification (LAMP). Although PCR can detect multiple molecular targets in a single solution there are limits. Bertolini et al 2001, Ito et al 2002 and Ragozzino et al 2004 developed PCR methods for multiplexing six or seven plant pathogen molecular products and Persson et al 2005 for multiplexing four with RT-PCR. More extensive molecular diagnosis requires PCR arrays.
+
+
+=== Domestic quarantine ===
+A diseased patch of vegetation or individual plants can be isolated from other, healthy growth. Specimens may be destroyed or relocated into a greenhouse for treatment or study.
+
+
+=== Port and border inspection and quarantine ===
+Another option is to avoid the introduction of harmful nonnative organisms by controlling all human traffic and activity (e.g., the Australian Quarantine and Inspection Service), although legislation and enforcement are crucial in order to ensure lasting effectiveness. Today's volume of global trade is providing—and will continue to provide—unprecedented opportunities for the introduction of plant pests. In the United States, even to get a better estimate of the number of such introductions, and thus the need to impose port and border quarantine and inspection, would require a substantial increase in inspections. In Australia a similar shortcoming of understanding has a different origin: Port inspections are not very useful because inspectors know too little about taxonomy. There are often pests that the Australian Government has prioritised as harmful to be kept out of the country, but which have near taxonomic relatives that confuse the issue. And inspectors also run into the opposite - harmless natives, or undiscovered natives, or just-discovered natives they need not bother with but which are easy to confuse with their outlawed foreign family members.X-ray and electron-beam/E-beam irradiation of food has been trialed as a quarantine treatment for fruit commodities originating from Hawaii. The US FDA (Food and Drug Administration), USDA APHIS (Animal and Plant Health Inspection Service), producers, and consumers were all accepting of the results - more thorough pest eradication and lesser taste degradation than heat treatment.The International Plant Protection Convention (IPPC) anticipates that molecular diagnostics for inspections will continue to improve. Between 2020 and 2030, IPPC expects continued technological improvement to lower costs and improve performance, albeit not for less developed countries unless funding changes.
+
+
+=== Cultural ===
+Farming in some societies is kept on a small scale, tended by peoples whose culture includes farming traditions going back to ancient times. (An example of such traditions would be lifelong training in techniques of plot terracing, weather anticipation and response, fertilization, grafting, seed care, and dedicated gardening.) Plants that are intently monitored often benefit from not only active external protection but also a greater overall vigor. While primitive in the sense of being the most labor-intensive solution by far, where practical or necessary it is more than adequate.
+
+
+=== Plant resistance ===
+Sophisticated agricultural developments now allow growers to choose from among systematically cross-bred species to ensure the greatest hardiness in their crops, as suited for a particular region's pathological profile. Breeding practices have been perfected over centuries, but with the advent of genetic manipulation even finer control of a crop's immunity traits is possible. The engineering of food plants may be less rewarding, however, as higher output is frequently offset by popular suspicion and negative opinion about this "tampering" with nature.
+
+
+=== Chemical ===
+
+Many natural and synthetic compounds can be employed to combat the above threats. This method works by directly eliminating disease-causing organisms or curbing their spread; however, it has been shown to have too broad an effect, typically, to be good for the local ecosystem. From an economic standpoint, all but the simplest natural additives may disqualify a product from "organic" status, potentially reducing the value of the yield.
+
+
+=== Biological ===
+Crop rotation may be an effective means to prevent a parasitic population from becoming well-established. For example, protection against infection by Agrobacterium tumefaciens, which causes gall diseases in many plants, by dipping cuttings in suspensions of Agrobacterium radiobacter before inserting them in the ground to take root. Other means to undermine parasites without attacking them directly may exist.
+
+
+=== Integrated ===
+The use of two or more of these methods in combination offers a higher chance of effectiveness.
+
+
+== Economic impact ==
+As of 2018 the most costly diseases of the most produced crops worldwide are:
+
+
+== History ==
+
+Plant pathology has developed from antiquity, starting with Theophrastus  in the ancient era, but scientific study began in the Early Modern period with the invention of the microscope, and developed in the 19th century.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==

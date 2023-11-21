@@ -1,0 +1,64 @@
+Motor imagery is a mental process by which an individual rehearses or simulates a given action. It is widely used in sport training as mental practice of action, neurological rehabilitation, and has also been employed as a research paradigm in cognitive neuroscience and cognitive psychology to investigate the content and the structure of covert processes (i.e., unconscious) that precede the execution of action. In some medical, musical, and athletic contexts, when paired with physical rehearsal, mental rehearsal can be as effective as pure physical rehearsal (practice) of an action.
+
+
+== Definition ==
+Motor imagery can be defined as a dynamic state during which an individual mentally simulates a physical action. This type of phenomenal experience implies that the subject feels themselves performing the action. It corresponds to the so-called internal imagery (or first person perspective) of sport psychologists.
+
+
+== Mental practice of action ==
+Mental practice refers to use of visuo-motor imagery with the purpose of improving motor behavior. Visuo-motor imagery requires the use of one's imagination to simulate an action, without physical movement. It has come to the fore due to the relevance of imagery in enhancing sports and surgical performance.
+
+
+=== Sports ===
+Mental practice, when combined with physical practice, can be beneficial to beginners learning a sport, but even more helpful to professionals looking to enhance their skills. Physical practice generates the physical feedback necessary to improve, while mental practice creates a cognitive process physical practice cannot easily replicate.
+
+
+=== Medicine ===
+When surgeons and other medical practitioners mentally rehearse procedures along with their physical practice, it produces the same results as physical rehearsal, but costs much less. But unlike its use in sports, to improve a skill, mental practice is used in medicine as a form of stress reduction before operations.
+
+
+=== Music ===
+Mental practice is a technique used in music as well. Professional musicians may use mental practice when they are away from their instrument or unable to physically practice due to an injury. Studies show that a combination of physical and mental practice can provide improvement in mastering a piece equal to physical practice alone. This is because mental practice causes neuron growth that mirrors growth caused by physical practice. And there is precedent: Vladimir Horowitz and Arthur Rubinstein, among others, supplemented their physical practice with mental rehearsal.
+
+
+=== Motor deficits ===
+Mental practice has been used to rehabilitate motor deficits in a variety of neurological disorders. Mental practice of action seems to improve balance in individuals with multiple sclerosis and in elderly women. For instance, mental practice has been used with success in combination with actual practice to rehabilitate motor deficits in a patient with sub-acute stroke.  Several studies have also shown improvement in strength, function, and use of both upper and lower extremities in chronic stroke.
+Some studies evaluated the effect of MI in gait rehabilitation after stroke however there was very low‐certainty evidence that motor imagery is more beneficial for improving gait (walking speed), motor function and functional mobility compared to other therapies, placebo or no intervention.  Additionally, there was insufficient scientific evidence to assess the influence of MI on the dependence on personal assistance and walking endurance. 
+
+
+== Functional equivalence to motor preparation ==
+Motor imagery has been studied using the classical methods of introspection and mental chronometry. These methods have revealed that motor images retain many of the properties, in terms of temporal regularities, programming rules and biomechanical constraints, which are observed in the corresponding real action when it comes to execution. For instance, in an experiment participants were instructed to walk mentally through gates of a given apparent width positioned at different apparent distances. The gates were presented to the participants with a 3-D visual display (a virtual reality helmet) which involved no calibration with external cues and no possibility for the subject to refer to a known environment. Participants were asked to indicate the time they started walking and the time they passed through the gate. Mental walking time was found to increase with increasing gate distance and decreasing gate width. Thus, it took the participant longer to walk mentally through a narrow gate than to walk through a larger gate placed at the same distance. This finding led neurophysiologists Marc Jeannerod and Jean Decety to propose that there is a similarity in mental states between action simulation and execution.The functional equivalence between action and imagination goes beyond motor movements. For instance similar cortical networks mediate music performance and music imagery in pianists.
+
+
+== Physiology ==
+ A large number of functional neuroimaging studies have demonstrated that motor imagery is associated with the specific activation of the neural circuits involved in the early stage of motor control (i.e., motor programming). This circuits includes the supplementary motor area, the primary motor cortex, the inferior parietal cortex, the basal ganglia, and the cerebellum. Such physiological data gives strong support about common neural mechanisms of imagery and motor preparation.Measurements of cardiac and respiratory activity during motor imagery and during actual motor performance revealed a covariation of heart rate and pulmonary ventilation with the degree of imagined effort.
+Motor imagery activates motor pathways. Muscular activity often increases with respect to rest, during motor imagery. When this is the case, EMG activity is limited to those muscles that participate in the simulated action and tends to be proportional to the amount of imagined effort.
+
+
+== Effects ==
+Motor imagery is now widely used as a technique to enhance motor learning and to improve neurological rehabilitation in patients after stroke. Its effectiveness has been demonstrated in musicians.
+On motor learning: Motor imagery is an accepted procedure in the preparation of athletes. Such practice usually covers a warming up period, relaxation and concentration, and then mental simulation of the specific movement.
+In neurological rehabilitation: Since pioneering work by Dr. Stephen Page in 2000, there has been accumulating evidence suggesting that motor imagery provides additional benefits to conventional physiotherapy or occupational therapy. A recent review on four randomized controlled trials indicates that there is modest evidence supporting the additional benefit of motor imagery compared to only conventional physiotherapy in patients with stroke. These authors concluded that motor imagery appears to be an attractive treatment opinion, easy to learn and to apply and the intervention is neither physically exhausting nor harmful. Therefore, motor imagery may generate additional benefit for patients.
+Motor imagery can act as a substitute for the imagined behavior, producing similar effects on cognition and behavior. The repeated simulated consumption of a food, for example, can reduce subsequent actual consumption of that food.
+
+
+== Simulation and understanding mental states ==
+Motor imagery is close to the notion of simulation used in cognitive and social neuroscience to account for different processes. An individual who is engaging in simulation may replay his own past experience in order to extract from it pleasurable, motivational or strictly informational properties.  Such a view was clearly described by the Swedish physiologist Hesslow.  For this author, the simulation hypothesis states that thinking consists of simulated interaction with the environment, and rests on the following three core assumptions: (1) Simulation of actions: we can activate motor structures of the brain in a way that resembles activity during a normal action but does not cause any overt movement; (2) Simulation of perception: imagining perceiving something is essentially the same as actually perceiving it, only the perceptual activity is generated by the brain itself rather than by external stimuli; (3) Anticipation: there exist associative mechanisms that enable both behavioral and perceptual activity to elicit other perceptual activity in the sensory areas of the brain.  Most importantly, a simulated action can elicit perceptual activity that resembles the activity that would have occurred if the action had actually been performed.
+Mental simulation may also be a representational tool to understand the self and others. Philosophy of mind and developmental psychology also draw on simulation to explain our capacity to mentalize, i.e., to understand mental states (intentions, desires, feelings, and beliefs) of others (aka theory of mind).  In this context, the basic idea of simulation is that the attributor attempts to mimic the mental activity of the target by using his own psychological resources.  In order to understand the mental state of another when observing the other acting, the individual imagines herself/himself performing the same action, a covert simulation that does not lead to an overt behavior.  One critical aspect of the simulation theory of mind is the idea that in trying to impute mental states to others, an attributor has to set aside her own current mental states, and substitutes those of the target.
+
+
+== See also ==
+Common coding theory
+Creative visualization
+Empathy
+Motor cognition
+Motor planning
+
+
+== References ==
+
+
+== Further reading ==
+Decety, J. & Grezes, J. (2006). "The power of simulation: Imagining one's own and other's behavior". Brain Research. 1079 (1): 4–14. doi:10.1016/j.brainres.2005.12.115. PMID 16460715. S2CID 19807048.
+Jeannerod, M. (1997). The Cognitive Neuroscience of Action. Wiley-Blackwell. ISBN 978-0631196044.
+Morsella, E.; Bargh, J.A. & Gollwitzer, P.M., eds. (2009). Oxford Handbook of Human Action. New York: Oxford University Press. ISBN 978-0195309980.

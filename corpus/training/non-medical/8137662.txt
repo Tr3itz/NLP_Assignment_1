@@ -1,0 +1,4 @@
+Abmho or absiemens is a unit of electrical conductance in the centimetre gram second (CGS-EMU) system of units. It corresponds to one gigasiemens (inverse nanoohm).The CGS-EMU units are one of several systems of electromagnetic units that are subsystems of the centimetre–gram–second system of units, which include CGS-ESU, Gaussian units, and Heaviside–Lorentz units. The abmho is not a unit of any these other systems.
+
+
+== References ==

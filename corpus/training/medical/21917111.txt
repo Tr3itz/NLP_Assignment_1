@@ -1,0 +1,7 @@
+Contact normalization is a process by which intercellular junctions mediate signals that allow normal cells to inhibit the transformed growth of neighboring tumor cells. Intimate junctional contact between tumor cells and normal cells is needed for this form of growth control. Contact normalization describes the ability of nontransformed cells to normalize the growth of neighboring cancer cells. This is a very widespread and powerful phenomenon. Tumor cells need to overcome this form of growth inhibition before they can become malignant or metastatic. Induction of a select set of genes has been associated with the ability of cancer cells to escape contact normalization. These include podoplanin (PDPN), vascular endothelial growth factor receptor 2/kinase insert domain receptor (VEGFR2/KDR), and transmembrane protein 163 (TMEM163) receptors.
+
+
+== Further reading ==
+Rubin H. (2008) Contact interactions between cells that suppress neoplastic development: can they also explain metastatic dormancy? Adv Cancer Res. 100:159-202.
+Rubin H. (2008) Cell-cell contact interactions conditionally determine suppression and selection of the neoplastic phenotype. Proc Natl Acad Sci U S A. 105:6215-21.
+Krishnan H. and Goldberg G.S. (2015) Contact normalization or escape from the matrix. In: Kandous, M. (Eds.) Intercellular communication and Cancer. pp. 297–342. Heidelberg: Springer-Verlag.

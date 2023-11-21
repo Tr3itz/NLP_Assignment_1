@@ -1,0 +1,40 @@
+In physics, electrical engineering and materials science, electromaterials are the set of materials which store, controllably convert, exchange and conduct electrically charged particles. The term electromaterial can refer to any electronically or ionically active material. While this definition is quite broad, the term is typically used in the context of properties and/or applications in which atomic electronic transition is pertinent. The word electromaterials is a compound form of the Ancient Greek term, ἤλεκτρον ēlektron, "Amber", and the Latin term, materia, "Matter".
+
+
+== Properties ==
+Electromaterials enable the transport of charged species (electrons and/or ions) as well as facilitate the exchange of charge to other materials. For atomic and molecule systems, this is observed as atomic electronic transition between discrete orbitals, while for bulk semiconductor materials electronic bands determine which transitions may occur. Metals, in which the conduction band is permanently populated, may also be considered electromaterials, although this is typically outside the category compared to other conduction mechanisms such as for a degenerate semiconductor (transparent conductive oxides) or polaron hopping (organic conductor). Materials which can be ionised (i.e. electrons either added or stripped away) may also be considered electronically active.
+Electromaterials have a number of properties broadly, including:
+
+Opto-electronic properties
+Photoelectric properties
+Exotic phenomena such as super-conductive properties
+Partial charge transfer, adsorption of species leading to change in electronic properties of material
+Ion conductive materials
+
+
+== Applications ==
+In the application of electromaterials, ions or electrons are used to carry out a specific function. For example, the oxidation or reduction (loss or gain of electrons, respectively) of another species. Materials such as metals, metal particles, conducting polymers, conducting carbon, e.g. CNTs, graphene, carbon fibres, electrodes, electrolytes, electrocatalysts, light harvesting materials (e.g. dyes for DSSCs) find applications in which electromaterials are critical to their functionality: 
+
+Batteries
+Super-capacitors
+Fuel cells
+Photovoltaics
+Artificial muscles
+Chemical sensors
+LEDs
+Energy conversion/storage devices
+Systems that interact with living tissue and soft robotics (prosthetics)
+
+
+== Characterisation ==
+Electromaterials can be explored by techniques such as (but not limited to) absorption spectroscopy, photoluminescence spectroscopy, electrochemistry, FTIR, Raman spectroscopy or combinations of the above, such as raman spectroelectrochemistry.
+
+
+== See also ==
+Metal
+Electrolyte
+Electrical conductor
+Piezoelectricity
+
+
+== References ==

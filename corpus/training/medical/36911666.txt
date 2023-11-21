@@ -1,0 +1,12 @@
+BerEp4 (also Ber-EP4) is a histologic stain mainly used to aid in the diagnosis of basal cell carcinoma (BCC). It is an antibody to EpCAM (epithelial cell adhesion molecule).
+
+
+== Clinical use ==
+BerEp4 has a high sensitivity and specificity in being positive only in BCC cells. BerEp4 is normally negative in squamous epithelium and mesothelium, but otherwise normally positive most epithelial cells of the body. It can also help in distinguishing pulmonary adenocarcinoma (positive BerEp4) from mesothelioma (generally negative BerEp4).
+
+
+== See also ==
+List of histologic stains that aid in diagnosis of cutaneous conditions
+
+
+== References ==

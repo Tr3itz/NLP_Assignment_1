@@ -1,0 +1,18 @@
+Stereotactic biopsy, also known as stereotactic core biopsy, is a biopsy procedure that uses a computer and imaging performed in at least two planes to localize a target lesion (such as a tumor or microcalcifications in the breast) in three-dimensional space and guide the removal of tissue for examination by a pathologist under a microscope.  Stereotactic core biopsy makes use of the underlying principle of parallax to determine the depth or "Z-dimension" of the target lesion.
+Stereotactic core biopsy is extensively used by radiologists specializing in breast imaging to obtain tissue samples containing microcalcifications, which can be an early sign of breast cancer.
+
+
+== Uses ==
+X-ray-guided stereotactic biopsy is used for impalpable lesions that are not visible on ultrasound.A stereotactic biopsy may be used, with x-ray guidance, for performing a fine needle aspiration for cytology and needle core biopsy to evaluate a breast lesion.  However, that type of biopsy is also sometimes performed without any imaging guidance, and typically, stereotactic guidance is used for core biopsies or vacuum-assisted mammotomy.Stereotactic core biopsy is necessary for evaluating atypical appearing calcifications found on mammogram of the breast.  If the calcifications exhibit the classic "teacup" appearance of benign fibrocystic changes, then a biopsy is usually not necessary.
+
+
+== References ==
+
+
+== Further reading ==
+Meyer JE, Smith DN, Lester SC, et al. Large-core needle biopsy of nonpalpable breast lesions. JAMA 1999; 281:1638-1641
+Darling, M. L. R.; Smith, D. N.; Lester, S. C.; Kaelin, C.; Selland, D. L. G.; Denison, C. M.; Dipiro, P. J.; Rose, D. I.; Rhei, E.; Meyer, J. E. (2000). "Atypical Ductal Hyperplasia and Ductal Carcinoma in Situ as Revealed by Large-Core Needle Breast Biopsy". American Journal of Roentgenology. 175 (5): 1341–1346. doi:10.2214/ajr.175.5.1751341. PMID 11044038.
+
+
+== External links ==
+Stereotactic biopsy entry in the public domain NCI Dictionary of Cancer Terms This article incorporates public domain material from Dictionary of Cancer Terms. U.S. National Cancer Institute.

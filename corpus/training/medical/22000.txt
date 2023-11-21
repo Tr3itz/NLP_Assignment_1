@@ -1,0 +1,248 @@
+Neural Darwinism is a biological, and more specifically Darwinian and selectionist, approach to understanding global brain function, originally proposed by American biologist, researcher and Nobel-Prize recipient Gerald Maurice Edelman (July 1, 1929 – May 17, 2014).  Edelman's 1987 book Neural Darwinism introduced the public to the theory of neuronal group selection (TNGS) – which is the core theory underlying Edelman's explanation of global brain function.
+Owing to the book title, TNGS is most commonly referred to as the theory of neural Darwinism, although TNGS has roots going back to Edelman and Mountcastle's 1978 book, The Mindful Brain – Cortical Organization and the Group-selective Theory of Higher Brain Function – where Edelman's colleague, the American neurophysiologist and anatomist Vernon B. Mountcastle (July 15, 1918 – January 11, 2015), describes the columnar structure of the cortical groups within the neocortex, while Edelman develops his argument for selective processes operating among degenerate primary repertoires of neuronal groups. The development of neural Darwinism was deeply influenced by Edelman's work in the fields of immunology, embryology, and neuroscience, as well as his methodological commitment to the idea of selection as the unifying foundation of the biological sciences.
+
+
+== Introduction to neural Darwinism ==
+Neural Darwinism is really the neural part of the natural philosophical and explanatory framework Edelman employs for much of his work – Somatic selective systems. Neural Darwinism is the backdrop for a comprehensive set of biological hypotheses and theories Edelman, and his team, devised that seek to reconcile vertebrate and mammalian neural morphology, the facts of developmental and evolutionary biology, and the theory of natural selection into a detailed model of real-time neural and cognitive function that is biological in its orientation – and, built from the bottom-up, utilizing the variation that shows up in nature, in contrast to computational and algorithmic approaches that view variation as noise in a system of logic circuits with point-to-point connectivity.
+The book, Neural Darwinism – The Theory of Neuronal Group Selection (1987), is the first in a trilogy of books that Edelman wrote to delineate the scope and breadth of his ideas on how a biological theory of consciousness and animal body plan evolution could be developed in a bottom-up fashion. In accordance with principles of population biology and Darwin's theory of natural selection – as opposed to the top-down algorithmic and computational approaches that dominated a nascent cognitive psychology at the time.
+The other two volumes are Topobiology – An Introduction to Molecular Embryology  (1988) with its morpho-regulatory hypothesis of animal body plan development and evolutionary diversification via differential expression of cell surface molecules during development; and The Remembered Present – A Biological Theory of Consciousness (1989) – a novel biological approach to understanding the role and function of "consciousness" and its relation to cognition and behavioral physiology.
+Edelman would write four more books for the general lay public, explaining his ideas surrounding how the brain works and consciousness arises from the physical organization of the brain and body – Bright Air, Brilliant Fire – On the Matter of the Mind (1992), A Universe of Consciousness – How Matter Becomes Imagination (2000) with Giulio Tononi, Wider Than The Sky – The Phenomenal Gift of Consciousness (2004), and Second Nature – Brain Science and Human Knowledge (2006).
+Neural Darwinism is an exploration of biological thought and philosophy as well as fundamental science; Edelman being well-versed in the history of science, natural philosophy & medicine, as well as robotics, cybernetics, computing & artificial intelligence.  In the course of laying out the case for neural Darwinism, or more properly TNGS, Edelman delineates a set of concepts for rethinking the problem of nervous system organization and function – all-the-while, demanding a rigorously scientific criteria for building the foundation of a properly Darwinian, and therefore biological, explanation of neural function, perception, cognition, and global brain function capable of supporting primary and higher-order consciousness.
+
+
+== Population thinking – somatic selective systems ==
+Edelman was inspired by the successes of fellow Nobel laureate Frank MacFarlane Burnet and his clonal selection theory (CST) of acquired antigen immunity by differential amplification of  pre-existing variation within the finite pool of lymphocytes in the immune system. The population of variant lymphocytes within the body mirrored the variant populations of organisms in the ecology. Pre-existing diversity is the engine of adaption in the evolution of populations.
+
+"It is clear from both evolutionary and immunological theory that in facing an unknown future, the fundamental requirement for successful adaption is preexisting diversity". – Gerald M. Edelman (1978)
+Edelman recognizes the explanatory range of Burnet's utilization of Darwinian principles in describing the operations of the immune system - and, generalizes the process to all cell populations of the organism.  He also comes to view the problem as one of recognition and memory from a biological perspective, where the distinction and preservation of self vs. non-self is vital to organismal integrity.
+Neural Darwinism, as TNGS, is a theory of neuronal group selection that retools the fundamental concepts of Darwin and Burnet's theoretical approach. Neural Darwinism describes the development and evolution of the mammalian brain and its functioning by extending the Darwinian paradigm into the body and nervous system.
+
+
+=== Antibodies and NCAM – the emerging understanding of somatic selective systems ===
+Edelman was a medical researcher, physical chemist, immunologist, and aspiring neuroscientist when he was awarded the 1972 Nobel Prize in Physiology or Medicine (shared with Rodney Porter of Great Britain). Edelman's part of the prize was for his work revealing the chemical structure of the vertebrate antibody by cleaving the covalent disulfide bridges that join the component chain fragments together, revealing a pair of two-domain light chains and four-domain heavy chains. Subsequent analysis revealed the terminal domains of both chains to be variable domains responsible for antigen recognition.The work of Porter and Edelman revealed the molecular and genetic foundations underpinning how antibody diversity was generated within the immune system.  Their work supported earlier ideas about pre-existing diversity in the immune system put forward by the pioneering Danish immunologist Niels K. Jerne (December 23, 1911 – October 7, 1994); as well as supporting the work of Frank MacFarlane Burnet describing how lymphocytes capable of binding to specific foreign antigens are differentially amplified by clonal multiplication of the selected preexisting variants following antigen discovery.
+Edelman would draw inspiration from the mechano-chemical aspects of antigen/antibody/lymphocyte interaction in relation to recognition of self-nonself; the degenerate population of lymphocytes in their physiological context; and the bio-theoretical foundations of this work in Darwinian terms.
+By 1974, Edelman felt that immunology was firmly established on solid theoretical grounds descriptively, was ready for quantitative experimentation, and could be an ideal model for exploring evolutionary selection processes within an observable time period.His studies of immune system interactions developed in him an awareness of the importance of the cell surface and the membrane-embedded molecular mechanisms of interactions with other cells and substrates. Edelman would go on to develop his ideas of topobiology around these mechanisms – and, their genetic and epigenetic regulation under the environmental conditions.
+During a foray into molecular embryology and neuroscience, in 1975, Edelman and his team went on to isolate the first neural cell-adhesion molecule (N-CAM), one of the many molecules that hold the animal nervous system together. N-CAM turned out to be an important molecule in guiding the development and differentiation of neuronal groups in the nervous system and brain during embryogenesis. To the amazement of Edelman, genetic sequencing revealed that N-CAM was the ancestor of the vertebrate antibody produced in the aftermath of a set of whole genome duplication events at the origin of vertebrates that gave rise to the entire super-family of immunoglobulin genes.
+Edelman reasoned that the N-CAM molecule which is used for self-self recognition and adherence between neurons in the nervous system gave rise to their evolutionary descendants, the antibodies, who evolved self-nonself recognition via antigen-adherence at the origins of the vertebrate antibody-based immune system. If clonal selection was the way the immune system worked, perhaps it was ancestral and more general – and, operating in the embryo and nervous system.
+
+
+=== Variation in biological systems – degeneracy, complexity, robustness, and evolvability ===
+Degeneracy, and its relationship to variation, is a key concept in neural Darwinism. The more we deviate from an ideal form, the more we are tempted to describe the deviations as imperfections. Edelman, on the other hand, explicitly acknowledges the structural and dynamic variability of the nervous system. He likes to contrast the differences between redundancy in an engineered system and degeneracy in a biological system. He proceeds to demonstrate how the "noise" of the computational and algorithmic approach is actually beneficial to a somatic selective system by providing a wide, and degenerate, array of potential recognition elements.Edelman's argument is that in an engineered system,
+
+a known problem is confronted
+a logical solution is devised
+an artifice is constructed to implement the resolution to the problemTo insure the robustness of the solution, critical components are replicated as exact copies. Redundancy provides a fail-safe backup in the event of catastrophic failure of an essential component but it is the same response to the same problem once the substitution has been made.
+If the problem is predictable and known ahead of time, redundancy works optimally. But biological systems face an open and unpredictable arena of spacetime events of which they have no foreknowledge of. It is here where redundancy fails – when the designed answer is to the wrong problem...
+Variation fuels degeneracy – and degeneracy provides somatic selective systems with more than one way to solve a problem; as well as, the ability to solve more than one problem the same way. This property of degeneracy has the effect of making the system more adaptively robust in the face of unforeseen contingencies, such as when one particular solution fails unexpectedly – there are still other unaffected pathways that can be engaged to result in the comparable final outcome. Early on, Edelman spends considerable time contrasting degeneracy vs. redundancy, bottom-up vs. top-down processes, and selectionist vs. instructionist explanations of biological phenomena.
+
+
+=== Rejection of computational models, codes, and point-to-point wiring ===
+Edelman was well aware of the earlier debate in immunology between the instructionists, who believed the lymphocytes of the immune system learned or was instructed about the antigen and then devised a response; and the selectionists, who believed that the lymphocytes already contained the response to the antigen within the existing population that was differentially amplified within the population upon contact with the antigen. And, he was well aware that the selectionist had the evidence on their side.
+Edelman's theoretical approach in Neural Darwinism was conceived of in opposition to top-down algorithmic, computational, and instructionist approaches to explaining neural function. Edelman seeks to turn the problems of that paradigm to advantage instead; thereby highlighting the difference between bottom-up processes like we see in biology vis a vis top-down processes like we see in engineering algorithms. He sees neurons as living organisms working in cooperative and competitive ways within their local ecology and rejects models that see the brain in terms of computer chips or logic gates in an algorithmically organized machine.
+Edelman's commitment to the Darwinian underpinnings of biology, his emerging understanding of the evolutionary relationships between the two molecules he had worked with, and his background in immunology lead him to become increasingly critical and dissatisfied with attempts to describe the operation of the nervous system and brain in computational or algorithmic terms.
+Edelman explicitly rejects computational approaches to explaining biology as non-biological. Edelman acknowledges that there is a conservation of phylogenetic organization and structure within the vertebrate nervous system, but also points out that locally natural diversity, variation and degeneracy abound. This variation within the nervous system is disruptive for theories based upon strict point-to-point connectivity, computation, or logical circuits based upon codes.  Attempts to understand this noise present difficulties for top-down algorithmic approaches – and, deny the fundamental facts of the biological nature of the problem.
+Edelman perceived that the problematic and annoying noise of the computational circuit-logic paradigm could be reinterpreted from a population biology perspective – where that variation in the signal or architecture was actually the engine of ingenuity and robustness from a selectionist perspective.
+
+
+== Completing Darwin's program – the problems of evolutionary and developmental morphology ==
+In Topobiology, Edelman reflects upon Darwin's search for the connections between morphology and embryology in his theory of natural selection. He identifies four unresolved problems in the development and evolution of morphology that Darwin thought important:
+Explaining the finite number of body plans manifested since the Precambrian.
+Explaining large-scale morphological changes over relatively short periods of geological time.
+Understanding body size and the basis of allometry.
+How adaptive fitness can explain selection that leads to emergence of complex body structures.Later, In Bright Air, Brilliant Fire, Edelman describes what he calls Darwin's Program for obtaining a complete understanding of the rules of behavior and form in evolutionary biology.  He identifies four necessary requirements:
+
+An account of the effects of heredity on behavior – and behavior, on heredity.
+An account of how selection influences behavior – and, how behavior influences selection.
+An account of how behavior is enabled and constrained by morphology.
+An account of how morphogenesis occurs in development and evolution.It is important to notice that these requirements are not directly stated in terms of genes, but heredity instead. This is understandable considering that Darwin himself appears to not be directly aware of the importance Mendelian genetics. Things had changed by the early 1900s, the Neodarwinian synthesis had unified the population biology of Mendelian inheritance with Darwinian natural selection. By the 1940s, the theories had been shown to be mutually consistent and coherent with paleontology and comparative morphology. The theory came to be known as the modern synthesis on the basis of the title of the 1942 book Evolution: The Modern Synthesis by Julian Huxley.The modern synthesis really took off with the discovery of the structural basis of heredity in the form of DNA. The modern synthesis was greatly accelerated and expanded with the rise of the genomic sciences, molecular biology, as well as, advances in computational techniques and the power to model population dynamics. But, for evolutionary-developmental biologists, there was something very important missing... – and, that was the incorporation of one of the founding branches of biology, embryology. A clear understanding of the pathway from germ to zygote to embryo to juvenile and adult was the missing component of the synthesis. Edelman, and his team, were positioned in time and space to fully capitalize on these technical developments and scientific challenges – as his research progressed deeper and deeper into the cellular and molecular underpinnings of the neurophysiological aspects of behavior and cognition from a Darwinian perspective.
+Edelman reinterprets the goals of "Darwin's program" in terms of the modern understanding about genes, molecular biology, and other sciences that weren't available to Darwin. One of his goals is reconciling the relationships between genes in a population (genome) which lie in the germ line (sperm, egg, and fertilized egg); and the individuals in a population who develop degenerate phenotypes (soma) as they transform from an embryo into an adult who will eventually procreate if adaptive. Selection acts on phenotypes (soma), but evolution occurs within the species genome (germ).
+Edelman follows the work of the highly influential American geneticist and evolutionary biologist Richard Lewontin (March 29, 1929 – July 4, 2021), drawing particular inspiration from his 1974 book, The Genetic Basis of Evolutionary Change. Edelman, like Lewontin, seeks a complete description of the transformations (T) that take us from:
+Genome-germ (zygotes) – the paternal and maternal gene contributions are recombined in the fertilized egg, along with the maternal endowment of proteins, and mRNAs, and other developmental components, but the individuals newly formed diploid genetic complement is not in control of the zygote yet; it needs to be activated, or bootstrapped, into the zygotes ongoing maternally-inherited metabolism and physiology. Shortly after recombination the zygote proceeds through transformation (T1) to the point where genetic control of the zygote has been handed off to the individual,
+Phenotype-soma (embryo) – the embryo, which transforms (T2) according to the rules that govern the relationship between the genes, cellular behavior, and the epigenetic contingencies of nature, into
+Phenotype-soma (adult) – an adult, who procreates (T3) with another individual to bring together a new genetic recombination by each introducing a gamete in the form of
+Genome-germ (gametes) – sperm and egg, which contain the haploid genetic contribution of each parent which is transformed (T4)...
+Genome-germ (zygotes) -into a diploid set genes in a fertilized egg, soon to be a newly individual zygote .Lewontin's exploration of these transformations between genomic and phenotypic spaces was in terms of key selection pressures that sculpt the organism over geological evolutionary time scales; but, Edelmans approach is more mechanical, and in the here and now – focusing on the genetically constrained mechano-chemistry of the selection processes that guide epigenetic behaviors on the part of cells within the embryo and adult over developmental time.
+
+
+== Mechano-chemistry, mesenchyme, and epithelia – CAMs & SAMs in morphoregulatory spacetime ==
+Edelman's isolation of NCAM lead him to theorize on the role of cell adhesion molecules (CAMs) and substrate adhesion molecules (SAMs) in the formation of the animal bodyplan in both realtime and over evolutionary time. Topobiology is primarily dedicated to this issue that is foundational to the understanding of neural Darwinism and the formation of the primary repertoire of TNGS.
+In his regulator hypothesis, Edelman hypothesizes about the role of cell surface molecules in embryogenesis and how shifting expression of these molecules in time and place within the embryo can guide the development of pattern. Later, he will expand the hypothesis into the morpho-regulatory hypothesis. He describes the embryonic cell populations as either organized as mesenchyme or epetheilia.
+Edelman characterizes the two population types as follows:
+
+Epithelia – a population of cells that are organized into coherent tissues, that have well established CAM patterns; as well as a stable pattern of substrate adhesion between the cells and the extracellular matrix.
+Mesenchyme – a population of cells that are loosely associated and migratory, that have retracted (or localized) their CAM and SAM molecules such that they can follow homophilic and heterophilic gradients within other cell populations of the embryo.He envisages a CAM, and SAM, driven cycle where cell populations transform back and forth between mesenchyme and epithelia via epithelial-mesenchymal transformations, as the development of the embryo proceeds through to the fetal stage. The expression of the CAMs and SAMs is under genetic control, but the distribution of these molecules on the cell membrane and extracellular matrix is historically contingent upon epigenetic events, serving as one of the primary bases for generating pre-existing diversity within the nervous system and other tissues.
+
+
+=== The developmental genetic question ===
+There are many developmental questions to be considered, but Edelman is able to succinctly summarize the problem in a way that will show a clear explanatory path forward for him. The developmental genetic question defines the problem – and, the theoretical approach for him.
+
+"How does a one-dimensional genetic code specify a three-dimensional animal?" – Gerald M. Edelman, from the glossary of Topobiology
+By 1984, Edelman would be ready to answer this question and combine it with his earlier ideas on degeneracy and somatic selection in the nervous system. Edelman would revisit this issue in Topobiology and combine it with an evolutionary approach, seeking a comprehensive theory of body plan formation and evolution.
+
+
+=== The regulator hypothesis ===
+In 1984, Edelman published his regulator hypothesis of CAM and SAM action in the development and evolution of the animal body plan.
+Edelman would reiterate this hypothesis in his Neural Darwinism book in support of the mechanisms for degenerate neuronal group formation in the primary repertoire. The regulator hypothesis was primarily concerned with the action of CAMs. He would later expand the hypothesis in Topobiology to include a much more diverse and inclusive set of morphoregulatory molecules.
+
+
+=== The evolutionary question ===
+Edelman realized that in order to truly complete Darwin's program, he would need to link the developmental question to the larger issues of evolutionary biology.
+
+"How is an answer to the developmental genetic question (q.v.) reconciled with the relatively rapid changes in form occurring in relatively short evolutionary times?" – Gerald M. Edelman, from the glossary of Topobiology
+
+
+=== The morphoregulator hypothesis ===
+Shortly after publishing his regulator hypothesis, Edelman expanded his vision of pattern formation during embryogenesis - and, sought to link it to a broader evolutionary framework.  His first and foremost goal is to answer the developmental genetic question followed by the evolutionary question in a clear, consistent, and coherent manner.
+
+
+== TNGS – the theory of neuronal group selection ==
+Edelman's motivation for developing the theory of neuronal group selection (TNGS) was to resolve "a number of apparent inconsistencies in our knowledge of the development, anatomy, and physiological function of the central nervous system." A pressing issue for Edelman was explaining perceptual categorization without reference to a central observing homunculus or "assuming that the world is prearranged in an informational fashion."To free himself of the demands, requirements, and contradictions of information processing model; Edelman proposes that perceptual categorization operates by the selection of neuronal groups organized into variant networks that are differentially amplified of their responses in conjunction with hedonic feedback over the course of experience, from within a massive population of neuronal groups being confronted by a chaotic array of sensory input of differing degrees of significance and relevance to the organism.
+Edelman outright rejects the notion of a homunculus, describing it as a "close cousin of the developmental electrician and the neural decoder", artifacts of the observer-centralized top-down design logic of information processing approaches. Edelman properly points out that "it is probably a safe guess that most neurobiologists would view the homunculus as well as dualist solutions (Popper and Eccles 1981) to the problems of subjective report as being beyond scientific consideration."
+
+
+=== Necessary criteria for a selectionist theory of higher brain function ===
+Edelman's first theoretical contribution to neural Darwinism came in 1978, when he proposed his group selection and phasic reentrant signalling. Edelman lays out five necessary requirements that a biological theory of higher brain function must satisfy.
+The theory should be consistent with the fields of embryology, neuroanatomy, and neurophysiology.
+The theory should account for learning and memory, and temporal recall in a distributed system.
+The theory should account how memory is updated on the basis of realtime experience.
+The theory should account for how higher brain systems mediate experience and action.
+The theory should account for the necessary, if not sufficient, conditions for the emergence of awareness.
+
+
+=== Organization of the TNGS theory ===
+Neural Darwinism organizes the explanation of TNGS into three parts – somatic selection, epigenetic mechanisms, and global functions. The first two parts are concerned with how variation emerges through the interaction of genetic and epigenetic events at the cellular level in response to events occurring at the level of the developing animal nervous system. The third part attempts to build a temporally coherent model of globally unitary cognitive function and behavior that emerges from the bottom up through the interactions of the neuronal groups in real-time.
+Edelman organized key ideas of the TNGS theory into three main tenets:
+
+Primary repertoire – developmental formation and selection of neuronal groups;
+Secondary repertoire – behavioral and experiential selection leading to changes in the strength of connections between synaptic populations that bind together neuronal groups;
+Reentrant signaling – the synchronous entrainment of reciprocally connected neuronal groups within sensorimotor maps into ensembles of coherent global activity.The primary repertoire is formed during the period from the beginning of neurulation to the end of apoptosis. The secondary repertoire extends over the period synaptogenesis and myelination, but will continue to demonstrate developmental plasticity throughout life, albeit in a diminished fashion compared to early development.
+The two repertoires deal with the issue of the relationship between genetic and epigenetic processes in determining the overall architecture of the neuroanatomy – seeking to reconcile nature, nurture, and variability in the forming the final phenotype of any individual nervous system.
+There is no point-to-point wiring that carries a neural code through a computational logic circuit that delivers the result to the brain because
+
+firstly, the evidence does not lend support to such notion in a manner that is not problematic,
+secondly, the noise in the system is too great for a neural code to be coherent,
+and third, the genes can only contribute to, and constrain, developmental processes; not determine them in all their details.Variation is the inevitable outcome of developmental dynamics.
+Reentrant signalling is an attempt to explain how "coherent temporal correlations of the responses of sensory receptor sheets, motor ensembles, and interacting neuronal groups in different brain regions occur".
+
+
+==== Primary repertoire- developmental selection ====
+The first tenet of TNGS concerns events that are embryonic and run up to the neonatal period. This part of the theory attempts to account for the unique anatomical diversification of the brain even between genetically identical individuals. The first tenet proposes the development of a primary repertoire of degenerate neuronal groups with diverse anatomical connections are established via the historical contingencies of the primary processes of development. It seeks to provide an explanation of how the diversity of neuronal group phenotypes emerge from the organism's genotype via genetic and epigenetic influences that manifest themselves mechano-chemically at the cell surface and determine connectivity.
+Edelman list the following as vital to the formation of the primary repertoire of neuronal groups but, also contributing to their anatomical diversification and variation:
+
+Cell division – there are repeated rounds of cell division in the formation of neuronal populations
+Cell death – there is extensive amounts of pre-programmed cell death that occurs via apoptosis within the neuronal populations.
+Process extension and elimination – the exploratory probing of the embryonic environment by developing neurons involve process extension and elimination as the neurons detect molecular gradients on neighboring cell surface membranes and the substrate of the extracellular matrix.
+CAM & SAM action – the mechanochemistry of cell and surface adhesion molecules plays a key role in the migration and connectivity of neurons as they form neuronal groups within the overall distributed population.Two key questions with respect to this issue that Edelman is seeking to answer "in terms of developmental genetic and epigenetic events" are:
+"How does a one-dimensional genetic code specify a three-dimensional animal?"
+"How is the answer to this question consistent with the possibility of relatively rapid morphological change in relatively short periods of evolutionary time?"
+
+
+==== Secondary repertoire – experiential selection ====
+The second tenet of TNGS regards postnatal events that govern the development of a secondary repertoire of synaptic connectivity between higher-order populations of neuronal groups whose formation is driven by behavioral or experiential selection acting on synaptic populations within and between neuronal groups. Edelman's notion of the secondary repertoire heavily borrows from work of Jean-Pierre Changeux, and his associates Philippe Courrège and Antoine Danchin – and, their theory of selective stabilization of synapses.
+
+
+===== Synaptic modification =====
+Once the basic variegated anatomical structure of the primary repertoire of neuronal groups is laid down, it is more or less fixed. But given the numerous and diverse collection of neuronal group networks, there are bound to be functionally equivalent albeit anatomically non-isomorphic neuronal groups and networks capable of responding to certain sensory input. This creates a competitive environment where neuronal groups proficient in their responses to certain inputs are "differentially amplified" through the enhancement of the synaptic efficacies of the selected neuronal group network. This leads to an increased probability that the same network will respond to similar or identical signals at a future time. This occurs through the strengthening of neuron-to-neuron synapses. These adjustments allow for neural plasticity along a fairly quick timetable.
+
+
+==== Reentry ====
+
+The third, and final, tenet of TNGS is reentry. Reentrant signalling "is based on the existence of reciprocally connected neural maps." These topobiological maps maintain and coordinate the real-time responses of multiple responding secondary repertoire networks, both unimodal and multimodal – and their reciprocal reentrant connections allow them to "maintain and sustain the spatiotemporal continuity in response to real-world signals."The last part of the theory attempts to explain how we experience spatiotemporal consistency in our interaction with environmental stimuli. Edelman called it "reentry" and proposes a model of reentrant signaling whereby a disjunctive, multimodal sampling of the same stimulus event correlated in time that make possible sustained physiological entrainment of distributed neuronal groups into temporally stable global behavioral units of action or perception. Put another way, multiple neuronal groups can be used to sample a given stimulus set in parallel and communicate between these disjunctive groups with incurred latency.
+
+
+== The extended theory of neuronal group selection – the dynamic core hypothesis ==
+In the aftermath of his publication of Neural Darwinism, Edelman continued to develop and extend his TNGS theory as well as his regulator hypothesis. Edelman would deal with the morphological issues in Topobiology and begin to extend the TNGS theory in The Remembered Present. Periodically over the intervening years, Edelman would release a new update on his theory and the progress made.
+In The Remembered Present, Edelman would observe that the mammalian central nervous system seemed to have two distinct morphologically organized systems – one the limbic-brain stem system which is primarily dedicated to "appetitive, consumatory, and defensive behavior"; The other system is the highly reentrant thalamocortical system, consisting of the thalamus along with the "primary and secondary sensory areas and association cortex" which are "linked strongly to exteroceptors and is closely and extensively mapped in a polymodal fashion."
+
+
+=== The limbic-brain stem system – the interior world of signals ===
+The neural anatomy of the hedonic feedback system resides in the brain stem, autonomic, endocrine, and limbic systems. This system communicates its evaluation of the visceral state to the rest of the central nervous system. Edelman calls this system the limbic-brain stem system.
+
+
+=== The thalamocortical system - the exterior world of signals ===
+The thalamus is the gateway to the neocortex for all senses except olfactory. The spinothalamic tracts bring sensory information from the periphery to the thalamus, where multimodal sensory information is integrated and triggers the fast response subcortical reflexive motor responses via the amygdala, basal ganglia, hypothalamus and brainstem centers. Simultaneously, each sensory modality is also being sent to the cortex in parallel, for higher-order reflective analysis, multimodal sensorimotor association, and the engagement of the slow modulatory response that will fine-tune the subcortical reflexes.
+
+
+=== The cortical appendages – the organs of succession ===
+In The Remembered Present, Edelman acknowledges the limits of his TNGS theory to model the temporal succession dynamics of motor behavior and memory. His early attempts at replication automata proved inadequate to the task of explaining the realtime sequencing and integration of the neuronal group interactions with other systems of the organism. "Neither the original theory nor simulated recognition automata deal in satisfactory detail with the successive ordering of events in time mediated by the several major brain components that contribute to memory, particularly as it relates to consciousness." This problem lead him to focus on what he called the organs of succession; the cerebellum, basal ganglia, and hippocampus.
+
+
+== Reception ==
+An early review of the book Neural Darwinism in The New York Review of Books by Israel Rosenfield invited a lively response on the part of the neurosciences community. Edelman's views would be seen as an attack on the dominant paradigm of computational algorithms in cognitive psychology and computational neuroscience – inviting criticism from many corners.
+There would be copious complaints about the language difficulty.  Some would see Edelman coming across as arrogant, or an interloper into the field of neuroscience, from neighboring molecular biology. There were legitimate arguments raised as to how much experimental and observational data had been gathered in support of the theory at that time.  Or, if the theory was even original or not.
+But more often, rather than dealing with Edelman's critique of computational  approaches, the criticism would be centered around whether Edelman's system was a truly proper Darwinian explanation. Nonetheless, Neural Darwinism, both the book and the concept, received fairly broad critical acclaim.
+One of the most famous critiques of Neural Darwinism would be the 1989 critical review by Francis Crick, Neural Edelmanism.  Francis Crick based his criticism on the basis that neuronal groups are instructed by the environment rather than undergoing blind variation. In 1988, the neurophysiologist William Calvin had proposed true replication in the brain, whereas Edelman opposed the idea of true replicators in the brain. Stephen Smoliar published another review in 1989.England, and its neuroscience community, would have to rely on bootleg copies of the book until 1990, but once the book arrive on English shores, the British social commentator and neuroscientist Steven Rose was quick to offer both praise and criticism of its ideas, writing style, presumptions and conclusions. The New York Times writer George Johnson published "Evolution Between the Ears", a critical review of Gerald Edelman's 1992 book Brilliant Air, Brilliant Fire.  In 2014, John Horgan wrote a particular insightful tribute to Gerald Edelman in Scientific American, highlighting both his arrogance, brilliance, and idiosyncratic approach to science.It has been suggested by Chase Herrmann-Pillath that Friedrich Hayek had earlier proposed a similar idea in his book The Sensory Order: An Inquiry into the Foundations of Theoretical Psychology, published in 1952. Other leading proponents of a selectionist proposals include Jean-Pierre Changeux (1973, 1985), Daniel Dennett, and Linda B. Smith.  Reviews of Edelman's work would continue to be published as his ideas spread.
+A recent review by Fernando, Szathmary and Husbands explains why Edelman's neural Darwinism is not Darwinian because it does not contain units of evolution as defined by John Maynard Smith. It is selectionist in that it satisfies the Price equation, but there is no mechanism in Edelman's theory that explains how information can be transferred between neuronal groups. A recent theory called evolutionary neurodynamics being developed by Eors Szathmary and Chrisantha Fernando has proposed several means by which true replication may take place in the brain.These neuronal models have been extended by Fernando in a later paper. In the most recent model, three plasticity mechanisms i) multiplicative STDP, ii) LTD, and iii) Heterosynaptic competition, are responsible for copying of connectivity patterns from one part of the brain to another. Exactly the same plasticity rules can explain experimental data for how infants do causal learning in the experiments conducted by Alison Gopnik. It has also been shown that by adding Hebbian learning to neuronal replicators the power of neuronal evolutionary computation may actually be greater than natural selection in organisms.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+== References ==
+Burnet, Frank MacFarlane; Medawar, Peter Brian (1960). "The Nobel Prize in Physiology or Medicine 1960". NobelPrize.org.
+Calvin, William (June 24, 1988). "Neural Darwinism: The Theory of Neuronal Group Selection". Science.
+Changeux, Jean-Pierre (1985). Neuronal Man – The Biology of Mind. Translated by Laurence Carey. Pantheon Books, New York. ISBN 0-394-53692-4.
+Changeux, Jean-Pierre; Courrège, Philippe; Danchin, Antoine (1973). "A theory of the epigenesis of neural networks by selective stabilization of synapses". Proc. Natl. Acad. Sci. USA. 70 (10): 2974–2978. Bibcode:1973PNAS...70.2974C. doi:10.1073/pnas.70.10.2974. PMC 427150. PMID 4517949.
+Crick, Francis (1989). "Neural Edelmanism". Trends Neurosci. 12 (7): 240–248. doi:10.1016/0166-2236(89)90019-2. PMID 2475933. S2CID 3947768.
+Darwin, Charles (1859). On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. D. Appleton and Company, New York, 1869.
+Darwin, Charles (1872). The Expression of the Emotions in Man and Animals – with a preface by Konrad Lorentz. The University of Chicago Press, Chicago & London, 1965. ISBN 0-226-13656-6.
+Darwin, Charles (1887). The Autobiography of Charles Darwin 1809–1882. With the Original Omissions Restored. Edited and with Appendix and Notes by his Granddaughter Nora Barlow. W.W. Norton & Company, 1969. ISBN 0-393-00487-2.
+Dehal, Paramvir; Boore, Jeffrey L. (2005-09-06). "Two Rounds of Whole Genome Duplication in the Ancestral Vertebrate". PLOS Biology. 3 (10): e314. doi:10.1371/journal.pbio.0030314. ISSN 1545-7885. PMC 1197285. PMID 16128622.
+Edelman, Gerald M. (1972). Jan Lindsten (ed.). Antibody Structure and Molecular Immunology (In: Nobel Lectures, Physiology or Medicine 1971-1980). World Scientific Publishing Co., Singapore 1992. ISBN 978-9810207915.
+Edelman, Gerald M. (1974). Gerald M. Edelman (ed.). Origins and Mechanisms of Specificity in Clonal Selection (In: Cellular Selection and Regulation in the Immune Response). ISBN 0-911216-71-5. {{cite book}}: |journal= ignored (help)
+Edelman, Gerald M. (1992b). "Molecular Recognition in the Immune and Nervous Systems". In Worden, F.G.; Swazey, J.P.; Adelman, G. (eds.). The Neurosciences: Paths of Discovery, I. Boston: I. Birkhäuser (published 1990). pp. 65–74. doi:10.1007/978-1-4684-6817-5_4. ISBN 978-1-4684-6817-5.
+Edelman, Gerald M. (1984). "Cell adhesion and morphogenesis: The regulator hypothesis" (PDF). Proceedings of the National Academy of Sciences, USA. 81 (5): 1460–1464. Bibcode:1984PNAS...81.1460E. doi:10.1073/pnas.81.5.1460. PMC 344856. PMID 6584892.
+Edelman, Gerald M. (1987a). "CAMs and Igs: cell adhesion and the evolutionary origins of immunity". Immunological Reviews. 100: 11–45. doi:10.1111/j.1600-065x.1987.tb00526.x. PMID 3326819. S2CID 24972419.
+Edelman, Gerald M. (1987b). Neural Darwinism – The Theory of Neuronal Group Selection. Basic Books, New York. ISBN 0-465-04934-6.
+Edelman, Gerald M. (1988). Topobiology – An Introduction to Molecular Embryology. Basic Books, New York. ISBN 978-0-465-08653-5.
+Edelman, Gerald M. (1989). The Remembered Present – A Biological Theory of Consciousness. Basic Books, New York. ISBN 0-465-06910-X.
+Edelman, Gerald M. (1992). Bright Air, Brilliant Fire – On the Matter of the Mind. Basic Books, Inc. ISBN 0-465-05245-2.
+Edelman, Gerald M. (1993). "Neural Darwinism: selection and reentrant signaling in higher brain function" (PDF). Neuron. 10 (2): 115–25. doi:10.1016/0896-6273(93)90304-a. PMID 8094962. S2CID 8001773.
+Edelman, Gerald M. (1998). GM. Edelman; J-P Changuex (eds.). Building A Picture of the Brain (In: The Brain). Routledge, Taylor & Francis Group, London and New York 2000. ISBN 978-0-7658-0717-5.
+Edelman, Gerald M. (2004). Wider Than The Sky – The Phenomenal Gift of Consciousness. Yale University Press. ISBN 978-0-300-10761-6.
+Edelman, Gerald M. (2006). Second Nature – Brain Science and Human Knowledge. Yale University Press. ISBN 978-0-300-12594-8.
+Edelman, Gerald M.; Gally, Joseph A. (2001). "Degeneracy and Complexity in Biological Systems". Proceedings of the National Academy of Sciences, USA. 98 (24): 13763–13768. Bibcode:2001PNAS...9813763E. doi:10.1073/pnas.231499798. PMC 61115. PMID 11698650.
+Edelman, Gerald M.; Gally, Joseph A. (2013). "Reentry: a key mechanism for integration of brain function". Frontiers in Integrative Neuroscience. 7 (63): 63. doi:10.3389/fnint.2013.00063. PMC 3753453. PMID 23986665.
+Edelman, Gerald M.; Porter, Rodney R. (1972). "The Nobel Prize in Physiology or Medicine 1972". NobelPrize.org.
+Edelman, Gerald M.; Tononi, Giulio (2000). A Universe of Consciousness – How Matter Becomes Imagination. Basic Books, Inc. ISBN 978-0-465-01377-7.
+Eriksson, Peter S.; et al. (1998). "Neurogenesis in the Adult Human Hippocampus". Nature Medicine. 4 (11): 1313–1317. doi:10.1038/3305. PMID 9809557.
+Fernando, C.; Karishma, K.K.; Szathmáry, E. (2008). "Copying and Evolution of Neuronal Topology". PLOS ONE. 3 (11): 3775. Bibcode:2008PLoSO...3.3775F. doi:10.1371/journal.pone.0003775. PMC 2582483. PMID 19020662.
+Fernando, C.; Goldstein, R.; Szathmáry, E. (2010). "The Neuronal Replicator Hypothesis". Neural Computation. 22 (11): 2809–2857. doi:10.1162/NECO_a_00031. PMID 20804380. S2CID 17940175.
+Fernando, C.; Szathmáry, E.; Husbands, P. (2012). "Selectionist and evolutionary approaches to brain function: a critical appraisal". Frontiers in Computational Neuroscience. 6 (24): 24. doi:10.3389/fncom.2012.00024. PMC 3337445. PMID 22557963.
+Fernando, C. (2013). "From Blickets to Synapses: Inferring Temporal Causal Networks by Observation". Cognitive Science. 37 (8): 1426–1470. doi:10.1111/cogs.12073. PMID 23957457.
+Hayek, F.A. (1952). The Sensory Order: An Inquiry into the Foundations of Theoretical Psychology. Routledge & Kegan Paul, London. ISBN 0-226-32094-4.
+Herrmann-Pillath, Carsten (2006-12-10). "The Brain, Its Sensory Order and the Evolutionary Concept of Mind, On Hayek's Contribution to Evolutionary Epistemology". Journal of Social and Evolutionary Systems. 15 (2): 145–187. doi:10.1016/1061-7361(92)90003-v. SSRN 950592.
+Hill, Charlotte; Wang, YYihua (2020). "The importance of epithelial-mesenchymal transition and autophagy in cancer drug resistance". Cancer Drug Resistance. 3 (1): 38–47. doi:10.20517/cdr.2019.75. PMC 7100899. PMID 32226927.
+Horgan, John (May 22, 2014). "My Testy Encounter with the Late, Great Gerald Edelman". Scientific American. Retrieved April 30, 2021.
+Huttenlocher, P.R. (1990). "Morphometric study of human cerebral cortical development". Neuropsychologia. 28 (6): 517–527. doi:10.1016/0028-3932(90)90031-i. PMID 2203993. S2CID 45697561.
+Huxley, Julian (1942). Evolution: The Modern Synthesis. London, G. Allen & Unwin ltd.
+Johnson, George (April 19, 1992). "Evolution Between the Ears". New York Times.
+Lewontin, Richard C. (1974). The Genetic Basis of Evolutionary Change. Columbia University Press. ISBN 0231033923.
+Mountcastle, Vernon Benjamin; Edelman, Gerald M. (1978). The Mindful Brain – Cortical Organization and the Group-selective Theory of Higher Brain Function. MIT Press. ISBN 978-0-262-55007-9.
+Rose, Steven (June 9, 1990). "Review: Darwin on the brain". www.newscientist.com. New Scientist. Retrieved 18 April 2021.
+Rosenfield, Israel (October 9, 1986). "Neural Darwinism: A New Approach to Memory and Perception". The New York Review of Books. Retrieved April 27, 2021.
+Smoliar, Stephen W. (1989). "Review of G.M. Edelman (book review)". In William J. Clancey; Stephen W. Smoliar; Mark Stefik (eds.). Contemplating minds: a forum for artificial intelligence. MIT Press (published 1996). pp. 431–446. ISBN 978-0-262-53119-1. (originally published in Artificial Intelligence 39 (1989) 121–139.)
+"In Memoriam: Gerald Edelman (1929–2014)". News & Views - Vol 14, Issue 17. The Scripps Research Institute (TSRI). June 2, 2014. Retrieved July 21, 2021.
+Tononi, Giulio; Sporns, Olaf; Edelman, Gerald M. (1999). "Measures of degeneracy and redundancy in biological networks". PNAS. 96 (6): 3257–3262. Bibcode:1999PNAS...96.3257T. doi:10.1073/pnas.96.6.3257. PMC 15929. PMID 10077671.
+Young, J.Z.; Ayala, Francisco J.; Szentagothai, J. (March 12, 1987). "Neural Darwinism: An Exchange (reply by Israel Rosenfield)". The New York Review of Books. Retrieved April 27, 2021.
+
+
+== Further reading ==
+How Brains Think: Evolving Intelligence, Then and Now by William H. Calvin
+Neurogenesis in the Adult Human Brain
+
+
+== External links ==
+The Complete Work of Charles Darwin Online
+Wikiversity – Neuroscience
+Wikiversity – Fundamentals of Neuroscience
+Wikiversity – Introduction to Non-Genetic Darwinism
+Webpage of William Calvin
+Webpage of Daniel Dennett
+Webpage of Chrisantha Fernando

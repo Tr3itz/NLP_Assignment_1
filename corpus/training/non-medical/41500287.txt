@@ -1,0 +1,4 @@
+In electrical engineering, a common rail (shortened to COM) is a shared path between different electrical routes in an electrical circuit. For example, a device or circuit board might have a power rail or a ground rail, which components are attached to, so all the electrical charge flowing through different components is drawn from/collected into a single conductor line. The ATX standard for PC power supplies defines a set of common rails as to ground the power, these rails are designated as COM and all have black wires.
+
+
+== References ==

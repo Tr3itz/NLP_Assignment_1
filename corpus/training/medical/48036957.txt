@@ -1,0 +1,4 @@
+Methyl green-pyronin (MGP) is a classical histological staining technique using two basic (cationic) dyes for the demonstration and differentiation of DNA and RNA. Methyl green is specific for phosphate radicals in the DNA double helix staining it green-blue. Pyronin does not possess this affinity and binds to the remaining negatively charged RNA staining it red. The method is useful in identifying the distribution of Nissl substance in neuronal cell bodies.
+
+
+== References ==

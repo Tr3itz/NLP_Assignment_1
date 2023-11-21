@@ -1,0 +1,8 @@
+The CPK-MB test (creatine phosphokinase-MB), also known as CK-MB test, is a cardiac marker used to assist diagnoses of an acute myocardial infarction, myocardial ischemia, or myocarditis. It measures the blood level of CK-MB (creatine kinase myocardial band), the bound combination of two variants (isoenzymes CKM and CKB) of the enzyme phosphocreatine kinase.In some locations, the test has been superseded by the troponin test. However, recently, there have been improvements to the test that involve measuring the ratio of the CK-MB1 and CK-MB2 isoforms.The newer test detects different isoforms of the B subunit specific to the myocardium whereas the older test detected the presence of cardiac-related isoenzyme dimers.Many cases of CK-MB levels exceeding the blood level of total CK have been reported, especially in newborns with cardiac malformations, especially ventricular septal defects. This reversal of ratios is in favor of pulmonary emboli or vasculitis. An autoimmune reaction creating a complex molecule of CK and IgG should be taken into consideration.
+
+
+== See also ==
+Troponin
+
+
+== References ==

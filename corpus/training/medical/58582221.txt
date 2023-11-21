@@ -1,0 +1,32 @@
+Endomyocardial biopsy (EMB) is an invasive procedure used routinely to obtain small samples of heart muscle, primarily for detecting rejection of a donor heart following heart transplantation. It is also used as a diagnostic tool in some heart diseases.A bioptome is used to gain access to the heart via a sheath inserted into the right internal jugular or less commonly the femoral vein. Monitoring during the procedure consists of performing ECGs and blood pressures. Guidance and confirmation of correct positioning of the bioptome is made by echocardiography or fluoroscopy.The risk of complications is less than 1% when performed by an experienced physician in a specialist centre. Serious complications include perforation of the heart with pericardial tamponade, haemopericardium, AV block, tricuspid regurgitation and pneumothorax.EMB, sampling myocardium was first pioneered in Japan by S. Sakakibra and S. Konno in 1962.
+
+
+== Indications ==
+The main reason for performing an EMB is to assess allograft rejection following heart transplantation and sometimes to evaluate cardiomyopathy, some heart disease research and ventricular arrhythmias, or unexplained ventricular dysfunction.
+
+
+=== Transplant monitoring ===
+Visualising the microscopic appearance of the heart muscle allows the detection of cell-mediated or antibody-mediated rejection and is recommended episodically during the first year after heart transplantation. Occasionally, monitoring continues beyond one year.The use of EMB in heart transplant rejection surveillance remains the gold standard test, although the pre-test predictors of rejection cardiac magnetic resonance imaging (CMR) and gene expression profiling, are increasingly used.
+
+
+=== Myocardial diseases ===
+EMB has a role in the diagnosis of viral myocarditis and inflammatory myocarditis.
+
+
+== Procedure ==
+EMB of the right ventricle via the internal jugular vein is standard after heart transplant.  A bioptome is used to gain access to the heart via a sheath inserted into the right internal jugular or less commonly the femoral vein. Monitoring during the procedure consists of performing ECGs and blood pressures. Guidance and confirmation of correct positioning of the bioptome is made by echocardiography or fluoroscopy before the biopsy specimen is taken and in the case of transplants, usually three or four or more samples are taken.Endomyocardial fibrosis can occur if biopsies are performed repeatedly. This risk is reduced if the operator is experienced. Unlike for rejection detection, for diagnosing heart disease, different biopsy sites within the heart are targeted.It is possible but less common to biopsy the left ventricle via the femoral arteries.
+
+
+== Limitations ==
+The accuracy of diagnosis by EMB depends on whether the correct site is biopsied. There is a risk that a diagnosis can be missed if the biopsy misses the diseased part of heart muscle, particularly with myocardial inflammation or fibrosis.An experienced pathologist trained in biopsy analysis and interpretation also reflects EMB’s reliability. Variability between pathologists has been observed. 
+
+
+== Complications ==
+A frequent concern regarding EMB has been its safety. However, it has a low risk of less than 1% when performed by an experienced physician in a specialist centre.Possible complications, which almost all occur at time of procedure, include rupture of the right intraventricular septum, conduction block, arrhythmias, pneumothorax, tricuspid regurgitation, atrioventricular fistula, and pulmonary embolism. Death has been reported, but is rare.
+
+
+== History ==
+Early heart biopsies, sampling pericardium, in the latter half of the 1950s were performed through a cut in the left intercostal space at the costochondral junction. However this method risked lung and coronary blood vessel damage, cardiac tamponade and arrythmias.EMB, sampling myocardium, has evolved since it was first pioneered in Japan by S. Sakakibra and S. Konno in 1962. The concept of introducing a biopsy needle through the right internal or external jugular vein to reach the right intraventricular septum for the purpose of sampling the heart muscle was initiated in 1965 by R. T. Bulloch. In 1972, the bioptome and procedure was modified by Philip Caves. This was to allow access percutaneously.
+
+
+== References ==

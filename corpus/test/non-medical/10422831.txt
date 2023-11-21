@@ -1,0 +1,174 @@
+In physics, a pair potential is a function that describes the potential energy of two interacting objects solely as a function of the distance between them.Some interactions, like Coulomb's law in electrodynamics or Newton's law of universal gravitation in mechanics naturally have this form for simple spherical objects.
+For other types of more complex interactions or objects it is useful and common to approximate the interaction by a pair potential, for example interatomic potentials in physics and computational chemistry that use approximations like the Lennard-Jones and Morse potentials.
+
+
+== Functional form ==
+The total energy of a system of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   objects in positions 
+  
+    
+      
+        
+          
+            
+              
+                R
+                →
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\vec {R}}_{i}}
+  , that interact through pair potential 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is given by
+
+  
+    
+      
+        E
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          ∑
+          
+            j
+            =
+            i
+            +
+            1
+          
+          
+            N
+          
+        
+        v
+        
+          (
+          
+            |
+            
+              
+                
+                  
+                    
+                      R
+                      →
+                    
+                  
+                
+                
+                  i
+                
+              
+              −
+              
+                
+                  
+                    
+                      R
+                      →
+                    
+                  
+                
+                
+                  j
+                
+              
+            
+            |
+          
+          )
+        
+         
+        .
+      
+    
+    {\displaystyle E={\frac {1}{2}}\sum _{i=1}^{N}\sum _{j=i+1}^{N}v\left(\left|{\vec {R}}_{i}-{\vec {R}}_{j}\right|\right)\ .}
+  This expression uses the fact that interaction is symmetric between particles 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  .
+It also avoids self-interaction by do not including the case when 
+  
+    
+      
+        i
+        ==
+        j
+      
+    
+    {\displaystyle i==j}
+  .
+
+
+== Potential range ==
+A fundamental property of a pair potential is its range.
+It is expected that pair potentials go to zero for infinite distance as particles that are too far apart do not interact.
+In some cases the potential goes quickly to zero and the interaction for particles that are beyond a certain distance can be assumed to be zero, these are said to be short-range potentials.
+Other potentials, like the Coulomb or gravitational potential, are long range: they go slowly to zero and the contribution of particles at long distances still contributes to the total energy.
+
+
+== Computational cost ==
+The total energy expression for pair potentials is quite simple to use for analytical and computational work.
+It has some limitations however, as the computational cost is proportional to the square of number of particles.
+This might be prohibitively expensive when the interaction between large groups of objects needs to be calculated.
+For short-range potentials the sum can be restricted only to include particles that are close, reducing the cost to linearly proportional to the number of particles.
+
+
+== Infinitely periodic systems ==
+In some cases it is necessary to calculate the interaction between an infinite number of particles arranged in a periodic pattern.
+
+
+== Beyond pair potentials ==
+Pair potentials are very common in physics and computational chemistry and biology; exceptions are very rare. An example of a potential energy function that is not a pair potential is the three-body Axilrod-Teller potential. Another example is the Stillinger-Weber potential for silicon, which includes the angle in a triangle of silicon atoms as an input parameter.
+
+
+== References ==

@@ -1,0 +1,38 @@
+Overheating is a phenomenon of rising temperatures in an electrical circuit. Overheating causes damage to the circuit components and can cause fire, explosion, and injury. Damage caused by overheating is usually irreversible; the only way to repair it is to replace some components.
+
+
+== Causes ==
+When overheating, the temperature of the part rises above the operating temperature. Overheating can take place: 
+
+if heat is produced in more than expected amount (such as in cases of short-circuits, or applying more voltage than rated), or
+if heat dissipation is poor, so that normally produced waste heat does not drain away properly.Overheating may be caused from any accidental fault of the circuit (such as short-circuit or spark-gap), or may be caused from a wrong design or manufacture (such as the lack of a proper heat dissipation system).
+Due to accumulation of heat, the system reaches an equilibrium of heat accumulation vs. dissipation at a much higher temperature than expected.
+
+
+== Preventive measures ==
+
+
+=== Use of circuit breaker or fuse ===
+Circuit-breakers can be placed at  portions of a circuit in series to the path of current it will affect. If more current than expected goes through the circuit-breaker, the circuit breaker "opens" the circuit and stops all current. A fuse is a common type of circuit breaker that involves direct effect of Joule-overheating. A fuse is always placed in series with the path of current it will affect. Fuses usually consist of a thin strand of wire of definite-material. When more that the rated current flows through the fuse, the wire melts and breaks the circuit.
+
+
+=== Use of heat-dissipating systems ===
+Many systems use ventilation holes or slits kept on the box of equipment to dissipate heat. Heat sinks are often attached to portions of the circuit that produce most heat or are vulnerable to heat. Fans are also often used.  Some high-voltage instruments are kept immersed in oil. In some cases, to remove unwanted heat, a cooling system like air conditioning or refrigerating heat-pumps may be required.
+
+
+=== Control within circuit-design ===
+Sometimes, special circuits are built for the purpose of sensing and controlling the temperature or voltage status. Devices such as thermistors, voltage-dependent resistors, thermostats and sensors such as infrared thermometers are used to modify the current upon different conditions such as circuit-temperature and input voltage.
+
+
+=== Proper manufacture ===
+
+For certain purposes in an item of electrical equipment or a portion of it, definite type and size of materials with proper rating for voltage, current and temperature, are used. The circuit resistance never kept too low. Sometimes some parts placed inside the board and box, maintaining a proper distance from each other, to avoid heat damage and short-circuit damage. To prevent short circuit, appropriate types of electrical connectors and mechanical fasteners are used.
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== References ==

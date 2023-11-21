@@ -1,0 +1,6 @@
+Biothesiometry is a noninvasive medical test used to quantify the perception of vibration by measuring its threshold. It is used in neurology and electrophysiology to diagnose a number of conditions, like diabetic neuropathy and erectile dysfunction, where the vibration perception threshold (VPT) would be higher than average. The numerical nature of the test can help stage the progression of disease or complications.
+The test is done through a biothesiometer, which is composed of a handheld probe wired to a display unit. Both digital and analog types are commercially available, giving the reading on either a dial or a screen.
+In a systematic review of screening methods for pediatric diabetic peripheral neuropathies, biothesiometry and fine microfilaments were shown to be the only diagnostic methods with high sensitivity and specificity.A systematic review showed that there is a strong co-relation between HbA1c values and Vibration Perception Test and could be a predictor for complications in the foot following Diabetic Peripheral Neuropathy.In a systemic review of modern devices available for the assessment and screening of peripheral neuropathy, digital devices were evaluated  to measure tactile sensation, vibration perception, thermal perception and foot skin temperature.
+
+
+== References ==

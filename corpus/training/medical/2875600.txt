@@ -1,0 +1,48 @@
+The McDonald criteria are diagnostic criteria for multiple sclerosis (MS). These criteria are named after neurologist W. Ian McDonald who directed an international panel in association with the National Multiple Sclerosis Society (NMSS) of America and recommended revised diagnostic criteria for MS in April 2001. These new criteria intended to replace the Poser criteria and the older Schumacher criteria. They have undergone revisions in 2005, 2010 and 2017.They maintain the Poser requirement to demonstrate "dissemination of lesions in space and time" (DIS and DIT) but they discourage the previously used Poser terms such as "clinically definite" and "probable MS", and propose as diagnostic either "MS", "possible MS", or "not MS".The McDonald criteria maintained a scheme for diagnosing MS based solely on clinical grounds but also proposed for the first time that when clinical evidence is lacking, magnetic resonance imaging (MRI) findings can serve as surrogates for dissemination in space (DIS) and/or time (DIT) to diagnose MS. The criteria try to prove the existence of demyelinating lesions, by image or by their effects, showing that they occur in different areas of the nervous system (DIS) and that they accumulate over time (DIT). The McDonald criteria facilitate the diagnosis of MS in patients who present with their first demyelinating attack and significantly increase the sensitivity for diagnosing MS without compromising the specificity.The McDonald criteria for the diagnosis of multiple sclerosis were revised first in 2005 to clarify exactly what is meant by an "attack", "dissemination" and a "positive MRI", etc. Later they were revised again in 2017.McDonald criteria are the standard clinical case definition for MS and the 2010 version is regarded as the gold standard test for MS diagnosis.
+
+
+== Diagnostic Criteria ==
+They discourage the previously used terms such as "clinically definite" and "probable MS", and propose as diagnostic variants like "MS", "possible MS", or "not MS", though these terms change between revisions. As of 2017 revision The term ‘possible  MS’  was  added  for  people  with  a  typical  clinically  isolated  syndrome  who  did  not meet the criteria.
+
+
+== Criticism ==
+Pathology is generally regarded as the gold standard in defining different forms of inflammatory demyelinating diseases.Specificity of the McDonald criteria is low due to the fact that the nature of the lesions is not considered, but only their dissemination. None of the criteria are MS-specific. In order to reduce false positives, McDonald et al. propose that their criteria should be applied only after any other disease has been ruled out.  In 2008 a consensus was developed for differential diagnosis.Another criticism of the McDonald criteria is that the definition of "lesions typical of MS" is unclear; a 2013 review identified the following characteristics: specific cell morphology shown by hematoxylin, demyelination shown by Luxol fast blue, macrophage appearance by KiM1P or CD68, damage to the axons shown by Bielschowsky stain, astrocytopathy shown by glial fibrillary acidic protein, and different lymphocyte subtypes, reacting to CD3, CD4, CD8, CD20 and CD138.The sensitivity of McDonald criteria is low with regard to  pathologically defined MS because around 25% of MS cases are silent MS cases.McDonald criteria have been shown to have a low sensitivity and specificity (with respect to the pathological presence of lesions) in Asiatic populations. They have good predictive quality (with respect to CIS [clinically isolated syndrome] to CDMS [Clinically Definite Multiple Sclerosis] conversion) when evaluated in non-selected populations.
+
+
+=== Comparison of McDonald versions ===
+Currently there is not too much information comparing the sensibility and specificity of different McDonald versions against autopsy. Some reports have used Poser "CDMS" delayed diagnosis (during a two-year follow-up) as milestone to evaluate these parameters.
+It seems that 2017 revision has higher sensitivity (85 vs. 30% and 85 vs. 41%) and lower specificity (33 vs. 63% and 63 vs. 85%) compared to the 2010 revisions and Poser CDMS, at two years follow-up.
+
+
+== 2010 Revisions ==
+In 2010, the International Panel on Diagnosis of MS met in Dublin, Ireland for a third time to discuss and revise the McDonald diagnostic criteria. Reasons for revisions to the criteria included the simplification of demonstration of CNS lesions in space and time via imaging, and to address criticisms that the previous criteria did not appropriately apply to Asian populations.One study has suggested that the new criteria allow a faster diagnosis, but with slight sacrifice in accuracy.
+
+
+=== Revised Diagnostic Criteria (2010) ===
+
+
+== 2017 revision ==
+The last revision (as of 2018) is the 2017 revision. It has been reported to improve sensibility up to an 82% (respect around 8 years CIS to MS conversion, retrospectively evaluated). The 2017 revision predicted 86.8% of positives in the follow-up using as reference the 2010 criteria after a follow-up of 3.8 ± 2.9 years. No reduction in specificity was reported.
+The 2017 revision tries to accelerate the diagnosis without risking specificity. The new recommendations include:
+First of all, probably the most polemical change, a patient with CIS (only one demyelinating lesion) can now be diagnosed as MS if an MRI shows dissemination in space (DIS). In these cases dissemination in time (DIT) can be substituted by a laboratory testing of oligoclonal bands.
+Second, both symptomatic and asymptomatic lesions can be considered for showing DIS and DIT
+Third, also cortical lesions can be used to show DIS.
+Fourth, also for PPMS cortical and asymptomatic lesions can be used in diagnosis.
+
+
+== Future directions ==
+
+
+=== Improvements in imaging technology ===
+The European group MAGNIMS periodically publishes guidelines for using MRI in the diagnosis of MS that are updated as MRI technology evolves. Moreover, new MRI techniques, such as double inversion recovery imaging or phase sensitive inversion recovery, can be used to identify more lesions in MS which, if further validated, could be included in future criteria. Another promising MRI technique is magnetic transfer imaging, which will allow the detection of damage in normal-appearing brain tissue away from focal lesions. Finally, high resolution spectral domain optical coherence tomography could prove to be a very promising and sensitive way of identifying optic neuritis in the future.
+
+
+=== Improvements in biomarkers ===
+Four biomarkers were identified for further study by the 2010 revisions of McDonald Criteria: The CSF, the serum anti-GAGA4 and protein signatures and finally the circulating microRNA Some blood tests have been proposed based in circulating neurofilament light chain (NFL), in RNA profiling or in the MRZ reaction.
+
+
+=== Addressing subclinical disease ===
+Another issue of great clinical significance that is not addressed by 2010 McDonald criteria is subclinical disease. There are some patients who were incidentally found to have brain lesions with appearance and location consistent with MS who are now classified as having a radiologically isolated syndrome (RIS). Some of these people will develop MS even after several years. Because early initiation of MS disease-modifying therapy is associated with better clinical outcomes, it is important to identify individuals in the subclinical stage of disease and determine if initiation of treatment at this stage is beneficial. More research is currently being conducted to clarify this issue and address which RIS patients will progress to definite MS. Depending on the findings of this research, future criteria might address this controversial but highly important issue of MS care.
+
+
+== References ==

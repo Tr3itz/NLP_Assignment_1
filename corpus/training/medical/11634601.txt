@@ -1,0 +1,16 @@
+The Anrep effect is an autoregulation method in which myocardial contractility increases with afterload. It was experimentally determined that increasing afterload caused a proportional linear increase in ventricular inotropy. This effect is found in denervated heart preparations, such as the Starling Preparation, and represents an intrinsic autoregulation mechanism.
+
+
+== Physiology ==
+Sustained myocardial stretch activates tension-dependent Na+/H+ exchangers, bringing Na+ ions into the sarcolemma. This increase in Na+ in the sarcolemma, reduces the Na+ gradient exploited by sodium-calcium exchanger (NCX), and stops them from working effectively. Ca2+ ions accumulate inside the sarcolemma as a result, and are taken up by sarco(endo)plasmic reticulum Ca2+-ATPase (SERCA) pumps. Calcium induced calcium release (CICR) from the sarcoplasmic reticulum is thus increased upon the next activation of the cardiac myocyte. This leads to an increase in the force of contraction of the cardiac muscle, which partly counterbalances the effects of afterload by increasing stroke volume and cardiac output to maintain tissue perfusion. On the other hand, it has been proposed that the Anrep effect may be a spurious effect resulting from the recovery of the myocardium from a transient ischemia arising from the abrupt increase in blood pressure.
+
+
+== Function ==
+The Anrep effect allows the heart to compensate for the increased end-systolic volume and the decreased stroke volume that occurs when aortic blood pressure (i.e. afterload) increases. Without the Anrep effect, an increase in aortic blood pressure would create a decrease in stroke volume that would compromise circulation to peripheral and visceral tissues.
+
+
+== History ==
+The Anrep effect is named after Russian physiologist Gleb von Anrep, who described it in 1912. Anrep clamped the ascending aorta in dogs, and showed that the heart dilated.
+
+
+== References ==

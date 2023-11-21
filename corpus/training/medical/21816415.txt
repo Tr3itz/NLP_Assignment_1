@@ -1,0 +1,6 @@
+The CSF/serum glucose ratio, also known as CSF/Blood glucose ratio, is a measurement used to compare CSF glucose and blood sugar.
+Because many bacteria metabolize glucose, and because the blood brain barrier minimizes transversal, the ratio can be useful in determining whether there is a bacterial infection in the CSF.
+The normal ratio is 0.6.It is used to distinguish between bacterial and viral meningitis, as it is often lowered in bacterial meningitis and normal in viral meningitis.
+
+
+== References ==

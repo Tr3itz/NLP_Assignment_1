@@ -1,0 +1,99 @@
+hPG80 refers to the extracellular and oncogenic version of progastrin. This name first appeared in a scientific publication in January 2020. Until that date, scientific publications only mention 'progastrin', without necessarily explicitly specifying whether it is intracellular (in the context of digestion) or extracellular (circulating and detectable in plasma) in the tumor pathological setting.
+For more clarity, the remainder of this article uses exclusively the name hPG80 to refer to extracellular progastrin.
+A link between this protein and cancer has been known for more than 30 years. hPG80 is involved in most of the biological functions that ensure the existence of cancer. The peptide is secreted by tumor cells and found in the plasma of cancer patients from early stages. It then has functions that are independent of digestion and totally different from progastrin and its only role as an intracellular precursor of gastrin.
+
+
+== Terminology ==
+In the name hPG80, the "h" describes the human species: human; "PG" is a common script for the progastrin protein and the number 80 corresponds to the size of the protein: 80 amino acids.
+The name hPG80 was thus proposed in the publication resulting from the work of Professor Benoît You under the management of Dominique Joubert and Alexandre Prieur in order to remove ambiguities between the intracellular version of the protein (in the function of digestion) and its extracellular version of the protein (in the case of cancer patients) which is no longer, despite its name, the precursor of gastrin. 
+Moreover, the existence of a phonetically identical peptide, the Pro-Gastrin Releasing Peptide (proGRP), accentuated a possible confusion around the name progastrin and the need for a specific name.
+
+
+== Chronology of scientific discoveries on hPG80 ==
+1990: hPG80 is secreted by pancreatic cancer cells.1993 - 1994: hPG80 is secreted by ovarian and colon cancer cells.1996 - 1997: hPG80 is identified as necessary for the proliferation and tumorigenesis of colon cancer cells.2000 - 2001: The GAST gene is a target of the β-catenin/Tcf4 pathway. The presence of hPG80 is demonstrated in the plasma of colorectal cancer patients.2003: hPG80 is involved in the dissociation regulation of adherent and tight junctions. Src mediates the effects of hPG80 on cell growth.2005: Ras and β-catenin/Tcf4 pathways induce synergistic activation of the GAST gene, contributing to possible neoplastic progression.2007: Inhibition of hPG80 expression inhibits the Wnt/β-catenin pathway inducing decreased growth and tumor differentiation in intestinal tumor models.2012: p53 gene mutation increases hPG80-dependent colonic proliferation and cancer formation.2014: hPG80 is identified as a new pro-angiogenic factor.2016: Autocrine secretion of hPG80 promotes survival and self-renewal of stem cells in colon cancer.2017: The use of antibodies directed against hPG80 to target the Wnt pathway and cancer stem cells represents a new therapeutic track for cancer.2020: hPG80 is detected in the plasma of patients with 11 different types of cancer. An association between longitudinal variations in hPG80 levels and the efficacy of anti-cancer treatments has been demonstrated.
+
+
+== Role in cancer ==
+Through a variety of mechanisms, all crucial for tumor growth and survival, research has demonstrated the major role that hPG80 plays in tumor initiation and progression, generally using colorectal cancer as a model. Bardram was the first to hypothesize the presence of hPG80 in the early stages of the disease. He evaluated the presence of hPG80 and its maturation products in the serum of patients with Zollinger-Ellison syndrome. This work showed that hPG80 measurement more accurately reflected tumor than the conventional measurement of amide gastrin. Indeed, hPG80 is more than 700 times more abundant than amide gastrin in colorectal tumors.In the early 90s, it was shown that hPG80 was not fully matured in human colon cancer cell lines and, more importantly, that it was secreted by in vitro cells. These observations led to the study of autocrine and paracrine function of hPG80 in tumor cells. Generally, it has been shown that hPG80 does not mature properly in cancer cells, particularly in colorectal cancer, because maturation enzymes are either absent or non-functional.In 1996, it was demonstrated that GAST gene expression is required for human colon cancer cell tumorigenesis. 60 to 80% of colon cancers express the GAST gene.
+Through different experimental configurations, alteration of the GAST gene or neutralization of hPG80 resulted in a decrease in the number of tumors in mice with a tumor predisposition (mutation on the APC gene). Conversely, a significant increase in tumor formation was observed in mice overexpressing progastrin and treated with azoxymethane (AOM), a chemical carcinogen.
+
+
+=== Pro-angiogenic factor ===
+When a tumor develops, its need for oxygen and nutrients causes creation of new blood vessels. This process is called neo-angiogenesis. In 2015, hPG80 was shown to be a pro-angiogenic factor. Indeed, hPG80 stimulates endothelial cells proliferation and migration and increases their ability to form capillary-like structures in vitro. Blocking the production of hPG80 (with shRNA) in xenograft cells in nude mice reduces tumor neovascularization.
+
+
+=== Anti-apoptotic factor ===
+Treatment of intestinal epithelial cells with hPG80 results in a significant loss of caspase 9 and caspase 3 activation and a decrease in DNA fragmentation. Therefore, the effect of hPG80 on cell survival results from both increased proliferation and decreased apoptosis.
+
+
+=== Regulation of cell junctions ===
+Cell migration is based on their ability to become independent of adjacent cells. Intercellular contacts integrity is essential for electrolyte uptake regulation as well as for tumor metastasis prevention. In 2003, it was demonstrated that blocking hPG80 secretion by an antisense construction directed against progastrin mRNA allows restoration of membrane localization of tight and adherent junctions constituent proteins in a human colorectal carcinoma cell line DLD-1. hPG80 thus plays a role on cell contacts integrity.
+
+
+=== Role in cancer stem cells ===
+Cancer stem cells (CSCs) constitute a small proportion of the tumor, usually between 1 and 5%. But they are essential for tumor survival because they act as a "reactor". Giraud and al. have demonstrated the major role played by hPG80 in CSCs. These authors have shown that hPG80 expression is strongly increased in colorectal cancer cells cultured under conditions where CSCs are enriched. They then showed that hPG80 was able to regulate CSCs frequency (survival and self-renewal) in vitro and in vivo. Subsequently, Prieur and al. demonstrated that when a neutralizing antibody is added to a cell culture or when human colorectal cancer cells implanted mice are treated in vivo with such an antibody, CSCs frequency is decreased in the same proportions. These two scientific articles clearly show that hPG80 is a survival factor for CSCs. Moreover, hPG80 inhibition would induce CSC differentiation, opening the possibility of a differentiation therapy rather than a classical anti-proliferative therapy. Its main function is to help CSCs survive and spread to form metastases, which probably explains why this peptide can be considered as a potential predictive marker for the presence of liver metastasis in colorectal cancer.
+
+
+== hPG80 and oncogenic signaling pathways ==
+
+
+=== Wnt and K-Ras ===
+The first event leading to colon cancer is in 80 to 90% of cases a constitutive activation of the Wnt/β-catenin oncogenic pathway induced by mutations in the APC (Adenomatous polyposis coli) coding gene or the β-catenin coding gene. Mutations induction into normal intestinal stem cells is sufficient to trigger tumorigenesis. GAST gene which encodes hPG80 is activated by the Wnt oncogenic pathway. It is a downstream target of the β-catenin/Tcf-4 signaling pathway.Demonstration of the link between hPG80 and an oncogenic pathway has been described for K-Ras. Cell lines and colon cancer tissues with K-Ras mutations all had significantly higher levels of GAST mRNA than wild type K-Ras. K-Ras effects on GAST expression are produced by activation of the Raf-MEK-ERK signal transduction pathway, final step being activation of the GAST gene promoter.
+Since both K-Ras and the Wnt pathway induce GAST expression, the hypothesis of a possible cooperation between these two pathways to regulate hPG80 expression was investigated. Chakadar and al. found significant synergistic stimulation of the GAST gene promoter (by a factor of 25–40) by a combination of oncogenic β-catenin and K-Ras overexpression. Activation of the GAST gene promoter was also shown to be dependent on other signalling signals: enhanced or suppressed by co-expression of wild-type SMAD4 or by a dominant negative mutant of SMAD4, respectively, and abrogated by inhibition of PI3K. Thus, constitutive activation of the Wnt pathway, considered to be at the onset of tumorigenesis in the colon, and the K-Ras oncogene, present in 50% of human colorectal tumors, synergistically stimulate the production of hPG80, a tumorigenesis promoter. Tumorigenesis induced by activation of the Wnt pathway is partially dependent on hPG80.
+
+
+=== SRC, PI3K/Akt, NF-kB and Jak/Stat ===
+The oncogene pp60 (c-Src) is activated in colon cancer cells and leads to increased amounts of hPG80. This means that hPG80 production, which occurs during early tumorigenesis, could play a role in this activation, which is known as an early event in colon tumorigenesis. The PI3K/Akt pathway, which is particularly involved in proliferation, is also activated by hPG80. NF-kappaB is another important signaling messenger regulated by hPG80. Its involvement in mechanisms responsible for the anti-apoptotic effect of hPG80 has been demonstrated in pancreatic cancer cells in vitro and in vivo in mice overexpressing the GAST gene. JAK2 (Janus-activated kinase 2), STAT3 and kinases increases regulated by extracellular signals have also been observed in the colon mucosa of hGAS mice.
+
+
+=== NOTCH ===
+It has been shown that colon tumor cells which do not express hPG80 return to a "normal" state. This is due to the fact that when the Wnt pathway is inactivated, the JAG1 gene is repressed, inducing inactivation of the Notch pathway which plays a major role in the acquisition of a differentiated cell phenotype.
+
+
+=== p-53 ===
+In 2012, the P53 gene mutation was shown to increase hPG80-dependent colon cells proliferation and colon cancer formation in mice.
+
+
+== hPG80 receptor ==
+An identification of the hPG80 receptor has been the subject of several studies in recent years. However, hPG80 receptor identity remains a real issue in the scientific community. The receptor can activate a number of signaling pathways, either directly or indirectly, which is rather unusual for a receptor. This could indicate a peculiarity of this receptor and why it is difficult to identify it. The unidentified hPG80 receptor transduces a progastrin signal via various intracellular intermediates known to be involved in tumorigenesis.
+High affinity binding sites have been described for the first time in intestinal epithelial cells using recombinant human progastrin iodine. Affinity was in the range of 0.5-1 nM, which is receptor compatible. When biotinylated progastrin binding was evaluated by flow cytometry, strong and specific binding of progastrin to certain cell lines (IEC-6, IEC-18, HT-29, COLO320) was also detected. A specificity of binding was confirmed by competition with cold, unlabelled hPG80, but not with carboxy-terminal glycine-containing gastrin or amidated gastrin-17. Binding was not influenced by the presence of the classical CCK-2 receptor.
+It is clear from these two studies that there is a binding site/receptor for hPG80 that is distinct from binding to gastrin-17 amidated and to gastrin 17 with carboxy-terminal glycine (G17-Gly). The sequence of hPG80 interacting with this receptor is likely located in the last 26 amino acid residues of hPG80 carboxy-terminal end, which have been shown to be sufficient for its function. However, this putative receptor identity is unknown.
+One candidate is Annexin A2, identified as being able of binding progastrin and derived peptides. Annexin A2 is a partial mediator of the effect of progastrin/gastrins. In particular, Annexin A2 mediates NF-kappaB upregulation and β-catenin in response to progastrin in mice and HEK-293 cells. In addition, annexin A2 may be involved in progastrin-dependent clathrin endocytosis. However, progastrin affinity for Annexin A2 is not what would be expected for a specific receptor. And, although Annexin A2 plays a role in progastrin functions, it does not fit a receptor function.
+Another candidate is the G protein-coupled receptor 56 (GPCR56), expressed on both colon stem cells and cancer cells. While human recombinant hPG80 promotes in vitro growth and survival of wild mice colon organoids, those from GPCR56-deficient mice (GPCR56-/-) are resistant to hPG80. However, although hPG80 has been shown to bind to cells expressing GPCR56, authors did not provide direct evidence of a hPG80 bound to GPCR56 itself. GPCR56 is a good candidate, but evidence that it is hPG80 receptor is to this day not established.
+
+
+== Clinical Applications ==
+hPG80 through various mechanisms can be considered as a major promoter of tumorigenesis. hPG80 is found in the plasma of cancer patients and its neutralization induces tumor reversion.
+
+
+=== Screening ===
+
+
+==== Universal biomarker ====
+Colorectal cancer is not the only type of cancer to express hPG80. Its expression has also been demonstrated in ovarian cancers, liver tumors and pancreatic tumors. Thus, several types of tumors express the unmatured peptide. hPG80 can be detected and quantified in the blood of cancer patients. A first demonstration has been made in colorectal cancer showing an increase of hPG80 and non-amide gastrin levels in plasma in these patients compared to a control series (healthy individuals). In addition, an hPG80 increase has been observed in patients with adenomatous polyps. hPG80 is therefore expressed at all stages by the tumor, from early stages to metastasis.
+
+
+==== Multi-cancer detection ====
+hPG80 is found in different tumor types and secreted in vitro by certain cancer cells. A study has shown its presence in the blood of patients with 11 different types of cancer: breast cancer, colorectal cancer, stomach/esophageal cancer, kidney cancer, liver cancer, non-small cell lung cancer, skin melanoma, ovarian cancer, pancreatic cancer, prostate cancer and uterine cancer (endometrial/cervical).
+
+
+=== hPG80 in residual disease surveillance and response to therapy. ===
+Pre- and post-operative plasma assays of hPG80 in colorectal cancer patients show that hPG80 presence reflects tumor production.It has been observed that hPG80 concentrations are increased in patients at risk of developing colorectal carcinoma. In addition, an increase in hPG80 has been observed in hyperplastic polyps that have progressed to cancer.hPG80 may also be a biomarker of liver metastasis in colorectal cancer.In addition, You and al. observed a decrease in hPG80 levels after surgery in a patients cohort with gastrointestinal cancers with peritoneal involvement treated with post-operative chemotherapy and cytoreductive surgery.In addition, earlier detection of small lesions and monitoring of recurrence can be improved by measuring hPG80 levels as a complementary blood biomarker in a cohort of patients with hepatocellular carcinoma treated with local or systemic therapies (Fig. 3). Measured hPG80 levels are relevant in patients for whom alpha-fetoprotein (AFP) is below 20 ng/ml, an established threshold in clinical practice. Depending on disease management, patients in remission have lower levels of hPG80 than those in whom the cancer is still active.
+
+
+== Target to fight cancer ==
+
+
+=== Antibody therapy ===
+To date, no drug is able to target CSCs. Humanized anti-hPG80 antibodies, alone or in combination with chemotherapy, appears to be a promising approach. The use of anti-hPG80 antibodies has also been discussed as a potential treatment in colorectal cancer patients with a mutation in the KRAS gene. Targeting of hPG80 with the humanized anti-hPG80 antibody has been shown:
+1. a decrease in the self-renewal capacity of CSCs of various origins;
+2. prolongation of in vitro and in vivo chemosensitivity and delayed relapse after treatment of T84 xenografted mouse cells;
+3. decreased tumor burden and increased cell differentiation in the remaining tumors in transgenic mice developing Wnt-induced intestinal neoplasia.
+This has recently been confirmed for ovarian, breast, esophageal, liver and gastric cancers making this therapeutic antibody a potential multi-cancer drug.
+
+
+=== Sensitization to radiotherapy ===
+It has been shown that hPG80 is a radioresistant factor that can be targeted to sensitize rectum radiation-resistant cancers. hPG80 decreased expression increases sensitivity to irradiation in colorectal cancer cell lines leading to increased radiation-induced DNA damage and apoptosis. In the same lineage, hPG80 targeting also results in radiation-induced survival pathways inhibition, Akt and ERK.
+
+
+== References ==

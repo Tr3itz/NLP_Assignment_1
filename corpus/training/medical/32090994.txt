@@ -1,0 +1,88 @@
+Computer-aided auscultation (CAA), or computerized assisted auscultation, is a digital form of auscultation. It includes the recording, visualization, storage, analysis and sharing of digital recordings of heart or lung sounds. The recordings are obtained using an electronic stethoscope or similarly suitable recording device.
+Computer-aided auscultation is designed to assist health care professionals who perform auscultation as part of their diagnostic process. Commercial CAA products are usually classified as clinical decision support systems that support medical professionals in making a diagnosis. As such they are medical devices and require certification or approval from a competent authority (e.g. FDA approval, CE conformity issued by notified body).
+
+
+== Benefits of CAA ==
+Compared to traditional auscultation, computer-aided auscultation (CAA) offers a range of improvements beneficial to multiple stakeholders:
+
+CAA can yield more accurate and objective results and is likely to outperform the auscultation skills and subjective interpretation of humans.
+With the use of CAA, auscultation is no longer a method reserved for specialists and physicians. For instance, nurses and paramedics can easily be instructed to use CAA systems correctly on their patients.
+CAA opens up new opportunities for telemedicine. Real-time tele-auscultation can help specialists located anywhere in the world to diagnose rare conditions observed in patients in developing countries or remote areas.
+CAA opens up new opportunities for health monitoring and health management.
+CAA allows analysis findings to be documented electronically. The results can be stored and retrieved as needed and possibly included in electronic patient records.
+Standardized auscultation data derived from CAA can help national payers and providers implement more efficient and cost-effective screening programs.
+CAA can be used for teaching and training purposes with medical and nursing students.
+
+
+== Functional principle ==
+In a CAA system, sounds are recorded through an electronic stethoscope. The audio data is transferred to an electronic device via Bluetooth or an audio cable connection. Special software on that device visualizes, stores and analyzes the data. With some of the more sophisticated CAA systems, the CAA analysis yields results that can be used to objectify diagnoses (decision support system).
+
+
+== Components in a CAA system ==
+The components of a CAA system depend on its complexity. Whereas some of the simpler systems provide only visualization or storage options, other systems combine visualization, storage, analysis and the ability to electronically manage said data.
+
+
+=== Electronic stethoscope ===
+Electronic stethoscopes (also digital stethoscopes) convert acoustic sound waves into digital electrical signals. These signals are then amplified by means of transducers and currently reach levels up to 100 times higher than traditional acoustic stethoscopes. Additionally, electronic stethoscopes can be used to filter out background noise, a feature that can be safety-relevant and facilitate more accurate diagnoses. Whereas sound amplification and filtering are the main functions of an electronic stethoscope, the ability to access the sounds through external means via Bluetooth or audio cables makes them an ideal sound-capturing device for CAA systems.
+
+
+=== Device running Graphical User Interface ===
+Devices that can be used to connect to an electronic stethoscope and record the audio signal (e.g. heart or lung sounds) include PC, laptop and mobile devices like smartphones or tablets. Generally, CAA systems include software that can visualize the incoming audio signal. More sophisticated CAA systems include live noise detection algorithms, designed to help the user achieve the best possible recording quality.
+
+
+=== Analysis software ===
+A key feature of CAA systems is the automated analysis of the recorded audio signals by signal processing algorithms. Such algorithms can run directly on the device used for making the recording, or be hosted in a cloud connected to the device. The degree of autonomy of currently available analysis algorithms varies greatly. While some systems operate fully autonomously, early PC-based systems required significant user interaction and interpretation of results, and other analysis systems require some degree of assistance by the user like manual confirmation/correction of estimated heart rates.
+
+
+=== Storage of auscultation based data ===
+Recorded sounds and associated analytical and patient data can be electronically stored, managed or archived. Patient identifying information might be handled or stored in the process. If the stored data classifies as PHI (protected health information), a system hosting such data must be compliant with country-specific data protection laws like HIPAA for the US or the Data Protection Directive for the EU. Storage options for current CAA systems range from the basic ability to retrieve a downloadable PDF report to a comprehensive cloud-based interface for electronic management of all auscultation-based data.
+
+
+=== Cloud-based user interface ===
+The user can review all their patient records (including replaying the audio files) via a user interface, e.g. via a web-portal in the browser or stand-alone software on the electronic device. Other functionalities include sharing records with other users, exporting patient records and integration into EHR systems.
+
+
+== CAA of the heart ==
+Computer-aided auscultation aimed at detecting and characterizing heart murmurs is called computer-aided heart auscultation (also known as automatic heart sound analysis).
+
+
+=== Motivation ===
+Auscultation of the heart using a stethoscope is the standard examination method worldwide to screen for heart defects by identifying murmurs. It requires that an examining physician have acute hearing and extensive experience. An accurate diagnosis remains challenging for various reasons including noise, high heart rates, and the ability to distinguish innocent from pathological murmurs.
+Properly performed, the auscultatory examination of the heart is commonly regarded as an inexpensive, widely available tool in the detection and management of heart disease. The auscultation skills of physicians, however, have been reported to be declining.
+This leads to missed disease diagnoses and/or excessive costs for unnecessary and expensive diagnostic testing. A study suggests that more than one third of previously undiagnosed congenital heart defects in newborns are missed by their 6-week examination. More than 60% of referrals to medical specialists for costly echocardiography are due to a misdiagnosis of an innocent murmur. CAA of the heart thus has the potential to become a cost-effective screening and diagnostic tool, provided that its underlying algorithms have been clinical tested in stringent, blinded fashions for their ability to detect the difference between normal and abnormal heart sounds.
+
+
+=== Heart murmurs and CAA ===
+Heart murmurs (or cardiac murmurs) are audible noises through a stethoscope, generated by a turbulent flow of blood. Heart murmurs need to be distinguished from heart sounds which are primarily generated by the beating heart and the heart valves snapping open and shut.
+Generally, heart murmurs are classified as innocent (also called physiological or functional) or pathological (abnormal). Innocent murmurs are usually harmless, often caused by physiological conditions outside the heart, and the result of certain benign structural defects. Pathological murmurs are most often associated with heart valve problems but may also be caused by a wide array of structural heart defects.
+Various characteristics constitute a qualitative description of heart murmurs, including timing (systolic murmur and diastolic murmur), shape, location, radiation, intensity, pitch and quality.
+CAA systems typically categorize heart sounds and murmurs as Class I and Class III according to the American Heart Association:
+Class I: pathological murmur
+Class III: innocent murmur or no murmurMore sophisticated CAA systems provide additional descriptive murmur information like murmur timing, grading, or the ability to identify the positions of the S1/S2 heart sounds.
+
+
+=== Heart sound analysis ===
+The detection of heart murmurs in CAA systems is based on the analysis of digitally recorded heart sounds.
+Most approaches use the following four stages:
+
+Heart rate detection: In the first stage, the heart rate is determined based on the audio signal of the heart. It is a crucial step for the following stages and high accuracy is required. Automated heart rate determination based on acoustic recordings is challenging because the heart rate can range from 40-200bpm, noise and murmurs can camouflage the peaks of the heart sounds (S1 and S2), and irregular heartbeats can disturb the quasi-periodic nature of the heartbeat.
+Heart sound segmentation: After the heart rate has been detected, the two main phases of the heartbeat (systole and diastole) are identified. This differentiation is important since most murmurs occur in specific phases during the heartbeat.  External noise from the environment or internal noise from the patient (e.g. breathing) make heart sound segmentation challenging.
+Feature extraction: Having identified the phases of the heartbeat, information (features) from the heart sound is extracted that enters a further classification stage.  Features can range from simple energy-based approaches to higher-order multi-dimensional quantities.
+Feature classification: During classification, the features extracted in the previous stage are used to classify the signal and assess the presence and type of a murmur. The main challenge is to differentiate no-murmur recordings from low-grade innocent murmurs, and innocent murmurs from pathological murmurs. Usually machine-learning approaches are applied to construct a classifier based on training data.
+
+
+=== Clinical evidence of CAA systems ===
+The most common types of performance measures for CAA systems are based on two approaches: retrospective (non-blinded) studies using existing data and prospective blinded clinical studies on new patients.
+In retrospective CAA studies, a classifier is trained with machine learning algorithms using existing data. The performance of the classifier is then assessed using the same data. Different approaches are used to do this (e.g., k-Fold cross-validation, leave-one-out cross-validation).
+The main shortcoming of judging the quality (sensitivity, specificity) of a CAA system based on retrospective performance data alone comes from the risk that the approaches used can overestimate the true performance of a given system. Using the same data for training and validation can itself lead to significant overfitting of the validation set, because most classifiers can be designed to analyse known data very well, but might not be general enough to correctly classify unknown data; i.e. the results look much better than they would if tested on new, unseen patients. “The true performance of a selected network (CAA system) should be confirmed by measuring its performance on a third independent set of data called a test set”. In summary, the reliability of retrospective, non-blinded studies are usually considered to be much lower than that of prospective clinical studies because they are prone to selection bias and retrospective bias. Published examples include Pretorius et al.
+Prospective clinical studies, on the other hand, are better suited to assess the true performance of a CAA system (provided that the study is blinded and well controlled). In a prospective clinical study to evaluate the performance of a CAA system, the output of the CAA system is compared to the gold standard diagnoses. In the case of heart murmurs, a suitable gold standard diagnosis would be auscultation-based expert physician diagnosis, stratified by an echocardiogram-based diagnosis. Published examples include Lai et al.
+
+
+== See also ==
+Ballistocardiography
+Benign paediatric heart murmur
+Heart sounds
+Precordial examination
+
+
+== References ==

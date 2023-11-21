@@ -1,0 +1,71 @@
+Digital pathology is a sub-field of pathology that focuses on data management based on information generated from digitized specimen slides. Through the use of computer-based technology, digital pathology utilizes virtual microscopy. Glass slides are converted into digital slides that can be viewed, managed, shared and analyzed on a computer monitor. With the practice of Whole-Slide Imaging (WSI), which is another name for virtual microscopy, the field of digital pathology is growing and has applications in diagnostic medicine, with the goal of achieving efficient and cheaper diagnoses, prognosis, and prediction of diseases due to the success in machine learning and artificial intelligence in healthcare.
+
+
+== History ==
+The roots of digital pathology go back to the 1960s, when first telepathology experiments took place. Later in the 1990s the principle of virtual microscopy appeared in several life science research areas. At the turn of the century the scientific community more and more agreed on the term ”digital pathology” to denote digitization efforts in pathology. However in 2000 the technical requirements (scanner, storage, network) were still a limited factor for a broad dissemination of digital pathology concepts. Over the last 5 years this changed as new powerful and affordable scanner technology as well as mass / cloud storage technologies appeared on the market. The field of Radiology has undergone the digital transformation almost 15 years ago, not because radiology is more advanced, but there are fundamental differences between digital images in radiology and digital pathology: The image source in radiology is the (alive) patient, and today in most cases the image is even primarily captured in digital format. In pathology the scanning is done from preserved and processed specimens, for retrospective studies even from slides stored in a biobank. Besides this difference in pre-analytics and metadata content, the required storage in digital pathology is two to three orders of magnitude higher than in radiology. However, the advantages anticipated through digital pathology are similar to those in radiology:
+
+Capability to transmit digital slides over distances quickly, which enables telepathology scenarios.
+Capability to access past specimen from the same patients and/or similar cases for comparison and review, with much less effort than retrieving slides from the archive shelfs.
+Capability to compare different areas of multiple slides simultaneously (slide by slide mode) with the help of a virtual microscope.
+Capability to annotate areas directly in the slide and share this for teaching and research.Digital pathology is today widely used for educational purposes in telepathology and teleconsultation as well as in research projects.  Digital pathology allows to share and annotate slides in a much easier way and to download annotated lecture sets generates new opportunities for e-learning and knowledge sharing in pathology. Digital pathology in diagnostics is an emerging and upcoming field.
+
+
+== Environment ==
+
+
+=== Scan ===
+Digital slides are created from glass slides using specialized scanning machines. All high quality scans must be free of dust, scratches, and other obstructions.  There are two common methods for digital slide scanning, tile-based scanning and line-based scanning. Both technologies use an integrated camera and a motorized stage to move the slide around while parts of the tissue are imaged. Tile scanners capture square field-of-view images covering the entire tissue area on the slide, while line-scanners capture images of the tissue in long, uninterrupted stripes rather than tiles. In both cases, software associated with the scanner stitch the tiles or lines together into a single, seamless image.
+Z-stacking is the scanning of a slide at multiple focal planes along the vertical z-axis.
+
+
+=== View ===
+Digital slides are accessible for viewing via a computer monitor and viewing software either locally or remotely via the Internet. An example of an open-source, web-based viewer for this purpose implemented in pure JavaScript, for desktop and mobile, is the OpenSeadragon viewer. QuPath is  another such open source software, which is often used for digital pathology applications because it offers a powerful set of tools for working with whole slide images. OpenSlide, on the other hand is a C library (Python and Java bindings are also available) that provides a simple interface to read and view whole-slide images.
+
+
+=== Manage ===
+Digital slides are maintained in an information management system that allows for archival and intelligent retrieval.
+
+
+=== Network ===
+Digital slides are often stored and delivered over the Internet or private networks, for viewing and consultation.
+
+
+=== Analyze ===
+Image analysis tools are used to derive objective quantification measures from digital slides. Image segmentation and classification algorithms, often implemented using Deep Learning neural networks, are used to identify medically significant regions and objects on digital slides. A GPU acceleration software for pathology imaging analysis, cross-comparing spatial boundaries of a huge amount of segmented micro-anatomic objects has been developed. The core algorithm of PixelBox in this software has been adopted in Fixstars’ Geometric Performance Primitives (GPP) library as a part of NVIDIA Developer , which is a production geometry engine for advanced graphical information systems, electronic design automation, computer vision and motion planning solutions .
+
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Integrate ===
+Digital pathology workflow is integrated into the institution's overall operational environment. Slide digitization is expected to reduce the number of routine, manually reviewed slides, maximizing workload efficiency.
+
+
+=== Sharing ===
+Digital pathology also allows internet information sharing for education, diagnostics, publication and research. This may take the form of publicly available datasets or open source access to machine learning algorithms.
+
+
+== Challenges ==
+Digital pathology has been approved by the FDA for primary diagnosis. The approval was based on a multi-center study of 1,992 cases in which whole-slide imaging (WSI) was shown to be non-inferior to microscopy across a wide range of surgical pathology specimens, sample types and stains. While there are advantages to WSI when creating digital data from glass slides, when it comes to real-time telepathology applications, WSI is not a strong choice for discussion and collaboration between multiple remote pathologists. Furthermore, unlike digital radiology where the elimination of film made return on investment (ROI) clear, the ROI on digital pathology equipment is less obvious. The strongest ROI justification includes improved quality of healthcare, increased efficiency for pathologists, and reduced costs in handling glass slides.
+
+
+=== Validation ===
+Validation of a digital microscopy workflow in a specific environment (see above) is important to ensure high diagnostic performance of pathologists when evaluating digital whole-slide images. There are different methods that can be used for this validation process. The College of American Pathologists has published a guideline with minimal requirements for validation of whole slide imaging systems for diagnostic purposes in human pathology.
+
+
+== Potential ==
+Trained pathologists traditionally view tissue slides under a microscope. These tissue slides may be stained to highlight cellular structures. When slides are digitized, they are able to be shared through tele-pathology and are numerically analyzed using computer algorithms. Algorithms can be used to automate the manual counting of structures, or for classifying the condition of tissue such as is used in grading tumors. They can additionally be used for feature detection of mitotic figures, epithelial cells, or tissue specific structures such as lung cancer nodules, glomeruli, or vessels, or estimation of molecular biomarkers such as mutated genes, tumor mutational burden, or transcriptional changes. This has the potential to reduce human error and improve accuracy of diagnoses. Digital slides can be easily shared, increasing the potential for data usage in education as well as in consultations between expert pathologists. Multiplexed imaging (staining multiple markers on the same slide) allows pathologists to understand finer distribution of cell-types and their relative locations. An understanding of the spatial distribution of cell-types or markers and pathways they express, can allow for prescription of targeted drugs or build combinational therapies in a personalized manner.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==

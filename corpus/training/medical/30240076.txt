@@ -1,0 +1,17 @@
+Cortical pseudolaminar necrosis, also known as cortical laminar necrosis and simply laminar necrosis, is the (uncontrolled) death of cells in the (cerebral) cortex of the brain in a band-like pattern, with a relative preservation of cells immediately adjacent to the meninges.
+It is seen in the context of cerebral hypoxic-ischemic insults, e.g. status epilepticus, strokes.Histologically, grey matter is more vulnerable than white matter to necrosis due to lack of oxygen. The third layer of the grey matter is the most vulnerable. Damage is greater in the sulci when compared to gyri of the brain.When seen on CT scan, it shows hyperdensity in the surface of the cortex. Cortical enhancement is seen after two weeks, with maximum intensity at one to two months, and resolved after six months.On MRI scan, early changes show low T1 intensity due to ischemic changes. There is high T1 intensity due to accumulation of neuronal damage, reactive tissue changes, and deposition of fat-laden macrophages.
+
+
+== See also ==
+Cardiovascular disease
+Reactive astrocyte
+status epilepticus
+Stroke
+
+
+== References ==
+
+
+== External links ==
+Hypoxic-ischemic encephalopathy - principles (neuropathology-web.org)
+Laminar necrosis on MRI (rochester.edu)

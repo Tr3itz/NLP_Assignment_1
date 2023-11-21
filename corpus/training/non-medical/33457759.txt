@@ -1,0 +1,67 @@
+An electrical burn is a burn that results from electricity passing through the body causing rapid injury. Approximately 1000 deaths per year due to electrical injuries are reported in the United States, with a mortality rate of 3-5%. Electrical burns differ from thermal or chemical burns in that they cause much more subdermal damage. They can exclusively cause surface damage, but more often tissues deeper underneath the skin have been severely damaged. As a result, electrical burns are difficult to accurately diagnose, and many people underestimate the severity of their burn. In extreme cases, electricity can cause shock to the brain, strain to the heart, and injury to other organs.For a burn to be classified as electrical, electricity must be the direct cause. For example, burning a finger on a hot electric steam iron would be thermal, not electrical. According to Joule's first law: electricity passing through resistance creates heat, so there is no current entering the body in this type of burn. Likewise, a fire that is ruled to be "electrical" in origin, does not necessarily  mean that any injuries or deaths are due to electrical burns. Unless someone was injured at the exact moment that the fire began, it is unlikely that any electrical burns would occur.
+
+
+== Causes ==
+Electrical burns can be caused by a variety of ways such as touching or grasping electrically live objects, short-circuiting, inserting fingers into electrical sockets, and falling into electrified water. Lightning strikes are also a cause of electrical burns, but this is a less common event.
+With the advances in technology, electrical injuries are becoming more common and are the fourth leading cause of work-related traumatic death. One third of all electrical traumas and most high-voltage injuries are job related, and more than 50% of these injuries result from power line contact.Electrical burns can be classified into six categories, and any combination of these categories may be present on an electrical burn victim:
+
+Low-voltage burn. A burn produced by contact with a power source of 500 volts or less is classified as a low-voltage burn. The current at this voltage is not enough to cause tissue damage along its path except at the contact site. This type of burn may be mild, superficial, or severe depending on the contact time.
+High voltage burn. This burn is very severe as the victim makes direct contact with the high voltage supply and the damage runs its course throughout the body. Exterior injuries are misleading as most of the damage occurs underneath the skin. In this case, subdermal tissues are severely damaged.
+Arc burn. This type of burn occurs when electrical energy passes from a high-resistance area to a low-resistance area. No contact is required with an arc burn as the electricity ionizes air particles to complete the circuit. The heat generated can be as high as 4,000 °C (7,200 °F) — hotter than the boiling points of several metals and certainly hot enough to ignite a victim's clothing. A form of explosion dissipates excess energy from the arc. In addition, a high-current arc can produce a pressure wave blast in excess of 1,000 pounds per square inch (6,900 kPa) of pressure. This can throw the victim and cause severe injuries.
+Flash burn. Flash burns are caused by electrical arcs that pass over the skin. The intense heat and light of an arc flash can cause severe burns in a fraction of a second. Although the burns can cover a large area of skin, they are largely superficial and the tissues beneath the skin are generally undamaged and unaffected. This typically occurs when the frequency of the AC current is significantly higher than the 50 or 60 Hz used in land-based electrical distribution systems (such as in aircraft).
+Flame burn. Flame burns are caused by contact to objects that were ignited by an electrical source when associated with flash and arc burns.
+Oral burns. This is caused by biting or sucking on electrical cords, and it most commonly happens to children. Electric current typically passes from one side of the child's mouth to the other, possibly causing deformity.
+
+
+== Pathophysiology ==
+Four electrical factors determine the severity of the damage caused by electrical burns: voltage, current, resistance, and frequency. The severity of the burn also depends on the pathway the current takes through the body. Generally, the pathway of the current will follow the course of the least resistant tissues: firstly blood vessels, nerves, and muscle, then skin, tendon, fat, and bone. Most commonly, electric injuries primarily damage the outer limbs, but more critical portions of the body may be affected as well causing severe complications.As the body comes into contact with an electrical source, it becomes part of the electrical circuit. As such, the current has a point of entry and an exit at two different points on the body. The point of entry tends to be depressed and leathery whereas the exit wound is typically more extensive and explosive. It is hard to accurately diagnose an electrical burn because only the entry and exit wounds are visible and the internal damage is not.
+
+
+== Prevention ==
+
+
+=== Basic electrical safety ===
+The following are some examples of unsafe practices which could lead to electric injury (this list is not exhaustive.):
+Using electrical appliances while wet (showering, bathing, etc.) as plumbing is often connected to electrical ground, and wet skin loses much of its resistance. Exception for newer quality appliances intended for the bathroom when not simultaneously showering, bathing, being in a path of water going to plumbing, or touching bare concrete or sheet metal. Standing on a dry carpet or rug is ideal.
+All power mains outlets should have a wall cover to avoid accidentally touching the electrified sides between the wall and outlet. This is especially important for children, as their small fingers can easily reach into this gap along the sides.
+Using AC electrical appliances around bathtubs, swimming pools, hot tubs, etc. with the risk that the appliance may fall into the water and cause electrocution. Only battery-operated devices are safe.Failure to use child safety plugs in all outlets, and to keep children away from electrical cords.
+Adjusting prongs of an electrical cord that are too wide or narrow them with your fingertips while simultaneously plugging the cord into the power mains. The power plug used in the UK and some Commonwealth countries provides limited protection (Type G, with the lower half of the live prongs insulated), but all others do not.
+Not following manufacturer safety instructions for electrical appliances. This includes not using and immediately unplugging any appliance with a damaged electrical cord. If this cannot be done safely (i.e. damage is too close to the plug), the circuit breaker should be turned off beforehand.
+Touching metallic areas of an AC electrical appliance while also simultaneously touching faucets, water pipes, another metallic AC appliance, or being even partly immersed in water (including wet feet). This could ground the body through metal or water, with the risk that a faulty appliance is electrically "hot" on its outside cover or chassis.
+Not installing Ground Fault Circuit Interrupter (GFCI) outlets or circuit breakers in all areas with plumbing, bare concrete flooring, exposed to the elements, or outdoors by a qualified electrician. (Many newer homes already have these devices pre-installed.) Running an extension cord from non-GFCI areas such as bedrooms and hallways defeats this safety feature. Oral burns (above) cannot be prevented by GFCI.
+At poolside, not having a non-metallic fiberglass pole or net on hand to pull someone to safety in case the pool water is electrified, and the victim is still conscious. Furthermore, to not know where the circuit breakers for the pool are located.
+Failure to install a "feed-through" type GFCI to all electrical devices that are an integral part of a Swimming pool, or not testing it weekly. This is a particular concern due to the use of electric lights and pumps where persons are immersed in water. The GFCI has the typical "test" and "reset" buttons, but no plug-in outlets. A 12-volt system is safer, though not foolproof, as it is ultimately connected to the 120/240 volt power mains. Most electrocutions come from incorrectly grounded or bonded lights. This can send electric current through a pool light even if it is not turned on.
+Using an ordinary vacuum cleaner in wet or damp areas. Only a "wet vac" is suitable for this purpose. Overfilling its collection container is also unsafe.
+Not double checking polarity before doing a jump start, or attempting a jump on a frozen battery. Although 12-volt batteries used in vehicles are at a safe voltage, a short circuit can still cause various types of burns and an explosion.
+Failure to replace high-risk appliances of decades past with new ones (hand-held corded electric drills, blow dryers, etc.)
+Not inquiring about the voltage when traveling abroad for those residing in the Americas, Japan, and Taiwan (countries with 110-125 volts). This includes inter-American travel, as a few countries commonly use 220-240 volts. A matching electrical socket (power mains) does not necessarily mean the voltage is the same as one's home country. The doubling of voltage results in a very dangerous four-fold increase in power and heat. Not checking that dual-voltage small appliances have been adjusted correctly for 220-240 volts is also unsafe.
+Going near or under a downed power line, even if there's no direct contact with the wire. Also, not remaining inside your vehicle and waiting for rescue should a power line fall on it.
+See also Lightning safety
+
+
+== Treatment ==
+
+
+=== First aid ===
+An electrically burned patient should not be touched or treated until the source of electricity has been removed. Electrical injuries often extend beyond burns and include cardiac arrhythmia, such as ventricular fibrillation. First aid treatments include assessment of consciousness of the victim, evaluation of pulse and circulation, and treatment of burns.
+
+
+=== Hospitalization ===
+Typically, an electrical burn patient has a lower affected body surface area than other burn patients, yet complication risks are much higher due to internal injury. Often, the damaged internal tissue demands hospitalization. If not treated, this damaged tissue can cause complications (such as gaseous gangrene from dead tissue or loss of blood flow to limbs) and the damaged body parts may need to be amputated.  Repeated removal of the damaged tissue and extensive rehabilitation are common, while limb amputation rates for victims who experience direct electrical contact can be as high as 75%. Burn treatment for severe wounds may require skin grafting, debridement, excision of dead tissue, and repair of damaged organs.
+
+
+=== Rehabilitation ===
+Electrical burning has an effect on most vital body functions and is accompanied by several other electrical related injuries:
+
+Damage to the veins and arteries which can cause ischaemic necrosis.
+Involuntary contraction of muscles due to electrical interference which can cause bone fractures and dislocations.
+Interference with the electrical conductivity of organs such as the heart and nerves. This can lead to seizures, lung injury due to severe central nervous system damage, and cardiac arrest.
+Forceful propulsion of the body, producing such injuries as spinal and limb fractures.These injuries must be treated in addition to the burns themselves. In very rare instances, a high voltage electric shock can cause cataracts in the lens of the eyes, and detachment of the retina. This may be delayed for some days or weeks after the initial injury.
+
+
+== See also ==
+Electric shock
+Electrocution
+
+
+== References ==

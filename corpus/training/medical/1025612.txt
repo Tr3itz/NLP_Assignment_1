@@ -1,0 +1,21 @@
+AbioCor  was a total artificial heart (TAH) developed by the Massachusetts-based company AbioMed. It was fully implantable within a patient, due to a combination of advances in miniaturization, biosensors, plastics and energy transfer. The AbioCor ran on a rechargeable source of power. The internal battery was charged by a transcutaneous energy transmission (TET) system, meaning that no wires or tubes penetrated the skin, reducing the risk of infection. However, because of its size, this heart was only compatible with men who had a large frame. It had a product life expectancy of 18 months.AbioCor was surgically introduced into 15 total patients, 14 of them during a clinical trial and one after FDA approval. However, due to insufficient evidence of its efficacy, AbioMed abandoned further development of the product.
+
+
+== History ==
+AbioMed was founded by Param Singh and David Lederman. The company began development of the AbioCor device in the 1990s, beginning animal studies in 1998 in preparation to demonstrate readiness for formal clinical trials in humans. On January 30, 2001, the FDA granted AbioMed an investigational device exemption (IDE) for implantation into humans via a clinical trial. This opened the door for the first implantation of the AbioCor into Robert Tools on July 2, 2001. He lived for 151 days before having a fatal cerebrovascular accident. Time magazine awarded the AbioCor its Invention of the Year award in late 2001.The second patient, Tom Christerson, who was given less than a 20 percent chance of surviving 30 days at the time of his surgery, lived for 512 days after receiving the AbioCor, dying on February 7, 2003, due to the wearing out of an internal membrane of the AbioCor. An additional 12 patients had the device implanted into 2004, resulting in an average life span of less than five months among all 14 patients. In some cases the device extended survival by several months, allowing the patients to spend valuable time with family and friends. In two cases, the device extended survival by 10 and 17 months respectively, and one patient was discharged from the hospital to go home. For a patient to be eligible for implantation with the AbioCor, the person must have had severe heart failure (with failure of both ventricles) and had to be likely to die within two weeks without transplantation.Though the device was initially rejected by FDA Circulatory System Devices Panel in 2005 for Humanitarian Device Exemption (HDE) status, it was eventually approved by the Food and Drug Administration on September 5, 2006, for HDE status. However, only one patient received the AbioCor after approval, a "76-year-old man with congestive heart failure, who did not qualify for a heart transplant."In August 2012, key AbioCor researcher and developer David Lederman died from pancreatic cancer.The company also had plans to improve the AbioCor with a second version based upon the AbioCor ventricles and the Penn State energy converter. It was expected to last for five years, more than triple the life expectancy of AbioCor. The company stated it would be 30 percent smaller than the original model, and it could be implanted in smaller men and women. Additional modifications were planned to reduce the patient's risk of stroke, which was a concern of the FDA. As of March 2016, AbioCor II has not come to fruition, however. Additionally, the AbioCor product has been removed from the AbioMed website, with several news agencies reporting in 2015 that the company had quietly abandoned further development of the device.In 2019, Abiomed was marketing the Impella Ventricular Support Systems, left-side heart pump models "intended to help pump blood in patients who need short-term support (up to 6 days)".
+
+
+== In popular culture ==
+The AbioCor heart is featured in the 2009 film Crank: High Voltage, when it is transplanted into the main character Chev Chelios's (Jason Statham) chest after he had been abducted by Chinese mobsters in the very beginning of the movie. However, the heart depicted in the film has a much lower battery life but gives Chev superhuman athleticism when fully charged (for dramatic purposes). The model of the heart in the movie is called AviCor.
+
+
+== See also ==
+Gus Rosenberg
+
+
+== References ==
+
+
+== External links ==
+AbioMed FAQ (PDF)
+2006 FDA Approval Press Release

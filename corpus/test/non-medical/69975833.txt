@@ -1,0 +1,18 @@
+The oxhydroelectric effect consists in the generation of voltage and electric current in pure liquid water, without any electrolyte, upon exposure to electromagnetic radiation in the infrared range, after creating a physical (not chemical) asymmetry in liquid water e.g. thanks to a strongly hydrophile polymer, such as Nafion.Since the publication of the first seminal research, other independent research has been published, which refer to this effect, in scientific peer reviewed, reputable journals (with  impact factors higher than the median in the respective fields).The system can be described as a photovoltaic cell operating in the infrared electromagnetic range, based on liquid water instead of a semiconductor.
+
+
+== Theoretical model ==
+The model proposed by Roberto Germano and his collaborators, who have first observed the effect  is based on the known concept of the exclusion zone.
+The first observations of a different behaviour of water molecules close to the walls of its container date back to late ‘60s and early ‘70s, when Drost-Hansen, upon reviewing many experimental articles, came to the conclusion that interfacial water shows structural difference with respect to the bulk liquid water.In 2006 Gerald Pollack published a seminal work on the exclusion zone  and those observations were subsequently reported by several other groups, in which a hydrophilic material creates a coherent water region at the boundary between its surface and the water.
+Further elaborating on the work of Pollack, the model describes liquid water as a system made of two phases: a matrix of non-coherent water molecules hosting many “Coherence Domains” (CDs), about 0.1 um in size, found in the exclusion zone, but also in the bulk volume.
+In this model the behaviour of the coherence domains is also considered as the cause for the formation of xerosydryle.
+The two phases, are characterized by different thermodynamic parameters, and are in a stable non-equilibrium state.
+The coherent phase should be described by a quantum state, and in particular a state oscillating between a fundamental state, where electrons are firmly bound (ionization energy of 12.60 eV), and an excited state characterized by a quasi-free electron configuration. The energy of the excited state is 12.06 eV, which means that only a small amount of energy as small as (12.60 - 12.06) eV = 0.54 eV (Infrared range) is sufficient to extract an electron.
+Then, at a fixed temperature and for molecules density exceeding a threshold, the transition of the non-coherent water molecules to the coherence state is spontaneous because it is driving the system to a lower energy configuration. 
+More exactly, the almost free electrons have to cross an energy barrier of (0.54 - Χ) eV, where Χ ~ 0.1 eV is the electric potential difference at the CD boundary with the non-coherent water. 
+This small amount of energy, ~ 0.44 eV, necessary for the electron extraction, makes the coherent water a reservoir of quasi-free electrons that can be easily released by Infrared stimulation, or quantum tunnel effect or by small external perturbation.
+The two water phases, with their different potentials behave as the two components of a photovoltaic cell  based on semiconductors.
+Then, in the cell described in the patent, one of the two sectors has sheets of hydrophilic material, which create (more) coherent domains in that sector, with respect to the other sector.
+
+
+== Notes ==

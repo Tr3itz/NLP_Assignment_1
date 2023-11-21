@@ -1,0 +1,24 @@
+Diffusing Alpha-emitters Radiation Therapy or DaRT is an alpha-particle-based radiation therapy for the treatment of solid tumors.This therapy was developed at Tel Aviv University in Israel, by Professors Itzhak Kelson and Yona Keisari. The treatment is delivered by the intratumoral insertion of metal tubes called “seeds”, which have Radium-224 atoms fixed to their surface. When the radium decays, its short-lived daughter Radon-220 is released from the seed through recoil energy. The daughters of Radon-220, in particular Pb-212, disperse in the tumor, and emit high-energy alpha particles, which destroy the tumor. Because the alpha-emitting atoms diffuse only a few millimeters in tissue, the DaRT eradicates the tumor cells and spares the surrounding healthy tissue.
+
+
+== Alpha radiation ==
+Alpha radiation is a nuclear phenomenon in which a heavy radionuclide emits an energetic alpha particle (consisting of two protons and two neutrons) and transmutes to a different radionuclide. The emitted alpha particle has a range in tissue of only 40-90 microns, which minimizes collateral damage when used for treatment purposes. However, this also limits its ability to destroy tumors that are many millimeters in diameter. Alpha radiation possesses a potent cell-killing capability because it has a high linear energy transfer (LET) which translates into a high Relative Biological Effectiveness (RBE).
+
+
+=== Treatment of cancer ===
+The invention of DaRT makes possible the use of alpha radiation for treating solid tumors, because it overcomes the range limitation of alpha particles in tissue. The daughter atoms of Radium-224 can each diffuse several millimeters in tumor tissue, while emitting alpha particles. The tumor-killing capability of DaRT comes mainly from the ability of alpha radiation to irreparably break the double stranded DNA in tumor cells. This capability does not seem to be dependent on the stage of the cell cycle or the level of oxygenation of the cancer cell.
+
+
+== Preclinical studies in multiple tumor types ==
+Preclinical studies have demonstrated that DaRT can effectively damage all solid tumor types. Studies of 10 different tumor types in mice demonstrated that all responded to DaRT.
+
+
+== Combination therapy of DaRT with either chemotherapy or immunotherapy ==
+In preclinical studies, DaRT effectiveness was enhanced when combined with standard chemotherapies such as 5-FU. In addition, DaRT was able to turn the tumor into its own vaccine and stimulate a systemic anti-tumor immune response. This immune response was effectively augmented by addition of immunostimulants and/or inhibitors of immunosuppressive cells. This immune effect was observed not only as enhanced local tumor destruction at the primary tumor site, but also by elimination of tumor metastases in the lungs.  These results suggest that DaRT combined with immunotherapy induces a tumor-specific systemic immune response.
+
+
+== Treatment of solid tumors in human patients with DaRT ==
+The first results of the DaRT in human patients, from a pilot study of 28 patients by Prof. Popovtzer (Israel) and Dr. Bellia (Italy), were published in 2020. From among this cohort of elderly patients (median age, 80.5 years), 61% had recurrent and previously treated tumors, including 42% who were radioresistant from prior therapy. Patients were diagnosed with histopathologically confirmed squamous cell carcinoma of the skin or head and neck. One-hundred percent of tumors responded to DaRT, with complete responses occurring in greater than 78% of cases, and no major toxicity was noted.  Thirty days after treatment, there was no measurable radioactivity in the blood or urine of patients. Additional studies in larger populations are now ongoing to strengthen support regarding the safety and effectiveness of this technique of intratumoral alpha radiation-based tumor ablation.
+
+
+== References ==

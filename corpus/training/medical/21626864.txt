@@ -1,0 +1,207 @@
+Electrical cardiometry is a method based on the model of Electrical Velocimetry, and non-invasively measures stroke volume (SV), cardiac output (CO), and other hemodynamic parameters through the use of 4 surface ECG electrodes.  Electrical cardiometry is a method trademarked by Cardiotronic, Inc., and is U.S. FDA approved for use on adults, children, and neonates.
+
+
+== Overview ==
+The method of electrical cardiometry requires the use of 4 ECG electrodes, 2 attached to the left side of the neck and 2 attached at the lower thorax.
+An electrical alternating current (AC) of constant amplitude is applied via the pair of outer electrodes toward the thorax and in particular the ascending and descending aorta.
+Current is directed toward the aorta because blood is the most conductive material in the thorax.
+The ratio of applied current and measured voltage equals the conductivity (or bioimpedance), which is recorded over time.
+The steep increase in conductivity seen beat to beat is attributed to the orientation of red blood cells.  The time when the slope is most steep is directly related to the peak aortic blood acceleration.
+Electrical cardiometry is similar to impedance cardiography in the fact that both methods measure thoracic electrical bioimpedance (TEB).  The methods differ from what phenomenon is responsible for the steep increase in TEB per heart beat.
+
+
+== Theory ==
+The measured bioimpedance over time can be expressed as the superposition of three components:
+
+  
+    
+      
+        Z
+        (
+        t
+        )
+        =
+        
+          Z
+          
+            0
+          
+        
+        +
+        Δ
+        
+          Z
+          
+            R
+          
+        
+        +
+        Δ
+        
+          Z
+          
+            C
+          
+        
+      
+    
+    {\displaystyle Z(t)=Z_{0}+\Delta Z_{R}+\Delta Z_{C}}
+  where Z0 is the quasi-static portion of the electrical impedance (base impedance), ΔZR are the changes of impedance due to the respiratory cycle, and ΔZC are the changes of impedance due to the cardiac cycle.  ΔZR is considered an artifact akin to the estimation of stroke volume and is therefore suppressed. Exclusion of derived volumetric data may diminish the overall product.
+The timely measurement of ΔZC (dZ(t)) reveals a waveform with shape similar to an arterial pressure waveform.  The calculated first time derivative of dZ(t) is the 
+  
+    
+      
+        
+          
+            
+              d
+              Z
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dZ(t)}{dt}}}
+   waveform, which contains landmarks that allow determination of left-ventricular ejection time (LVET) and peak aortic blood acceleration.  The peak aortic blood acceleration occurs at the steepest slope of the dZ(t) waveform, and at the peak of the 
+  
+    
+      
+        
+          
+            
+              d
+              Z
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dZ(t)}{dt}}}
+   waveform.
+
+
+=== Electrical velocimetry ===
+Electrical velocimetry (EV) is the model upon which electrical cardiometry is based.  EV is based on the fact that the conductivity of the blood in the aorta changes during the cardiac cycle.  EV was developed by Dr. Bernstein and Dr. Osypka in 2001, as a new model for interpreting the bioimpedance signals of the thorax.
+Prior to opening of the aortic valve, the red blood cells (erythrocytes) assume a random orientation (there is no blood flow in the aorta).  When the electric current is applied from the outer electrodes, the current must circumference these red blood cells, therefore resulting in a higher voltage measurement, and thus, a lower conductivity.  Shortly after aortic valve opening, the pulsatile blood flow forces the red blood cells to align in parallel with the blood flow.  When the electric current is then applied, it is able to easily pass the red blood cells in the aorta resulting in a lower voltage, and thus, a higher conductivity.  The change from random orientation to alignment of red blood cells upon opening of aortic valve generates a characteristic steep increase of conductivity or dZ(t) (corresponding to a steep decrease of impedance) – beat to beat.The model considers the peak amplitude of 
+  
+    
+      
+        
+          
+            
+              d
+              Z
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dZ(t)}{dt}}}
+   divided by the base impedance Z0 as an index for peak aortic acceleration, and as an index of contractility of the heart, or ICON.  The general equation for estimating stroke volume by means of thoracic electrical bioimpedance calculates the product of a patient constant CP (in ml), the mean blood velocity index 
+  
+    
+      
+        
+          
+            
+              v
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {v}}}
+  FT (measured in s−1 during flow time, and FT (flow time measured in s):
+  
+    
+      
+        S
+        
+          V
+          
+            T
+            E
+            B
+          
+        
+        =
+        
+          C
+          
+            P
+          
+        
+        ⋅
+        
+          
+            
+              
+                v
+                ¯
+              
+            
+          
+          
+            F
+            T
+          
+        
+        ⋅
+        F
+        T
+      
+    
+    {\displaystyle SV_{TEB}=C_{P}\cdot {\bar {v}}_{FT}\cdot FT}
+  
+The model of electrical velocimetry derives the mean blood velocity index 
+  
+    
+      
+        
+          
+            
+              v
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {v}}}
+  FT from the measured index for peak aortic acceleration ICON.  The higher the mean blood velocity during flow time, the more SV the left ventricle ejects.  The 'volume of electrically participating tissue' (VEPT) is used as the patient constant.  The VEPT is derived primarily from the body mass.
+
+
+== Comparisons ==
+
+
+=== Impedance Cardiography ===
+Impedance cardiography is a method of non-invasively monitoring hemodynamics, through the use of 4 dual sensors placed on the neck and chest.  Both Impedance cardiography and Electrical Cardiometry derive SV and CO from measurements of TEB, but the underlying model is what differs.  The Impedance Cardiography model contributes the rapid change of bioimpedance which occurs shortly after aortic valve opening to the expansion of the compliant ascending aorta, assuming that more blood volume temporarily stored in the ascending aorta contributes to a decrease in bioimpedance (or an increase in conductity of the thorax).  The underlying model never proved accurate in patients with small cardiac outputs, hence it was never U.S. FDA approved for use in children or neonates.
+
+
+== Parameters ==
+The electrical and impedance signals are processed, and then utilized to measure and calculate hemodynamic parameters such as cardiac output, stroke volume, systemic vascular resistance, thoracic fluid index, ICON (index of contractility), and systolic time ratio.
+
+
+== References ==

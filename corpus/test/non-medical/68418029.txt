@@ -1,0 +1,13 @@
+A smart plug is a power plug and socket (also known as a wall plug, outlet, or electrical connector) which can be fitted between power cords and sockets to function as a remote-controlled power switch. As such, smart plugs can be used to make "dumb" electrical equipment smart, and thereby enable such devices for home automation or building automation purposes.Smart plugs can, for example, be controlled via a mobile application, a smart home hub or a virtual assistant. Examples of protocols used for communication with smart plugs include Wi-Fi, Bluetooth, Zigbee and Z-Wave. Many smart plugs have a built-in ammeter so that electric energy consumption (measured in kilowatt-hours) of the connected equipment can be monitored. Smart plugs often have a slim profile so as not to hinder access to neighbouring sockets in a wall outlet or power strip.
+
+
+== See also ==
+Wireless light switch
+Time switch
+
+
+== References ==
+
+
+== External links ==
+TP-LINK HS100 Wi-Fi Smart Plug Review

@@ -1,0 +1,25 @@
+The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial, also known as ALLHAT, was a  randomized, double-blind, active-controlled study comparing at the same time, four different classes of antihypertensive drugs with the rate of coronary heart disease (CHD) events in ‘high-risk’ people with hypertension. Participants were initially randomised to chlorthalidone (diuretic) versus doxazosin (alpha-adrenergic blocker), lisinopril (ACE-inhibitor), and amlodipine (calcium channel blocker).The doxazosin arm was discontinued early on in the trial because of a higher rate of combined cardiovascular events and admissions for heart failure compared with chlorthalidone. The study concluded that major CHD events did not differ between initial use of chlorthalidone versus lisinopril or amlodipine. As a result, the Joint National Committee (7) guidelines of 2003, recommended the cheaper but equally effective diuretics as a first line treatment for hypertension. The study also confirmed the previously held views that ACE inhibitors were less effective in blood pressure control and stroke prevention in men of African and Caribbean descent.
+
+
+== Background ==
+By the mid-1990s, there was increasing awareness of the relative reduction of risks for stroke and CHD with lowering blood pressure, and the main drugs in use were initially diuretics and beta-blockers. Shortly after, other newer classes of blood pressure lowering drugs were developed and the ALLHAT study aimed to clarify their relative values with the aim to also answer which one to use first.The trial was supported mainly by the National Heart, Lung and Blood Institute, part of the National Institutes of Health (NIH), and received some support from Pfizer.
+
+
+== The Coordinating Center for Clinical Trials ==
+Since 1971, the Coordinating Center for Clinical Trials ([1]) at The University of Texas School of Public Health has played a leading role in cardiovascular disease and vision research by serving as a coordinating center for 25 nationwide multicenter clinical trials. The CCCT's primary function is to provide and coordinate all operations, procedures, and activities of a large-scale randomized controlled clinical trial. The CCCT serves as the Clinical Trials Center (Data and Clinical Coordinating Centers) for the ALLHAT. The CTC was led by C. Morton Hawkins (1993-2000) and Barry R. Davis (2000-2016).
+
+
+== Design ==
+In February 1994, initially 42,418 people, age over 55 years, with stage I or II hypertension or who were taking medication for high blood pressure were recruited across 623 centres in Canada, Puerto Rico, the US, and the US Virgin Islands. All had at least one other CHD risk factor including previous heart attack or stroke, electrocardiogram or echocardiogram verified left ventricular hypertrophy (LVH), a history of type II diabetes mellitus, current cigarette smoking, and low high-density lipoprotein cholesterol levels. 35% were African American. The doxazosin arm was discontinued in January 2000 because of a higher rate of combined cardiovascular events and admissions for heart failure compared with chlorthalidone. Follow-up of the remaining 33,357 participants was completed in 2002.
+
+
+== Results ==
+ALLHAT showed that major CHD events did not differ between initial use of chlorthalidone versus lisinopril or amlodipine. As diuretics proved equally effective and were cheaper, the Joint National Committee 7 guidelines of 2003, recommended diuretics as a first line treatment for hypertension. The study confirmed the previously held views that ACE inhibitors were less effective in blood pressure control and stroke prevention in men of African and Caribbean descent. The study also revealed that calcium channel blockers did not cause higher rates of gastrointestinal bleeding or cancers and they were not less effective than other antihypertensives.
+
+
+== References ==
+
+
+== Further reading ==
+"Validation of Heart Failure Events in the Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) Participants Assigned to Doxazosin and Chlorthalidone". Current Control Trials Cardiovascular Medicine. Vol. 3, Issue 1 (14 November 2002). doi:10.1186/1468-6708-3-10. Piller LB, Davis BR, Cutler JA, et al.
+The Seventh Report; Prevention, Detection, Evaluation, and Treatment of High Blood Pressure . National Heart, Lung, and Blood Institute (2003)

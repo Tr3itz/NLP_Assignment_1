@@ -1,0 +1,22 @@
+Ecoinformatics, or ecological informatics, is the science of information in ecology and environmental science. It integrates environmental and information sciences to define entities and natural processes with language common to both humans and computers. However, this is a rapidly developing area in ecology and there are alternative perspectives on what constitutes ecoinformatics.
+A few definitions have been circulating, mostly centered on the creation of tools to access and analyze natural system data. However, the scope and aims of ecoinformatics are certainly broader than the development of metadata standards to be used in documenting datasets. Ecoinformatics aims to facilitate environmental research and management by developing ways to access, integrate databases of environmental information, and develop new algorithms enabling different environmental datasets to be combined to test ecological hypotheses. Ecoinformatics is related to the concept of ecosystem services.Ecoinformatics characterize the semantics of natural system knowledge. For this reason, much of today's ecoinformatics research relates to the branch of computer science known as knowledge representation, and active ecoinformatics projects are developing links to activities such as the Semantic Web.
+Current initiatives to effectively manage, share, and reuse ecological data are indicative of the increasing importance of fields like ecoinformatics to develop the foundations for effectively managing ecological information. Examples of these initiatives are  National Science Foundation Datanet projects, DataONE, Data Conservancy, and Artificial Intelligence for Environment & Sustainability.
+
+
+== References ==
+
+
+== External links ==
+ecoinformatics.org, Online Resource for Managing Ecological Data and Information
+Ecoinformatics Collaboratory, Research links and public wiki for discussion.
+Ecoinformatics Education, Ecosystem Informatics at Oregon State University
+industrial Environmental Informatics, Industrial Environmental Informatics at HTW-Berlin, University of Applied Sciences
+International Society for Ecological Informatics
+Canadian Facility for Ecoinformatics Research, Ecoinformatics at the University of Ottawa, Canada
+Ecoinformatics program at the National Center for Ecological Analysis & Synthesis
+Ecological Informatics: An International Journal on Computational Ecology and Ecological Data Science
+Ecological Data
+NSF DataNet call for proposals
+DataONE
+Data Conservancy
+[1], EcoInformatics Summer Institute, an NSF-funded REU site (Research Experience for Undergraduates)

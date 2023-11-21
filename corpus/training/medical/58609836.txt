@@ -1,0 +1,336 @@
+This is a list of cardiology mnemonics, categorized and alphabetized. For mnemonics in other medical specialities, see this list of medical mnemonics.
+
+
+== Aortic regurgitation: causes ==
+CREAM:
+Congenital
+Rheumatic damage
+Endocarditis
+Aortic dissection/ Aortic root dilatation
+Marfan’s
+
+
+== Aortic stenosis characteristics ==
+SAD:p. 29Syncope
+Angina
+Dyspnoea
+
+
+== Aortic to right Subclavian path ==
+ABC'Sp. 1Aortic arch gives rise to:
+Brachiocephalic trunk
+Left Common Carotid
+Left Subclavian
+
+
+== Heart valves (right to left) ==
+Toilet Paper My Ass, or They Pay Me Alcohol, or "T"hugs "P"ush "Me" "A"round. Tricuspid valve
+Pulmonary semilunar valve
+Mitral (bicuspid) valve
+Aortic semilunar valve
+
+
+== Apex beat: abnormalities found on palpation, causes of impalpable ==
+HILT:p. 29Heaving
+Impalpable
+Laterally displaced
+Thrusting/ Tapping
+If it's impalpable, causes are COPD:p. 29COPD
+Obesity
+Pleural, Pericardial effusion
+Dextrocardia
+
+
+== Atrial Arrhythmias ==
+Anticoagulants: To prevent embolization.
+Beta blockers: To block the effects of certain hormones on the heart to slow the heart rate.
+Calcium Channel Blockers: Help slow the heart rate by blocking the number of electrical impulses that pass through the AV node into the lower heart chambers (ventricles).
+Digoxin: Helps slow the heart rate by blocking the number of electrical impulses that pass through the AV node into the lower heart chambers (ventricles).
+Electrocardioversion: A procedure in which electric currents are used to reset the heart's rhythm back to regular pattern.
+
+
+== Atrial Fibrillation causes ==
+Pirates:p. 3Pulmonary: PE, COPD
+Iatrogenic
+Rheumatic heart: mitral regurgitation
+Atherosclerotic: MI, CAD
+Thyroid: hyperthyroid
+Endocarditis
+Sick sinus syndrome
+
+
+== Atrial fibrillation management ==
+ABCD:p. 30Anti-coagulate
+Beta-block to control rate
+Cardiovert
+Digoxin
+
+
+== Beck's triad (cardiac tamponade) ==
+3 D's:p. 30Diminished heart sounds
+Distended jugular veins
+Decreased arterial pressure
+
+
+== Betablockers: cardioselective betablockers ==
+Betablockers Acting Exclusively At Myocardium:p. 30Betaxolol
+Acebutelol
+Esmolol
+Atenolol
+Metoprolol
+
+
+== CHF Treatment ==
+LMNOP
+Lasix
+Morphine
+Nitrites
+Oxygen
+VassoPressors
+
+
+== CHF: causes of exacerbation ==
+FAILUREp. 30Forgot medication
+Arrhythmia/ Anaemia
+Ischemia/ Infarction/ Infection
+Lifestyle: taken too much salt
+Upregulation of CO: pregnancy, hyperthyroidism
+Renal failure
+Embolism: pulmonary
+
+
+== Complications of Myocardial Infarction ==
+Darth Vader
+Death
+Arrythmia
+Rupture(free ventricular wall/ ventricular septum/ papillary muscles)
+Tamponade
+Heart failure (acute or chronic)
+Valve disease
+Aneurysm of Ventricles
+Dressler's Syndrome
+thromboEmbolism (mural thrombus)
+Recurrence/ mitral Regurgitation
+
+
+== Coronary artery bypass graft: indications ==
+DUST:p. 31Depressed ventricular function
+Unstable angina
+Stenosis of the left main stem
+Triple vessel disease
+
+
+== ECG: left vs. right bundle block ==
+WiLLiaM MaRRoW:p. 31W pattern in V1-V2 and M pattern in V3-V6 is Left bundle block.
+M pattern in V1-V2 and W in V3-V6 is Right bundle block.
+
+
+== Exercise ramp ECG: contraindications ==
+RAMP:p. 31Recent MI
+Aortic stenosis
+MI in the last 7 days
+Pulmonary hypertension
+
+
+== Endocarditis ==
+FROM JANE:
+Fever
+Roth's spots
+Osler's nodes
+Murmur of heart
+Janeway lesions
+Anemia
+
+Nail hemorrhageEmboli
+
+
+== Heart valve sequence ==
+Try Puling My Aorta:p. 3Tricuspid
+Pulmonary
+Mitral (bicuspid)
+Aorta
+
+
+== Heart blocks ==
+If the R is far from P,
+then you have a First Degree.
+Longer, longer, longer, drop!
+Then you have a Wenkebach.
+if some P's don't get through,
+then you have Mobitz II.
+If P's and Q's don't agree, then you have a Third Degree.
+
+
+== Infarctions ==
+INFARCTIONSp. 34IV access
+Narcotic analgesics (e.g. morphine, pethidine)
+Facilities for defibrillation (DF)
+Aspirin/ Anticoagulant (heparin)
+Rest
+Converting enzyme inhibitor
+Thrombolysis
+IV beta blocker
+Oxygen 60%
+Nitrates
+Stool Softeners
+
+
+== JVP: wave form ==
+ASK MEp. 32Atrial contraction
+Systole (ventricular contraction)
+Klosure (closure) of tricuspid valve, so atrial filling
+Maximal atrial filling
+Emptying of atrium
+
+
+== MI: basic management ==
+BOOMAR:p. 32Bed rest
+Oxygen
+Opiate
+Monitor
+Anticoagulate
+Reduce clot size
+
+
+== MI: signs and symptoms ==
+PULSE:p. 32Persistent chest pains
+Upset stomach
+Lightheadedness
+Shortness of breath
+Excessive sweating
+
+
+== MI: therapeutic treatment ==
+O BATMAN!p. 32Oxygen
+Beta blocker
+ASA
+Thrombolytics (e.g. heparin)
+Morphine
+Ace prn
+Nitroglycerin
+
+
+== MI: treatment of acute MI ==
+COAG:p. 32Cyclomorph
+Oxygen
+Aspirin
+Glycerol trinitrate
+
+
+== Murmur attributes ==
+"IL PQRST" (person has ill PQRST heart waves):p. 32Intensity
+Loccasion
+Pitch
+Quality
+Radiation
+Shape
+Timing
+
+
+== Murmurs: innocent murmur features ==
+8 S's:p. 32Soft
+Systolic
+Short
+Sounds (S1 & S2) normal
+Symptomless
+Special tests normal (X-ray, EKG)
+Standing/ Sitting (vary with position)
+Sternal depression
+
+
+== Murmurs: louder with inspiration vs expiration ==
+LEft sided murmurs louder with Expiration
+RIght sided murmurs louder with Inspiration.p. 32
+
+
+== Murmurs: questions to ask ==
+SCRIPT:p. 32Site
+Character (e.g. harsh, soft, blowing)
+Radiation
+Intensity
+Pitch
+Timing
+
+
+== Murmurs: systolic vs. diastolic ==
+PASS:Pulmonic & Aortic
+Stenosis=Systolic.
+PAID: Pulmonic & Aortic
+Insufficiency=Diastolic.p. 32
+
+
+== Pericarditis: causes ==
+CARDIAC RIND:p. 34Collagen vascular disease
+Aortic aneurysm
+Radiation
+Drugs (such as hydralazine)
+Infections
+Acute renal failure
+Cardiac infarction
+Rheumatic fever
+Injury
+Neoplasms
+Dressler's syndrome
+
+
+== Pericarditis: EKG ==
+PericarditiS:p. 34PR depression in precordial leads.
+ST elevation.
+
+
+== Peripheral vascular insufficiency: inspection criteria ==
+SICVD:p. 34Symmetry of leg musculature
+Integrity of skin
+Color of toenails
+Varicose veins
+Distribution of hair
+
+
+== Pulseless electrical activity: causes ==
+PATCH MED:p. 34Pulmonary embolus
+Acidosis
+Tension pneumothorax
+Cardiac tamponade
+Hypokalemia/ Hyperkalemia/ Hypoxia/ Hypothermia/ Hypovolemia
+Myocardial infarction
+Electrolyte derangements
+Drugs
+
+
+== ST elevation causes in ECG ==
+ELEVATION:p. 34Electrolytes
+LBBB
+Early repolarization
+Ventricular hypertrophy
+Aneurysm
+Treatment (e.g. pericardiocentesis)
+Injury (AMI, contusion)
+Osborne waves (hypothermia)
+Non-occlusive vasospasm
+
+
+== Supraventricular tachycardia: treatment ==
+ABCDE:p. 35Adenosine
+Beta-blocker
+Calcium channel antagonist
+Digoxin
+Excitation (vagal stimulation)
+
+
+== Ventricular tachycardia: treatment ==
+LAMB:p. 35Lidocaine
+Amiodarone
+Mexiltene/ Magnesium
+Beta-blocker
+
+
+== White Blood Cell Count ==
+Never let monkeys eat bananas:
+Neutrophils
+lymphocytes
+monocytes
+eosinophils
+basophils
+
+
+== References ==

@@ -1,0 +1,6 @@
+HL7 aECG (the HL7 Annotated Electrocardiogram) is a standard medical record data format for storing and retrieving electrocardiogram data for a patient.  Like other HL7 formats, it is XML based.
+The HL7 aECG standard was created in response to the Food and Drug Administration’s digital electrocardiogram initiative which was introduced November, 2001.  The FDA initiative required ECG waveforms and annotations submitted to the FDA to have a standard format for the data. At the time, no current ECG waveform standards met all the FDA's needs. As a result, the FDA, sponsors, core laboratories, and device manufactures worked together within HL7 to create a standard to meet the FDA requirements.
+The aECG standard was created by HL7's Regulated Clinical Research Information Management (RCRIM). It passed final balloting in January, 2004, and was accepted by ANSI May, 2004.
+
+
+== References ==

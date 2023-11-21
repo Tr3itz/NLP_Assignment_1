@@ -1,0 +1,10 @@
+Power-off testing is often necessary to test the printed circuit assembly (PCA) board due to uncertainty as to the nature of the failure. When the PCA can be further damaged by applying power it is necessary to use power off test techniques to safely examine it. Power off testing includes analog signature analysis, ohmmeter, LCR Meter and optical inspection. This type of testing also lends itself well to troubleshooting circuit boards without the aid of supporting documentation such as schematics. 
+
+
+== Typical equipment ==
+Analog signature analysis*
+Huntron Tracker*
+Automated optical inspection
+LCR meter
+Machine vision
+Ohmmeter

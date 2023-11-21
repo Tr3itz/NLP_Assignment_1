@@ -1,0 +1,32 @@
+Ecosystem decay is a term coined by Thomas Lovejoy to define the process of which species become extinct locally based on habitat fragmentation. This process is what led to the extinction of several species, including the Irish Elk. Ecosystem decay can be mainly attributed to population isolation, leading to inbreeding, leading to a decrease in the population of local species. Another factor is the absence of competition, preventing the mechanisms of natural selection to benefit the population. This leads to a lack of a skill set for the animal to adjust and adapt to a new environment. Habitat fragmentation and loss lead to smaller habitat sizes, and ecosystem decay predicts ecological processes are changed so heavily in smaller habitats that the loss in diversity is more extreme than expected by fragmentation alone.Although similar to forest fragmentation and island biogeography, ecosystem decay is what results in the event of forest fragmentation. 
+
+
+== Overview ==
+Ecosystem decay is a natural phenomenon that has several resulting features.
+Decline of native populations of animals
+Decrease in genetic diversity
+Decrease of the interior:edge ratio
+Isolation of an area of viable habitat
+Reduction in viable habitats and often extreme separation
+
+
+== Process ==
+The process through which ecosystem decay occurs can be long and complicated or short and hasty. Overall, it still follows some basic guidelines. First, a piece of habitat is surrounded and thus isolated by farmland or cities.
+Secondly, pollination of the plants immediately ceases and the number of species thins out. Thirdly, through generations of inbreeding and thus higher birth mortality than birth survival rate and infertile dirt, the forest fragment will slowly decline to nothing.
+
+
+== Causes ==
+Ecosystem decay is commonly caused by the harvesting of rain forest in appliance to certain laws or illegally for profit by humans. Certain countries such as Brazil prohibit the harvesting of Brazil nut trees and groves of this species causing forest fragmentation and thus causing ecosystem decay to occur. Cities, roads, farms and any other substantial barrier impeding and animals habitat can be a direct or an indirect cause. Naturally, fires and rising sea levels on low land can also cause habitat fragmentation and thus ecosystem decay. Although this process is much more lengthy, many species such as the Irish Elk and several species of ancient Australian Marsupials have been indirectly killed this way with contributions by Climate Change, Glaciation and Forest Fires.
+
+
+== Studies ==
+Eleonore Setz was studying a patch of equatorial rainforest named reserve #1202 containing Pithecia pithecia (white-faced sakis), to study the effects of ecosystem decay. The 9.2 hectare (less than 25 acre) area had been isolated for five years when David Quammen noted results on the fragmentation of their habitat which resulted in them being stranded. The population of P. pithecia was slowly declining at the time of the study and the population had declined to six.
+
+
+== References ==
+
+
+=== General references ===
+Harris, Larry D. (1984). The Fragmented Forest: Island Biogeography Theory and the Preservation of Biotic Diversity. The University of Chicago Press. ISBN 0-226-31763-3.
+Ecosystem Decay of Amazonian Forest Fragments:a 22-Year Investigation (Conservation Biology, Pages 605–618 Volume 16, No. 3, June 2002) William F. Laurance, Thomas E. Lovejoy, Heraldo L. Vasconcelos, Emilio M. Bruna, Raphael K. Didham, Philip C. Stouffer, Claude Gascon, Richard O. Bierregaard, Susan Laurance and Erica Sampaio
+Mokross, Karl; Ryder, Thomas B.; Côrtes, Marina Corrêa; Wolfe, Jared D.; Stouffer, Philip C. (2014-02-07). "Decay of interspecific avian flock networks along a disturbance gradient in Amazonia". Proceedings of the Royal Society of London B: Biological Sciences. 281 (1776): 20132599. doi:10.1098/rspb.2013.2599. ISSN 0962-8452. PMC 3871315. PMID 24335983.

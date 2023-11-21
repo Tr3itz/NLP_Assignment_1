@@ -1,0 +1,17 @@
+The Common Terminology Criteria for Adverse Events (CTCAE), formerly called the Common Toxicity Criteria (CTC or NCI-CTC), are a set of criteria for the standardized classification of adverse effects of drugs used in cancer therapy. 
+The CTCAE system is a product of the US National Cancer Institute (NCI).
+The first Iteration was prior to 1998. In 1999, the FDA released version 2.0. CTCAE version 4.0 in 2009 with an update to y version 4.03 in 2010. The current version 5.0 was released on November 27, 2017. Many clinical trials, now extending beyond oncology, encode their observations based on the CTCAE system.
+It uses a range of grades from 1 to 5. Specific conditions and symptoms may have values or descriptive comment for each level, but the general guideline is: 
+
+1 - Mild
+2 - Moderate
+3 - Severe
+4 - Life-threatening
+5 - DeathGrade 1: is defined as mild, asymptomatic symptoms. clinical or diagnostic observations only; Intervention not indicated.
+Grade 2: is moderate; minimal, local or noninvasive intervention was needed.
+Grade 3: Severe symptoms or medically significant but not life-threatening but may be disabling or limit self care in ADL
+Grade 4: is Life threatening consequences; urgent or emergent intervention needed
+Grade 5: Death related to or due to adverse event
+
+
+== References ==

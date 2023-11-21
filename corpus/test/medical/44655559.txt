@@ -1,0 +1,27 @@
+Hepatic artery embolization, also known as trans-arterial embolization (TAE), is one of the several therapeutic methods to treat primary liver tumors or metastases to the liver. The embolization therapy can reduce the size of the tumor, and decrease the tumor's impact such its hormone production, effectively decreasing symptoms. The treatment was initially developed in the early 1970s. The  several types of hepatic artery treatments are based on the observation that tumor cells get nearly all their nutrients from the hepatic artery, while the normal cells of the liver get about 70-80 percent of their nutrients and 50% their oxygen supply from the portal vein, and thus can survive with the hepatic artery effectively blocked. In practice, hepatic artery embolization occludes the blood flow to the tumors, achieving significant tumor shrinkage in over 80% of people. Shrinkage rates vary.
+
+
+== Background ==
+The  several types of hepatic artery treatments are based on the observation that tumor cells get nearly all their nutrients from the hepatic artery, while the normal cells of the liver get about 70-80 percent of their nutrients and 50% their oxygen supply from the portal vein, and thus can survive with the hepatic artery effectively blocked. In practice,  hepatic artery embolization is an option if the neoplastic growth is mainly within the liver. By occluding the blood supply to the tumors, achieving significant tumor shrinkage in over 80% of people. Shrinkage rates vary. The therapy can effectively decrease symptoms by reducing the size of the tumor, or by decreasing the tumor's impact, for example by decreasing the tumor's production of hormones.Primary liver tumors, metastatic neuroendocrine tumors to the liver and other metastases to the liver may be considered for therapy directed via the hepatic artery.
+
+
+== Method ==
+
+The percutaneous Seldinger technique introduces a catheter, which is a thin flexible tube made of medical grade material, into the hepatic artery under radiological control. This approach was developed for metastatic neuroendocrine tumors in the early 1970s. Tumor cells get over 90% of their nutrients from the hepatic artery, while the normal cells of the liver get about 70-80 percent of their nutrients and 50% their oxygen supply from the portal vein, and thus can survive with the hepatic artery effectively blocked. Once the catheter is carefully placed in the artery or in a selected branch, the blood flow can be occluded by injecting various items, such as plastic particles, glue, metal coils, foam, or by deploying a balloon. Additional considerations and procedural details have been reviewed.
+
+
+== Related methods ==
+In hepatic artery chemotherapy (HAC), chemotherapy agents are given into the hepatic artery, often by steady infusion over hours or even days. Compared with systemic chemotherapy, a higher proportion of the chemotherapy agents is (in theory) delivered to the lesions in the liver.Hepatic artery chemoembolization (HACE), sometimes called transarterial chemoembolization (TACE), combines hepatic artery embolization with hepatic artery chemo infusion. In one method, embospheres bound with chemotherapy agents injected into the hepatic artery, lodge in downstream capillaries. The spheres not only block blood flow to the lesions but by halting the chemotherapy agents in the neighborhood of the lesions, they provide a much better targeting leverage than chemo infusion provides.
+
+
+== See also ==
+Neuroendocrine tumor
+Carcinoid syndrome
+
+
+== References ==
+
+
+== External links ==
+eMedicine: Embolization
+Embolization therapy for liver cancer

@@ -1,0 +1,9 @@
+The Digital Mammographic Imaging Screening Trial (DMIST) is a multi-institutional research study on the efficacy for screening of Full Field digital mammography (FFDM) compared to conventional film-screen mammography that was sponsored by the U.S. National Cancer Institute and performed by ACRIN.
+The findings that FFDM was not inferior to the existing technology, and potentially superior in younger women with dense breasts, has led to a rapid proliferation of digital systems in the US.On the other hand women with dense breasts receive two to three times the amount of radiation during their imaging as dense breasts absorb more X-ray because of the density (difficulty of the X-ray to penetrate dense tissue). For this reason, a scientist at UC Berkeley is working on an MRI "bra" to enable easier breast screening and the QT water breast Ultrasound is an viable option for those patients with dense breasts.
+
+
+== References ==
+
+
+== External links ==
+ACRIN-6652

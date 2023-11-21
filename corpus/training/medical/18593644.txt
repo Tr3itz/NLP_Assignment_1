@@ -1,0 +1,23 @@
+Kindling is a commonly used model for the development of seizures and epilepsy in which the duration and behavioral involvement of induced seizures increases after seizures are induced repeatedly. Kindling is also referred as an animal visual model of epilepsy that can be produced by focal electrical stimulation in the brain. This is mainly used in visualising epilepsy in humans.
+The kindling model was first proposed in the late 1960s by Graham V. Goddard and colleagues.  Although kindling is a widely used model, its applicability to human epilepsy is controversial.
+
+
+== Method ==
+The word kindling is a metaphor: the increase in response to small stimuli is similar to the way small burning twigs can produce a large fire. It is used by scientists to study the effects of repeated seizures on the brain.  A seizure may increase the likelihood that more seizures will occur; an old saying in epilepsy research is "seizures beget seizures".  Repeated stimulation "lowers the threshold" for more seizures to occur.The brains of experimental animals are repeatedly stimulated, usually with electricity, to induce the seizures.  Chemicals may also be used to induce seizures.  The seizure that occurs after the first such electrical stimulation lasts a short time and is accompanied by a small amount of behavioral effects compared with seizures that result from repeated stimulations. With further seizures, the accompanying behavior intensifies, for example progressing from freezing in early stimulations to convulsions in later ones. The lengthening of duration and intensification of behavioral accompaniment eventually reaches a plateau after repeated stimulation.  Even if animals are left unstimulated for as long as 12 weeks, the effect remains; the response to stimulation remains higher than it had been before.It has been reported that repeated seizure stimulation can result in spontaneous seizures, but studies have had conflicting findings on this question.  In humans, some seizure disorders come to an end by themselves even after large numbers of seizures.  However, in both human epilepsy and in some animal models, evidence suggests that a process like that found in kindling does occur.
+
+
+== Historical perspective ==
+Already in the 1950s and 1960s, numerous authors recognized the seizure-inducing potential of focal stimulation. Here, Delgado and Sevillano demonstrated that repeated low-intensity stimuli to the hippocampus could lead to progressive increase of electrically evoked seizure activity. Yet, it was not until the late 1960s that Graham Goddard recognized the potential importance of this phenomenon and coined the term 'kindling'. Further research by Goddard on the characteristics of the kindling phenomenon led to his conclusion that kindling can be used to model human epileptogenesis, learning and memory. The publication of these results opened a completely new niche for epilepsy research and has stimulated a significant number of studies on the subject of kindling and its relevance to human epilepsy.
+
+
+== New approaches ==
+In 2019, a new model to develop kindling in the neocortex was developed using optogenetics (light) instead of passing electrical current. In 2021, "optokindling" by activating pyramidal cells in the piriform cortex has shown to disrupt the GABA production of feedback inhibitory cells, which led to the progression of seizure severity in mice.
+
+
+== See also ==
+Kindling (sedative–hypnotic withdrawal)
+Epileptogenesis
+Racine stages (a method by which seizure severity is quantified in animal models of epilepsy)
+
+
+== References ==

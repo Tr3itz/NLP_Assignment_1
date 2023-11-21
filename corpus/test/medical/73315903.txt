@@ -1,0 +1,42 @@
+Intracardiac echocardiography (ICE) is a specialized form of echocardiography that utilizes an ultrasound-tipped catheter to perform imaging of the heart from within the heart. Unlike transthoracic echocardiography (TTE), ICE is not limited by body habitus. An ICE catheter is inserted into the body, typically, through the femoral vein and advanced into the heart.
+
+
+== Uses ==
+The use of ICE is specialized and not intended for general echocardiography due to its cost and invasiveness. It is used as a part of a larger heart procedure. A typical use of ICE is for performing a transseptal puncture across the interatrial septum; in other words, pushing a catheter from the right atrium to the left atrium. Next to the septum is the aorta, and puncturing from the right atrium to the aorta is dangerous, and ICE visualization increases the confidence of performing this procedure safely.
+
+
+== Risks ==
+The use of an ICE catheter has the same risks of use and advancing any other catheter into the heart, namely cardiac wall puncture and bleeding into the space outside the heart (pericardial effusion) which can lead to cardiac tamponade. 
+
+
+== Common views ==
+The "home view" of ICE is from within the right atrium and looking through the tricuspid valve into the right ventricle.
+
+From the home view, clockwise rotation of the catheter will sweep the view through the aorta and to the interatrial septum used for transseptal pucnture.
+From the home view, deflecting the catheter toward the tricuspid valve and advancing the catheter will place the tip inside the right ventricle. From there, clocking the catheter will sweep through the interventricular septum and the left ventricle. Further clockwise rotation will bring the aortic valve, aorta, pulmonary valve, and RV outflow tract into view.
+After transseptal puncture, the ICE catheter can be advanced through the puncture into the left atrium. Rotation of the catheter to a "home view" of the left atrium through the mitral valve into the left ventricle. From there, a 180° rotation will face the posterior wall and posterior deflection will bring the left atrial appendage into view and can be used for deployment of a left atrial appendage occlusion device.
+
+
+=== Carto-Sound ===
+Of the electroanatomic mapping systems, Carto is the only system capable of integrating ICE imagery into the model with a module called Carto-Sound. Individual echo frames can be frozen and structures drawn that is translated into the 3-D model within Carto.
+
+
+== Procedural use ==
+Use of ICE is often limited to invasive procedures such as:
+Atrial septal defect closure
+Left heart ablations such as for atrial fibrillation, atrial flutter, and ventricular tachycardia
+Mitral valve repair (eg, MitraClip)
+Percutaneous aortic valve replacement
+Transseptal puncture
+
+
+== Limitations ==
+ICE catheters are limited in size as they must be introduced inside the blood vessels. Limitation of the size of the catheter limits the ultrasound crystal and the image quality obtainable. However, because the catheter can be readily moved into close proximity of the desired structure, the quality limitation can be reduced.
+
+
+== See also ==
+Transthoracic echocardiography
+Transesophageal echocardiography
+
+
+== References ==

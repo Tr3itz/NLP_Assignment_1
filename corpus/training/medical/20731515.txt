@@ -1,0 +1,42 @@
+The central governor is a proposed process in the brain that regulates exercise in regard to a neurally calculated safe  exertion by the body. In particular, physical activity is controlled so that its intensity cannot threaten the body’s homeostasis by causing anoxic damage to the heart muscle. The central governor limits exercise by reducing the neural recruitment of muscle fibers. This reduced recruitment causes the sensation of fatigue. The existence of a central governor was suggested to explain fatigue after prolonged strenuous exercise in long-distance running and other endurance sports, but its ideas could also apply to other causes of exertion-induced fatigue.
+The existence of a central governor was proposed by Tim Noakes in 1997, but a similar idea was suggested in 1924 by Archibald Hill.
+In contrast to this idea is the one that fatigue is due to peripheral "limitation" or "catastrophe." In this view, regulation by fatigue occurs as a consequence of a failure of homeostasis directly in muscles.
+
+
+== History ==
+
+
+=== Archibald Hill ===
+The 1922 Nobel Prize in Physiology or Medicine winner Archibald Hill proposed in 1924 that the heart was protected from anoxia in strenuous exercise by the existence of a governor.
+
+the heart is able to regulate its output, to some extent, in accordance with the degree of saturation of the arterial blood ... we suggest that, in the body (either in the heart muscle itself or in the nervous system), there is some mechanism which causes a slowing of the circulation as soon as a serious degree of unsaturation occurs, and vice versa. This mechanism would tend, to some degree, to act as a ‘governor’, maintaining a reasonably high degree of saturation of the blood: the breathing of a gas mixture rich in oxygen would produce a greater degree of saturation of the blood and so allow the output to increase until the ‘governor’ stopped it again. We realise the danger of a hypothesis partly suggested by teleological reasoning: in this case, however, we can see no other explanation of our experimental results pp. 163 
+This hypothesis was disregarded and further research upon exercise fatigue was modeled in terms of it being due to a mechanical failure of the exercising muscles ("peripheral muscle fatigue"). This failure was caused either by an inadequate oxygen supply to the exercising muscles, lactic acid buildup, or total energy depletion in the exhausted muscles.
+
+
+=== Tim Noakes ===
+Tim Noakes, a professor of exercise and sports science at the University of Cape Town, in 1997 has renewed Hill’s argument on the basis of modern research.
+In his approach, the power output by muscles during exercise is continuously adjusted in regard to calculations made by the brain in regard to a safe level of exertion. These neural calculations factor in earlier experience with strenuous exercise, the planning duration of the exercise, and the present metabolic state of the body. These brain models ensure that body homeostasis is protected, and an emergency reserve margin is maintained. This neural control adjusts the number of activated skeletal muscle motor units, a control which is subjectively experienced as fatigue. This process, though occurring in the brain, is outside conscious control.
+
+ the rising perception of discomfort produced by exhausting exercise progressively reduces the conscious desire to over-ride this control mechanism, which, if it were to be reduced, would lead to the recruitment of more motor units. Thus the presence of conscious over-ride would be undesirable because it would increase or maintain the exercise intensity, thereby threatening homoeostasis ... as exercise performance is centrally regulated by the CNS, then fatigue should no longer be considered a physical event but rather a sensation or emotion, separate from an overt physical manifestation—for example, the reduction in force output by the active muscles. Rather we now suggest that the physical manifestation of any increasing perception of fatigue may simply be an alteration in the subconsciously regulated pace at which the exercise is performed. Hence the novel suggestion is that the conventional understanding of fatigue is flawed because it makes no distinction between the sensation itself and the physical expression of that sensation which, we suggest, is the alteration in the subconsciously regulated pacing strategy consequent on changing motor unit recruitment/derecruitment by the CNS. 
+
+
+== Other uses ==
+Noakes created the idea of the central governor in the context of prolonged endurance running. However, he has noted that the central processes involved might also underlie the existence of other kinds of fatigue:
+
+ This new interpretation is the first to allow a more reasonable description of a number of phenomena that defy rational explanation according to the traditional ‘‘limitations’’ models of fatigue. These include, among many others, the chronic fatigue syndrome, in which affected individuals experience evident fatigue at rest, and the role of psychological and motivational factors,  centrally (brain) acting pharmaceutical agents,  hypnosis, shouting or sudden unexpected gunshots,  or other forms of distraction including music or premeditated deception on human exercise performance.
+In support of this, placebos (which must be mediated by a central process) have a powerful effect upon not only fatigue in prolonged exercise, but also upon short term endurance exercise such as sprint speed, the maximum weight that could be lifted with leg extension, and the tolerance of ischemic pain and power when a tourniqueted hand squeezes a spring exerciser 12 times.
+
+
+== Criticisms ==
+The existence of a central governor over physiology has been questioned since ‘physiological catastrophes’ can and do occur in athletes (important examples in marathons have been Dorando Pietri, Jim Peters and Gabriela Andersen-Schiess). This suggests that humans can over-ride ‘the central governor’. Moreover, a variety of peripheral factors in addition to those such as lactic acid build up can impair muscle power and might act to protect against "catastrophe". Another objection is that models incorporating conscious control also provide an alternative explanation  (see Noakes’ reply).Exercise fatigue has also been attributed to the direct effects of exercise upon the brain such as increased cerebral levels of serotonin, reduced level of glutamate secondary to uptake of ammonia in the brain, brain hyperthermia, and glycogen depletion in brain cells.
+
+
+== See also ==
+Exercise
+Fatigue (medical)
+Health management system
+Muscle weakness
+VO2 max
+
+
+== Notes ==

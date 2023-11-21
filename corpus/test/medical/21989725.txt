@@ -1,0 +1,31 @@
+Extraskeletal myxoid chondrosarcoma (EMC) is a rare low-grade malignant mesenchymal neoplasm of the soft tissues, that differs from other sarcomas by unique histology and characteristic chromosomal translocations. There is an uncertain differentiation (there is no evidence yet showing that EMC exhibits the feature of cartilaginous differentiation) and neuroendocrine differentiation is even possible.
+
+
+== Classification ==
+EMC was firstly described in 1953 by Stout et al. when they discussed the different species of extraskeletal chondrosarcoma, but EMC concept was firstly proposed in 1972 by Enzinger et al. Brody thought that this was a unique low-grade malignancy with a low growth rate and both clinically and histopathologically distinct anamnesis beside the typical chondrosarcomas. However, the parental line of EMC cells remains indeterminate. According to the most recent edition of the World Health Organization Classification of Tumors of Soft Tissue and Bone, EMC has been classified as a type of soft tissue tumor with uncertain differentiation.Recent statistics demonstrate that EMC shows a higher incidence of local recurrence, metastasis and patient mortality and therefore are classified as mean-grade malignancies.
+EMC is rare and accounts for less than 3% of soft tissue tumors. It mainly affects adults with an average age of about 54 years (age range 29 to 73 years) and is more common in males, the ratio of male to female is 2:1.
+
+
+== Diagnosis ==
+EMCS appears clinically as a slowly developing mass of soft tissue associated with pain and tenderness. Two-thirds of EMC tumors are primarily found in sub-fascia soft tissues of the proximal extremities and limb girdles, especially the thigh and popliteal fossa. The average tumor size is about 9.3 cm (3.3–18 cm). Uncommon locations are the distal extremities, the paraspinal part and the head and neck region. [8] Incidence of the head and neck region is less than 5%.
+
+
+== Cytogenetics ==
+The cells in EMC tumors do not express specific tumor marker proteins that would help in diagnosing this disease. For example, less than 20% of EMC tumor cases contain cells that express the S100 protein whereas many other tumor types contain cells that express S100 protein in most or all cases (see Pathology of S100 protein).
+The cytogenetics of this tumor reside in the reciprocal translocations of the 9q22 locus with chromosomes 3q11, 15q21, 17q11, and 22q12. Other cytogenetic events can be observed but are not characteristic. The most common translocation includes the EWSR1 locus at 22q12 and the NR4A3 (also known as TEC and CHN) locus at 9q22. As often can be seen in chimeric transcripts including EWSR1, the transactivation domain of EWSR1 is fused to the DNA-binding domain of NR4A3. Several types of fusion products can be observed, depending on which exons are involved. NR4A3 is an orphan nuclear receptor that is able to activate the FOS promoter and plays a role in the regulation of hematopoietic growth and differentiation. In EMC the DNA-binding domain is constant and the transactivation domains of several genes are involved. These genes include TAF2N (17q11), also termed TAF15, encoding an RNA-binding protein which is a component of transcription factor II D, TCF12 (15q21) encoding a transcription factor in the basic helix–loop–helix family, and TFG (3q11) which encodes a regulator of the nuclear factor-κB (NF-κB) signaling pathway with homology to FUS and EWSR1 in its N-terminal region. TFG is also observed as a fusion transcript with ALK (2p23) in anaplastic large-cell lymphoma and with ANTRK1 (1q21) in some of the thyroid papillary carcinomas. Recent evidence demonstrates that tumors with these various translocations have similar profiles of the gene expression.Five fusion partners for NR4A3 have been described including: EWSR1 (22q12.2), TAF15 (17q12), FUS (16p11.2), TCF12 (15q21), and TFG (3q12.2). The EWSR1, TAF15 (i.e. TAF2N), and FUS proteins are members of the FET protein family of RNA binding proteins. They are partners in various fusion proteins that are associated with, and suggested to promote, not only EMC but also a wide range of other tumor types. The fusion proteins found in the neoplastic cells of EMC consist of NR4A3 in >90% of cases partnered with EWRS1 in >75% of cases or, alternatively, TAF15, TCF12, or TFG in uncommon cases.
+
+
+== Pathological features ==
+EMC shows the smallest morphological variation between the tumors among all myxoid soft tissue neoplasms. The myxoid matrix has a fibrous structure that is different from the grainy appearance of most other myxoid lesions. It is stained with magenta in the air-dried samples. Among all myxoid tumors, EMC has the least vascular structures. Chondroblast-like lacunas may be formed, but no differentiation of hyaline cartilago has been described.
+Smears contain plump spindle-shaped or oval tumor cells arranged in a lacelike pattern of loosely cohesive cords and nests. The malignant cells are uniform and lack nuclear pleomorphism. The nuclei have round or oval shape and are hyperchromatic with finely stippled chromatin. The nucleolus is small and inconspicuous. Nuclear clefts and grooves are common and the cytoplasm is homogeneous, scanty to moderately abundant, and often appears wispy and tapered, with well-defined borders of cells.
+
+
+== Prognosis ==
+EMC patients have a long-term clinical course with a survival rate of 5 years in 90% of patients, 10 years at 70% and 15 years at 60%. Local recurrences occur in up to 48% of patients. Metastasis occurs in approximately 50% of cases with the most frequent occurrence in the lungs, which is common site of metastasis in all sarcomas. There have been rare cases of spontaneous regression of pulmonary metastases without any treatment.
+
+
+== Treatment ==
+As with all these subgroups of sarcomas, standard treatment for primary EMC is complete surgical resection, in high risk cases followed by radiation therapy. Unfortunately, the rates of response to conventional chemotherapeutic and radiation regimens are low.
+
+
+== References ==

@@ -1,0 +1,30 @@
+Coronary reflex is the change of coronary diameter in response to chemical, neurological or mechanical stimulation of the coronary arteries.
+The coronary reflexes are stimulated differently from the rest of the vascular system.
+
+
+== Causes of coronary constriction ==
+
+
+=== Chemical ===
+N-nitro L-arginine
+indomethacin
+glibenclamide
+tetraethylammonium chloride
+caffeine
+
+
+=== Other ===
+Cold
+
+
+== Causes of coronary dilation ==
+Cocaine abuse frequently can cause a coronary spasm, resulting in a spontaneous myocardial infarction.
+
+
+=== Chemical ===
+Versed (Midazolam): a coronary dilator. In midazolam's presence, dilation was unaffected by N-nitro L-arginine, indomethacin and glibenclamide.
+Tetraethylammonium chloride, an inhibitor of the BKCa K+ channel (a high conductance Ca2+-sensitive K+ channel), dose dependently attenuated the vasodilating effect of midazolam 
+Estrogen has been shown to abolish abnormal cold-induced coronary constriction.
+
+
+== References ==

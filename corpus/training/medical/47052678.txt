@@ -1,0 +1,56 @@
+Cancer/testis (CT) antigens are a group of proteins united by their importance in development and in cancer immunotherapy. In general, expression of these proteins is restricted to male germ cells in the adult animal.  However, in cancer these developmental antigens are often re-expressed and can serve as a locus of immune activation. Thus, they are often classified as tumor antigens. The expression of CT antigens in various malignancies is heterogeneous and often correlates with tumor progression. CT antigens have been described in melanoma, liver cancer, lung cancer, bladder cancer, and pediatric tumors such as neuroblastoma. Gametogenesis offers an important role for many of these antigens in the differentiation, migration, and cell division of primordial germ cells, spermatogonia spermatocytes and spermatids.
+Because of their tumor-restricted expression and strong in vivo immunogenicity, CT antigens are identified as ideal targets for tumor specific immunotherapeutic approaches and prompted the development of several clinical trials of CT antigens-based vaccine therapy. CT antigens have been found to have at least 70 families so far, including about 140 members, most of which are expressed during spermatogenesis. Their expression are mainly regulated by epigenetic events, specifically, DNA methylation.The Ludwig Institute for Cancer Research (LICR) maintains the "CTDatabase." This database is an authoritative list of known CT antigens.  It also serves as a repository into which new candidates can be entered.
+Important CT antigens in cancer therapy include MAGE-A1, MAGE-A3, MAGE-A4, NY-ESO-1, PRAME, CT83 and SSX2.
+
+
+== History ==
+With the development of tumor-associated antigens (TAA), the first clone of a human tumor antigen, melanoma antigen-1 (MAGE-1) was reported in 1990s, which elicited an autologous cytotoxic T-lymphocyte (CTL) response in a melanoma patient. Further studies found that MAGE-1 (renamed MAGE-A1 later) was expressed in various cancers of different histological origin but not in normal tissues excluding testis and placenta. Later on, using T-cell epitope cloning technology, other tumor antigens with same properties were identified, including MAGE-A2, MAGE-A3, BAGE and GAGE-1. With the new approach, serological analysis of cDNA expression libraries (SEREX), several novel similar antigens were discovered, including SSX-2, NY-ESO-1, etc. Beyond these immunological methods, some gene expression techniques, including mRNA pools comparison, differential display, cDNA oligonucleotide array analysis and bioinformatic analysis, identified a multitude of tumor genes with a cancer/testis restricted expression profile. As the growing of this family, this type of tumor antigens, the genes of which expressing limitedly in malignancies of various histotypes, but not in normal tissue except testis and placenta, was named cancer testis antigen (CT antigens) by Old (1997) and Chen (1998). So far, at least 70 families of CT antigens with over 140 members have been identified and listed in a database established by the Ludwing Institute for Cancer Research.
+
+
+== Category ==
+CT antigens can be divided by whether they are encoded on the X chromosome (X-CT antigens genes) or not (non-X-CT antigens genes). It has been estimated that 10% of genes on the X chromosome belong to X-CT antigens families. The X-CT antigens genes represent more than half of all CT antigens and often constitute multigene families organized in well-defined clusters long the X chromosome, while the genes of non-X-CT antigens are distributed throughout the genome and are mostly single-copy genes. 
+In normal testis, X-CT antigens genes are expressed primarily on the spermatogonia that are proliferate germ cells, while non-X-CT antigens are expressed in later stages of germ-cell differentiation, such as on spermatocytes. In normal placenta, CT antigens genes are less common, and MAGE-A3, MAGE-8, MAGE-A10, XAGE-2 and XAGE-3 have been found there. The mRNA of CT antigens was also found in some somatic tissues such as pancreas, liver and spleen, but the level is normally less than 1% of that in testis.
+The expression of CT antigens genes were measured mainly by RT-PCR in transcription level and by immunohistochemistry (IHC) analysis in protein level. In tumor tissues, CT antigens are distributed widely but heterogeneously, expressing largely in melanoma, bladder and non-small cell lung cancers, moderately in breast and prostate cancers, poorly in kidney and colon cancers and in hematologic malignancies. Some reports suggest that multiple CT antigens tend to be co-expressed in the same neoplastic lesion.
+
+
+== Mechanism ==
+The expression of CT antigens genes are exclusively regulated by epigenetic events both in normal and cancer tissues, while DNA methylation and histone post-translational modification remain the most widely characterized epigenetic factors here.
+
+
+=== DNA methylation ===
+DNA methylation is commonly found to lead to silencing of gene expression with the covalent addition of a methyl group catalyzed by DNA methyltransferases (DNMTs). It is found so far that the non-expression in normal somatic tissues of CT antigens genes is caused by the methylation in their promoters and the different promoter methylation status is directly responsible for the highly heterogeneous intratumor expression of CT antigens in different cancers. This promoter methylation heterogeneity was found to be inherited by daughter cells.
+
+
+=== Histone modification ===
+Histone are fundamentally componential proteins in chromosomes containing flexible N-terminal tails protruding from the nucleosomes, providing targets for different modifications. The N-terminal lysine residues are often acetylated histone acetyltransferases (HAT) adding acetyl groups, while histone deacetylases (HDAC) works oppositely. The inhibition of HDAC by specific inhibitors (HDACi) is found to associate with the CT antigens expression in human malignancies. In addition, histone methylation is also involved in the gene expression of CT antigens, with activation and repression.
+
+
+== Function ==
+Germ cells share some features with cancers. The motile and penetrating features and colonization of primitive germ cells resemble the migration of cancer cells from primary tumor to metastasis. Also, during spermatogenesis, germ cells exhibit characteristics similar to cancer cells. These phenomena led to the hypothesis that the activation of CT antigens in normal stomatic tissues related to tumorigenesis. Although the function of CT antigens is far from understanding, increasing studies have found more evidences for some of the properties of CT antigens in recent years.
+MAGE-A1 might repression the expression of genes required for differentiation during the spermatogenesis and be involved in the inhibition of cellular differentiation in cancer cells, contributing to tumorigenesis. MAGE-A11 was found to be involved in the regulation of androgen-receptor function by modulating its internal domain interactions. More studies support that the expression of MAGE genes in cancer cells might contribute to the malignant phenotype and the resistance to chemotherapeutic drugs. Besides, GAGE-7 was reported to have antiapoptotic properties. Some SSX family members was found to induce altered gene expression patterns, resulting in the malignant phenotype in cancers.
+Multiple CT antigens have been shown to promote cancer cell growth, like SSX2 in melanoma, and might also be functional in treatment responses to cytotoxic or growth inhibitory anti-cancer drugs.
+CT antigens are frequently expressed in malignant tumors, especially in metastases, when compared with the rare expression in benign neoplastic lesions.
+The activation of meiotic programs in cancer cells may contribute to the genome instability, and the meiosis-specific CT antigens might be involved in this process, such as SPO11, SCP1 and HORMAD1. Moreover, some CT antigens combined with other proteins have been shown to support productive mitosis in cancer cells.
+
+
+== Therapeutic potential ==
+
+
+=== Immunogenicity ===
+In normal tissues, CT antigens are exclusively expressed in testis, making it no access to the immune system. Besides, the existence of blood-testis barrier and the lack of human leukocyte antigen (HLA) class I expression on the surface of germ cells prevent the immune system interacting with CT antigens proteins and recognizing it as invading structures. Thus, CT antigens can be regarded as essentially tumor-specific targets when they are expressed in cancers.
+Distinct CT antigens encode for different antigenic peptides presented to the immune system in association with various HLA class I or HLA class II allospecificities, eliciting both CTL and humoral immune responses.
+
+
+=== Vaccine therapy ===
+The implication of CTA peptides as vaccinating agents relies on the characterization of immunogenic peptides from selected CTA and the identification of the respective HLA class I antigen restriction. To date, MAGE-A3-derived peptides have been used as vaccines in HLA-A1-positive patients with tumor expressing the respective antigen. MAGE-A peptides have also been used in vaccines consisting of peptide-loaded monocyte-derived dendritic cells (DC). Besides peptide vaccines, recombinant full-length MAGE-A3 and NY-ESO-1 proteins are currently being evaluated as anti-cancer vaccines in a series of clinical trials.
+
+
+=== Combination with epigenetic drugs ===
+Given some drawbacks and limitation of the inter- and intratumoral heterogeneous expression of CT antigens from the CT antigens-based vaccination, the promoter methylation in regulating CT antigens expression can be combined into the therapy to therapeutically modulate CT antigens expression in neoplastic cells.
+
+
+=== Adoptive T-cell therapy ===
+Infiltrating T cells therapy have been shown to apparently induce tumor regression with durable complete responses in melanoma. Expending from this approach to other types of cancers, the difficulties of obtaining tumor-infiltrating lymphocytes come out. In this case, the tumor-reactive T cells can be engineered to express recombinant or chimeric T-cell receptors against common tumor antigens where CT antigens could be a high priority target. Their frequent expression in many types of cancer makes CT antigen-directed T-cell therapy applicable to many types of cancer.
+
+
+== References ==

@@ -1,0 +1,28 @@
+The cerebrospinal venous system (CSVS) consists of the interconnected venous systems of the brain (the cerebral venous system) and the spine (the vertebral venous system).
+
+
+== Introduction ==
+The anatomic connections between the cerebral and vertebral venous systems was accurately depicted in 1819 by Gilbert Breschet, a French physician later to become Professor of Anatomy at Faculté de médecine de Paris. However, the significance and physiology of this venous complex remained obscure for more than a century, until the seminal work of Oscar Batson. Batson, a Professor of Anatomy at the University of Pennsylvania, in 1940 detailed the anatomy and physiology of the cerebrospinal venous system and its role in the spread of metastases. Batson’s work remains primarily known for its accurate depiction of the vertebral venous system as the route of metastasis of cancer from the prostate to the spine, and the vertebral venous system is often referred to as Batson venous plexus or Batson’s plexus. It is less commonly recognized that Batson’s detailed experiments also demonstrated the direct anatomic connection between the vertebral and cerebral venous system, an anatomical and physiological fact that was later confirmed by others.  It was later recognized that the cerebrospinal venous system represents a main route for efflux of venous blood from the brain. Modern imaging methodology, including MR scanning, have detailed the anastomoses of the cerebral and spinal venous systems in the suboccipital region. Batson, and others had recognized that blood flow in the cerebrospinal venous system was bi-directional, a unique feature that was enabled by a general lack of venous valves in these venous plexuses. This bi-directional flow was thought to have physiologic significance with regard to the maintenance of pressure hemostasis within the cranium with changes in posture. The terms “cerebrospinal venous system” and “CSVS” were coined in a 2006 review  that has itself been cited in a number of subsequent articles and reviews.
+
+
+== Continuity of the brain and spine venous systems ==
+Beginning in 1937 Batson began a series of injection experiments investigating the anatomy and physiology of the cerebrospinal venous system. His carefully documented results demonstrated the continuity of the venous systems of the brain and the spine, as injections of contrast dyes into venous systems feeding into the spinal venous plexus led to the appearance of contrast material in the cerebral veins (Figures 5 and 7, Batson 1940). Batson noted "the extensive filling of the vertebral veins, the superior longitudinal sinus, transverse sinus as well as other dural and cerebral veins" following injection of radiopaque material into a superficial venule in the left breast (Batson 1940, Figure 5, page 143). Subsequent studies by multiple independent authors replicated Batson's findings of the continuity of the cerebral and vertebral venous systems, and the important physiological consequences of this continuity. For example, in 1996, Arnautovic et al., summarizing the results of their own work and that of others, stated: "In addition to confirming that the vertebral venous plexus is a direct continuation of the cranial venous sinuses, our study showed that it is also indirectly connected to these sinuses via the suboccipital cavernous sinus. The vertebral venous plexus is involved in regulating intracranial pressure, transmitting the influence of the respiratory and cardiac pressures to the intracranial compartment and equalizing the pressures within the venous system.". The continuity of the cerebral and vertebral venous systems was therefore essential to an understanding of both normal physiology, as well as to an understanding of the distribution of tumor metastases, as Batson had so elegantly demonstrated.
+
+
+== A route for metastases and infection ==
+It is now recognized that the cerebrospinal venous system represents not only a route for dissemination of metastases, but also a route for dissemination of infection throughout the cerebrospinal axis, in both directions.
+
+
+== Batson's legacy ==
+In 1957 Batson wrote, ""It seems incredible that a great functional complex of veins would escape recognition as a system until 1940 ....  In the first four decades of the last [19th] century, our knowledge of the vertebral veins was developed and then almost forgotten.". During the past half century, our appreciation of Batson's findings and concepts has grown, expanding beyond his explanation for previously inexplicable routes of tumor metastasis. In 2011, researchers from the Department of Neurological Surgery at Ohio State Medical Center summarized the significance and current understanding of several aspects of the CSVS in their review article: "Today, the vertebral venous plexus is considered part of the cerebrospinal venous system, which is regarded as a unique, large-capacitance, valveless plexiform venous network in which flow is bidirectional that plays an important role in the regulation of intracranial pressure with changes in posture and in venous outflow from the brain, whereas in disease states, it provides a potential route for the spread of tumor, infection, or emboli.".
+
+
+== Therapeutic use ==
+The cerebrospinal venous system may serve as a route for therapeutic delivery of large molecules to the brain and spinal cord, as discussed: "... the drug enters the brain through the cerebrospinal venous system..."(Sun Sentinel, December 9, 2012, page 21A).
+
+
+== See also ==
+Glymphatic system
+
+
+== References ==

@@ -1,0 +1,55 @@
+Automated Neuropsychological Assessment Metrics (ANAM) is a library of computer-based assessments of cognitive domains including attention, concentration, reaction time, memory, processing speed, and decision-making.  ANAM has been administered nearly two million times in a variety of applications and settings.  ANAM provides clinicians and researchers with tests to evaluate changes in an individual’s cognitive status over time.  
+Components of today’s ANAM design reflect the work of dozens of talented scientists, and ANAM development is guided by public and private sector research.  Early research versions of ANAM were developed in the U.S. Department of Defense.  This work was patented by the U.S. Army and exclusively licensed for development and commercialization to benefit the military and the public.  Through its Technology Transition program, the U.S. Army licensed ANAM exclusively to the University of Oklahoma (OU). 
+The OU Center for the Study of Human Operator Performance programmed and tested a robust new ANAM product, including 22 neurocognitive tests, statistical reporting and research support tools. Vista LifeSciences (vistalifesciences.com) holds an exclusive license to ANAM from the University of Oklahoma to commercialize the technology and continues to develop and support ANAM.
+
+
+== Assessment Tests and Tools ==
+ANAM includes: 
+
+Select batteries of neurocognitive tests from the ANAM library
+A data extraction and presentation tool for custom analysis and data management
+A performance report tool for reporting on individual neurocognitive tests with comparisons to previous assessment sessionsANAM includes 22 individual tests sensitive to cognitive change in: 
+
+Attention
+Concentration
+Reaction time
+Memory
+Processing speed
+Decision-making
+Executive functionANAM assessment batteries have been used in research and clinical work associated with injury, illness, exposure, risk factors, and intervention.  
+ANAM assessment tests and tools include:
+
+Symptoms Scale
+2-Choice Reaction Time
+Code Substitution (Learning, Immediate, and Delayed)
+Demographics Collection Module
+Effort Measure
+Go/No-Go (Executive Function)
+Logical Relations- Symbolic
+Manikin
+Matching Grids
+Matching to Sample
+Mathematical Processing
+Memory Search
+Mood Scale II –Revised
+Procedural Reaction Time
+Pursuit Tracking
+Running Memory- Continuous Performance Task
+Simple Reaction Time
+Sleepiness Scale
+Spatial Processing – Sequential and Simultaneous
+Stroop
+Switching
+Finger Tapping
+Tower Puzzle
+
+
+== Uses for ANAM ==
+ANAM tests have been used by clinicians for cognitive research and longitudinal testing in a broad range of military, athlete fitness, clinical and drug research applications.  Assessments can be built into standardized or customized batteries. Scientists working in varied fields of healthcare and human factors research have identified ANAM batteries that are useful in their topic-specific research.ANAM research history includes  decades of laboratory and clinical development. It has been referenced in more than 300 peer-reviewed independent research studies.  ANAM has been used by some of the world’s most prestigious scientific organizations including NASA, which uses ANAM-based WINSCAT to assess neurocognitive status. ANAM has a long and continuous history of research in the Department of Defense, including sports concussion studies at West Point and Traumatic Brain Injury (TBI) studies during Ft. Bragg Paratrooper training.  Through these and other programs, nearly two million ANAM test sessions have been collected.   Military research with ANAM is among the most comprehensive of any cognitive assessment technology.[1][2][3][4]The Archives of Clinical Neuropsychology, the official journal of the National Academy of Neuropsychology, published a special edition of its journal focused exclusively on ANAM in 2007.
+
+
+== References ==
+
+
+== External links ==
+VistaLifeSciences.com

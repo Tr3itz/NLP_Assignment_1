@@ -1,0 +1,87 @@
+Cervical cancer staging is the assessment of cervical cancer to determine the extent of the disease. This is important for determining disease prognosis and treatment. Cancer staging generally runs from stage 0, which is pre-cancerous or non-invasive, to stage IV, in which the cancer has spread throughout a significant part of the body.The International Federation of Gynecology and Obstetrics (FIGO) staging system is used for cervical cancer. Prior to the 2018 update, FIGO staging of cervical cancer allowed only the following diagnostic tests to be used in determining the stage: palpation (feeling with the fingers), inspection, colposcopy, endocervical curettage, hysteroscopy, cystoscopy, proctoscopy, intravenous urography, and X-ray examination of the lungs and skeleton, and cervical conization. In 2018, FIGO updated the staging system to include imaging and pathology were as allowable methods to assess disease stage.
+
+
+== Overview of staging ==
+FIGO guidelines suggest that lower staging should be assigned whenever possible. Staging is determined after all imaging and pathology reports have been collected and interpreted. The stage of cervical cancer cannot be altered at recurrence.
+
+
+=== Imaging ===
+The use of imaging can provide more information regarding prognosis, which informs treatment. The goal of staging is to identify the most appropriate treatment method and to minimize dual therapy, which can significantly impact morbidity. The imaging modality used for diagnosis should always be noted. Imaging modalities include ultrasound, MRI, CT, and positron emission tomography (PET).For primary tumors over 10 mm, MRI is the best method of radiologic assessment. For nodal metastasis over 10 mm, PET-CT is the most accurate modality for diagnosis, as this can differentiate large lymph nodes that are not metastatic (for example, those that are enlarged due to inflammation or infection) from lymph nodes that are enlarged due to metastases. The diagnosis of nodal metastasis can be supplemented with surgical assessment via minimally invasive surgery or laparotomy to collect a biopsy or perform a fine needle aspiration.
+
+
+=== Pathology ===
+As with imaging, pathologic methods used for diagnosis should always be noted for future evaluation. All cancers must be confirmed by microscopic examination.There are 10 histopathologic types of cervical cancers:
+Squamous cell carcinoma (keratinizing; non-keratinizing; papillary, basaloid, warty, verrucous, squamotransitional, lymphoepithelioma-like)
+Adenocarcinoma (endocervical; mucinous, villoglandular, endometrioid)
+Clear cell adenocarcinoma
+Serous carcinoma
+Adenosquamous carcinoma
+Glassy cell carcinoma
+Adenoid cystic carcinoma
+Adenoid basal carcinoma
+Small cell carcinoma
+Undifferentiated carcinomaCancers can be histopathologically graded as follows:
+
+GX: Grade cannot be assessed
+G1: Well differentiated
+G2: Moderately differentiated
+G3: Poorly or undifferentiated
+
+
+==== Sample collection ====
+For microinvasive disease, clinicians should collect a specimen using a loop electrosurgical excision procedure (LEEP) or a cone biopsy. If a patient has a visible lesion, a punch biopsy may be attempted. If the specimen is not satisfactory, a small loop biopsy or cone may be required.
+
+
+== Stages ==
+
+
+=== Stage 0 ===
+The carcinoma is confined to the surface layer (cells lining) of the cervix. Also called carcinoma in situ (CIS).
+
+
+=== Stage I ===
+The carcinoma has grown into the cervix, but has not spread beyond it (extension to the corpus would be disregarded).  Stage One is subdivided as follows:IA: Invasive carcinoma which can be diagnosed only by microscopy on a LEEP or cone biopsy specimen, or on a trachelectomy or hysterectomy specimen, with deepest invasion <5 mm from the base of the epithelium. It can originate from squamous or glandular epithelium. The margins of the specimen should be reported to be negative for disease. Lymphovascular involvement must be noted to inform the treatment plan, although it does not change stage designation.IA1: Measured stromal invasion <3.0 mm
+IA2: Measured stromal invasion ≥3.0 mm and <5 mm
+
+IB:  Invasive carcinoma with measured deepest invasion ≥5 mm, limited to the cervix. The lesions are clinically visible, which differentiates IB from IA. If the margins of the cone biopsy are positive for invasive disease, Stage IB1 is automatically assigned. As with Stage IA, the involvement of vascular or lymphatic spaces does not change the staging, but should be noted to inform the treatment plan.
+IB1: Invasive carcinoma ≥5 mm depth of invasion and <2 cm in greatest dimension
+IB2: Invasive carcinoma ≥2 cm and <4 cm in greatest dimension
+IB3: Invasive carcinoma ≥4.0 cm in greatest dimension  
+
+
+=== Stage II ===
+Cervical carcinoma invades beyond the uterus, but not to the pelvic wall or to the lower third of the vaginaIIA: Without parametrial invasion
+IIA1: Tumor <4.0 cm in greatest dimension
+IIA2: Tumor ≥4.0 cm in greatest dimension
+IIB: With parametrial invasion
+
+
+=== Stage III ===
+The carcinoma involves the lower third of the vagina and/or extends to the pelvic wall and/or causes hydronephrosis or non‐functioning kidney and/or involves pelvic and/or para-aortic lymph nodes.IIIA: Carcinoma involves the lower third of the vagina, with no extension to the pelvic wall.IIIB: Extension to the pelvic wall and/or hydronephrosis or non‐functioning kidney.
+IIIC: Involvement of pelvic and/or para-aortic lymph nodes, irrespective of tumor size and extent
+IIIC1: Pelvic lymph node metastasis only
+IIIC2: Para‐aortic lymph node metastasis
+
+
+=== Stage IV ===
+The carcinoma has extended beyond the true pelvis or has involved (biopsy proven) the mucosa of the bladder or rectum.  A bullous edema, as such, does not permit a case to be allotted to Stage IVIVA: Spread of the growth to adjacent organs
+IVB: Spread to distant organs
+
+
+== History of cervical cancer staging ==
+The drive to develop a staging for gynecological malignancies, including cancer of the cervix, was the need to have a uniform method to describe the extent of the disease. Comparing outcomes from different treatments could only be possible if the comparison were made for groups of patients with a similar degree of disease burden.
+
+
+=== Major Historical Timepoints ===
+Source:1929 - League of Nations Classification for Cervical Cancer
+1937 - First annual report of statistics on radiotherapy outcomes in cervical cancer patients
+1938 - Atlas of Cervical Cancer Staging (Heyman and Strandquist)
+1950 - The International Classification of the Stages of Carcinoma of the Uterine Cervix
+1954 - Founding of FIGO
+1958 - FIGO becomes the official publisher of the Annual Report
+1973 - Commencement of triennial publication of the Annual Report on the Results of Treatment in Gynecological Cancer
+1976 - The American Joint Committee on Cancer accepts the FIGO stage grouping for gynecological cancers
+2018 - Latest triennial FIGO Cancer ReportThe most recent updates to cervical cancer staging included in the 2018 edition marked a departure from a system based mainly on clinical evaluation to one that allows imaging and pathological methods to help determine tumor size and extent of disease to assign the stage. A major topic of debate was the impact that newer diagnostic modalities would have on low- and middle-income countries, which bear most of the disease burden. The final recommendations make findings from imaging and pathology optional for staging rather than a requirement.
+
+
+== References ==

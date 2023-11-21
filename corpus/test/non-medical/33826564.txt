@@ -1,0 +1,28 @@
+Plug load is the energy used by products that are powered by means of an ordinary AC plug (e.g., 100, 115, or 230 V). This term generally excludes building energy that is attributed to major end uses (HVAC, lighting, water heating, etc.)
+
+
+== Definitions ==
+Plug loads are often synonymous with terms such as "receptacle loads", "miscellaneous loads", "unregulated loads", or "process energy/loads." While many building codes/standards haven't defined "plug loads" specifically, they have defined these related terms, which are usually broader energy use categories.
+"Process energy" is defined as energy consumed in support of a manufacturing, industrial, or commercial process other than conditioning spaces and maintaining comfort and amenities for the occupants of a building. It typically includes office and general miscellaneous equipment, computers, elevators and escalators, kitchen cooking and refrigeration, laundry washing and drying, lighting exempt from the lighting power allowance, and other energy uses."Receptacle loads" has been defined as equipment loads normally served through electrical receptacles, such as office equipment and printers, but does not include either task lighting or equipment used for HVAC purposes.
+
+
+== Energy use ==
+In 1999, the US Department of Energy projected that office equipment would be the fastest-growing commercial end use between 1998 and 2020. The Commercial Buildings Energy Consumption Survey (CBECS), a national sample survey project of the US Energy Information Administration, reported that based on 2003 data, 19% of the total energy of US office buildings is attributed to plug load energy use (office equipment, computers, and other energy use).One confounding factor with estimating plug load energy use is the discrepancy between the rated or nameplate energy power consumption and the actual average power consumption, which can be as little as 10-15% of the nameplate value.Office equipment and other plug loads emit heat which may require the building to supply additional cooling, a side-effect which contributes to total energy consumption. However, when heating is needed, waste heat from plug loads also supplies part of the energy requirement for heating. Heating a space with electric heating is environmentally less effective than using the electricity for heat pumps, however if the electricity is being consumed anyway this is not a factor.
+
+
+== Plug load energy efficiency ==
+In general, although total plug load energy use is increasing, the actual plug load equipment stock is getting more efficient; technical advances such as low power consumption by LCD monitors, more effective sleep modes and the uptake of the notebook laptop computer in lieu of a desktop computer have produced lower plug load power levels.Plug load energy efficiency programs such as Energy Star help distinguish energy efficient plug load/office equipment products to consumers. Energy Star labeled computers, fax machines, scanners, and printers have demonstrated over 50% energy savings as compared to standard equipment.
+
+
+== User behavior and power management ==
+Although the efficiency of this equipment category is improving, many studies have indicated that user behavior may be a factor for its overall increasing energy use. In one study of 11 after-hours walk-throughs of offices in San Francisco and Washington DC, "only 44 percent of computers, 32 percent of monitors, and 25 percent of printers were turned off at night".Additionally, equipment power management adds some uncertainty to estimating plug load energy use. While most plug load products have "off" and "on" states, the "sleep" or "low power" states can represent a wide range of power savings, from 55% in desktop computers to 94% in CRT monitors.
+
+
+== See also ==
+AC power plugs and sockets
+Energy star
+Miscellaneous electric load
+Office equipment
+
+
+== References ==

@@ -1,0 +1,22 @@
+The kite experiment is a scientific experiment in which a kite with a pointed conductive wire attached to its apex is flown near thunder clouds to collect static electricity from the air and conduct it down the wet kite string to the ground. The experiment was first proposed in 1752 by Benjamin Franklin, who reportedly conducted the experiment with the assistance of his son William. The experiment's purpose was to investigate the nature of lightning and electricity, which were not yet understood. Combined with further experiments on the ground, the kite experiment demonstrated that lightning and electricity were the result of the same phenomenon.
+
+
+== Background ==
+Speculations of Jean-Antoine Nollet had led to the issue of the electrical nature of lightning being posed as a prize question at Bordeaux in 1749. In 1750, it was the subject of public discussion in France with a dissertation of Denis Barberet receiving a prize in Bordeaux. Barberet proposed a cause in line with the triboelectric effect. The same year, Franklin reversed his previous skepticism of electrical lightning's attraction to high points. The physicist Jacques de Romas also wrote a mémoire with similar ideas that year and later defended them as independent of Franklin's.
+
+
+== Lightning rod experiments ==
+In 1752, Franklin proposed an experiment with conductive rods to attract lightning to a leyden jar, an early form of capacitor. Such an experiment was carried out in May 1752 at Marly-la-Ville, in northern France, by Thomas-François Dalibard. An attempt to replicate the experiment killed Georg Wilhelm Richmann in Saint Petersburg in August 1753; he was thought to be the victim of ball lightning.  Franklin himself is said to have conducted the experiment in June 1752, supposedly on the top of the spire on Christ Church in Philadelphia. However, the spire at Christ Church was not added until 1754.
+
+
+== Franklin's kite experiment ==
+Franklin's kite experiment was performed in Philadelphia in June 1752, according to the account by Joseph Priestley. Franklin described the experiment in the Pennsylvania Gazette in October 19, 1752 without mentioning that he had performed it. The account was read to the Royal Society on December 21 and printed as such in the Philosophical Transactions. A more complete account of Franklin's experiment was given by Priestley in 1767, who presumably learned the details directly from Franklin, who was in London while Priestley wrote the book.
+According to the 1767 Priestley account, Franklin realized the dangers of using conductive rods and instead used the conductivity of a wet hemp string attached to a kite. As a result, he was able to remain on the ground and let his son fly the kite from the cover of a shed close by. That enabled Franklin and his son to keep the silk string of the kite dry to insulate them while the hemp string to the kite was allowed to get wet in the rain to provide conductivity. A house key was attached to the hemp string and connected to a Leyden jar; a silk string was attached to that. "At this key he charged phials, and from the electric fire thus obtained, he kindled spirits, and performed all other electrical experiments which are usually exhibited by an excited globe or tube." The kite was not hit by visible lightning; otherwise, Franklin would almost certainly have been killed. However, Franklin noticed that loose threads of the kite string were repelling one another and deduced that the Leyden jar was being charged. He moved his hand near the key and observed an electric spark, which proved the electric nature of lightning.
+
+
+== References ==
+
+
+== External links ==
+Philosophical Transactions: A Letter of Benjamin Franklin, Esq; to Mr. Peter Collinson, F. R. S. concerning an Electrical Kite.  Phil. Trans. 1751–1752 47, 565–567; (PDF)
+http://www.pbs.org/benfranklin/shocking/

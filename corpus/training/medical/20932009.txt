@@ -1,0 +1,75 @@
+The Bethesda system (TBS), officially called The Bethesda System for Reporting Cervical Cytology, is a system for reporting cervical or vaginal cytologic diagnoses, used for reporting Pap smear results.  It was introduced in 1988 and revised in 1991, 2001, and 2014. The name comes from the location (Bethesda, Maryland) of the conference, sponsored by the National Institutes of Health, that established the system.
+Since 2010, there is also a Bethesda system used for cytopathology of thyroid nodules, which is called The Bethesda System for Reporting Thyroid Cytopathology (TBSRTC or BSRTC). Like TBS, it was the result of a conference sponsored by the NIH and is published in book editions (currently by Springer). Mentions of "the Bethesda system" without further specification usually refer to the cervical system, unless the thyroid context of a discussion is implicit.
+
+
+== Cervix ==
+Abnormal results include:
+Atypical squamous cells
+Atypical squamous cells of undetermined significance (ASC-US)
+Atypical squamous cells – cannot exclude HSIL (ASC-H)
+Low-grade squamous intraepithelial lesion (LGSIL or LSIL)
+High grade squamous intraepithelial lesion (HGSIL or HSIL)
+Squamous cell carcinoma
+Atypical Glandular Cells not otherwise specified (AGC-NOS)
+Atypical Glandular Cells, suspicious for AIS or cancer (AGC-neoplastic)
+Adenocarcinoma in situ (AIS)The results are calculated differently following a Pap smear of the cervix.
+
+
+=== Squamous cell abnormalities ===
+
+
+==== LSIL: low-grade squamous intraepithelial lesion ====
+A low-grade squamous intraepithelial lesion (LSIL or LGSIL) indicates possible cervical dysplasia. LSIL usually indicates mild dysplasia (CIN 1), more than likely caused by a human papillomavirus infection. It is usually diagnosed following a Pap smear.CIN 1 is the most common and most benign form of cervical intraepithelial neoplasia and usually resolves spontaneously within two years. Because of this, LSIL results can be managed with a simple "watch and wait" philosophy. However, because there is a 12–16% chance of progression to more severe dysplasia, the physician may want to follow the results more aggressively by performing a colposcopy with biopsy. If the dysplasia progresses, treatment may be necessary. Treatment involves removal of the affected tissue, which can be accomplished by LEEP, cryosurgery, cone biopsy, or laser ablation.
+
+
+==== HSIL: high-grade squamous intraepithelial lesion ====
+High-grade squamous intraepithelial lesion (HSIL or HGSIL) indicates moderate or severe cervical intraepithelial neoplasia or carcinoma in situ.  It is usually diagnosed following a Pap test.  In some cases these lesions can lead to invasive cervical cancer, if not followed appropriately.HSIL does not mean that cancer is present. Of all women with HSIL results, 2% or less have invasive cervical cancer at that time, however about 20% would progress to having invasive cervical cancer without treatment. To combat this progression, HSIL is usually followed by an immediate colposcopy with biopsy to sample or remove the dysplastic tissue. This tissue is sent for pathology testing to assign a histologic classification that is more definitive than a Pap smear result (which is a cytologic finding). HSIL generally corresponds to the histological classification of CIN 2 or 3.HSIL treatment involves the removal or destruction of the affected cells, usually by LEEP. Other methods include cryotherapy, cautery, or laser ablation, but none are performed on pregnant women for fear of disrupting the pregnancy. Any of these procedures is 85% likely to cure the problem.
+
+
+=== Glandular cell abnormalities ===
+
+
+==== Adenocarcinoma ====
+Adenocarcinoma can arise from the endocervix, endometrium and extrauterine sites.
+
+
+==== AGC ====
+AGC, formerly AGUS, is a term for atypical glandular cells of undetermined significance.  Renamed AGC to avoid confusion with ASCUS.The management of AGC is colposcopy with or without an endometrial biopsy.
+
+
+== Thyroid nodules ==
+The Bethesda System for Reporting Thyroid Cytopathology is the system used to report whether the thyroid cytological specimen is benign or malignant on fine-needle aspiration cytology (FNAC). It can be divided into six categories:
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+Repeated FNAC is recommended for Category I, followed by clinical follow-up in Category II, repeat FNAC for Category III, and lobectomy for Category IV, near total-thyroidectomy/lobectomy for Category V, and near total thyroidectomy for Category VI. The risk of malignancy in a malignant FNAC report is 93.7% while for a suspicious FNAC report, it is 18.9%.
+
+
+== See also ==
+American Society for Clinical Pathology
+
+
+== References ==
+
+
+== External links ==
+ASCP: The Bethesda System Website Atlas
+Bethesda 2001 Workshop
+Bongiovanni, Massimo; Spitale, Alessandra; Faquin, William C.; Mazzucchelli, Luca; Baloch, Zubair W. (2012). "The Bethesda System for Reporting Thyroid Cytopathology: A Meta-Analysis". Acta Cytologica. 56 (4): 333–339. doi:10.1159/000339959. PMID 22846422. S2CID 14143335. Retrieved 24 November 2022.

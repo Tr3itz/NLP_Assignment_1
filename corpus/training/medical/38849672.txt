@@ -1,0 +1,35 @@
+Cardiophysics is an interdisciplinary science that stands at the junction of cardiology and medical physics, with researchers using the methods of, and theories from, physics to study cardiovascular system at different levels of its organisation, from the molecular scale to whole organisms. Being formed historically as part of systems biology, cardiophysics designed to reveal connections between the physical mechanisms, underlying the organization of the cardiovascular system, and biological features of its functioning.
+Zbigniew R. Struzik seems to be a first author who used the term in a scientific publication in 2004.
+One can use interchangeably also the terms cardiovascular physics.
+
+
+== See also ==
+Medical physics
+Important publications in medical physics
+Biomedicine
+Biomedical engineering
+Physiome
+Nanomedicine
+
+
+== References ==
+Books
+Kohl, Peter; Sachs, Frederick; Franz, Michael R. (2011). Cardiac Mechano-Electric Coupling and Arrhythmias. ISBN 978-0-19-957016-4.
+Zhuchkova, E., Radnayev, B., Vysotsky, S. & Loskutov, A. (2009). "Suppression of turbulent dynamics in models of cardiac tissue by weak local excitations". In S.K. Dana; P.K. Roy; J. Kurths (eds.). Understanding Complex Systems. Berlin: Springer. pp. 89–105.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Zbigniew R. Struzik. (2004). "Econophysics vs Cardiophysics: the Dual Face of Multifractality". In Hideki Takayasu (ed.). The Application of Econophysics. Japan: Springer. pp. 210–215. doi:10.1007/978-4-431-53947-6_29. ISBN 978-4-431-67961-5.
+Papers
+Crampin E. J.; Halstead M.; Hunter P.; Nielsen P.; Noble D.; Smith N.; Tawhai M. (2003). "Computational physiology and the physiome project". Exp. Physiol. 89 (1): 1–26. doi:10.1113/expphysiol.2003.026740. PMID 15109205. S2CID 18151860.
+Hunter, P. J., Kohl, P., Noble D. (2001). "Integrative models of heart: achievements and limitations". Phil. Trans. R. Soc. Lond. A. 359 (1783): 1049–1054. Bibcode:2001RSPTA.359.1049H. doi:10.1098/rsta.2001.0816. S2CID 84652829.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+Noble D. (2002). "Modelling the heart: from genes to cells to whole organ". Science. 295 (5560): 1678–1682. doi:10.1126/science.1069881. PMID 11872832. S2CID 6756983.
+Moskalenko A.V. (2009). "Nonlinear effects of lidocaine on polymorphism of ventricular arrhythmias". Biophysics. 54 (1): 47–50. doi:10.1134/s0006350909010084. S2CID 96749014.
+Moskalenko A.V.; Elkin Yu. E. (2009). "The lacet: a new type of the spiral wave behavior". Chaos, Solitons and Fractals. 40 (1): 426–431. Bibcode:2009CSF....40..426M. doi:10.1016/j.chaos.2007.07.081.
+Wessel, N., Malberg, H., Bauernschmitt, R., Kurths J. (2007). "Nonlinear methods of cardiovascular physics and their clinical applicability". International Journal of Bifurcation and Chaos. 17 (10): 3325–3371. Bibcode:2007IJBC...17.3325W. CiteSeerX 10.1.1.385.1704. doi:10.1142/s0218127407019093.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+Wiener N.; Rosenblueth A. (1946). "The mathematical formulation of the problem of conduction of impulses in a network of connected exitable elements, specifically in cardiac muscle". Arch. Inst. Cardiologia de Mexico. 16 (3–4): 205–265. PMID 20245817.
+
+
+== External links ==
+Bioelectric Information Processing Laboratory of the Institute for Information Transmission Problems RAS.
+(in Russian) The Group of Experimental and Clinical Cardiology in the Laboratory of Physiology of emotion, Research Institute of normal physiology by Anokhin RAMS
+Oxford Cardiac Electrophysiology Group, led many years already by Prof. Denis Noble
+Cardiac Biophysics and Systems Biology group  of National Heart & Lung Institute of Imperial College London
+(in German) Group of Nonlinear Dynamics & Cardiovascular Physics Archived 2013-11-10 at the Wayback Machine of the 1st Faculty of Mathematics and Natural Sciences in the Institute of Physics of Humboldt University of Berlin

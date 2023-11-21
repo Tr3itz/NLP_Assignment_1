@@ -1,0 +1,79 @@
+Nervous system diseases, also known as nervous system or neurological disorders, refers to a small class of medical conditions affecting the nervous system. This category encompasses over 600 different conditions, including genetic disorders, infections, cancer, seizure disorders (such as epilepsy), conditions with a cardiovascular origin (such as stroke), congenital and developmental disorders (such as spina bifida), and degenerative disorders (such as multiple sclerosis, Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis).
+
+
+== Signs and symptoms ==
+Signs and symptoms can vary depending on the condition. Given the significance of the nervous system in human physiology, symptoms can involve other organ systems and result in motor dysfunction, sensory impairment, pain, etc.
+
+
+== Causes ==
+
+
+=== Genetic ===
+Some nervous system diseases are due to genetic mutations. For example, Huntington's disease is an inherited disease characterized by progressive neurodegeneration. Huntington's disease results from a mutation in either copy of the HTT gene, which results in an abnormally folded protein. The accumulation of mutated proteins results in brain damage of the basal ganglia.
+
+
+=== Congenital/developmental defect ===
+Developing babies can have birth defects that affect the formation of the nervous system. For example, Anencephaly (or spina bifida) causes abnormalities in the nervous system due to neural tube defects.
+
+
+=== Cancer ===
+Specialized cells in the central nervous system, such as glial cells, may proliferate abnormally and form gliomas. Glioblastoma is an aggressive form of glioma.
+
+
+=== Infection ===
+Pathogens like fungi, bacteria, and viruses can affect the nervous system. For example, meningitis is a common infection of the central nervous system, where bacterial or viral infections cause an inflammation of the meninges.
+
+
+=== Seizure disorder ===
+It is suspected that seizures occur because of synchronized brain activity. Epilepsy, for example, is characterized by an abnormal electrical activity in the brain, which causes repeated seizures.
+
+
+=== Vascular ===
+The brain is rich in blood vessels because it requires a lot of nutrients and oxygen. A stroke may result from a blood clot or hemorrhage.
+
+
+=== Degenerative ===
+A neurodegenerative disease is a disease that causes damage to neurons. Examples of neurodegenerative disease include Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. For example, multiple sclerosis (MS) is an inflammatory neurodegenerative disease where the body initiate an inflammatory reaction in the central nervous system, and causes damage to neurons. Neurodegneration is different in each disease; for example, MS is a result of a degenerative process called demyelination. On the other hand, Parkinson's disease results from damage of neurons in the Substantia Nigra, which is important to initiate motor behavior.
+
+
+== Anatomy ==
+
+
+=== Central nervous system (CNS) ===
+According to Tim Newman, the central nervous system is made up of the brain and spinal cord, it collects information from the entire body and it also controls functions throughout the entire body.
+
+
+==== Brain ====
+Newman's research also shows that the brain is the most complex organ in the entire body. The brain is split up into 4 lobes: the temporal, parietal the occipital, and the frontal.The brain has over 100 billion neurons and it uses about 20% of the body's oxygen.
+
+
+==== Spinal cord ====
+The spinal cord runs through most of the back. The spinal cord contains a total of 31 spinal nerves in between each vertebra. The nerves connect to the peripheral nervous system.
+
+
+=== Peripheral nervous system ===
+The peripheral nervous system connects to the muscles and glands and sends information to the central nervous system.
+
+
+== Diagnosis ==
+There are a number of different tests that can be used to diagnose neurological disorders.
+
+
+=== Lumbar puncture ===
+ 
+A lumbar puncture (LP), also known as a spinal tap, is a procedure where a hollow needle is inserted into the subarachnoid space of the spinal cord, allowing for the collection of cerebrospinal fluid (CSF) for collection and subsequent analysis. Red and white blood cell counts, protein and glucose levels, and the presence of abnormal cells or pathogens such as bacteria and viruses can all be screened for. The opacity and color of the fluid can also yield useful information that can assist in a diagnosis.
+
+
+== Treatments ==
+The treatments for nervous system disorders varies depending on the condition, and can include interventions such as medication, surgery, and therapy.
+
+
+== See also ==
+Central nervous system disease
+Peripheral neuropathy
+
+
+== References ==
+
+
+== External links ==

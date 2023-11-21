@@ -1,0 +1,20 @@
+Midline shift is a shift of the brain past its center line. The sign may be evident on neuroimaging such as CT scanning. The sign is considered ominous because it is commonly associated with a distortion of the brain stem that can cause serious dysfunction evidenced by abnormal posturing and failure of the pupils to constrict in response to light. Midline shift is often associated with high intracranial pressure (ICP), which can be deadly. In fact, midline shift is a measure of ICP; presence of the former is an indication of the latter. Presence of midline shift is an indication for neurosurgeons to take measures to monitor and control ICP. Immediate surgery may be indicated when there is a midline shift of over 5 mm. The sign can be caused by conditions including traumatic brain injury, stroke, hematoma, or birth deformity that leads to a raised intracranial pressure.
+
+
+== Methods of detection ==
+Doctors detect midline shift using a variety of methods. The most prominent measurement is done by a computed tomography (CT) scan and the CT Gold Standard is the standardized operating procedure for detecting MLS. Since the midline shift is often easily visible with a CT scan, the high precision of Magnetic Resonance Imaging (MRI) is not necessary, but can be used with equally adequate results. Newer methods such as bedside sonography can be used with neurocritical patients who cannot undergo some scans due to their dependence on ventilators or other care apparatuses. Sonography has proven satisfactory in the measurement of MLS, but is not expected to replace CT or MRI. Automated measurement algorithms are used for exact recognition and precision in measurements from an initial CT scan. A major benefit to using the automated recognition tools includes being able to measure even the most deformed brains because the method doesn’t depend on normal brain symmetry. Also, it lessens the chance of human error by detecting MLS from an entire image set compared to selecting the single most important slice, which allows the computer to do the work that was once manually done.
+
+
+== Structures of the midline ==
+Three main structures are commonly investigated when measuring midline shift. The most important of these is the septum pellucidum, which is a thin and linear layer of tissue located between the right and left ventricles. It is easily found on CT or MRI images due to its unique hypodensity. The other two important structures of the midline include the third ventricle and the pineal gland, which are both centrally located and caudal to the septum pellucidum. Identifying the location of these structures on a damaged brain compared to an unaffected brain is another way of categorizing the severity of the midline shift. The terms mild, moderate, and severe are associated with the extent of increasing damage.
+
+
+== Midline shift in diagnoses ==
+Midline shift measurements and imaging has multiple applications. The severity of brain damage is determined by the magnitude of the change in symmetry. Another use is secondary screening to determine deviations in brain trauma at different times after a traumatic injury as well as initial shifts immediately after. The severity of shift is directly proportional to the likeliness of surgery having to be performed. The degree of MLS can also be used to diagnose the pathology that caused it. The MLS measurement can be used to successfully distinguish between a variety of intracranial conditions including acute subdural hematoma, malignant middle cerebral artery infarction, epidural hematoma, subarachnoid hemorrhage, chronic subdural hematoma, infarction, intraventrical hemorrhage, a combination of these symptoms, or the absence of pertinent damage altogether.
+
+
+== See also ==
+Mass effect (medicine)
+
+
+== References ==

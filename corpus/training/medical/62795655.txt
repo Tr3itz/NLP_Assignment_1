@@ -1,0 +1,12 @@
+AE1/AE3 is an antibody cocktail that is used in immunohistochemistry, being generally positive in the cytoplasm of carcinomas (cancers of epithelial origin).
+
+
+== Targets ==
+The antibody cocktail binds to cytokeratin 1 - 8, 10, 14 - 16 and 19 (but not CK17 or CK18). It is therefore used as a marker of carcinomas, such as depth of invasion and metastases. For example, it is both relatively sensitive and specific for detection of breast cancer metastasis to sentinel lymph nodes.It may cross-react with GFAP, leading to aberrant staining of glial tumors such as ependymoma, glioblastoma and schwannoma. It may also stain myofibroblasts and smooth muscle cells. Furthermore, it may stain nodal epithelial cells that has contaminated a tumor from recent biopsy.
+
+
+== See also ==
+List of histologic stains that aid in diagnosis of cutaneous conditions
+
+
+== References ==

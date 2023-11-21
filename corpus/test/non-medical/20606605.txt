@@ -1,0 +1,15 @@
+The ecology of contexts is a term used in many disciplines and refers to the dynamic interplay of contexts and demands that constrain and define an entity.
+
+
+== Environmental ecology ==
+An agroecosystem exists amid contexts including climate, soil, plant genetics, government policies, and the personal beliefs and predilections of the agriculturalist. Not only are these contexts too numerous to list in their entirety for any agroecosystem, but their interactions are so complex it is impossible to perfectly characterize a system, let alone predict the effect a given perturbation will have on the whole. At the same time, all of these contexts are dynamic, albeit at wildly diverging time scales, so the ecology of contexts for an agroecosystem is fundamentally mutable. An awareness of the ecology of contexts is helpful for agroecologists, as the nearly axiomatic acceptance dynamic, and thereby unperfectable, nature of agroecosystems precludes the often damaging notion of a best or ideal approach to agroecosystem management as well as an awareness of the complexity of the response that can result from any perturbation of the system.
+This concept of the ecology of contexts provides a useful epistemological device for understanding agroecosystems. 
+This dual relationship of an entity in an ecology of contexts underscores the ecological analogy, with its emphasis on holonic interactions.
+
+
+== Human ecology ==
+Anil Thomas defines "ecology check" as "... checking to see if the desired result of a technique will work out in other areas of a person’s life. ... checking the consequences of your future actions and plans. ... what happens after you make a desired change. How does it affect a person’s home, their family, their finances, health, time, etc.? Is it in line with their value system? Is this what they really want? It prevents self-sabotage by making sure a change will be acceptable to all parts. ... When you think “ecologically,” you are taking every aspect of your outcome into account. You check to make sure that you are not going to achieve X at the expense of Y, if both are important to you. ...
+" In child development, for instance, it can refer to the nested scales at which influences on children reside, from the individual (e.g. age) to the broadest elements, like government policies or cultural attitudes.From computer science is the concept of ecology of context-aware computing, where a device's operation is tempered by information the device itself has about how the environment will affect its functioning and vice versa.In the field of music therapy, Trygve Aasgaard dealt with the reciprocity of an ecology of contexts, seeing the role of music in therapy as responsive to cultural and other contexts, while at the same time forming part of the environmental context.
+
+
+== References ==

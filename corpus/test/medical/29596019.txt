@@ -1,0 +1,6 @@
+Hexaminolevulinate, sold under the brand names Cysview and Hexvix, is an imaging agent that lights up under blue light during a blue light cystoscopy. It is used to help detect non-muscle invasive bladder cancer (NMIBC), in particular papillary tumors and carcinoma in situ (CIS).
+It made by Photocure ASA, a Norwegian pharmaceutical company.
+Hexaminolevulinate is a structural analogue to 5-aminolevulinic acid (a precursor to the porphyrin ring of heme), and is internalized and processed into the photoactive protoporphyrin IX at a high rate by tumor cells. After exposure to 360-450 nm light, the porphyrin will fluoresce red.[1]
+
+
+== References ==

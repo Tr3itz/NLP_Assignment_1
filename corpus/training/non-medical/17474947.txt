@@ -1,0 +1,18 @@
+A meter operator (MO or MOP) in the UK energy industry is an organization responsible for installing and maintaining electricity and gas meters. Since 1998 there has been full competition for meter operators, allowing the meter operator for a particular supply to be contracted with the energy supplier by either the supplier's discretion or at the customer's direction. Consumption data from the installed metering is then collected by the appointed data collector to be submitted for billing.
+There is a requirement for all UK electricity meters to undergo a health, safety and security inspection and meter reading every 2 years. Electricity meters need to be replaced every 10 to 30 years, depending on the model.
+
+
+== See also ==
+Meter Point Administration Number
+Electricity billing in the UK
+Electricity meter
+Gas meter
+
+
+== References ==
+
+"National Measurement Office". Retrieved 2009-06-08."Association of Meter Operators". Retrieved 2009-06-08.
+
+
+== External links ==
+Association of Meter Operators (AMO) Official website of the Trade Association of Meter Operators. Includes contact details for members and FAQs.

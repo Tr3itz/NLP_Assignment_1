@@ -1,0 +1,14 @@
+Dielectric breakdown model (DBM) is a macroscopic mathematical model combining the diffusion-limited aggregation model with electric field. It was developed by Niemeyer, Pietronero, and Weismann in 1984. It describes the patterns of dielectric breakdown of solids, liquids, and even gases, explaining the formation of the branching, self-similar Lichtenberg figures.
+
+
+== See also ==
+Eden growth model
+Lichtenberg figure
+Diffusion-limited aggregation
+
+
+== References ==
+
+
+== External links ==
+Dielectric Breakdown Model

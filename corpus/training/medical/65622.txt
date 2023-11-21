@@ -1,0 +1,66 @@
+Clinical chemistry (also known as chemical pathology, clinical biochemistry or medical biochemistry) is a division in medical laboratory sciences focusing on qualitative tests of important compounds, referred to as analytes or markers, in bodily fluids and tissues using analytical techniques and specialized instruments. This interdisciplinary field includes knowledge from medicine, biology, chemistry, biomedical engineering, informatics, and an applied form of biochemistry (not to be confused with medicinal chemistry, which involves basic research for drug development).
+The discipline originated in the late 19th century with the use of simple chemical reaction tests for various components of blood and urine. In the many decades since, clinical chemists use automated analyzer in many clinical laboratories, which does experimental techniques ranging from pipetting specimens and specimen labelling to advanced measurement techniques such as spectrometry, chromatography, photometry, potentiometry, etc. These instruments provide different results that help identify uncommon analytes, changes in light and electronic voltage properties of naturally-occurring analytes such as enzymes, ions, electrolytes, and their concentrations, all of which are important for diagnosing diseases. 
+Blood and urine are the most common test specimens clinical chemists or medical laboratory scientists collect for clinical routine tests, with a main focus on serum and plasma in blood. There are now many blood tests and clinical urine tests with extensive diagnostic capabilities. Some clinical tests require clinical chemists to process the specimen before testing. Clinical chemists and medical laboratory scientists serve as the interface between the laboratory side and the clinical practice, providing suggestions to physicians on which test panel to order and interpret any irregularities in test results that reflect on the patient's health status and organ system functionality.  This allows healthcare providers to make more accurate evaluation of a patient's health and to diagnose disease, predicting the progression of a disease (prognosis), screening, and monitoring the treatment's efficiency in a timely manner. The type of test required dictates what type of sample is used.
+
+
+== Common Analytes ==
+Some common analytes that clinical chemistry tests analyze include:
+
+
+== Panel tests ==
+A physician may order many laboratory tests on one specimen, referred to as a test panel, when a single test cannot provide sufficient information to make a swift and accurate diagnosis and treatment plan. A test panel is a group of many tests a clinical chemists do on one sample to look for changes in many analytes that may be indicative of specific medical concerns or the health status of an organ system. Thus, panel tests provide a more extensive evaluation of a patient's health, have higher predictive values for confirming or disproving a disease, and are quick and cost-effective. 
+
+
+=== Metabolic Panel ===
+A Metabolic Panel (MP) is a routine group of blood tests commonly used for health screenings, disease detection, and monitoring vital signs of hospitalized patients with specific medical conditions. MP panel analyzes common analytes in the blood to assess the functions of the kidneys and liver, as well as electrolyte and acid-base balances. There are two types of MPs - Basic Metabolic Panel (BMP) or Comprehensive Metabolic Panel (CMP).
+
+
+==== Basic Metabolic Panel ====
+BMP is a panel of tests that measures eight analytes in the blood's fluid portion (plasma). The results of the BMP provide valuable information about a patient's kidney function, blood sugar level, electrolyte levels, and the acid-base balance. Abnormal changes in one or more of these analytes can be a sign of serious health issues: 
+
+Sodium, Potassium, Chloride, and Carbon Dioxide: they are electrolytes that have electrical charges that manage the body’s water level, acid-base balance in the blood, and kidney function.
+Calcium: This charged electrolyte is essential for the proper functions of nerve, muscle, blood clotting, and bone health. Changes in the calcium level can be signs of bone disease, muscle cramps/ spasms, thyroid disease, or other conditions.
+Glucose: This measures the blood sugar levels, which is a crucial energy for your body and brain. High glucose levels can be a sign of diabetes or insulin resistance. 
+Urea and Creatinine: These are waste products that the kidney filters out from blood. Urea measurements are helpful in detecting and treating kidney failure and related metabolic disorders, whereas creatinine measurements give information on kidney’s health, tracking renal dialysis treatment, and monitor hospitalized patients that are on diuretics.
+
+
+==== Comprehensive Metabolic Panel ====
+Comprehensive metabolic panel (CMP) - 14 tests - above BMP plus total protein, albumin, alkaline phosphatase (ALP), alanine amino transferase (ALT), aspartate amino transferase (AST), bilirubin.
+
+
+== Specimen Processing ==
+For blood tests, clinical chemists must process the specimen to obtain plasma and serum before testing for targeted analytes. This is most easily done by centrifugation, which packs the denser blood cells and platelets to the bottom of the centrifuge tube, leaving the liquid serum fraction resting above the packed cells. This initial step before analysis has recently been included in instruments that operate on the "integrated system" principle. Plasma is obtained by centrifugation before clotting occurs.
+
+
+== Instruments ==
+Most current medical laboratories now have highly automated analyzers to accommodate the high workload typical of a hospital laboratory, and accept samples for up to about 700 different kinds of tests. Even the largest of laboratories rarely do all these tests themselves, and some must be referred to other labs. Tests performed are closely monitored and quality controlled.
+
+
+== Specialties ==
+The large array of tests can be categorised into sub-specialities of:
+
+General or routine chemistry – commonly ordered blood chemistries (e.g., liver and kidney function tests).
+Special chemistry – elaborate techniques such as electrophoresis, and manual testing methods.
+Clinical endocrinology – the study of hormones, and diagnosis of endocrine disorders.
+Toxicology – the study of drugs of abuse and other chemicals.
+Therapeutic Drug Monitoring – measurement of therapeutic medication levels to optimize dosage.
+Urinalysis – chemical analysis of urine for a wide array of diseases, along with other fluids such as CSF and effusions
+Fecal analysis – mostly for detection of gastrointestinal disorders.
+
+
+== See also ==
+Reference ranges for common blood tests
+Medical technologist
+Clinical Biochemistry (journal)
+
+
+== Notes and references ==
+
+
+== Bibliography ==
+Burtis, Carl A.; Ashwood, Edward R.; Bruns, David E. (2006). Tietz textbook of clinical chemistry (4th ed.). Saunders. p. 2448. ISBN 978-0-7216-0189-2.
+
+
+== External links ==
+American Association of Clinical Chemistry
+Association for Mass Spectrometry: Applications to the Clinical Lab (MSACL)

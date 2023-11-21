@@ -1,0 +1,24 @@
+Neural cliques are network-level memory coding units in the hippocampus. They are functionally organized in a categorical and hierarchical manner. Researchers investigating the role of neural cliques have gained insight into the process of storing memories in the brain. Research evidence suggests that memory of events is achieved not through memorization of exact event details but through recreation of select images based on cognitive significance. This process enables the brain to exhibit large storage capacity and facilitates the capacity for abstract reasoning and generalization. Although several studies converges in the demonstration that real-time patterns of memory traces and sensory inputs are retained in the form of neural cliques, the topic is currently in active research in order to fully understand this biological code.
+
+
+== History ==
+Hebb proposed in 1949 that information in the brain would need to involve the coordinated activity of multiple neuronal cells, termed engrams or neuronal cells assemblies, in order to achieve reliable information encoding and restitution, and putting forward Hebb's Rule as a fundamental mechanism for the coordination of activity. Indeed, biological constructs are known to be unreliable, showing only a stochastic probability of transmitting information, and with a converse probability of spontaneous, spurious firing. Evidence supporting such a concept of cell assemblies was later observed, both at the macroscopic level with the cortical columns in the somato-sensory areas, and at the microscopic level with the NMDA coding of coordinated activity in synapses. However, the mesoscopic level has remained elusive. Some authors, including Vernon Mountcastle, argued that the mesoscopic level of sensory brain areas might be topologically organized similarly to the macroscopic and microscopic level, in cortical minicolumns, specifically what has been termed the columnar functional organization. However, any exact mechanism of information encoding and decoding in these sensory cortical columns has remained elusive.
+
+
+== Biological observations ==
+Recently, researchers have been able to map out distinct patterns of neural activity in the hippocampus triggered by different events. These neural patterns were geometricalled shaped as cliques, which is a fully connected network of nodes. The activity patterns associated with certain startling experiences recurred spontaneously—at intervals ranging from seconds to minutes after the actual event—that showed similar trajectories, including the characteristic geometric shape, but with smaller amplitudes than their original responses.
+
+
+== Theoretical models ==
+A theoretical associative memory model with a practical implementation running in real-time on modern hardware was proposed, the Gripon-Berrou Neural Network or Cliques Neural Network, an extension of the Hopfield network. This model suggest that the encoding of memories or information is done in constant O(1) time, by simply creating synapses between the neurons, creating a clique in a subgraph of the network, representing the memory. The decoding is then simple and fast, based on the biological neurons behavior of the all-or-none and winner-takes-all. This model demonstrates the usefulness of cliques, by allowing the reconstruction of a full memory from a partial or corrupted input, even with unreliable synapses and neurons, and providing an explanation for associative train of thoughts when pre-cueing subjects with a familiar sensory stimuli (e.g., Proust's madeleine).
+
+
+== See also ==
+Neural code
+
+
+== References ==
+
+
+== External links ==
+'The Memory Code', Joe Z. Tsien, Scientific American (June 17, 2007)

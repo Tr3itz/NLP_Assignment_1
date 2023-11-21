@@ -1,0 +1,112 @@
+Motor mimicry is a common neurological phenomenon where a person reacts to an event happening to someone else. Examples of motor mimicry include wincing at someone else's injury or ducking when someone else does. Motor mimicry can also have more social and emotional manifestations, like unconsciously matching a peer's posture or speech patterns.
+The working definition of motor mimicry is:
+1. an action similar to one made by the other person
+2. an action one that the other person might make in their situation
+3. not what an observer would do simply as an observer
+4. not irrelevant or involuntary behaviors
+
+
+== Historically ==
+Traditional views on motor mimicry have seen it stemming from empathy, or feeling what someone else is. This theory on motor mimicry matches some resulting behaviors of mimicry, such as when someone is injured or emotionally in distress.
+While motor mimicry was seen as a form of sympathy, H. Spencer (1870) called motor mimicry a "presentative" sympathy, the most primitive of the types of sympathy Spence came up with, for being more immediate and reactive. Rather than "representative" sympathy, which would be more conscious and emotional.
+More recently, it has been revealed that motor mimicry is more communicative and acts as a nonverbal message between people (Bavelas et al. 1986).
+In general, motor mimicry has been observed for more than two centuries, and while it has been dismissed as being "primitive" but has still evaded many theories made about the phenomenon.
+
+
+=== Motor Mimicry in Infants and Children ===
+In the early 1900s, psychologists started focusing on motor mimicry in infants and young children. In Allport's study on infants, he observed that "the child tends to assume the movements, strains and attitudes of the model." and that "he cannot help doing so".
+Later on, Allport concluded that mimicry was a genetic and conceptual way to social learning. However, Allport disagreed with those that thought conditioning was a possible explanation for motor mimicry in children. Rather, he concluded that "this process of empathy remains a riddle in social psychology".
+Supporting Allport's argument, Darwin also observed the presence of nonverbal sympathy in his 4-month old son. Darwin noted that his son would smile when he did and by the time he was 6 months old, Darwin's son would assume a "melancholy expression" when his nurse pretended to cry. From this, Darwin anticipated that motor mimicry was a form of nonverbal social communication.
+
+
+== Experimentation ==
+
+
+=== Hull (1933) ===
+In 1933, Clark Hull was the first person to experiment with motor mimicry and record the results. Hull arranged for an observer to witness another person straining and reaching, and by pinning a clothespin to the observer's clothes and attaching it to a rotary event recorder, Hull was able to trace the movements of the observer. Hull found the even while just watching someone reach for something, the observer made traces of the movements that the subject they were watching did.
+
+
+=== O'Toole and Dubin (1968) ===
+Later, O'Toole and Dubin (1968) took Hull's experiment more in depth. In two parallel experiments, O'Toole and Dubin studied observers saying forward while a subject reached for something in front of them, as well as mothers opening their mouths while spoon feeding a baby.In the first experiment, they found that while having an actor reach forward, observers consistently swayed forwards as well, instead of other directions. However, a large issue in this experiment was that O'Toole and Dubin did not take into account static ataxia, which is the natural forward movement we have even with the individual is attempting to stand perfectly still. Additionally, neither of O'Toole and Dubin's experiments were filmed, leaving us with only an observer's recollection and interpretation of the results.
+In the second experiment, they found evidence that the mother only opened her mouth after her baby had, ruling out that the mother was really mimicking the baby and not trying to induce the baby to open their mouths.
+
+
+=== MacInnis (1979) ===
+It wasn't until 1979 that MacInnis introduced videotaped stimuli. MacInnis found that around 40% of the subjects displayed mimicking movements towards the stimuli they were exposed to. He also recorded the subjects feelings of empathy towards the stimuli. The mimicked movements and feelings of empathy had no relation according to MacInnis.
+
+
+== Social settings ==
+A large characteristic in interactions between people in social settings is unconscious motor mimicry. Taking on the same posture, head movements, gestures and even speech patterns as the person interacting with us is a universal human characteristic. However, we don't mimic everyone around us all the time. Chartrand & Bargh (1999) showed that people who have higher perspective taking (paying more attention to the people and situation around them with respect to how others points of view) tend to mimic the people around them more than those lower in perspective taking.
+
+
+=== Factors ===
+
+
+==== Care for others ====
+When considering social mimicry, how a person feels about, or empathizes with the people around them is a large factor in where someone will mimic those around them. People who care more about those around them and pay more attention to their circumstances are more likely to mimic those around them than those who's attention is focused elsewhere.
+
+
+==== Affiliation goals ====
+Affiliation goals has been shown to increase mimicry. For example a study done found, "that men mimic a physically attractive woman more when they are trying to express romantic interest".
+
+
+==== Eye-Contact ====
+Maintained eye-contact increases mimicry between social partners. A study by Chartrand and Duffy showed that automatic mimicry of hand movements increased when the participants were making continued eye-contact.
+
+
+==== Positive Mood States ====
+In general, people in a positive mood have been shown to facilitate mimicry in social settings.
+
+
+=== Inhibitors ===
+Just as how there are factors that promote mimicry in social situations, there are also factors that inhibit mimicry between people.
+
+
+==== Disaffiliation goals ====
+People in romantic relationships are less likely to mimic an attractive person than someone who is not in a romantic relationship. Furthermore, people tended to mimic an attractive person even less when they reported more love for their romantic partner.
+
+
+==== Pride ====
+While most positive mood states increase someones likelihood of mimicking someone, pride is considered a positive mood but has been shown to inhibit mimicry when feeling this emotion.
+
+
+=== Consequences of Social Mimicry ===
+Mimicry, especially if someone is being mimicked, can help people become more pro-social. People that have recently been mimicked can be more generous and kind to towards other people than non-mimicked people. However, this phenomenon extend beyond the person that is doing the mimicking and it's aftereffects extend to those not directly involved in the mimicking.In general, being mimicked by someone around you in a social setting changes a person's self-construal, or how they define themselves with regards to others around them. During these experiences, the person being mimicked shifts their self-construal to become more interdependent with those around them and more "other-oriented".Immediately after being mimicked, those that were mimicked not only changed their opinions of the person they were directly interacting with. Additionally, " interpersonal mimicry heightens one's perception of interpersonal closeness with non-specified others" according to a study on the impact of mimicry on self construal.
+However, past the interpersonal closeness gained when mimicked, a study by Ashton et al. showed that the physical proximity of those that were being mimicked and those around them decreased.Social mimicry has show to have some interesting results. For example, mimicking someone's accent causes the mimicker to view the person they are mimicking as more attractive. Additionally, being mimicked by a salesperson can cause a customer to give higher quality of service ratings.
+
+
+== Social disorders ==
+
+
+=== Autism Spectrum Disorder ===
+Children with Autism Spectrum Disorder show impairments in mimicry and imitation, specifically in social settings. Conversely, adults with ASD showed more deficits in facial automatic mimicry, but were able to automatically mimic a human hand more strongly.
+
+
+=== Schizophrenia ===
+People with schizophrenia, even before diagnoses have trouble with both automatic and voluntary imitation. However, "After diagnosis, schizophrenia is associated with negatively biased automatic mimicry."
+
+
+=== Social Anxiety Disorder ===
+Research has shown that specifically women with social anxiety disorder tend to mimic less than those with less social anxiety. Furthermore, being mimicked does not have the same positive effects that it would for someone that shows the expected response from being mimicked.
+
+
+=== Borderline Personality Disorder ===
+Those diagnosed with borderline personality disorder tend to show more responsiveness and will mimic more when negative emotions like anger, disgust and sadness are show and tend to react less when exposed to positive expressions like happiness and surprise.
+
+
+== Theories ==
+
+
+=== The communicative theory ===
+The principle of the communicative theory of motor mimicry is that motor mimicry is an interpersonal process and is not a reflection of any internal processes. Instead, the communicative theory reflects that motor mimicry is expressive to the other person in the situation. This theory then indirectly proposes that any mimicry in a social setting is communicative and that showing how you feel through these motions is analogous to verbally communicating those feelings.
+
+
+=== The STORM Theory ===
+The STORM theory claims that mimicry is used as a strategy for people to get others to like them and use it to their advantage. This theory suggests that mimicry is used in this way either intentionally or unintentionally.
+
+
+=== The Domain-General Model ===
+The domain-general model is an extension of the ASL theory and suggests that mimicry has no specific use and is obtained through social conditioning. This theory describes mimicry as being learned the same way as general social cues.
+
+
+== References ==

@@ -1,0 +1,73 @@
+Cancer symptoms are changes in the body caused by the presence of cancer. They are usually caused by the effect of a cancer on the part of the body where it is growing, although the disease can cause more general symptoms such as weight loss or tiredness. There are more than 100 different types of cancer with a wide range of signs and symptoms which can manifest in different ways.
+
+
+== Signs and Symptoms ==
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. Cancer can be difficult to diagnose because its signs and symptoms are often nonspecific, meaning they may be general phenomena that do not point directly to a specific disease process.In medicine, a sign is an objective piece of data that can be measured or observed, as in a high body temperature (fever), a rash, or a bruise. A symptom, by contrast, is the subjective experience that may signify a disease, illness or injury, such as pain, dizziness, or fatigue. Signs and symptoms are not mutually exclusive, for example a subjective feeling of fever can be noted as sign by using a thermometer that registers a high reading.Because many symptoms of cancer are gradual in onset and general in nature, cancer screening (also called cancer surveillance) is a key public health priority. This may include laboratory work, physical examinations, tissue samples, or diagnostic imaging tests that a community of experts recommends be conducted at set intervals for particular populations. Screenings can identify cancers before symptoms develop, or early in the disease course. Certain cancers can be prevented with vaccines against the viruses that cause them (e.g., HPV vaccines as prevention against cervical cancer).Additionally, patient education about worrisome symptoms that require further evaluation is paramount to reduce morbidity and mortality from cancer. Symptoms that cause excess worry, symptoms that persist or are unexplained, and/or the appearance of several symptoms together particularly warrant evaluation by a health professional.
+
+
+== Cancer Signs and Symptoms ==
+Mechanisms
+Cancer may produce symptoms in one or more of the following ways:
+Mass effect: An abnormal growth of tissue, or tumor, may compress nearby structures, causing pain, inflammation or disruption of function. Not all cancers produce solid tumors. Even benign cancers (those that do not metastasize, or spread to other tissues) may have serious consequences if they appear in dangerous places, particularly the heart or brain. Small bowel obstructions caused by the growth of a tumor in the digestive system is another example of a 'space-occupying' consequence of cancer.
+Loss of Function: Tumor cells may deplete normal cells of oxygen and nutrients, thus disrupting the function of a vital organ. Many tumors stimulate new blood vessel formation which serves to supply the tumor rather than the normal, healthy tissue. The abnormal function of cancer cells and reduced function of normal cells in a given organ may lead to organ failure.
+Increased Lactate Production: The Warburg Effect states that cancer cells in the presence of oxygen and glucose take a different path of energy production, diverting energy for biomass production to support tumor growth. This unique metabolism of cancer cells opens doors for possible cancer treatments including targeting lactate dehydrogenase and TCA intermediate production.
+Paraneoplastic Syndromes: Some cancers produce "ectopic" hormones, particularly when tumors arise from neuroendocrine cells, causing a variety of endocrine imbalances. Examples include the production of parathyroid hormones by parathyroid tumors or serotonin by carcinoid tumors. In these cases, the cell types that produce these active small molecules proliferate malignantly and lose their responsiveness to negative feedback. Because hormones operate on tissues far from the site of production, paraneoplastic signs and symptoms may appear far from the tumor of origin.
+Venous Thromboembolism: Patients with certain types of cancers are at increased risk of blood clots due to excess production of clotting factors. These clots may disrupt circulation locally or dislodge and travel to the heart, lungs, or brain, and may be fatal. Symptoms of blood clots may include pain, swelling, warmth and in late stages, numbness, particularly in the arms and legs. Some cancer treatments may further increase this risk.
+Effusions: Cancers may stimulate fluid shifts in the body and lead to extracellular collections of fluid. Breast and lung cancer, for example, often cause pleural effusions, or a buildup of fluid in the lining of the lungs. Abdominal cancers, including ovarian and uterine cancers, may cause fluid buildup in the abdominal cavity.
+
+
+=== Suspicious Symptoms ===
+Symptoms of cancer may be nonspecific changes to the individual's sense of physical well-being (constitutional symptoms), or may localize to a particular organ system or anatomic region.The following symptoms may be manifestations of an underlying cancer. Alternatively, they may point to non-cancerous disease processes, benign tumors, or even be within the physiological range of normal. They may appear at the primary site of cancer or be symptoms of cancer metastasis, or spread. Further workup by a trained healthcare professional is required to diagnose cancer.Constitutional Symptoms
+
+Unexplained weight loss: Weight loss that is unintended and not explained by diet, exercise or other illness may be a warning sign of many types of cancer
+Unexplained pain: Pain that persists, has no clear cause, and does not respond to treatment may be a warning sign of many types of cancers.
+Unexplained tiredness or fatigue: Unusual and persistent tiredness may point to underlying illness, including blood cell cancers like leukemia or lymphoma
+Unexplained night sweats or fever: These may be signs of an immune system cancer. Fever in children rarely points to malignancy, but may merit evaluation.Local Symptoms
+
+
+== Cancer Signs: Medical Workup ==
+A health professional may pursue a formal diagnostic workup to evaluate symptoms of cancer. The tests ordered will depend upon the type of cancer suspected. These may include the following:
+Basic Metabolic Panel
+Barium enema
+Biopsy
+Bone scan
+Bone marrow aspiration and biopsy
+Breast MRI
+Colonoscopy, Sigmoidoscopy, and/or Endoscopy
+Complete Blood Count and/or Peripheral Blood Smear
+Computed Tomography (CT) Scan
+Digital Rectal Exam
+Electrocardiogram (EKG) and Echocardiogram
+Fecal Occult Blood Tests
+Magnetic Resonance Imaging (MRI)
+Mammogram
+MUGA Scan
+Pap Test
+Positron Emission Tomography (PET) Scan
+Tumor Marker Tests
+Ultrasound
+
+
+== Treatment-Related and Secondary Symptoms ==
+Cancers treatments may include surgery, chemotherapy, radiation therapy, hormonal therapy, targeted therapy (including immunotherapy such as monoclonal antibody therapy) and synthetic lethality, most commonly as a series of separate treatments (e.g. chemotherapy before surgery). Some of these cancer therapies may produce treatment-related, or secondary, symptoms, including:
+
+Pain
+Cancer pain may be caused by the tumor itself compressing nearby structures, impinging on nerves, or causing an inflammatory response. It may also be caused by therapies such as radiation or chemotherapy. With competent management, cancer pain can be eliminated or well controlled in 80% to 90% of cases, but nearly 50% of cancer patients in the developed world receive less than optimal care. Worldwide, nearly 80% of people with cancer receive little or no pain medication. Cancer pain in children and in people with intellectual disabilities is also reported as being under-treated.
+Infection
+Deep Vein Thrombosis
+Pulmonary Embolism
+Tumor Lysis Syndrome
+Muscle AchesSymptoms that require immediate treatment include:
+
+Fever that is 100.4 °F (38 °C) or higher
+Shaking chills
+Chest pain or shortness of breath
+Confusion
+Severe headache with a stiff neck
+Bloody urine
+
+
+== References ==
+
+
+== External links ==

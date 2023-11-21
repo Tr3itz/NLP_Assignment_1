@@ -1,0 +1,56 @@
+The intra-aortic balloon pump (IABP) is a mechanical device that increases myocardial oxygen perfusion and indirectly increases cardiac output through afterload reduction. It consists of a cylindrical polyurethane balloon that sits in the aorta, approximately 2 centimeters (0.79 in) from the left subclavian artery. The balloon inflates and deflates via counter pulsation, meaning it actively deflates in systole and inflates in diastole. Systolic deflation decreases afterload through a vacuum effect and indirectly increases forward flow from the heart. Diastolic inflation increases blood flow to the coronary arteries via retrograde flow. These actions combine to decrease myocardial oxygen demand and increase myocardial oxygen supply.A computer-controlled mechanism inflates the balloon with helium from a cylinder during diastole, usually linked to either an electrocardiogram (ECG) or a pressure transducer at the distal tip of the catheter; some IABPs, such as the Datascope System 98XT, allow asynchronous counterpulsation at a set rate, though this setting is rarely used. Helium is used to inflate the balloon as its low density means there is little turbulent flow, so the balloon can inflate quickly and deflate slowly. It is also relatively benign and eliminated quickly if there is a leak or rupture in the balloon.
+
+
+== Indications ==
+The following situations may benefit from this device.
+Cardiogenic shock when used alone as treatment for myocardial infarction. 9–22% survive the first year.
+Reversible intracardial mechanical defects complicating infarction, i.e. acute mitral regurgitation and septal perforation.
+Unstable angina pectoris benefits from counterpulsation.
+Post cardiothoracic surgery—most common and useful is counterpulsation in weaning patients from cardiopulmonary bypass after continued perioperative injury to myocardial tissue.
+Preoperative use is suggested for high-risk patients such as those with unstable angina with stenosis greater than 70% of main coronary artery, in ventricular dysfunction with an ejection fraction less than 35%.
+Percutaneous coronary angioplasty
+In high risk coronary artery bypass graft surgery where cardiopulmonary bypass time was shortened, as well as during intubation period and hospital stay.
+Thrombolytic therapy of acute myocardial infarction.
+
+
+== Contraindications ==
+
+
+=== Absolute contraindication ===
+The following conditions will always exclude patients for treatment:
+Severe aortic valve insufficiency
+Aortic dissection
+Severe aortoiliac occlusive disease and bilateral carotid stenosis
+
+
+=== Relative contraindication ===
+The following conditions make IABP therapy inadvisable except under pressing circumstances:
+Prosthetic vascular grafts in the aorta
+Aortic aneurysm
+Aortofemoral grafts
+Sepsis
+
+
+== Effects ==
+IABP has a beneficiary effect to the struggling heart. It decreases myocardial demand for oxygen and increases coronary flow.
+
+
+== Complications ==
+Since the device is placed in the femoral artery and aorta it could provoke ischemia, and compartment syndrome. The leg is at highest risk of becoming ischemic if the femoral artery it is supplied by becomes obstructed. Placing the balloon too distal from the aortic arch may induce occlusion of the renal artery and subsequent kidney failure. Other possible complications are cerebral embolism during insertion, infection, dissection of the aorta or iliac artery, perforation of the artery and bleeding in the mediastinum. Mechanical failure of the balloon itself is also a risk which entails vascular surgery to remove under that circumstance. After balloon removal there is also a risk of 'embolic shower' from micro clots that have formed on the surface of the balloon, and can lead to peripheral thrombosis, myocardial ischemia, hemodynamic decompensation, and late pseudoaneurysm.
+
+
+== History ==
+The first publication of intra-aortic balloon counter-pulsation appeared in the American Heart Journal of May 1962; 63: 669-675 by S. Moulopoulos, S. Topaz and W. Kolff.
+The device and the balloons were then developed for commercial use between 1967 and 1969 heart surgery by William Rassman, M.D. at Cornell Medical Center and were manufactured by Datascope Corporation in 1969.  The system was subsequently used clinically by Dr. David Bregman in 1976 at NewYork-Presbyterian Hospital in New York City.The first clinical implant was performed at Maimonides Medical Center, Brooklyn, N.Y. in June 1967 by Dr. Adrian Kantrowitz and Dr. Steven Phillips. The patient, a 48-year-old woman, was in cardiogenic shock and unresponsive to traditional therapy. An IABP was inserted by a cut down on the left femoral artery. Pumping was performed for approximately 6 hours. Shock reversed and the patient was discharged.The size of the original balloon was 15 French but eventually 9 and 8 French balloons were developed. A second operation removed the balloon. Since 1979 the placement of the balloon has been modified using the Seldinger technique.
+
+
+== See also ==
+Cardiogenic shock
+Ventricular assist device
+
+
+== References ==
+
+
+== External links ==
+Intra-italheartj.org/pdf_files/20050080.pdf Images in cardiovascular medicine The missing intra-aortic balloon pump catheter by Pasquale Totaro, Nello Degno, John Smith, Vincenzo Argano, Cardiac Surgery Department, Regional Cardiac Center, Morriston Hospital, Swansea, UK, Ital Heart J 2005; 6 (4): 361–362)

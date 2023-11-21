@@ -1,0 +1,231 @@
+The relative permittivity (in older texts, dielectric constant) is the permittivity of a material expressed as a ratio with the electric permittivity of a vacuum. A dielectric is an insulating material, and the dielectric constant of an insulator measures the ability of the insulator to store electric energy in an electrical field.
+Permittivity is a material's property that affects the Coulomb force between two point charges in the material. Relative permittivity is the factor by which the electric field between the charges is decreased relative to vacuum.
+Likewise, relative permittivity is the ratio of the capacitance of a capacitor using that material as a dielectric, compared with a similar capacitor that has vacuum as its dielectric. Relative permittivity is also commonly known as the dielectric constant, a term still used but deprecated by standards organizations in engineering as well as in chemistry.
+
+
+== Definition ==
+Relative permittivity is typically denoted as εr(ω) (sometimes κ, lowercase kappa) and is defined as
+
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        (
+        ω
+        )
+        =
+        
+          
+            
+              ε
+              (
+              ω
+              )
+            
+            
+              ε
+              
+                0
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \varepsilon _{\text{r}}(\omega )={\frac {\varepsilon (\omega )}{\varepsilon _{0}}},}
+  where ε(ω) is the complex frequency-dependent permittivity of the material, and ε0 is the vacuum permittivity.
+Relative permittivity is a dimensionless number that is in general complex-valued; its real and imaginary parts are denoted as:
+
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        (
+        ω
+        )
+        =
+        
+          ε
+          
+            r
+          
+          ′
+        
+        (
+        ω
+        )
+        −
+        i
+        
+          ε
+          
+            r
+          
+          ″
+        
+        (
+        ω
+        )
+        .
+      
+    
+    {\displaystyle \varepsilon _{\text{r}}(\omega )=\varepsilon _{\text{r}}'(\omega )-i\varepsilon _{\text{r}}''(\omega ).}
+  The relative permittivity of a medium is related to its electric susceptibility, χe, as εr(ω) = 1 + χe.
+In anisotropic media (such as non cubic crystals) the relative permittivity is a second rank tensor.
+The relative permittivity of a material for a frequency of zero is known as its static relative permittivity.
+
+
+=== Terminology ===
+The historical term for the relative permittivity is dielectric constant. It is still commonly used, but has been deprecated by standards organizations, because of its ambiguity, as some older reports used it for the absolute permittivity ε. The permittivity may be quoted either as a static property or as a frequency-dependent variant, in which case it is also known as the dielectric function. It has also been used to refer to only the real component ε′r of the complex-valued relative permittivity.
+
+
+=== Physics ===
+In the causal theory of waves, permittivity is a complex quantity. The imaginary part corresponds to a phase shift of the polarization P relative to E and leads to the attenuation of electromagnetic waves passing through the medium.  By definition, the linear relative permittivity of vacuum is equal to 1, that is ε = ε0, although there are theoretical nonlinear quantum effects in vacuum that become non-negligible at high field strengths.The following table gives some typical values.
+
+The relative low frequency permittivity of ice is ~96 at −10.8 °C, falling to 3.15 at high frequency, which is independent of temperature.  It remains in the range 3.12–3.19 for frequencies between about 1 MHz and the far infrared region.
+
+
+== Measurement ==
+The relative static permittivity, εr, can be measured for static electric fields as follows: first the capacitance of a test capacitor, C0, is measured with vacuum between its plates. Then, using the same capacitor and distance between its plates, the capacitance C with a dielectric between the plates is measured. The relative permittivity can be then calculated as
+
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        =
+        
+          
+            C
+            
+              C
+              
+                0
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \varepsilon _{\text{r}}={\frac {C}{C_{0}}}.}
+  For time-variant electromagnetic fields, this quantity becomes frequency-dependent. An indirect technique to calculate εr is conversion of radio frequency S-parameter measurement results. A description of frequently used S-parameter conversions for determination of the frequency-dependent εr of dielectrics can be found in this bibliographic source. Alternatively, resonance based effects may be employed at fixed frequencies.
+
+
+== Applications ==
+
+
+=== Energy ===
+The relative permittivity is an essential piece of information when designing capacitors, and in other circumstances where a material might be expected to introduce capacitance into a circuit. If a material with a high relative permittivity is placed in an electric field,  the magnitude of that field will be measurably reduced within the volume of the dielectric. This fact is commonly used to increase the capacitance of a particular capacitor design. The layers beneath etched conductors in printed circuit boards (PCBs) also act as dielectrics.
+
+
+=== Communication ===
+Dielectrics are used in radio frequency (RF) transmission lines. In a coaxial cable, polyethylene can be used between the center conductor and outside shield. It can also be placed inside waveguides to form filters. Optical fibers are examples of dielectric waveguides. They consist of dielectric materials that are purposely doped with impurities so as to control the precise value of εr within the cross-section. This controls the refractive index of the material and therefore also the optical modes of transmission. However, in these cases it is technically the relative permittivity that matters, as they are not operated in the electrostatic limit.
+
+
+=== Environment ===
+The relative permittivity of air changes with temperature, humidity, and barometric pressure. Sensors can be constructed to detect changes in capacitance caused by changes in the relative permittivity. Most of this change is due to effects of temperature and humidity as the barometric pressure is fairly stable. Using the capacitance change, along with the measured temperature, the relative humidity can be obtained using engineering formulas.
+
+
+=== Chemistry ===
+The relative static permittivity of a solvent is a relative measure of its chemical polarity. For example, water is very polar, and has a relative static permittivity of 80.10 at 20 °C while n-hexane is non-polar, and has a relative static permittivity of 1.89 at 20 °C. This information is important when designing separation, sample preparation and chromatography techniques in analytical chemistry.
+The correlation should, however, be treated with caution. For instance, dichloromethane has a value of εr of 9.08 (20 °C) and is rather poorly soluble in water (13 g/L or 9.8 mL/L at 20 °C); at the same time, tetrahydrofuran has its εr = 7.52 at 22 °C, but it is completely miscible with water.  In the case of tetrahydrofuran, the oxygen atom can act as a hydrogen bond acceptor; whereas dichloromethane cannot form hydrogen bonds with water.
+This is even more remarkable when comparing the εr values of acetic acid (6.2528) and that of iodoethane (7.6177). The large numerical value of εr is not surprising in the second case, as the iodine atom is easily polarizable; nevertheless, this does not imply that it is polar, too (electronic polarizability prevails over the orientational one in this case).
+
+
+== Lossy medium ==
+Again, similar as for absolute permittivity, relative permittivity for lossy materials can be formulated as:
+
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        =
+        
+          ε
+          
+            r
+          
+          ′
+        
+        −
+        
+          
+            
+              i
+              σ
+            
+            
+              ω
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \varepsilon _{\text{r}}=\varepsilon _{\text{r}}'-{\frac {i\sigma }{\omega \varepsilon _{0}}},}
+  in terms of a "dielectric conductivity" σ (units S/m, siemens per meter), which "sums over all the dissipative effects of the material; it may represent an actual [electrical] conductivity caused by migrating charge carriers and it may also refer to an energy loss associated with the dispersion of ε′ [the real-valued permittivity]" ( p. 8). Expanding the angular frequency ω = 2πc / λ and the electric constant ε0 = 1 / µ0c2, which reduces to:
+
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+        =
+        
+          ε
+          
+            r
+          
+          ′
+        
+        −
+        i
+        σ
+        λ
+        κ
+        ,
+      
+    
+    {\displaystyle \varepsilon _{\text{r}}=\varepsilon _{\text{r}}'-i\sigma \lambda \kappa ,}
+  where λ is the wavelength, c is the speed of light in vacuum and κ = µ0c / 2π = 59.95849 Ω ≈ 60.0 Ω is a newly introduced constant (units ohms, or reciprocal siemens, such that σλκ = εr remains unitless).
+
+
+== Metals ==
+Permittivity is typically associated with dielectric materials, however metals are described as having an effective permittivity, with real relative permittivity equal to one. In the high-frequency region, which extends from radio frequencies to the far infrared and terahertz region, the plasma frequency of the electron gas is much greater than the electromagnetic propagation frequency, so the refractive index n of a metal is very nearly a purely imaginary number. In the low frequency regime, the effective relative permittivity is also almost purely imaginary: It has a very large imaginary value related to the conductivity and a comparatively insignificant real-value.
+
+
+== See also ==
+
+
+== References ==
