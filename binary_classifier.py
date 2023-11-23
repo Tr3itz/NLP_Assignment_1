@@ -56,6 +56,9 @@ def class_loglikelihood(class_bow: dict, vocabulary: dict) -> dict:
     total_words = len(vocabulary.keys())
     total_occurrences = sum(vocabulary.values())
 
+    # dictionary in which
+    # keys: words within the vocabulary
+    # values: loglikelihood of each word of belonging to the provided class
     loglikelihood = {}
 
     for word in vocabulary.keys():
@@ -69,7 +72,13 @@ def class_loglikelihood(class_bow: dict, vocabulary: dict) -> dict:
 
 
 class BinaryClassifier:
-    # Training of the model
+    """
+    TRAINING OF THE MODEL
+    Creates the classifier object by creating bag of words each class of documents and merging them
+    into one vocabulary of all documents in the training set
+
+    @:param training_directory -> directory containing both medical and non-medical files
+    """
     def __init__(self, training_directory: str):
 
         print('Retrieving training documents...')
@@ -107,7 +116,17 @@ class BinaryClassifier:
         self.medical_loglikelihood = class_loglikelihood(self.medical_bow, self.vocabulary)
         self.other_loglikelihood = class_loglikelihood(self.other_bow, self.vocabulary)
 
-    # Testing of the model
+    """ 
+    TESTING THE MODEL
+    It classifies all the documents inside the provided directory. The classification is performed 
+    using the bag of words and likelihoods of each class and the vocabulary of all the training documents.
+    
+    @:param test_directory -> directory containing all the test documents on which the classification has to be
+                              performed
+    
+    @:return system_label -> list of predictions on each document performed by the classifier
+    @:return gold_labels -> list of labels that indicate the actual class each document belongs to
+    """
     def classification(self, test_directory: str) -> tuple:
 
         print('\nRetrieving test documents...')

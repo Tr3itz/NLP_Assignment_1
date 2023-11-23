@@ -23,7 +23,7 @@ other_categories = [
 ]
 
 
-def get_text_from_page(pageid: str, medical: bool, test: bool):
+def get_text_from_page(pageid: str, is_medical: bool, test: bool):
 
     params = {
         "action": "query",
@@ -35,7 +35,6 @@ def get_text_from_page(pageid: str, medical: bool, test: bool):
     }
 
     response = req.get(url=URL, params=params)
-
     data = response.json()
 
     text = data['query']['pages'][0]['extract']
@@ -52,15 +51,16 @@ def get_text_from_page(pageid: str, medical: bool, test: bool):
         os.mkdir('./corpus/test/medical')
         os.mkdir('./corpus/test/non-medical')
 
+    # Dividing documents into test and training set
     if test:
-        if medical:
+        if is_medical:
             with open(f'./corpus/test/medical/{pageid}.txt', 'w') as f:
                 f.write(text)
         else:
             with open(f'./corpus/test/non-medical/{pageid}.txt', 'w') as f:
                 f.write(text)
     else:
-        if medical:
+        if is_medical:
             with open(f'./corpus/training/medical/{pageid}.txt', 'w') as f:
                 f.write(text)
         else:
@@ -68,7 +68,8 @@ def get_text_from_page(pageid: str, medical: bool, test: bool):
                 f.write(text)
 
 
-def get_documents(wiki_category: str, medical: bool):
+# Get the list of page ids given a specific wikipedia category
+def get_documents(wiki_category: str, is_medical: bool):
 
     params = {
         "action": "query",
@@ -82,9 +83,9 @@ def get_documents(wiki_category: str, medical: bool):
     }
 
     response = req.get(url=URL, params=params)
-
     data = response.json()
 
+    # Number of found pages
     tot_pages = len(data["query"]["categorymembers"])
 
     print(f'For {wiki_category} found {tot_pages} documents.')
@@ -95,9 +96,9 @@ def get_documents(wiki_category: str, medical: bool):
 
             # For each category: 80% training, 20% test
             if page < tot_pages * 4//5:
-                get_text_from_page(pageid, medical, False)
+                get_text_from_page(pageid, is_medical, False)
             else:
-                get_text_from_page(pageid, medical, True)
+                get_text_from_page(pageid, is_medical, True)
     except KeyError:
         print(f'Invalid category: {wiki_category}\n{data}')
         exit(-1)
