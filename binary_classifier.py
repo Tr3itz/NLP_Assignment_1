@@ -99,7 +99,7 @@ class BinaryClassifier:
             if word not in self.vocabulary.keys():
                 self.vocabulary[word] = self.other_bow[word]
             else:
-                self.vocabulary[word] = self.other_bow[word]
+                self.vocabulary[word] += self.other_bow[word]
 
         print('Computing class probabilities...')
 
