@@ -1,4 +1,4 @@
-In medicine, a stent is any device which is inserted into a blood vessel or other anatomical internal duct to expand it to prevent or alleviate a blockage.  Traditionally, such devices are fabricated from metal mesh and remain in the body permanently or until removed through further surgical intervention.  A bioresorbable stent (also called bioresorbable scaffold, biodegradable stent or naturally-dissolving stent) serves the same purpose, but is manufactured from a material that may dissolve or be absorbed in the body.
+A bioresorbable stent is a tube-like device (stent) that is used to open and widen clogged heart arteries and then dissolves or is absorbed by the body. It is made from a material that can release a drug to prevent scar tissue growth. It can also restore normal vessel function and avoid long-term complications of metal stents.In medicine, a stent is any device which is inserted into a blood vessel or other anatomical internal duct to expand it to prevent or alleviate a blockage.  Traditionally, such devices are fabricated from metal mesh and remain in the body permanently or until removed through further surgical intervention.  A bioresorbable stent (also called bioresorbable scaffold, biodegradable stent or naturally-dissolving stent) serves the same purpose, but is manufactured from a material that may dissolve or be absorbed in the body.
 
 
 == Background ==
@@ -19,6 +19,15 @@ Polymer-based stents have been approved for use in some countries around the wor
 
 == Clinical research ==
 Clinical research has shown that resorbable scaffolds, or naturally dissolving stents, offer comparable efficacy and safety profile to drug-eluting stents. Specifically, the Magmaris resorbable magnesium scaffold has reported a favorable safety profile with low target lesion failure and scaffold thrombosis rates. These clinical results are comparable to thin-strutted drug-eluting stents in similar patient populations.The Absorb naturally dissolving stent has also been investigated in single-arm trials and in randomized trials comparing it to a drug-eluting stent. Early and late major adverse cardiac events, revascularizations, and scaffold thromboses have been uncommon and similar to the Xience DES, a market leader in the drug eluting stent category. Studies in real-world patients are ongoing.Imaging studies show that the Absorb naturally dissolving stent begins to dissolve from six to 12 months and is fully dissolved between two and three years after it is placed in the artery. Two small platinum markers remain to mark the location of the original PCI. The artery is able to dilate and contract, called vasomotion, similar to a healthy blood vessel at two years.
+
+
+== History ==
+In the US, the first fully absorbable stent was approved by FDA in 2016.
+
+
+== See also ==
+drug-eluting stent – Medical stent that releases drug
+coronary stent – Medical stent implanted into coronary arteries
 
 
 == References ==

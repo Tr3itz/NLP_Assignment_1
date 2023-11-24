@@ -50,11 +50,11 @@ All the while, bacteriologist Paul Ehrlich was studying staining, a procedure th
 
 
 == See also ==
-Blood–ocular barrier – Physical barrier between the local blood vessels and most parts of the eye itself
-Blood–retinal barrier – Part of the blood–ocular barrier that prevents certain substances from entering the retina
-Blood–saliva barrier – A semipermeable border that allows selective passage of blood constituents into the saliva and back
-Blood–spinal cord barrier – Semipermeable anatomical interface
-Blood–testis barrier – A physical barrier between the blood vessels and the seminiferous tubules of the animal testes
+blood–ocular barrier – Physical barrier between the local blood vessels and most parts of the eye itself
+blood–retinal barrier – Part of the blood–ocular barrier that prevents certain substances from entering the retina
+blood–saliva barrier – A semipermeable border that allows selective passage of blood constituents into the saliva and back
+blood–spinal cord barrier – Semipermeable anatomical interface
+blood–testis barrier – A physical barrier between the blood vessels and the seminiferous tubules of the animal testes
 
 
 == References ==
