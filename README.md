@@ -22,4 +22,5 @@ documents, processes each text and builds a Naive Bayes classifier. The text pro
     * _Bag of words creation_: for each class of documents (_medical_ and _non medical_) a bag of words is created
     * _Vocabulary creation_: the class bag of words are merged in order to create a vocabulary of the training documents
     * _Naive Bayes classifier training_
-3. **main.py** -> runs a test of the created classifier
+3. **main.py** -> runs a test of the created classifier using the _classification_ method of BinaryClassifier. Then
+it computes the confusion matrix and the performance measures.
