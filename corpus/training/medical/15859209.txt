@@ -1,0 +1,20 @@
+MoleMax was the first digital epiluminescence microscopy (dermatoscopy) system developed in cooperation with medical faculty Department of Dermatology of the Medical University of Vienna. It is currently owned and distributed by DermaMedicalSystems.
+
+
+== History ==
+In 1997, MoleMax was presented to international experts at the Melanoma World Congress and the following Dermatology World Congress in Sydney and generated great public interest. Since then, over 2000 MoleMax systems are in use in over 50 countries. 
+Today, MoleMax is worldwide accepted clinical standard in digital epiluminescence microscopy.
+
+
+== Methodology ==
+Thanks to the worldwide patented light polarisation technique for cameras with skin contact, these camera systems do not require any immersion fluid for the epiluminescence microscopic analysis.
+
+
+== Scientific use ==
+The MoleMax system was part of multiple scientific works such as measurements of the growth rate of pigmented skin lesions
+ 
+and verification of follow-up imaging. 
+Images made by this system also ended up in large public image databases such as HAM10000.
+
+
+== References ==

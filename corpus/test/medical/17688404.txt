@@ -1,0 +1,8 @@
+Urology Robotics, or URobotics, is a new interdisciplinary field for the application of robots in urology and for the development of such systems and novel technologies in this clinical discipline. Urology is among the medical fields with the highest rate of technology advances, which for several years has included the use medical robots.
+
+
+== Applications ==
+The first surgical robot approved by the FDA is the da Vinci system. Even though this was designed to assist in general Laparoscopy, most of its application are in the urology field for radical prostatectomy. Pioneered at the Vattikuti Urology Institute, robotic radical prostatectomy has now become the gold standard for the treatment of prostate cancer.Other, URobotic systems are under development. These include image-guided robots that, in addition to the direct visual feedback, use medical images for guiding the intervention. Since MRI provides enhanced visualization of soft-tissues compared to x-ray-based imaging, MRI compatible robots are being developed to assist the physician in performing the intervention in the MRI scanner. If prostate cancer lesions can be delineated in the image, robots can accurately target those lesions for biopsy or focal ablations.
+
+
+== References ==

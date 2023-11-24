@@ -1,0 +1,45 @@
+Metal allergies inflame the skin after it has been in contact with metal. They are a form of allergic contact dermatitis. They are becoming more common, as of 2021, except in areas with regulatory countermeasures.
+People may become sensitized to certain metals by skin contact, usually by wearing or holding consumer products (including non-metal products, like textiles and leather treated with metals), or sometimes after exposure at work. Contact with damaged skin makes sensitization more likely. Medical implants may also cause allergic reactions. Diagnosis is by patch test, a method which does not work as well for metals as it does for some other allergens.
+Prevention and treatment consists of avoiding the metal allergen; there is no other treatment, as of 2021. It can be difficult to identify and avoid the allergen, because many metals are common in the environment, and some are biologically necessary to humans. Regulations have successfully reduced the rates of some metal allergies in Europe, but are not widespread. The social and economic costs of metal allergies are high.
+Metal allergies are type IV allergies; the metals are haptens. The toxicity of some allergenic metals may contribute to the development of allergies.
+
+
+== Metals ==
+Nickel allergy and allergies to mercury and chromium have long been recognised; gold, palladium, and cobalt have gotten attention more recently. There is often cross-sensitization, where a person allergic to one metal may become allergic to another, but monosensitization, reacting to just one metal, is also possible. For instance, many people allergic to nickel are often also allergic to cobalt (a similar element often found in the same places as nickel) and palladium. But it is also possible to only be allergic to one of these metals.Nickel is one of the most common contact allergens.
+
+
+== Exposure routes ==
+
+Most cases of metal allergy are caused by consumer products containing metal; exposure at work can also cause metal allergies.  The largest human exposure to metals is ingestion; while food or drink containing metals can cause an allergic reaction in people who already have an allergy, it's not clear if it can cause a new allergy, as of 2021. Some metal allergens are nutritionally necessary to humans. Airborne metals have been linked to higher rates of sensitization.It can be difficult to figure out what allergen a person with contact dermatitis is reacting to, especially if the allergic reaction is systemic, rather than just occurring where the allergen entered the body.Consumer products that have induced allergies include jewellery (both cheap and expensive, brand-name jewellery may release metal allergens), buttons, clothing fasteners (such as zippers, buckles, and hooks), dental restorations, mobile phones, and leather (from the tanning process). Metal hair fasteners may also leach allergens. The increase in consumer products, including consumer electronics, that use metal nanomaterials, mainly silicon, titanium, zinc and aluminum, increases exposure.Tattoo inks contaminated with metal allergens have been known to cause severe reactions, sometimes years later, when the original ink is not available for testing.Implants and prosthetics, including dental repairs, are also an exposure; dental work is the main way in which the general population is sensitized to palladium, and dental workers may get occupational palladium allergies, though cross-sensitization may also be a common way in which people develop an allergy to this fairly rare metal. Medications containing metals could also potentially cause sensitization.
+
+
+=== Skin ===
+Exposure on damaged skin, such as chapped hands or a piercing, increases the risk of sensitization from a low-level exposure to the allergen.
+
+
+== Diagnosis ==
+
+Diagnosis is by patch testing, a method first used in 1895. Patches containing potential allergens are stuck on the skin, and the skin is monitored for inflammation. For metal allergens, patch test reproducibility is low, and the extent to which they predict implant failures is debated. If the person being tested has a rash already, it may be difficult to do a patch test. Patch testing may also worsen the allergy. it is also difficult to distinguish co-sensitivity from cross-sensitivity using a patch test.In-vitro tests, where a blood sample is examined for metal-sensitive T cells, are in development, but not widely used, partly due to cost. Many non-allergic people also have metal-specific T cells, and in some cases they seem to have more than some allergic individuals, which makes the test less useful.
+
+
+== Epidemiology ==
+Metal allergies are rapidly becoming more common. Nickel is the most common contact allergen worldwide (of people with contact dermatitis, 11.4% in Europe, 8.8–25.7% in China, and 17.5% in North America are allergic to nickel).Nickel allergy, and contact allergies more generally, can develop when people are any age, but they are most likely to develop in early adulthood. This may be due to patterns in exposure or changes in the immune system with age, or both.
+
+
+== Prevention and care ==
+Preventing and treating contact allergies largely involves avoiding the allergen, which may be difficult when it is a common metal. There are no other treatments for metal allergies, as of 2021.
+
+
+=== Environmental regulation ===
+In the Netherlands, regulations that limit the release of nickel from consumer products, introduced in the 1990s, worked. Dutch women are now significantly less likely to develop nickel allergies. Sweden followed in 1994, an later regulations were made Europe-wide. These limits cover objects inserted into piercings (0.2 μg/cm²/week) and those in direct or prolonged contact with the skin (0.5 μg/cm²). They also set target values for nickel in ambient air; (20 ng/mg3) increases in nickel concentrations in ambient air, even when absolute levels are quite low, have been linked to increased rates of sensitization in human populations. Nickel allergy rates in Europe have decreased, though it is still the most common contact allergy. Regulation is generally inadequate, given the amount of the social and economic harm caused by metal allergies.Regulation encouraged use of metals other than nickel, and that caused more cases of allergies to other metals. Nickel remains the most common, but cobalt is the secondmost-common allergy, and in 2020 the EU introduced a temporary generic concentration limit (GCL) of 0.1% on cobalt. Limits on nickel and cobalt in textiles (130mg/kg nickel, 110 mg/kg cobalt) and leather (70mg/kg nickel, 60 mg/kg cobalt), were proposed in 2020 by France and Sweden. There is no allergen regulation of pallidium in Europe as of October 2021.
+
+
+== See also ==
+
+Nickel allergy
+Contact dermatitis
+Alloy (mixtures of metals)
+Fast fashion
+
+
+== References ==

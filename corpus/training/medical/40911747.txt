@@ -1,0 +1,13 @@
+The Quality of Life Index for Atopic Dermatitis (QoLIAD) is a disease specific patient reported outcome which measures the impact that atopic dermatitis (AD) has on a given patient's quality of life.It is a 25-item questionnaire for patients over the age of 16 with a maximum score of 25 and is restricted to yes or no answers. Higher scores on the QoLIAD indicate a greater negative influence that the disease has on quality of life.
+
+
+== Development ==
+The QoLIAD was developed in 2004 and funded by Novartis Pharma AG, Switzerland. It was produced in several countries and the content was derived from 65 qualitative interviews with patients in the UK, Italy and Netherlands. The initial version of the measure was produced in UK English and it was then translated for the Netherlands, Italy, Germany, France and the US. A Spanish version was then later developed. Further tests were implemented to validate the measure and it was administered to 300 patients in each country to finalize the instrument.The institutions involved in the development of the QoLIAD are: Galen Research (United Kingdom), Erasmus University (The Netherlands), University of Greifswald (Germany), University of Verona (Italy), C.H.U Bichat (France), 3D Health Research (Spain) and Novartis Pharmaceuticals Corporation (USA).
+
+
+== International use ==
+The QoLIAD has been translated into seven languages other than UK English. They include German, Spanish and Japanese. 
+The QoLIAD has also been utilized to assess the effectiveness of new treatments of atopic dermatitis. This includes studies looking into educational intervention, topical corticosteroids and pimecrolimus.
+
+
+== References ==

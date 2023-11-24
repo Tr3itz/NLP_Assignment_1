@@ -11,6 +11,9 @@ medical_categories = [
     'Category:Neurology',
     'Category:Cardiology',
     'Category:Oncology',
+    'Category:Urology',
+    'Category:Dermatology',
+    'Category:Anatomy'
 ]
 
 # Selected non-medical
@@ -20,6 +23,9 @@ other_categories = [
     'Category:Electricity',
     'Category:Trigonometry',
     'Category:Artificial intelligence',
+    'Category:Computer science',
+    'Category:Comedy',
+    'Category:Blues',
 ]
 
 
@@ -95,7 +101,7 @@ def get_documents(wiki_category: str, is_medical: bool):
             pageid = str(data["query"]["categorymembers"][page]['pageid'])
 
             # For each category: 80% training, 20% test
-            if page < tot_pages * 4//5:
+            if page < tot_pages * 0.8:
                 get_text_from_page(pageid, is_medical, False)
             else:
                 get_text_from_page(pageid, is_medical, True)

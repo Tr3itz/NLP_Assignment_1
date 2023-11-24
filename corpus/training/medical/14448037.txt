@@ -1,4 +1,4 @@
-DaT Scan (DaT scan or Dopamine Transporter Scan) commonly refers to a diagnostic method to investigate if there is a loss of dopaminergic neurons in striatum. The term may also refer to a brand name of Ioflupane (123I) which is used for the study. The scan principle is based on use of the radiopharmaceutical Ioflupane (123I) which binds to dopamine transporters (DaT). The signal from them is then detected by the use of single-photon emission computed tomography (SPECT) which uses special gamma-cameras to create a pictographic representation of the distribution of dopamine transporters in the brain.DaTSCAN is indicated in cases of tremor when its origin is uncertain. Although this method can distinguish essential tremor from Parkinson's syndrome, it is unable to distinguish between Parkinson's disease, multiple system atrophy or progressive supranuclear palsy.
+DaT Scan (DaT scan or Dopamine Transporter Scan) commonly refers to a diagnostic method, based on SPECT imaging, to investigate if there is a loss of dopaminergic neurons in striatum. The term may also refer to a brand name of Ioflupane (123I) tracer used for the study. The scan principle is based on use of the radiopharmaceutical Ioflupane (123I) which binds to dopamine transporters (DaT). The signal from them is then detected by the use of single-photon emission computed tomography (SPECT) which uses special gamma-cameras to create a pictographic representation of the distribution of dopamine transporters in the brain.DaTSCAN is indicated in cases of tremor when its origin is uncertain. Although this method can distinguish essential tremor from Parkinson's syndrome, it is unable to distinguish between Parkinson's disease, Dementia with Lewy bodies, Parkinson's disease dementia,, multiple system atrophy or progressive supranuclear palsy.
 There is evidence that DaTSCAN is accurate in diagnosing early Parkinson's.
 
 
@@ -22,16 +22,10 @@ Essential tremor
 Lewy body disease
 
 
-== See also ==
-Essential tremor
-Multiple system atrophy
-Progressive supranuclear palsy
+== References ==
 
 
-=== External links ===
+== External links ==
 European Parkinson's Disease Association Archived 2011-12-11 at the Wayback Machine
 DaTSCAN Archived 2019-07-20 at the Wayback Machine
 Patient's view Archived 2011-10-14 at the Wayback Machine
-
-
-=== References ===

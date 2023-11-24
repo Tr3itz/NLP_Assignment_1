@@ -1,0 +1,23 @@
+The International Prostate Symptom Score (IPSS) is an eight-question written screening tool used to screen for, rapidly diagnose, track the symptoms of, and suggest management of the lower urinary tract symptoms of benign prostatic hyperplasia (BPH).
+It contains seven questions related to symptoms related to BPH and one question related to the patient's perceived quality of life. Created in 1992 by the American Urological Association, it originally lacked the eighth quality of life question, hence its original name: the American Urological Association symptom score (AUA-7). World Health Organization International Consultation on BPH adopted the "eight question" index and labeled it the IPSS.
+The seven questions relating to symptoms experienced in the last month include feeling of incomplete bladder emptying, frequency of urination, intermittency of urine stream, urgency of urination, weak stream, straining and waking at night to urinate.The IPSS was designed to be self-administered by the patient, with speed and ease in mind. Hence, it can be used in both urology clinics as well as the clinics of primary care physicians (i.e. by general practitioners) for the screening and diagnosis of BPH.Additionally, the IPSS can be performed multiple times to compare the progression of symptoms and their severity over months and years.In addition to diagnosis and charting disease progression, the IPSS is effective in helping to determine treatment for patients.
+
+
+== Scoring ==
+The symptoms must have been experienced in the last month and each answer is scored from 0 to 5 for a maximum score of 35 points.The first six questions are scored based on the following:
+The seventh question, relating to nocturia, is scored from 0 to 5 based on how many times the patient gets up at night to urinate (viz. 1 is scored for one time per night and 5 for five times per night).The eighth, and final question (not included in the main IPSS score), relating to the patient's perceived quality of life, is assigned a score of 0 (delighted) to 6 (terrible).
+
+
+== Mnemonic ==
+The mnemonic "FUN WISE" can be used to remember the seven questions relating to symptoms of BPH. They are as follows:
+
+
+== Standardisation ==
+In research, the IPSS is used to standardise patients' complaints and symptoms. However, a meta-analysis on the subject of the influence of position (whether standing or sitting) on urodynamics (that is, on tests of how completely the bladder, sphincter and urethra store and release urine) noted that, in most cases, physicians either did not use the IPSS, or did not use it adequately.
+
+
+== External links ==
+http://www.urospec.com/uro/Forms/ipss.pdf Archived 2015-02-09 at the Wayback Machine International Prostate Symptom Score (IPSS) form
+
+
+== References ==

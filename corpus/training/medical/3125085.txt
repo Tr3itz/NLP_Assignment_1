@@ -1,0 +1,81 @@
+Polymorphous light eruption (PLE)  presents with itchy red small bumps on sun-exposed skin, particularly face, neck, forearms and legs. It generally appears 30 minutes to a few hours after sun exposure and may last between one and 14 days.  The bumps may become small blisters or plaques and may appear bloody,often healing with minimal scarring.It is a non-life-threatening and potentially distressing skin condition that is triggered by sunlight and artificial UV exposure in a genetically susceptible person, particularly in temperate climates during the spring and early summer. Due to its many clinical appearances, it is named polymorphic or polymorphous and the terms are used interchangeably. The resulting itch can cause significant suffering.PLE is also defined as an idiopathic primary photodermatosis, in which the photosensitizer is unknown.Treatments include prevention with sun avoidance and supervised light therapy, and symptom control with topical steroids.
+
+
+== Signs and symptoms ==
+Typically, the first episode develops in the spring following the first exposure to intense sun. Further episodes of the irritable rash occur several hours to days following subsequent sun exposure.PLE appears on areas of the skin newly exposed to sunlight such as the visible part of the neckline, backs of hands, arms and legs, and feet, but less commonly the face. At these areas, there may be feelings of burning and severe itching. Smooth red-topped small papules which merge into plaques, small fluid-filled blisters (papulovesicles) and less commonly target-shaped lesions which look like erythema multiforme may be visible. In addition, it may occur in other parts of the body in some people treated for inflammatory skin diseases with phototherapy.The rash is usually quite symmetrical and characteristic for each individual, appearing similar with each recurrence, but can look dissimilar in different people.Fever, fatigue and headaches have been previously associated with the eruption, but are rare.The rash may persist for many days to a couple of weeks, resolving spontaneously without scarring as long as further sunlight exposure is avoided.Recurring yearly, the eruption can sometimes last longer than a few days if persistent and repeated sun exposure occurs. However, the "hardening" effect, with respite during the later summer, frequently occurs with gradual exposure of sunlight, eventually leading to significant improvement.
+
+
+== Causes ==
+The cause of PLE is not yet understood, but several factors may be involved. It is thought to be due to a type IV delayed-type hypersensitivity to an allergen produced in the body following sunlight exposure, in a genetically susceptible person. It is also thought that skin microbiome or microbial elements could be involved in pathogenesis of the disease 
+
+
+=== UV exposure ===
+PLE can be provoked by UVA or UVB (chief cause of sunburn) rays, meaning it can be triggered even by sunlight through glass. UV-A is a major constituent of sunlight, can pass through glass, is relatively resistant to sunscreen and can cause light eruption without sunburn.Artificial UV light sources from tanning units and phototherapy treatment units can also trigger PLE. About three-quarters of patients acquire PLE after UV-A exposure only, one-tenth after UV-B exposure only, and the rest after a combination of UV-A and UV-B exposure.People vary in the amount of sun exposure needed to trigger the rash.
+
+
+=== Oxidative stress ===
+Oxidative stress and the modification of the redox status of the skin has been implicated in the expression of PLE.
+
+
+=== Photosensitizer ===
+It has been suggested that an undefined endogenous or exogenous photo-allergen may trigger a delayed immune reaction resulting in PLE.
+
+
+=== Genetics ===
+Half of patients have a family history of PLE, demonstrating a clear genetic influence.
+
+
+=== Oestrogen effect ===
+The preponderance in women with a decline in severity following menopause has been thought to be associated with oestrogen effects, A natural fall in oestrogens may account for the tendency to remit after the menopause.
+
+
+== Diagnosis ==
+The diagnosis of PLE is typically made by assessing the history and clinical observations. Any investigations are usually to exclude other conditions, particularly lupus and porphyria.Blood tests are usually normal. However, positive antinuclear antibody and extractable nuclear antigen (anti-Ro/La) in low titre may be found, even in the absence of other criteria to suggest a diagnosis of lupus erythematosus. If clinical findings suggest a possibility of porphyria, urinary and red cell porphyrin screening may be performed and are negative in PLE.Photoprovocation tests are usually not required but may be undertaken by specialised centres in winter. When a decision to undertake this is made, a small area of the frequently affected skin is exposed to varying doses of UVA and minimal erythema dose (MED) (amount of UV radiation that will produce minimal redness of skin within a few hours following exposure) of broadband UVB for three consecutive days. An examination of the skin to detect the rash is made, however, up to 40% have false negative responses.
+
+
+=== Biopsy findings ===
+Depending on the clinical signs, histology of a skin biopsy may vary. There may be oedema in the epidermis with a dense superficial and deep lymphocytic infiltrate without vasculitis. Recently appearing lesions may show neutrophils. Spongiosis and vesicle formation may also be present. Direct immunofluorescence testing is negative.
+
+
+=== Differential diagnosis ===
+The photosensitivity connected with lupus erythematosus is the main condition that may appear like PLE. However, the rash of lupus is inclined to be more persistent. PLE does not increase the risk of lupus.Other similar appearing conditions are solar urticaria, which has a shorter duration, the eczema-like condition, photosensitive dermatitis, and photosensitivity drug reaction.Prickly heat, which is caused by warm weather or heat is not the same as PLE.Photosensitivity is also found in some of the porphyrias. Nearly all cases of porphyria cutanea tarda exhibit blister formation on the skin within 2–4 days of light exposure. Variegate porphyria and hereditary coproporphyria can also exhibit symptoms of light-induced blisters.
+
+
+=== Classification ===
+Sunlight has been documented to trigger numerous skin conditions and the confusing terminology and categorisation previously has made the correct diagnosis and subsequent treatment difficult.Variants of PLE have been described:
+Juvenile spring eruption is a cutaneous condition that affects the helices of the ears, particularly in boys, because their ears are relatively more exposed to sunlight.
+Benign summer light eruption is a cutaneous condition, and a name used in continental Europe, particularly France, to describe a clinically short-lived, itchy, papular eruption particularly affecting young women after several hours of sunbathing at the beginning of summer or on sunny vacations.
+Actinic Prurigo is a hereditary form of PLE occurring typically in Native Americans.
+
+
+== Treatment ==
+Management entails regulating triggers whilst simultaneously inducing "hardening"; that is, steadily increasing exposure to sunlight, as light sensitivity is reduced with repeated sun exposureCovering up with densely woven clothing has also been shown to help, in addition to applying a broad-spectrum, water-resistant semi-opaque sun protection factor (SPF) 50+ sunblock cream before sun exposure and then every two hours thereafter confers some protection.The application of topical corticosteroids may lessen the redness and itch, and for preventing predictable holiday flare-ups, short courses of oral corticosteroids are sometimes considered.Another treatment option is a supervised course of low dose phototherapy, usually undertaken in winter. If resistant, the administration of hydroxychloroquine in early spring is sometimes considered.As sun exposure is avoided, vitamin D levels may fall and hence supplements are sometimes advised.
+
+
+== Prognosis ==
+Generally, PLE resolves without treatment; also, PLE irritations generally leave no scar.There may be a possible link with autoimmune thyroid disease. Some progression to autoimmune disease has been observed. However, another study of people with elevated titres of antinuclear antibodies with PLE found no progression to lupus erythematosus after an 8-year follow-up.
+
+
+== Epidemiology ==
+In the United States, whilst one-quarter of people being investigated for a photosensitivity disorder were diagnosed with PLE, the prevalence in the general population is 10 to 15% and may even be as high as 40% as suggested in one study of more than 2000 people. It is also particularly more prevalent in Central Europe and Scandinavia.PLE is more common in young adults and has a female preponderance with a ratio of 2:1 female-to-male. In Germany the female to male ratio has been cited as 9:1. It can, however, occur in all age groups and all skin types.Those experiencing sun exposure all year round seldom acquire PLE eruption. Hence, it is less common near the equator.The cases of this condition are most common between the spring and autumn months in the northern hemisphere and at higher altitudes.
+
+
+== Society and culture ==
+Reports of psychological distress have been made in more than 40% of peoples with PLE. This includes emotional distress, anxiety and depression
+
+
+== History ==
+Thomas Bateman, following on from findings of his predecessor, Robert Willan, first recorded a description of PLE in the nineteenth century, defining it as eczema solare with recurrent non scarring eczematous lesions triggered by sun exposure.Danish physician Carl Rasch first described the eczema-like polymorphic light eruption in 1900, following his interest in the effect of sunlight on the skin. He has since been credited with coining the term "polymorphic light eruption".
+
+
+== See also ==
+Photosensitivity with HIV infection
+List of cutaneous conditions
+
+
+== References ==
+
+
+== External links ==
+
+www.emedicine.com

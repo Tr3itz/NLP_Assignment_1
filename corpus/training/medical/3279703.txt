@@ -1,0 +1,147 @@
+The Gleason grading system is used to help evaluate the prognosis of men with prostate cancer using samples from a prostate biopsy. Together with other parameters, it is incorporated into a strategy of prostate cancer staging which predicts prognosis and helps guide therapy. A Gleason score is given to prostate cancer based upon its microscopic appearance. Cancers with a higher Gleason score are more aggressive and have a worse prognosis. Pathological scores range from 2 to 10, with higher numbers indicating greater risks and higher mortality. The system is widely accepted and used for clinical decision making even as it is recognised that certain biomarkers, like ACP1 expression, might yield higher predictive value for future disease course.The histopathologic diagnosis of prostate cancer has implications for the possibility and methodology of Gleason scoring. For example, it is not recommended in signet-ring adenocarcinoma or urothelial carcinoma of the prostate, and the scoring should discount the foamy cytoplasms seen in foamy gland carcinoma.A total score is calculated based on how cells look under a microscope, with the first half of the score based on the dominant, or most common cell morphology (scored 1 to 5), and the second half based on the non-dominant cell pattern with the highest grade (scored 1 to 5). These two numbers are then combined to produce a total score for the cancer.
+
+
+== Specimens and processing ==
+Most often, a urologist or radiologist will remove a cylindrical sample (biopsy) of prostate tissue through the rectum (or, sometimes the perineum), using hollow needles, and biomedical scientists in a histology laboratory prepare microscope slides for H&E staining and immunohistochemistry for diagnosis by a pathologist. If the prostate is surgically removed, a pathologist will slice the prostate for a final examination.
+
+
+== Histologic patterns ==
+A pathologist microscopically examines the biopsy specimen for certain "Gleason" patterns. These Gleason patterns are associated with the following features:
+Pattern 1 - The cancerous prostate closely resembles normal prostate tissue. The glands are small, well-formed, and closely packed. This corresponds to a well differentiated carcinoma.
+Pattern 2 - The tissue still has well-formed glands, but they are larger and have more tissue between them, implying that the stroma has increased. This also corresponds to a moderately differentiated carcinoma.
+Pattern 3 - The tissue still has recognizable glands, but the cells are darker. At high magnification, some of these cells have left the glands and are beginning to invade the surrounding tissue or having an infiltrative pattern. This corresponds to a moderately differentiated carcinoma.
+Pattern 4 - The tissue has few recognizable glands. Many cells are invading the surrounding tissue in neoplastic clumps. This  corresponds to a poorly differentiated carcinoma.
+Pattern 5 - The tissue does not have any or only a few recognizable glands. There are often just sheets of cells throughout the surrounding tissue. This corresponds to an anaplastic carcinoma.In the present form of the Gleason system, prostate cancer of Gleason patterns 1 and 2 are rarely seen. Gleason pattern 3 is by far the most common.
+
+
+== Primary, secondary and tertiary grades ==
+After analyzing the tissue samples, the pathologist then assigns a grade to the observed patterns of the tumor specimen.
+Primary grade - assigned to the dominant pattern of the tumor (has to be greater than 50% of the total pattern seen).
+Secondary grade - assigned to the next-most frequent pattern (has to be less than 50%, but at least 5%, of the pattern of the total cancer observed).
+Tertiary grade - increasingly, pathologists provide details of the "tertiary" component. This is where there is a small component of a third (generally more aggressive) pattern.
+
+
+== Scores and prognoses ==
+The pathologist then sums the pattern-number of the primary and secondary grades to obtain the final Gleason score. If only two patterns are seen, the first number of the score is that of the tumor's primary grade while the second number is that of the secondary grade, as described in the previous section. If three patterns are seen, the first number of the score would be the primary grade and the second number the pattern with the highest grade. For example, if the primary tumor grade was 2 and the secondary tumor grade was 3 but some cells were found to be grade 4, the Gleason score would be 2+4=6. This is a slight change from the pre-2005 Gleason system where the second number was the secondary grade (i.e., the grade of the second-most common cell line pattern).
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+Key- blue: Gleason pattern 3 region, yellow: Gleason pattern 4 region, red: Gleason pattern 5 region
+
+Gleason scores range from 2 to 10, with 2 representing the most well-differentiated tumors and 10 the least-differentiated tumors. Gleason scores have often been categorized into groups that show similar biologic behavior: low-grade (well-differentiated), intermediate-grade, moderate to poorly differentiated or high-grade.More recently, an investigation of the Johns Hopkins Radical Prostatectomy Database (1982-2011) led to the proposed reporting of Gleason grades and prognostic grade groups as: 
+
+Gleason score ≤ 6 (prognostic grade group I);
+Gleason score 3+4=7 (prognostic grade group II) indicating the majority is pattern 3;
+Gleason score 4+3=7 (prognostic grade group III) where pattern 4 is dominant;
+Gleason score 4+4=8 (prognostic grade group IV);
+Gleason scores 9-10 (prognostic grade group V).Prostate cancers with a Gleason score ≤ 6 usually have rather good prognoses.
+
+
+== Grading mechanism ==
+The Gleason grade of architectural pattern is sometimes referred to as the Gleason architectural pattern.The Gleason grade is based on tissue architectural patterns rather than purely cytological changes. These tissue patterns are classified into 5 grades, numbered 1 though 5. Lower numbers indicate more differentiation, with pattern 5 being the least differentiated. Differentiation is the degree to which the tissue, in this case the tumor, resembles native tissue. Greater resemblance (lower grade) is typically associated with a better prognosis.However, the Gleason score is not simply the highest grade (least differentiated) pattern within the tumor. Rather, it is a combination of the most two most frequent patterns seen. This recognizes that prostatic carcinomas have multiple patterns and that prognosis is more accurately determined by adding the scores of the two most prevalent patterns. Using this system, the grades of the most prevalent and second most prevalent patterns (if at least 5% of the total), are added together to yield the overall Gleason score.For example, if the most prevalent pattern/grade is 2, and the second most prevalent grade is 1, then the Gleason score is 2+1=3. If the neoplasm has only one pattern, the grade of that pattern is doubled to obtain the score. For example, if a tumor is entirely grade 1, the Gleason score would be 1+1=2. The most differentiated tumor would have the lowest score, Gleason 2 (1+1), while the most undifferentiated neoplasm (not resembling native prostate tissue) would have the highest score, Gleason 10 (5+5). Gleason scores range from 2 to 10; by definition there is no score of 0 or 1.Cytological differences between normal prostate and neoplastic glands are evident in changes to the typical two cell layers of the gland. In prostatic adenocarcinoma, the basal (bottom, usually cuboidal type) cell layer is lost, with only the top layer (usually columnar to pseudostratified) remaining.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Score descriptions ===
+Using this system, the most well-differentiated tumors have a Gleason score/grade of 2, and the least-differentiated tumors a score of 10. Range by definition is from 2-10, with architectural type from 1-5, and always added together or doubled, as described above. Gleason scores are often grouped together, based on similar behaviour: Grade 2-4 as well-differentiated, Grade 5-6 as intermediately-differentiated, Grade 7 as moderately to poorly differentiated (either 3+4=7, where the majority is pattern 3, or 4+3=7 in which pattern 4 dominates and indicates less differentiation., and Grade 8-10 as "high-grade."
+
+
+==== Gleason 1 ====
+Gleason pattern 1 is the most well-differentiated tumor pattern. It is a well-defined nodule of single/separate, closely/densely packed, back-to-back gland pattern that does not invade into adjacent healthy prostatic tissue. The glands are round to oval shaped and proportionally large, compared to Gleason pattern 3 tumors, and are approximately equal in size and shape to one another.
+
+
+==== Gleason 2 ====
+Gleason 2 is fairly well-circumscribed nodules of single, separate glands. However, the glands are looser in arrangement and not as uniform as in pattern 1. Minimal invasion by neoplastic glands into the surrounding healthy prostate tissue may be seen. Similar to Gleason 1, the glands are usually larger than those of Gleason 3 patterns, and are round to oval in shape. Thus the main difference between Gleason 1 and 2 is the density of packing of the glands seen; invasion is possible in Gleason 2, but by definition not in Gleason 1.
+
+
+==== Gleason 3 ====
+Gleason 3 is a clearly infiltrative neoplasm, with extension into adjacent healthy prostate tissue. The glands alternate in size and shape, and are often long/angular. They are usually small/micro-glandular in comparison to Gleason 1 or 2 grades. However, some may be medium to large in size. The small glands of Gleason 3, in comparison to the small and poorly defined glands of pattern 4, are distinct glandular units. Mentally you could draw a circle around each of the glandular units in Gleason 3.
+
+
+==== Gleason 4 ====
+Gleason pattern 4 glands are no longer single/separated glands like those seen in patterns 1-3. They look fused together, difficult to distinguish, with rare lumen formation vs Gleason 1-3 which usually all have open lumens (spaces) within the glands, or can be cribriform-(resembling the cribriform plate/similar to a sieve: an item with many perforations). Fused glands are chains, nests, or groups of glands that are no longer entirely separated by stroma-(connective tissue that normally separates individual glands in this case). Fused glands contain occasional stroma giving the appearance of "partial" separation of the glands. Due to this partial separation, fused glands sometimes have a scalloped (think looking at a slice of bread with bite taken out of it) appearance at their edges.
+
+
+==== Gleason  5 ====
+Neoplasms have no glandular differentiation (thus not resembling normal prostate tissue at all). It is composed of sheets (groups of cells almost planar in appearance (like the top of a box), solid cords (group of cells in a rope like fashion running through other tissue/cell patterns seen), or individual cells. You should not see round glands with lumenal spaces that can be seen in the other types that resemble more the normal prostate gland appearance.
+
+
+=== Prognosis ===
+Gleason scores 2-4 are typically found in smaller tumors located in the transitional zone (around the urethra). These are typically found incidentally on surgery for benign prostatic hyperplasia (Note: not a precursor lesion for prostatic carcinoma).The majority of treatable/treated cancers are of Gleason scores 5-7 and are detected due to biopsy after abnormal digital rectal exam or prostate specific antigen evaluation.  The cancer is typically located in the peripheral zone usually the posterior portion, explaining the rationale of performing the digital rectal exam.Tumors with Gleason scores 8-10 tend to be advanced neoplasms that are unlikely to be cured. Although some evidence suggests that prostate cancers will become more aggressive over time, Gleason scores typically remain stable for several years.The Gleason scores then become part of the TNM or Whitmore-Jewett prostate cancer staging system to provide prognosis.
+
+
+== History ==
+The Gleason scoring system takes its name from Donald Gleason, a pathologist at the Minneapolis Veterans Affairs Hospital, who developed it with colleagues at that facility in the 1960s.In 2005 the International Society of Urological Pathology altered the Gleason system, refining the criteria and changing the attribution of certain patterns. It has been shown that this "modified Gleason score" has higher performance than the original one, and is currently assumed standard in urological pathology. In this form, it remains an important tool.However, problematic aspects of the original Gleason grading system still characterize the 2005 revision. The predominant lowest score assigned is Gleason 3+3 = 6. Patients who are told their Gleason score is 6 out of 10 may interpret that they have a more aggressive intermediate cancer and experience greater anxiety. More importantly, some classification systems fail to clearly distinguish between Gleason 3+4 = 7 and Gleason 4+3 = 7, with the latter having a worse prognosis.
+Therefore, in 2014 an international multidisciplinary conference was convened to revise the 2005 system. A 5-point Gleason Grade grouping similar to those such as PI-RADS used with prostate MRI evaluations was proposed to denote prognostically distinct stratification. Grade 1 would indicate the lowest-risk cancer while Grade 5 would indicate the most aggressive disease. The system was tested and validated against 20,000 prostatectomy specimens and at least 16,000 biopsy samples. The majority of conference participants concurred on the superiority of the scale over the 2005 Gleason grading system, pointing to the likelihood that overtreatment could be avoided for those patients whose cancer was assigned Grade 1. The World Health Organization's 2016 edition of Pathology and Genetics: Tumours of the Urinary System and Male Genital Organs has accepted the 2014 system, which can be used in conjunction with the 2005 Gleason system.
+
+
+== See also ==
+Histopathologic diagnosis of prostate cancer
+
+
+== References ==
+
+
+== External links ==
+Thorson P, Humphrey PA (December 2000). "Minimal adenocarcinoma in prostate needle biopsy tissue". American Journal of Clinical Pathology. 114 (6): 896–909. doi:10.1309/KVPX-C1EM-142L-1M6W. PMID 11338479. Pathology slides and explanation. [Free]
+WHO, Geneva Foundation for Medical Education and Research, Prostate cancer, Gleason score. 51 images.

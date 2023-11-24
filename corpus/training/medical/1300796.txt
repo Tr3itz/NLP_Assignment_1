@@ -1,0 +1,9 @@
+ABCD rating, also called the Jewett staging system or the Whitmore-Jewett staging system, is a staging system for prostate cancer that uses the letters A, B, C, and D.
+
+“A” and “B” refer to cancer that is confined to the prostate.
+“C” refers to cancer that has grown out of the prostate but has not spread to lymph nodes or other places in the body.
+“D” refers to cancer that has spread to lymph nodes or to other places in the body.
+
+
+== References ==
+ABCD rating in NCI Dictionary from PDQ (2004).  Verified availability 2005-03-25.

@@ -1,0 +1,201 @@
+Irony (from Ancient Greek  εἰρωνεία eirōneía 'dissimulation, feigned ignorance'), in its broadest sense, is the juxtaposition of what on the surface appears to be the case and what is actually the case or to be expected; it is an important rhetorical device and literary technique.
+Irony can be categorized into different types, including verbal irony, dramatic irony, and situational irony. Verbal, dramatic, and situational irony are often used for emphasis in the assertion of a truth. The ironic form of simile, used in sarcasm, and some forms of litotes can emphasize one's meaning by the deliberate use of language which states the opposite of the truth, denies the contrary of the truth, or drastically and obviously understates a factual connection.
+
+
+== Definitions ==
+Henry Watson Fowler, in The King's English, says, "any definition of irony—though hundreds might be given, and very few of them would be accepted—must include this, that the surface meaning and the underlying meaning of what is said are not the same." Also, Eric Partridge, in Usage and Abusage, writes that "Irony consists in stating the contrary of what is meant."
+The use of irony may require the concept of a double audience. Fowler's A Dictionary of Modern English Usage says:
+
+Irony is a form of utterance that postulates a double audience, consisting of one party that hearing shall hear & shall not understand, & another party that, when more is meant than meets the ear, is aware both of that more & of the outsiders' incomprehension.
+The term is sometimes used as a synonym for incongruous and applied to "every trivial oddity" in situations where there is no double audience. An example of such usage is:
+
+Sullivan, whose real interest was, ironically, serious music, which he composed with varying degrees of success, achieved fame for his comic opera scores rather than for his more earnest efforts.
+The American Heritage Dictionary's secondary meaning for irony: "incongruity between what might be expected and what actually occurs". This sense, however, is not synonymous with "incongruous" but merely a definition of dramatic or situational irony.  It is often included in definitions of irony not only that incongruity is present but also that the incongruity must reveal some aspect of human vanity or folly. Thus, the majority of American Heritage Dictionary's usage panel found it unacceptable to use the word ironic to describe mere unfortunate coincidences or surprising disappointments that "suggest no particular lessons about human vanity or folly."On this aspect, The Oxford English Dictionary (OED) has also:
+A condition of affairs or events of a character opposite to what was, or might naturally be, expected; a contradictory outcome of events as if in mockery of the promise and fitness of things. (In French, ironie du sort).
+Douglas C. Muecke identifies three basic features of all irony. First, irony depends on a double-layered or two-story phenomenon for success. "At the lower level is the situation either as it appears to the victim of irony (where there is a victim) or as it is deceptively presented by the ironist." The upper level is the situation as it appears to the reader or the ironist. Second, the ironist exploits a contradiction, incongruity, or incompatibility between the two levels. Third, irony plays upon the innocence of a character or victim. "Either a victim is confidently unaware of the very possibility of there being an upper level or point of view that invalidates his own, or an ironist pretends not to be aware of it."
+
+
+== Etymology ==
+According to Encyclopædia Britannica:
+The term irony has its roots in the Greek comic character Eiron, a clever underdog who by his wit repeatedly triumphs over the boastful character Alazon. The Socratic irony of the Platonic dialogues derives from this comic origin.
+According to Richard Whately:
+Aristotle mentions Eironeia, which in his time was commonly employed to signify, not according to the modern use of 'Irony, saying the contrary to what is meant', but, what later writers usually express by Litotes, i.e. 'saying less than is meant'.
+The word came into English as a figure of speech in the 16th century as similar to the French ironie. It derives from the Latin ironia and ultimately from the Greek εἰρωνεία eirōneía, meaning 'dissimulation, ignorance purposely affected'.
+
+
+== Typology ==
+The New Princeton Encyclopedia of Poetry and Poetics distinguishes between the following types of irony:
+Classical irony: Referring to the origins of irony in Ancient Greek comedy, and the way classical and medieval rhetoricians delineated the term.
+Romantic irony: A self-aware and self-critical form of fiction.
+Cosmic irony: A contrast between the absolute and the relative, the general and the individual, which Hegel expressed by the phrase, "general [irony] of the world."
+Verbal irony: A contradiction between a statement's stated and intended meaning
+Situational irony: The disparity of intention and result; when the result of an action is contrary to the desired or expected effect.
+Dramatic irony and tragic irony: A disparity of awareness between an actor and an observer: when words and actions possess significance that the listener or audience understands, but the speaker or character does not. It is most often used when the author causes a character to speak or act erroneously, out of ignorance of some portion of the truth of which the audience is aware. In tragic irony, the audience knows the character is making a mistake, even as the character is making it.
+Meta irony: When an ironic or sarcastic joke is presented through an ironic lens, or "being ironic about being ironic" and even meta ironic statements are ironicised.
+
+
+=== Verbal irony ===
+
+According to A glossary of literary terms by Abrams and Harpham,Verbal irony is a statement in which the meaning that a speaker employs is sharply different from the meaning that is ostensibly expressed. An ironic statement usually involves the explicit expression of one attitude or evaluation, but with indications in the overall speech-situation that the speaker intends a very different, and often opposite, attitude or evaluation.
+Verbal irony is distinguished from situational irony and dramatic irony in that it is produced intentionally by speakers. For instance, if a man exclaims, "I'm not upset!" but reveals an upset emotional state through his voice while truly trying to claim he's not upset, it would not be verbal irony by virtue of its verbal manifestation (it would, however, be situational irony). But if the same speaker said the same words and intended to communicate that he was upset by claiming he was not, the utterance would be verbal irony. This distinction illustrates an important aspect of verbal irony—speakers communicate implied propositions that are intentionally contradictory to the propositions contained in the words themselves. There are, however, examples of verbal irony that do not rely on saying the opposite of what one means, and there are cases where all the traditional criteria of irony exist and the utterance is not ironic.
+In a clear example from literature, in Shakespeare's Julius Caesar, Mark Antony's speech after the assassination of Caesar appears to praise the assassins, particularly Brutus ("But Brutus says he was ambitious; / And Brutus is an honourable man"), while actually condemning them. "We're left in no doubt as to who's ambitious and who's honourable. The literal truth of what's written clashes with the perceived truth of what's meant to revealing effect, which is irony in a nutshell".Ironic similes are a form of verbal irony where a speaker intends to communicate the opposite of what they mean. 
+
+
+==== Sarcasm ====
+A fair amount of confusion has surrounded the issue of the relationship between verbal irony and sarcasm.
+
+Fowler's A Dictionary of Modern English Usage (1926; reprinted to at least 2015) states: Sarcasm does not necessarily involve irony and irony has often no touch of sarcasm. This suggests that the two concepts are linked but may be considered separately. The Oxford English Dictionary's entry for sarcasm does not mention irony, but the irony entry includes:
+A figure of speech in which the intended meaning is the opposite of that expressed by the words used; usually taking the form of sarcasm or ridicule in which laudatory expressions are used to imply condemnation or contempt.
+The Encyclopædia Britannica has "Non-literary irony is often called sarcasm"; while the Webster's Dictionary entry is:
+
+Sarcasm: 1 : a sharp and often satirical or ironic utterance designed to cut or give pain. 2 a : a mode of satirical wit depending for its effect on bitter, caustic, and often ironic language that is usually directed against an individual.
+Partridge in Usage and Abusage (1997) would separate the two forms of speech completely: 
+Irony must not be confused with sarcasm, which is direct: sarcasm means precisely what it says, but in a sharp, caustic, ... manner. 
+The psychologist Rod A. Martin, in The Psychology of Humour (2007), is quite clear that irony is where "the literal meaning is opposite to the intended" and sarcasm is "aggressive humor that pokes fun". He has the following examples: for irony he uses the statement "What a nice day" when it is raining. For sarcasm, he cites Winston Churchill, who is supposed to have said, when told by Bessie Braddock that he was drunk, "But I shall be sober in the morning, and you will still be ugly", as being sarcastic, while not saying the opposite of what is intended.
+Psychology researchers Lee and Katz have addressed the issue directly. They found that ridicule is an important aspect of sarcasm, but not of verbal irony in general. By this account, sarcasm is a particular kind of personal criticism levelled against a person or group of persons that incorporates verbal irony. For example, a woman reports to her friend that rather than going to a medical doctor to treat her cancer, she has decided to see a spiritual healer instead. In response her friend says sarcastically, "Oh, brilliant, what an ingenious idea, that's really going to cure you." The friend could have also replied with any number of ironic expressions that should not be labeled as sarcasm exactly, but still have many shared elements with sarcasm.Most instances of verbal irony are labeled by research subjects as sarcastic, suggesting that the term sarcasm is more widely used than its technical definition suggests it should be. Some psycholinguistic theorists suggest that sarcasm, hyperbole, understatement, rhetorical questions, double entendre and jocularity should all be considered forms of verbal irony. The differences between these rhetorical devices (tropes) can be quite subtle and relate to typical emotional reactions of listeners, and the goals of the speakers. Regardless of the various ways theorists categorize figurative language types, people in conversation who are attempting to interpret speaker intentions and discourse goals do not generally identify the kinds of tropes used.
+
+
+==== Echoic allusion ====
+Echoic allusion is the main component involved in conveying verbally ironic meaning. It is best described as a speech act by which the speaker simultaneously represents a thought, belief or idea, and implicitly attributes this idea to someone else who is wrong or deluded. In this way, the speaker intentionally dissociates themselves from the idea and conveys their tacit dissent, thereby providing a different meaning to their utterance. In some cases, the speaker can provide stronger dissociation from the represented thought by also implying derision toward the idea or outwardly making fun of the person or people they attribute it to.Echoic allusion, like other forms of verbal irony, relies on semantically disambiguating cues to be interpreted correctly. These cues often come in the form of paralinguistic markers such as prosody, tone, or pitch, as well as nonverbal cues like hand gesture, facial expression and eye gaze.
+
+
+=== Dramatic irony ===
+Dramatic irony exploits the device of giving the spectator an item of information that at least one of the characters in the narrative is unaware of (at least consciously), thus placing the spectator a step ahead of at least one of the characters. Connop Thirlwall in his 1833 article On the Irony of Sophocles originally highlighted the role of irony in drama. The Oxford English Dictionary defines dramatic irony as:
+the incongruity created when the (tragic) significance of a character's speech or actions is revealed to the audience but unknown to the character concerned; the literary device so used, orig. in Greek tragedy.
+According to Stanton, dramatic irony has three stages — installation, exploitation, and resolution (often also called preparation, suspension, and resolution) — producing dramatic conflict in what one character relies or appears to rely upon, the contrary of which is known by observers (especially the audience; sometimes to other characters within the drama) to be true. In summary, it means that the reader/watcher/listener knows something that one or more of the characters in the piece is not aware of.
+For example:
+
+In Macbeth, upon arriving at Macbeth's castle, Duncan observes, "This castle hath a pleasant seat; the air nimbly and sweetly recommends itself unto our gentle senses." The audience knows that Macbeth and Lady Macbeth have been plotting Duncan's murder.
+In City Lights, the audience knows that Charlie Chaplin's character is not a millionaire, but the blind flower girl (Virginia Cherrill) believes him to be rich.
+In North by Northwest, the audience knows that Roger Thornhill (Cary Grant) is not Kaplan; Vandamm (James Mason) and his accomplices do not. The audience also knows that Kaplan is a fictitious agent invented by the CIA; Roger (initially) and Vandamm (throughout) do not.
+In Othello, the audience knows that Desdemona has remained faithful to Othello, but Othello does not. The audience also knows that Iago is scheming to bring about Othello's downfall, a fact hidden from Othello, Desdemona, Cassio, and Roderigo.
+In "The Cask of Amontillado", the reader knows that Montresor is planning on murdering Fortunato, while Fortunato believes they are friends.
+In The Truman Show, the viewer realizes that Truman is on a television show, but Truman himself only gradually learns this.
+During the 1960 U.S. presidential election, an older woman reportedly teased John F. Kennedy at a campaign event for pursuing the presidency despite his relative youth, saying "Young man, it's too soon." Kennedy had been diagnosed with Addison's disease in 1947 – with the attending physician estimating that he would not live for another year – in addition to suffering from multiple other chronic medical conditions that required as many as a dozen daily medications by the time of his presidency which were not publicly disclosed (or acknowledged, in the case of the Addison's diagnosis) until after his death. Kennedy responded to the older woman by saying, "No, ma'am. This is my time."
+
+
+==== Tragic irony ====
+Tragic irony is a special category of dramatic irony. In tragic irony, the words and actions of the characters contradict the real situation, which the spectators fully realize. The Oxford English Dictionary defines this as:
+the incongruity created when the (tragic) significance of a character's speech or actions is revealed to the audience but unknown to the character concerned, the literary device so used, orig. in Greek tragedy.
+Ancient Greek drama was especially characterized by tragic irony because the audiences were so familiar with the legends that most of the plays dramatized. Sophocles' Oedipus Rex provides a classic example of tragic irony at its fullest. Claire Colebrook writes:
+Tragic irony is exemplified in ancient drama.... The audience watched a drama unfold, already knowing its destined outcome.... In Sophocles' Oedipus the King, for example, 'we' (the audience) can see what Oedipus is blind to. The man he murders is his father, but he does not know it.
+Further, Oedipus vows to find the murderer and curses him for the plague that he has caused, not knowing that the murderer he has cursed and vowed to find is himself. The audience knows that Oedipus himself is the murderer that he is seeking; Oedipus, Creon, and Jocasta do not.Irony has some of its foundation in the onlooker's perception of paradox that arises from insoluble problems. For example, in the William Shakespeare play Romeo and Juliet, when Romeo finds Juliet in a drugged, deathlike sleep, he assumes her to be dead. The audience knows that Juliet has faked her death, yet Romeo believes she is truly dead, and commits suicide. Upon awakening to find her dead lover beside her, Juliet stabs herself with a dagger thus killing herself, too.
+
+
+=== Situational irony ===
+Situational irony is a relatively modern use of the term and describes a sharp discrepancy between the expected result and actual results in a certain situation.
+
+Lars Elleström writes:Situational irony ... is most broadly defined as a situation where the outcome is incongruous with what was expected, but it is also more generally understood as a situation that includes contradictions or sharp contrasts.
+For example:
+
+When John Hinckley attempted to assassinate Ronald Reagan, all of his shots initially missed the President; however, a bullet ricocheted off the bullet-proof Presidential limousine and struck Reagan in the chest. Thus, a vehicle made to protect the President from gunfire instead directed gunfire to the president.
+The Wonderful Wizard of Oz is a story whose plot revolves around situational irony. Dorothy travels to a wizard and fulfills his challenging demands in order to go home, before discovering she had the ability to go back home all along. The Scarecrow longs for intelligence, only to discover he is already a genius, and the Tin Woodman longs to have a heart, only to discover he is already capable of love. The Lion, who at first appears to be a whimpering coward, turns out to be bold and fearless. The people in Emerald City believed the Wizard to be a powerful deity, only to discover that he is a bumbling, eccentric old man with no special powers at all.
+In O. Henry's story "The Gift of the Magi", a young couple are too poor to buy each other Christmas gifts.  The wife cuts off her treasured hair to sell it to a wigmaker for money to buy her husband a chain for his heirloom pocket watch. She's shocked when she learns he had pawned his watch to buy her a set of combs for her long, beautiful, prized hair. "The double irony lies in the particular way their expectations were foiled."
+
+
+==== Cosmic irony ====
+The expression cosmic irony or "irony of fate" stems from the notion that the gods (or the Fates) are amusing themselves by toying with the minds of mortals with deliberate ironic intent. Closely connected with situational irony, it arises from sharp contrasts between reality and human ideals, or between human intentions and actual results. The resulting situation is poignantly contrary to what was expected or intended.
+According to Sudhir Dixit, "Cosmic irony is a term that is usually associated with [Thomas] Hardy. ... There is a strong feeling of a hostile deus ex machina in Hardy's novels." In Tess of the d'Urbervilles "there are several instances of this type of irony." One example follows:
+"Justice" was done, and the President of the Immortals (in Æschylean phrase) had ended his sport with Tess.
+
+
+==== Historical irony ====
+When history is seen through modern eyes, there often appear sharp contrasts between the way historical figures see their world's future and what actually transpires. For example, during the 1920s The New York Times repeatedly scorned crossword puzzles. In 1924, it lamented "the sinful waste in the utterly futile finding of words the letters of which will fit into a prearranged pattern." In 1925 it said "the question of whether the puzzles are beneficial or harmful is in no urgent need of an answer. The craze evidently is dying out fast." Today, no U.S. newspaper is more closely identified with the crossword than The New York Times.In a more tragic example of historical irony, what people now refer to as the "First World War" was called by H. G. Wells "the war that will end war", which soon became "the war to end war" and "the war to end all wars", and this became a widespread truism, almost a cliché. Historical irony is therefore a subset of cosmic irony, but one in which the element of time is bound to play a role. Another example could be that of the Vietnam War, where in the 1960s the US attempted to stop the Viet Cong (Viet Minh) taking over South Vietnam. However, it is an often-ignored fact that, in 1941, the US originally supported the Viet Minh in its fight against Japanese occupation.In the introduction to The Irony of American History, Andrew Bacevich writes:
+After 9/11, the Bush administration announced its intention of bringing freedom and democracy to the people of the Middle East. Ideologues within the Bush administration persuaded themselves that American power, adroitly employed, could transform that region ... The results speak for themselves.
+Gunpowder was, according to prevailing academic consensus, discovered in the 9th century by Chinese alchemists searching for an elixir of immortality. Today it is associated with acts of violence, homicide and war.
+Historical irony also includes inventors killed by their own creations, such as William Bullock – unless, due to the nature of the invention, the risk of death was always known and accepted, as in the case of Otto Lilienthal, who was killed by flying a glider of his own devising.
+
+Other prominent examples of outcomes now seen as poignantly contrary to expectation include:
+
+In the Dred Scott v. Sandford ruling in 1856, the United States Supreme Court held that the Fifth Amendment barred any law that would deprive a slaveholder of his property, such as his slaves, upon the incidence of migration into free territory. So, in a sense, the Supreme Court used the Bill of Rights to deny rights to slaves. Also, Chief Justice Taney hoped that the decision would resolve the slavery issue, but instead it helped cause the American Civil War.
+In the Kalgoorlie (Australia) gold rush of the 1890s, large amounts of the little-known mineral calaverite (gold telluride) were mistakenly and ironically identified as fool's gold (iron pyrite). These mineral deposits were used as a cheap building material, and for the filling of potholes and ruts. When several years later the mineral was identified as containing real gold, there was a minor gold rush to excavate the streets.
+John F. Kennedy's last conversation was ironic in light of events which followed seconds later. Seated in the middle row of the presidential limousine in Dallas, First Lady of Texas Nellie Connally reportedly commented, "Mr. President, you can't say that Dallas doesn't love you." Kennedy replied, "That's very obvious." Immediately after, he was mortally wounded.
+In 1974, the US Consumer Product Safety Commission had to recall 80,000 of its own lapel buttons promoting "toy safety", because the buttons had sharp edges, used lead paint, and had small clips that could be broken off and subsequently swallowed.
+Introducing cane toads to Australia to control the cane beetle not only failed to control the pest, but introduced, in the toads themselves, a much worse pest.
+
+
+== Use ==
+
+
+=== Comic irony ===
+Irony is often used in literature to produce a comic effect.  This may also be combined with satire.  For instance, an author may facetiously state something as a well-known fact and then demonstrate through the narrative that the fact is untrue.
+Jane Austen's Pride and Prejudice begins with the proposition "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." In fact, it soon becomes clear that Austen means the opposite: women (or their mothers) are always in search of, and desperately on the lookout for, a rich single man to make a husband. The irony deepens as the story promotes this romance and ends in a double marriage proposal. "Austen's comic irony emerges out of the disjunction between Elizabeth's overconfidence (or pride) in her perceptions of Darcy and the narrator's indications that her views are in fact partial and prejudicial."The Third Man is a film that features any number of eccentricities, each of which contributes to the film's perspective of comic irony as well as its overall cinematic self-consciousness."Writing about performances of Shakespeare's Othello in apartheid South Africa, Robert Gordon suggests: "Could it be that black people in the audience ... may have viewed as a comic irony his audacity and naïvety in thinking he could pass for white."
+
+
+=== Romantic irony and metafiction ===
+Romantic irony is "an attitude of detached scepticism adopted by an author towards his or her work, typically manifesting in literary self-consciousness and self-reflection". This conception of irony originated with the German Romantic writer and critic Karl Wilhelm Friedrich Schlegel.Joseph Dane writes "From a twentieth-century perspective, the most crucial area in the history of irony is that described by the term romantic irony." He discusses the difficulty of defining romantic irony: "But what is romantic irony? A universal type of irony? The irony used by romantics? or an irony envisioned by the romantics and romanticists?" He also describes the arguments for and against its use.Referring to earlier self-conscious works such as Don Quixote and Tristram Shandy, Douglas Muecke points particularly to Peter Weiss's 1964 play, Marat/Sade. This work is a play within a play set in a lunatic asylum, in which it is difficult to tell whether the players are speaking only to other players or also directly to the audience. When The Herald says, "The regrettable incident you've just seen was unavoidable indeed foreseen by our playwright", there is confusion as to who is being addressed, the "audience" on the stage or the audience in the theatre. Also, since the play within the play is performed by the inmates of a lunatic asylum, the theatre audience cannot tell whether the paranoia displayed before them is that of the players, or the people they are portraying. Muecke notes that, "in America, Romantic irony has had a bad press", while "in England […] [it] is almost unknown."However, in a book entitled English Romantic Irony, Anne Mellor writes, referring to Byron, Keats, Carlyle, Coleridge, and Lewis Carroll:
+Romantic irony is both a philosophical conception of the universe and an artistic program. Ontologically, it sees the world as fundamentally chaotic. No order, no far goal of time, ordained by God or right reason, determines the progression of human or natural events […] Of course, romantic irony itself has more than one mode. The style of romantic irony varies from writer to writer […] But however distinctive the voice, a writer is a romantic ironist if and when his or her work commits itself enthusiastically both in content and form to a hovering or unresolved debate between a world of merely man-made being and a world of ontological becoming.
+Similarly, metafiction is: "Fiction in which the author self-consciously alludes to the artificiality or literariness of a work by parodying or departing from novelistic conventions (esp. naturalism) and narrative techniques." It is a type of fiction that self-consciously addresses the devices of fiction, thereby exposing the fictional illusion.
+Gesa Giesing writes that "the most common form of metafiction is particularly frequent in Romantic literature. The phenomenon is then referred to as Romantic Irony." Giesing notes that "There has obviously been an increased interest in metafiction again after World War II."For example, Patricia Waugh quotes from several works at the top of her chapter headed "What is metafiction?". These include:
+
+The thing is this. That of all the several ways of beginning a book […] I am confident my own way of doing it is best
+Since I've started this story, I've gotten boils […]
+Additionally, The Cambridge Introduction to Postmodern Fiction refers to John Fowles's The French Lieutenant's Woman:
+For the first twelve chapters […] the reader has been able to immerse him or herself in the story, enjoying the kind of 'suspension of disbelief' required of realist novels […] what follows is a remarkable act of metafictional 'frame-breaking'. Chapter 13 notoriously begins:
+I do not know. This story I am telling is all imagination. These characters I create never existed outside my own mind. […] if this is a novel, it cannot be a novel in the modern sense.
+
+
+=== Socratic irony ===
+
+Socratic irony is "the dissimulation of ignorance practised by Socrates as a means of confuting an adversary". Socrates would pretend to be ignorant of the topic under discussion, to draw out the inherent nonsense in the arguments of his interlocutors. The Chambers Dictionary defines it as "a means by which a questioner pretends to know less than a respondent, when actually he knows more".
+Zoe Williams of The Guardian wrote: "The technique [of Socratic irony], demonstrated in the Platonic dialogues, was to pretend ignorance and, more sneakily, to feign credence in your opponent's power of thought, in order to tie him in knots."A more modern example of Socratic irony can be seen on the American crime fiction television series, Columbo.  The character Lt. Columbo is seemingly naïve and incompetent.  His untidy appearance adds to this fumbling illusion.  As a result, he is underestimated by the suspects in murder cases he is investigating.  With their guard down and their false sense of confidence, Lt. Columbo is able to solve the cases, leaving the murderers feeling duped and outwitted. Like Socrates, Columbo routinely encourages the suspect to explain the situation, follows their logic aloud for himself, then arrives at a contradiction. He then insists he is confused and asks the suspect to help him understand, with the suspect's subsequent attempt to amend the contradiction revealing further evidence or contradictions. 
+
+
+=== Irony as infinite, absolute negativity ===
+Danish philosopher Søren Kierkegaard, and others, saw irony, such as that used by Socrates, as a disruptive force with the power to undo texts and readers alike. The phrase itself is taken from Hegel's Lectures on Aesthetics, and is applied by Kierkegaard to the irony of Socrates. This tradition includes 19th-century German critic and novelist Friedrich Schlegel ("On Incomprehensibility"), Charles Baudelaire, Stendhal, and the 20th century deconstructionist Paul de Man ("The Concept of Irony"). In Kierkegaard's words, from On the Concept of Irony with Continual Reference to Socrates:
+
+[Socratic] irony [is] the infinite absolute negativity. It is negativity, because it only negates; it is infinite, because it does not negate this or that phenomenon; it is absolute, because that by virtue of which it negates is a higher something that still is not. The irony established nothing, because that which is to be established lies behind it...
+Where much of philosophy attempts to reconcile opposites into a larger positive project, Kierkegaard and others insist that irony—whether expressed in complex games of authorship or simple litotes—must, in Kierkegaard's words, "swallow its own stomach". Irony entails endless reflection and violent reversals, and ensures incomprehensibility at the moment it compels speech. Similarly, among other literary critics, writer David Foster Wallace viewed the pervasiveness of ironic and other postmodern tropes as the cause of "great despair and stasis in U.S. culture, and that for aspiring fictionists [ironies] pose terrifically vexing problems".
+
+
+=== Awkwardness ===
+The 1990s saw a cultural expansion of the definition of irony from "saying what one doesn't mean" into a "general stance of detachment from life in general", this detachment serves as a shield against the awkwardness of everyday life.
+The generation of people in the United States who grew up in the 1990s, Millennials, are seen as having this same sort of detachment from serious or awkward situations in life, as well. Hipsters are thought to use irony as a shield against those same serious or genuine confrontations.
+
+
+=== Opposition between perception and concept ===
+Schopenhauer, in The World as Will and Representation, Volume 2, Chapter 8, claimed that the complete and total opposition between what is thought and what is seen constitutes irony. He wrote: ... if with deliberate intention something real and perceptible is brought directly under the concept of its opposite, the result is plain, common irony. For example, if during heavy rain we say: 'It is pleasant weather today'; or, of an ugly bride it is said: 'He has found himself a lovely treasure'; or of a rogue: 'This man of honor,' and so on. Only children and people without any education will laugh at anything of this kind; for here the incongruity between the conceived and the perceived is total.
+
+
+== Misuse ==
+Some speakers of English complain that the words irony and ironic are often misused, though the more general casual usage of a contradiction between circumstance and expectation originated in the 1640s.
+Dan Shaughnessy wrote:
+We were always kidding about the use of irony. I maintained that it was best never to use the word because it was too often substituted for coincidence. (Alanis Morissette's song "Ironic" cites multiple examples of things that are patently not ironic.)
+
+Tim Conley cites the following:
+"Philip Howard assembled a list of seven implied meanings for the word "ironically", as it opens a sentence:
+
+By a tragic coincidence
+By an exceptional coincidence
+By a curious coincidence
+By a coincidence of no importance
+You and I know, of course, though other less intelligent mortals walk benighted under the midday sun
+Oddly enough, or it's a rum thing that
+Oh hell! I've run out of words to start a sentence with."
+
+
+== Punctuation ==
+
+No agreed-upon method for indicating irony in written text exists, though many ideas have been suggested. For instance, an irony punctuation mark was proposed in the 1580s, when Henry Denham introduced a rhetorical question mark or percontation point, which resembles a reversed question mark. This mark was also advocated by the French poet Marcel Bernhardt at the end of the 19th century, to indicate irony or sarcasm. French writer Hervé Bazin suggested another pointe d'ironie: the Greek letter psi Ψ with a dot below it, while Tom Driberg recommended that ironic statements should be printed in italics that lean the other way from conventional italics.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+
+"The final irony"—a Guardian article about irony, use and misuse of the term
+Article on the etymology of Irony
+"Irony", by Norman D. Knox, in Dictionary of the History of Ideas (1973)
+"Sardonicus"—a web-resource that provides access to similes, ironic and otherwise, harvested from the web.
+Excerpt on dramatic irony from Yves Lavandier's Writing Drama Writing Drama has a 52-page chapter on dramatic irony (with insights on the three phases (installation-exploitation-resolution), surprise, mystery, suspense, diffuse dramatic irony, etc.)
+"American Irony" Archived 2010-09-03 at the Wayback Machine compared with British irony, quoting Stephen Fry
+American and British irony compared by Simon Pegg
+Modern example of ironic writing
+Irony definition by Baldrick (BlackAdder)

@@ -1,0 +1,37 @@
+Ureteric stricture (ureteral stricture) is the pathological narrowing of the ureter which may lead to serious complications such as kidney failure.
+
+
+== Pathophysiology ==
+Several conditions have been identified to cause strictures such as impacted ureteric stones, iatrogenic injuries, tumours and radiotherapy.
+
+
+=== Iatrogenic injuries ===
+Endoscopic urological procedures are common with the advancement of medical technology which allows endoscopic procedures to be among the main operative modalities in urology. However, complications can occur, and iatrogenic injury is disruption of healthy tissue which might lead to local inflammation in the process of healing and scarring which can result in ureteric stricture.
+Non-endoscopic open surgical procedures such as colon surgery where the operation field is very close to the adjacent retroperitoneal ureter is a well-known procedure where ureters can be injured, especially when surgical plans are distorted in conditions such as tethered colon cancer or advanced inflammatory bowel disease. In the same way gynaecological operations near the ureters can lead to their injury, one of the common conditions where surgical plans are not clear is the presence of advanced endometriosis.
+
+
+=== Radiotherapy ===
+Radiotherapy had been identified as a cause of ureteric strictures formation. Damage occur as a result of both direct and indirect insults such as direct injury to cell proteins and DNA or mutation of the DNA which leads to future insults respectively. This is not surprising as in the same way radiotherapy is expected to treat cancer and hence collateral damage can occur hence  it can be challenging to treat as blood supply and vascularity are believed to be affected when stricture repair is intended. For instance, Radiotherapy of cervical cancer can cause ureteric stricture in 2.2% of patients at 10 years.Radiotherapy had been identified as a modality of treatment of several cancers in the pelvis and the abdomen which may lead to ureteric stricture formation among other urological adverse effects too such as radiation induced cystitis. Among those cancers are; /colon and Anorectal cancer, cervical cancer, endometrial cancer and prostate cancer.
+
+
+=== Impacted ureteric stones ===
+Kidney stones are becoming more common with time, and their incidence is believed to increase recently due to unhealthy diet habits. The passage of kidney stones into ureters might lead to their impaction and the development of local inflammatory process around the stone in addition to the obstruction of the ipsilateral kidney and build up of pressure manifested as hydronephrosis. Several studies were conducted to find stricture rates which varies from one to another but it seems that modern technology and treatment approaches are minimising the chances for stricture development post impacted stone treatment.
+
+
+== Symptoms ==
+The symptoms of ureteric stricture varies from one patient to another, onset; acute or chronic, mode of injury or concurrent complications play a significant role as most other conditions. It can be associated with ipsilateral (same side) kidney obstruction and hydronephrosis, hence loin pain resulting from hydronephrosis and building up of pressure in the renal pelvis from obstructed urine flow which leads to its statics and pain.
+Other symptoms related to ureteric strictures can be those related to complications such as recurrent UTI.
+
+
+== Diagnosis ==
+Ureteric strictures can be diagnosed using both imaging modalities and under direct vision through endoscopic procedures such as Ureteroscopy.
+Several radiological studies can be used to detect such a stricture. Ultrasound Scans can show signs of obstruction such as hydronephrosis, while a CT scans can show the same and can locate the stricture or narrowing especially if used with contrast (CT Urogram), it can delineate other pathologies that might contribute to stricture such as Tumours or impacted stones.
+Nuclear imaging plays a significant role to diagnose difficult cases and to evaluate the ipsilateral kidney function, such as MAG3 studies. Dynamic imaging are well known to play an essential diagnostic rule too such as Whitaker test. Overall, national and local guidelines, surgeon preferences and availability of the diagnostic modality plays a rule in choosing the diagnostic modalities used.
+
+
+== Treatment ==
+Treatment of ureteric strictures varies from one patient to another depending on the level, cause and extent of stricture in addition to patient factors such as comorbidities and preferences. Treatment options include minimally invasive palliative procedures such as Nephrostomy tube insertion or ureteric stents insertion or ureteral balloon catheter dilatation. Procedures such as Rendez-vous and reconstructive surgeries such as flaps or using ileum to reconstruct ureters are used and had various success rates.
+Technology is driving more hope finding more treatment options, laparoscopic assisted robotic techniques are developing and been reported while tissue engineering for reconstruction is not developed yet as it is in other urological reconstruction topics.
+
+
+== References ==

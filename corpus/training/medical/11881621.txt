@@ -1,0 +1,18 @@
+PC3 (PC-3) is a human prostate cancer cell line used in prostate cancer research and drug development. PC3 cells are useful in investigating biochemical changes in advanced prostate cancer cells and in assessing their response to chemotherapeutic agents. PC3 cells are also used to study viral infection in mammalian cells that exhibit an immune response
+
+
+== Description ==
+The PC3 cell line was established in 1979 from bone metastasis of grade IV of prostate cancer in a 62-year-old Caucasian male. These cells do not respond to androgens, glucocorticoids or fibroblast growth factors, but results suggest that the cells are influenced by epidermal growth factors. PC3 cells can be used to create subcutaneous tumor xenografts in mice to investigate the tumor environment and therapeutic drug functionality.PC3 cells have high metastatic potential compared to DU145 cells, which have a moderate metastatic potential, and to LNCaP cells, which have low metastatic potential. Comparisons of the protein expression of PC3, LNCaP, and other cells have shown that PC3 is characteristic of small cell neoendocrine carcinoma.PC3 cells have low testosterone-5-alpha reductase and acidic phosphatase activity, and do not express PSA (prostate-specific antigen). Furthermore, karyotypic analysis has shown that PC3 are near-triploid, having 62 chromosomes. Q-band analysis showed no Y chromosome. From a morphological point of view, electron microscopy revealed that PC3 cells show characteristics of a poorly-differentiated adenocarcinoma. They have features common to neoplastic cells of epithelial origins, such as numerous microvilli, junctional complexes, abnormal nuclei and nucleoli, abnormal mitochondria, annulate lamellae, and lipoidal bodies.
+
+
+== See also ==
+DU145
+LNCaP
+
+
+== References ==
+
+
+== External links ==
+Information on PC3 in the ATCC catalog
+Cellosaurus entry for PC3
