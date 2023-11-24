@@ -29,10 +29,10 @@ def main():
 
     print(f'\nConfusion matrix:\n{confusion_matrix}\n')
 
-    print(f'Accuracy: {accuracy}')
-    print(f'Precision: {precision}')
-    print(f'Recall: {recall}')
-    print(f'F1 measure: {f_1}')
+    print(f'Accuracy: \t\t{accuracy}')
+    print(f'Precision: \t\t{precision}')
+    print(f'Recall: \t\t{recall}')
+    print(f'F1 measure: \t{f_1}')
 
 
 if __name__ == '__main__':
